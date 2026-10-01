@@ -117,7 +117,7 @@
     '.ra-btn:hover{border-color:var(--accent,#5b9be6)}',
     '.ra-btn.solid{background:var(--accent,#5b9be6);color:var(--bg,#0b0d11);border-color:var(--accent,#5b9be6)}',
     '.ra-btn.danger{color:#ff7a68;border-color:#5a2a24}',
-    'dialog.ra-dialog{width:min(92vw,440px);padding:28px;border:1px solid var(--line,#252a31);border-radius:14px;background:var(--bg,#0b0d11);color:var(--ink,#f1f3f5);font:16px/1.5 var(--font,system-ui,sans-serif)}',
+    'dialog.ra-dialog{text-align:left;width:min(92vw,440px);padding:28px;border:1px solid var(--line,#252a31);border-radius:14px;background:var(--bg,#0b0d11);color:var(--ink,#f1f3f5);font:16px/1.5 var(--font,system-ui,sans-serif)}',
     'dialog.ra-dialog::backdrop{background:rgba(5,6,8,.85)}',
     '.ra-dialog h2{margin:0 0 8px;font-size:28px;letter-spacing:-.02em}',
     '.ra-dialog p{margin:0 0 16px;color:var(--muted,#a7b0ba)}',
@@ -126,7 +126,10 @@
     '.ra-dialog .ra-msg{min-height:1.4em;margin:10px 0 0;color:#ff7a68;font-size:15px}',
     '.ra-dialog .ra-msg.ok{color:var(--accent,#5b9be6)}',
     '.ra-dialog small{display:block;margin-top:16px;color:var(--muted,#a7b0ba)}',
-    '.ra-dialog small a{color:inherit}'
+    '.ra-dialog small a{color:inherit}',
+    '.ra-dialog button,.ra-dialog a.ra-btn{position:static;display:inline-block;text-align:center}',
+    '.ra-dialog p{text-align:left}',
+    '.ra-dialog .ra-msg:empty{display:none}'
   ].join('');
   document.head.appendChild(styleEl);
 
