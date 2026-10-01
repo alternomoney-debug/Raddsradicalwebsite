@@ -4,6 +4,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Long Shot Initiative (Rad)</title>
+<meta name="description" content="The Long Shot Initiative is a book by Rad, currently being written.">
+<meta name="theme-color" content="#0b0d11">
+<meta property="og:type" content="website">
+<meta property="og:title" content="The Long Shot Initiative">
+<meta property="og:description" content="A book by Rad, currently being written.">
+<meta property="og:url" content="https://raddwastaken.art/tlsi/">
+<meta name="twitter:card" content="summary">
+<!--
+  WHEN THE COVER IS APPROVED, add these two lines so Discord and Bluesky show it in link previews
+  (the link has to be the full address, and the file has to exist first):
+  <meta property="og:image" content="https://raddwastaken.art/tlsi/assets/tlsi-cover.webp">
+  and change the twitter:card line above to: <meta name="twitter:card" content="summary_large_image">
+-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
@@ -16,24 +29,30 @@
     --line: #252a31;
     --accent: #5b9be6;
     --font: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif;
-    --max: 1480px;
+    --max: 2200px;
     --gutter: clamp(20px, 4vw, 64px);
+    --radius: 10px;
   }
   *{ box-sizing: border-box; }
   body{ margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 17px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
   #c{ position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
   .page{ position: relative; z-index: 1; min-height: 100svh; display: flex; flex-direction: column; }
   ::selection{ background: var(--accent); color: var(--bg); }
-  a{ color: var(--ink); }
+  a{ color: var(--ink); text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  a:hover{ color: var(--accent); }
   :focus-visible{ outline: 2px solid var(--accent); outline-offset: 3px; }
   .wrap{ width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
 
   .top{ display: flex; justify-content: space-between; align-items: center; padding-top: 26px; padding-bottom: 26px; }
-  .top .mark{ font-weight: 800; font-size: 22px; letter-spacing: -0.03em; text-decoration: none; }
-  .top .back{ color: var(--muted); text-decoration: none; font-weight: 500; }
+  .top a{ text-decoration: none; }
+  .top .mark{ font-weight: 800; font-size: 22px; letter-spacing: -0.03em; }
+  .top .back{ color: var(--muted); font-weight: 500; }
   .top .back:hover{ color: var(--ink); }
 
   main{ flex: 1; padding-top: 6vh; padding-bottom: 8vh; }
+
+  /* hero: text on the left, cover on the right once there is a cover */
+  .hero{ display: block; }
   h1{
     margin: 0;
     font-size: clamp(56px, 11vw, 190px);
@@ -43,13 +62,16 @@
   }
   h1 .tlsi{ color: var(--accent); }
   .by{ margin: 24px 0 0; font-size: clamp(20px, 2vw, 28px); color: var(--muted); }
-  .logline{
-    margin: 56px 0 0;
-    max-width: 30ch;
-    font-size: clamp(28px, 3.6vw, 56px);
-    font-weight: 600;
-    line-height: 1.15;
-    letter-spacing: -0.02em;
+  .logline{ margin: 56px 0 0; max-width: 30ch; font-size: clamp(28px, 3.6vw, 56px); font-weight: 600; line-height: 1.15; letter-spacing: -0.02em; }
+
+  .cover{ margin: 0; }
+  .cover img{ display: block; width: 100%; height: auto; max-height: 80vh; object-fit: contain; object-position: left top; border-radius: var(--radius); }
+  .cover figcaption{ margin-top: 12px; font-size: 14px; color: var(--muted); }
+
+  .hero.has-cover{ display: grid; gap: 40px; }
+  @media (min-width: 1000px){
+    .hero.has-cover{ grid-template-columns: 1.5fr 1fr; gap: clamp(32px, 5vw, 96px); align-items: start; }
+    .cover img{ object-position: right top; }
   }
 
   section.block{ margin-top: 96px; }
@@ -61,23 +83,44 @@
   .status small{ display: block; margin-bottom: 6px; font-size: 15px; font-weight: 400; letter-spacing: 0; color: var(--muted); }
 
   .rows{ border-top: 1px solid var(--line); }
-  .row{
-    display: grid;
-    grid-template-columns: minmax(200px, 0.4fr) 1fr;
-    gap: 24px;
-    padding: 24px 0;
-    border-bottom: 1px solid var(--line);
-    align-items: baseline;
-  }
+  .row{ display: grid; grid-template-columns: minmax(200px, 0.4fr) 1fr; gap: 24px; padding: 24px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
   .row .t{ font-size: clamp(24px, 2.4vw, 34px); font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
   .row .d{ color: var(--muted); max-width: 56ch; }
   .row .d b{ color: var(--ink); font-weight: 600; }
+  .rows.small .row{ padding: 14px 0; }
+  .rows.small .t{ font-size: clamp(20px, 1.8vw, 26px); }
+  .rows.small .d{ color: var(--ink); font-size: clamp(18px, 1.6vw, 22px); }
+
+  /* world cards */
+  .cards{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .card{ border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; }
+  .card h3{ margin: 0 0 8px; font-size: clamp(22px, 2vw, 28px); font-weight: 700; letter-spacing: -0.015em; line-height: 1.15; }
+  .card p{ margin: 0; color: var(--muted); }
+
+  /* gallery */
+  .gallery{ display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+  .shot{ margin: 0; padding: 0; border: 0; background: none; color: inherit; font: inherit; text-align: left; cursor: zoom-in; }
+  .shot img{ display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; background: rgba(255,255,255,0.03); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; }
+  .shot span{ display: block; margin-top: 8px; font-size: 14px; color: var(--muted); }
+  .shot:hover img{ border-color: var(--accent); }
+
+  dialog{ max-width: min(92vw, 1400px); max-height: 92vh; padding: 0; border: 0; background: transparent; color: var(--ink); }
+  dialog::backdrop{ background: rgba(5,6,8,0.88); }
+  dialog img{ display: block; max-width: 100%; max-height: 80vh; margin: 0 auto; }
+  dialog p{ margin: 12px 0 0; text-align: center; }
+  dialog button{ position: fixed; top: 20px; right: 24px; background: none; border: 0; color: var(--ink); font: 600 16px var(--font); cursor: pointer; }
+
+  .row .note{ color: var(--muted); }
+
+  .ns{ margin: 40px 0 0; max-width: 50ch; font-size: 20px; }
 
   footer{ padding-top: 40px; padding-bottom: 60px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 32px; font-size: 14px; color: var(--muted); }
 
+  @media (max-width: 1100px){ .cards{ grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 860px){
     .synopsis{ grid-template-columns: 1fr; }
     .row{ grid-template-columns: 1fr; gap: 6px; }
+    .cards{ grid-template-columns: 1fr; }
   }
   @media (prefers-reduced-motion: reduce){ *{ animation: none !important; transition: none !important; } }
 </style>
@@ -91,9 +134,16 @@
   </div>
 
   <main class="wrap">
-    <h1>The Long Shot <span class="tlsi">Initiative</span></h1>
-    <p class="by">A book by Rad.</p>
-    <p class="logline" id="logline" hidden></p>
+    <div class="hero" id="hero">
+      <div>
+        <h1>The Long Shot <span class="tlsi">Initiative</span></h1>
+        <p class="by">A book by Rad.</p>
+        <p class="logline" id="logline" hidden></p>
+      </div>
+      <figure class="cover" id="cover" hidden></figure>
+    </div>
+
+    <noscript><p class="ns">The Long Shot Initiative is a book by Rad. The rest of this page needs JavaScript turned on to show up.</p></noscript>
 
     <section class="block" id="synopsis-block" hidden>
       <h2>What it's about</h2>
@@ -106,6 +156,21 @@
     <section class="block" id="chars-block">
       <h2>Characters</h2>
       <div class="rows" id="chars"></div>
+    </section>
+
+    <section class="block" id="world-block" hidden>
+      <h2>The world</h2>
+      <div class="cards" id="world"></div>
+    </section>
+
+    <section class="block" id="pron-block" hidden>
+      <h2>How to say things</h2>
+      <div class="rows small" id="pron"></div>
+    </section>
+
+    <section class="block" id="gallery-block" hidden>
+      <h2>Patches</h2>
+      <div class="gallery" id="gallery"></div>
     </section>
 
     <section class="block" id="credits-block">
@@ -125,35 +190,87 @@
   </footer>
 </div>
 
+<dialog id="lightbox">
+  <button type="button" id="lb-close">Close</button>
+  <img id="lb-img" alt="">
+  <p id="lb-cap"></p>
+</dialog>
+
 <script>
 /*
-  FILL THIS IN. Anything you leave empty ("" or []) just doesn't show up,
-  so the page never has blank gaps.
+  FILL THIS IN. Anything left empty ("" or [] or removed) just doesn't show up,
+  so the page never has blank gaps. Nothing is hard-coded in the HTML above.
 */
 var TLSI = {
-  logline: "",          // one or two sentences. This shows up huge under the title.
-  status: "",           // like "Being written" or "Out now"
-  synopsis: [],         // each line in quotes is one paragraph, like ["First paragraph.", "Second paragraph."]
+  // One or two sentences. Shows up huge under the title.
+  logline: "",
+  // Draft to approve or rewrite, then paste it between the quotes above:
+  //   "Ethyn Vasek wakes on a ship 6.4 light years from home, with no memory, one other survivor, and a star that's being eaten."
+
+  status: "Being written",
+
+  // Each line in quotes is one paragraph, like ["First paragraph.", "Second paragraph."]
+  synopsis: [],
+
+  // Cover art. Leave src empty until the artist says yes and you have the credit name.
+  // Put the image in a folder called "assets" next to this file.
+  cover: {
+    src: "",                 // like "assets/tlsi-cover.webp"
+    alt: "",                 // describe the picture for people who can't see it
+    credit: "",              // like "Cover art by their-handle"
+    w: 0, h: 0               // the image's real pixel size (stops the page jumping while it loads)
+  },
+
   characters: [
-    { name: "Jinzhou", role: "", voice: "textkat.x3" }
-    // { name: "Name", role: "who they are, one line", voice: "voice actor, optional" },
+    { name: "Jinzhou", role: "", voice: "textkat.x3" },
+    { name: "Ethyn", role: "", voice: "", status: "Casting" }
+    // { name: "Name", role: "one line about who they are", voice: "voice actor", status: "shown only if there's no voice yet" },
   ],
+
+  // Short blocks about the world: [{ title: "The Line", text: "one or two lines" }]
+  world: [],
+
+  // How to say the made-up words. Only confirmed ones go in.
+  pronunciations: [
+    { term: "Aluk'", say: "Ah-lok" }
+    // { term: "Y'shari", say: "" }, { term: "Wask-ki", say: "" }, { term: "Nakuet", say: "" },
+    // { term: "Phengoclept", say: "" }, { term: "ARACCSIM", say: "" },
+  ],
+
+  // Mission and crew patches: [{ src: "assets/patch-mission.png", alt: "what it shows", caption: "name of the patch", w: 600, h: 600 }]
+  gallery: [],
+
   credits: [
     { role: "Written by", who: "Rad" },
     { role: "Edited by", who: "eshanthetrainlover" },
     { role: "Jinzhou voiced by", who: "textkat.x3" }
+    // { role: "Cover art", who: "their-handle" },
+    // { role: "ARACCSIM voiced by", who: "name" },
   ],
-  links: [
-    // { label: "Read chapter one", href: "https://..." },
-  ]
+
+  // Where to read or listen: [{ label: "Chapter one", href: "https://...", note: "Coming soon" }]
+  links: []
 };
 
 (function(){
-  function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text) e.textContent = text; return e; }
   var d = TLSI;
+  function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text) e.textContent = text; return e; }
+  function sized(img, w, h){ if (w) img.width = w; if (h) img.height = h; }
 
+  // logline
   if (d.logline){ var l = document.getElementById('logline'); l.textContent = d.logline; l.hidden = false; }
 
+  // cover
+  if (d.cover && d.cover.src){
+    var fig = document.getElementById('cover');
+    var img = el('img'); img.src = d.cover.src; img.alt = d.cover.alt || ''; img.setAttribute('loading', 'eager'); sized(img, d.cover.w, d.cover.h);
+    fig.appendChild(img);
+    if (d.cover.credit) fig.appendChild(el('figcaption', '', d.cover.credit));
+    fig.hidden = false;
+    document.getElementById('hero').classList.add('has-cover');
+  }
+
+  // synopsis + status
   if ((d.synopsis && d.synopsis.length) || d.status){
     document.getElementById('synopsis-block').hidden = false;
     var box = document.getElementById('synopsis');
@@ -161,11 +278,15 @@ var TLSI = {
     if (d.status){ document.getElementById('status').hidden = false; document.getElementById('status-text').textContent = d.status; }
   }
 
+  // rows-style sections hide themselves when empty
   function rows(id, list, build){
     var host = document.getElementById(id);
-    if (!list || !list.length){ host.parentElement.hidden = true; return; }
+    var section = host.closest('section');
+    if (!list || !list.length){ section.hidden = true; return; }
     list.forEach(function(item){ host.appendChild(build(item)); });
+    section.hidden = false;
   }
+
   rows('chars', d.characters, function(c){
     var r = el('div', 'row'); r.appendChild(el('div', 't', c.name));
     var desc = el('div', 'd');
@@ -174,19 +295,49 @@ var TLSI = {
       if (c.role) desc.appendChild(document.createElement('br'));
       desc.appendChild(document.createTextNode('Voiced by '));
       desc.appendChild(el('b', '', c.voice));
+    } else if (c.status){
+      if (c.role) desc.appendChild(document.createElement('br'));
+      desc.appendChild(el('b', '', c.status));
     }
     r.appendChild(desc); return r;
   });
+
+  rows('world', d.world, function(w){
+    var c = el('div', 'card'); c.appendChild(el('h3', '', w.title)); c.appendChild(el('p', '', w.text)); return c;
+  });
+
+  rows('pron', d.pronunciations, function(p){
+    var r = el('div', 'row'); r.appendChild(el('div', 't', p.term)); r.appendChild(el('div', 'd', p.say)); return r;
+  });
+
+  // gallery with a lightbox
+  var lb = document.getElementById('lightbox');
+  rows('gallery', d.gallery, function(g){
+    var b = el('button', 'shot'); b.type = 'button';
+    var im = el('img'); im.src = g.src; im.alt = g.alt || g.caption || ''; im.setAttribute('loading', 'lazy'); sized(im, g.w, g.h);
+    b.appendChild(im);
+    if (g.caption) b.appendChild(el('span', '', g.caption));
+    b.addEventListener('click', function(){
+      document.getElementById('lb-img').src = g.src;
+      document.getElementById('lb-img').alt = g.alt || g.caption || '';
+      document.getElementById('lb-cap').textContent = g.caption || '';
+      lb.showModal();
+    });
+    return b;
+  });
+  document.getElementById('lb-close').addEventListener('click', function(){ lb.close(); });
+  lb.addEventListener('click', function(e){ if (e.target === lb) lb.close(); });
+
   rows('credits', d.credits, function(c){
     var r = el('div', 'row'); r.appendChild(el('div', 't', c.role));
     var desc = el('div', 'd'); desc.appendChild(el('b', '', c.who)); r.appendChild(desc); return r;
   });
+
   rows('links', d.links, function(l){
     var r = el('div', 'row'); var t = el('div', 't');
     var a = el('a', '', l.label); a.href = l.href; a.target = '_blank'; a.rel = 'noopener'; t.appendChild(a);
-    r.appendChild(t); r.appendChild(el('div', 'd')); return r;
+    r.appendChild(t); r.appendChild(el('div', 'd note', l.note || '')); return r;
   });
-  if (d.links && d.links.length) document.getElementById('links-block').hidden = false;
 })();
 </script>
 
