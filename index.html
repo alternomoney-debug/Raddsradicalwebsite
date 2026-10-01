@@ -3,16 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Rad (Radd_Was_Taken)</title>
+<title>Elsewhere (Rad)</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 <style>
   :root{
     color-scheme: dark;
     --bg: #0b0d11;
-    --bg-alt: #14171c;
     --ink: #f1f3f5;
     --muted: #a7b0ba;
     --line: #252a31;
@@ -21,10 +19,7 @@
     --max: 1480px;
     --gutter: clamp(20px, 4vw, 64px);
   }
-
   *{ box-sizing: border-box; }
-  html{ scroll-behavior: smooth; }
-
   body{
     margin: 0;
     background: var(--bg);
@@ -34,335 +29,41 @@
     line-height: 1.55;
     -webkit-font-smoothing: antialiased;
   }
-
-  #c{
-    position: fixed;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 0;
-    pointer-events: none;
-  }
-  .page{ position: relative; z-index: 1; }
-
+  #c{ position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
+  .page{ position: relative; z-index: 1; min-height: 100svh; display: flex; flex-direction: column; }
   ::selection{ background: var(--accent); color: var(--bg); }
   a{ color: var(--ink); }
   :focus-visible{ outline: 2px solid var(--accent); outline-offset: 3px; }
+  .wrap{ width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
 
-  .wrap{
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 0 var(--gutter);
-  }
+  .top{ display: flex; justify-content: space-between; align-items: center; padding-top: 26px; padding-bottom: 26px; }
+  .top .mark{ font-weight: 800; font-size: 22px; letter-spacing: -0.03em; text-decoration: none; }
+  .top .back{ color: var(--muted); text-decoration: none; font-weight: 500; }
+  .top .back:hover{ color: var(--ink); }
 
-  /* ---------- TOP BAR ---------- */
-  .top{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 26px;
-    padding-bottom: 26px;
-  }
-  .top .mark{
+  main{ flex: 1; padding-top: 6vh; padding-bottom: 8vh; }
+  h1{
+    margin: 0 0 12px;
+    font-size: clamp(72px, 13vw, 220px);
     font-weight: 800;
-    font-size: 22px;
-    letter-spacing: -0.03em;
-    text-decoration: none;
-  }
-  .top nav{ display: flex; gap: clamp(16px, 2.4vw, 36px); }
-  .top nav a{
-    text-decoration: none;
-    color: var(--muted);
-    font-weight: 500;
-  }
-  .top nav a:hover{ color: var(--ink); }
-
-  /* ---------- HERO ---------- */
-  .hero{
-    min-height: calc(100svh - 90px);
-    display: grid;
-    grid-template-columns: 0.9fr 1.1fr;
-    align-items: center;
-    gap: 32px;
-    padding-bottom: 48px;
-  }
-
-  .name{
-    position: relative;
-    display: inline-block;
-    margin: 0;
-    font-size: clamp(110px, 15vw, 260px);
-    font-weight: 800;
-    line-height: 0.82;
+    line-height: 0.85;
     letter-spacing: -0.05em;
-    font-variation-settings: "opsz" 96;
   }
-  .name .rough, .name .clean{ display: block; }
-  .name .rough{
-    position: absolute;
-    inset: 0;
-    color: transparent;
-    -webkit-text-stroke: 1.5px var(--accent);
-    transform: translate(-0.04em, 0.035em) rotate(-2deg);
-  }
-  .name .clean{ position: relative; }
-  @media (prefers-reduced-motion: no-preference){
-    .name .rough{ animation: rough-in 0.5s ease-out both; }
-    .name .clean{ animation: clean-in 0.35s ease-out 0.55s both; }
-  }
-  @keyframes rough-in{ from{ opacity: 0; transform: translate(-0.09em, 0.07em) rotate(-5deg); } }
-  @keyframes clean-in{ from{ opacity: 0; } }
+  .sub{ margin: 0 0 56px; font-size: clamp(20px, 2vw, 28px); color: var(--muted); max-width: 40ch; }
 
-  .aka{ margin: 26px 0 0; color: var(--muted); }
-  .aka b{ color: var(--accent); font-weight: 600; }
-  .tagline{
-    margin: 30px 0 0;
-    font-size: clamp(24px, 2.6vw, 34px);
-    font-weight: 600;
-    line-height: 1.2;
-    letter-spacing: -0.01em;
-  }
-  .roles{
-    margin: 8px 0 0;
-    font-size: clamp(24px, 2.6vw, 34px);
-    font-weight: 300;
-    line-height: 1.2;
-    color: var(--muted);
-  }
-  .hero-cta{
-    display: inline-block;
-    margin-top: 40px;
-    padding: 14px 26px;
-    background: var(--ink);
-    color: var(--bg);
-    font-weight: 700;
-    text-decoration: none;
-    border-radius: 999px;
-  }
-  .hero-cta:hover{ background: var(--accent); color: var(--bg); }
-
-  /* the one glow on the page: a spotlight under the model */
-  .stage{
-    position: relative;
-    height: min(78vh, 760px);
-  }
-  .stage::before{
-    content: '';
-    position: absolute;
-    left: 10%;
-    right: 10%;
-    bottom: 4%;
-    height: 38%;
-    background: radial-gradient(ellipse at center, rgba(91,155,230,0.35), rgba(91,155,230,0.08) 45%, transparent 70%);
-    pointer-events: none;
-  }
-  .stage model-viewer{
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    background: transparent;
-    --poster-color: transparent;
-  }
-  .stage svg{
-    position: absolute;
-    inset: 0;
-    margin: auto;
-    width: 80%;
-    height: 80%;
-    overflow: visible;
-    cursor: grab;
-    touch-action: none;
-  }
-  .stage.has-model svg{ display: none; }
-  .stage line{ stroke: var(--accent); stroke-width: 2; stroke-linecap: round; }
-  .stage-hint{
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: 0;
-    text-align: center;
-    font-size: 14px;
-    color: var(--muted);
-  }
-
-  /* ---------- ROLE BAND ---------- */
-  .band{
-    border-top: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
-    background: var(--bg-alt);
-    overflow: hidden;
-    white-space: nowrap;
-    padding: 18px 0;
-  }
-  .band-track{
-    display: inline-flex;
-    animation: scroll-left 40s linear infinite;
-  }
-  .band-track span{
-    font-size: 44px;
-    font-weight: 800;
-    letter-spacing: -0.03em;
-    line-height: 1;
-    padding: 0 26px;
-  }
-  .band-track span:nth-child(odd){ color: transparent; -webkit-text-stroke: 1px var(--accent); }
-  @keyframes scroll-left{ to{ transform: translateX(-50%); } }
-
-  /* ---------- SECTIONS ---------- */
-  section{
-    padding: 100px 0;
-    border-bottom: 1px solid var(--line);
-  }
-  h2{
-    margin: 0 0 40px;
-    font-size: clamp(30px, 4.4vw, 52px);
-    font-weight: 700;
-    line-height: 1.05;
-    letter-spacing: -0.025em;
-  }
-  .lead{
-    font-size: clamp(19px, 1.6vw, 24px);
-    max-width: 52ch;
-    margin: -16px 0 40px;
-    color: var(--muted);
-  }
-
-  /* Work grid */
-  .work-grid{
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-auto-rows: clamp(160px, 16vw, 280px);
-    gap: 14px;
-  }
-  .work-item{
-    position: relative;
-    grid-column: span 2;
-    overflow: hidden;
-    background: var(--bg-alt);
-    border: 0;
-    padding: 0;
-    cursor: zoom-in;
-    color: var(--ink);
-    font: inherit;
-    text-align: left;
-  }
-  .work-item.big{ grid-column: span 4; grid-row: span 2; }
-  .work-item.wide{ grid-column: span 3; }
-  .work-item img{
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.4s ease;
-  }
-  .work-item:hover img{ transform: scale(1.03); }
-  .work-item .cap{
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding: 40px 16px 14px;
-    background: linear-gradient(transparent, rgba(11,13,17,0.85));
-    font-weight: 600;
-  }
-  .work-item .cap small{
-    display: block;
-    font-weight: 400;
-    color: var(--muted);
-    font-size: 14px;
-  }
-  .work-item.missing{ cursor: default; border: 1px dashed var(--line); }
-  .work-item.missing .cap{ background: none; color: var(--muted); }
-
-  .soon{
-    display: none;
-    margin: 0;
-    padding: clamp(48px, 8vw, 120px) 0;
-    border-top: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
-    font-size: clamp(34px, 6vw, 96px);
-    font-weight: 800;
-    line-height: 0.95;
-    letter-spacing: -0.035em;
-  }
-  .soon a{ color: var(--accent); text-decoration: none; }
-  .soon a:hover{ text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 8px; }
-  .soon.show{ display: block; }
-
-  /* Lightbox */
-  dialog{
-    max-width: min(92vw, 1400px);
-    max-height: 92vh;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    color: var(--ink);
-  }
-  dialog::backdrop{ background: rgba(5,6,8,0.88); }
-  dialog img{ display: block; max-width: 100%; max-height: 84vh; margin: 0 auto; }
-  dialog p{ margin: 12px 0 0; text-align: center; }
-  dialog button{
-    position: fixed;
-    top: 20px;
-    right: 24px;
-    background: none;
-    border: 0;
-    color: var(--ink);
-    font: 600 16px var(--font);
-    cursor: pointer;
-  }
-
-  /* Hi */
-  .hi p{
-    margin: 0 0 18px;
-    max-width: 34ch;
-    font-size: clamp(24px, 2.8vw, 40px);
-    font-weight: 500;
-    line-height: 1.25;
-    letter-spacing: -0.015em;
-  }
-  .hi .hi-end{ color: var(--accent); margin: 0; }
-
-  /* Breakdown rows */
-  .row-list{ border-top: 1px solid var(--line); }
-  .row{
-    display: grid;
-    grid-template-columns: minmax(220px, 0.4fr) 1fr;
-    gap: 24px;
-    padding: 28px 0;
-    border-bottom: 1px solid var(--line);
-    transition: padding-left 0.25s ease;
-  }
-  .row:hover{ padding-left: 12px; }
-  .row .t{ font-size: 26px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
-  .row .d{ color: var(--muted); max-width: 52ch; align-self: center; }
-
-  /* Music */
-  .music{
-    display: grid;
-    grid-template-columns: 0.8fr 1.2fr;
-    gap: clamp(32px, 4vw, 72px);
-    align-items: start;
-  }
-  .music .lead{ margin-top: 0; }
-  .video-frame{ aspect-ratio: 16 / 9; width: 100%; background: var(--bg-alt); }
-  .video-frame iframe{ display: block; width: 100%; height: 100%; border: 0; }
-
-  /* Links */
+  .links{ border-top: 1px solid var(--line); }
   .link-row{
     display: flex;
     align-items: baseline;
     justify-content: space-between;
     gap: 16px;
-    padding: 24px 0;
+    padding: 26px 0;
     border-bottom: 1px solid var(--line);
     text-decoration: none;
     transition: padding-left 0.25s ease;
   }
   .link-row:hover{ padding-left: 12px; }
-  .link-row .label{ font-size: clamp(30px, 4vw, 48px); font-weight: 700; letter-spacing: -0.025em; }
+  .link-row .label{ font-size: clamp(36px, 5vw, 72px); font-weight: 700; letter-spacing: -0.03em; line-height: 1; }
   .link-row:hover .label{ color: var(--accent); }
   .link-row .handle{ color: var(--muted); }
 
@@ -398,6 +99,129 @@
   }
   @media (max-width: 860px){ .mail{ grid-template-columns: 1fr; gap: 12px; } }
 
+  .me{
+    margin: 0 0 72px;
+    max-width: 30ch;
+    font-size: clamp(26px, 3.2vw, 48px);
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -0.015em;
+  }
+  .me .cut{ color: var(--accent); }
+
+  h2{
+    margin: 96px 0 10px;
+    font-size: clamp(30px, 4.4vw, 52px);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.025em;
+  }
+  .h2-sub{ margin: 0 0 32px; color: var(--muted); font-size: clamp(18px, 1.6vw, 22px); }
+
+  .faq{ margin: 0; border-top: 1px solid var(--line); }
+  .faq div{
+    display: grid;
+    grid-template-columns: minmax(220px, 0.5fr) 1fr;
+    gap: 24px;
+    padding: 26px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .faq dt{
+    font-size: clamp(22px, 2vw, 28px);
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    line-height: 1.2;
+  }
+  .faq dd{
+    margin: 0;
+    max-width: 56ch;
+    color: var(--muted);
+    font-size: clamp(17px, 1.4vw, 20px);
+    align-self: center;
+  }
+  .faq dd.loud{
+    color: var(--ink);
+    font-weight: 800;
+    font-size: clamp(22px, 2.2vw, 32px);
+    letter-spacing: -0.02em;
+  }
+  @media (max-width: 860px){ .faq div{ grid-template-columns: 1fr; gap: 8px; } }
+
+  .people{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    column-gap: 32px;
+  }
+  .people li{
+    padding: 18px 0;
+    border-top: 1px solid var(--line);
+  }
+  .who-name{
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    overflow-wrap: anywhere;
+  }
+  .who-role{ display: block; margin-top: 2px; color: var(--muted); }
+
+  /* ---------- clutter ---------- */
+  .favs{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0 32px;
+  }
+  .fav{ padding: 22px 0; border-top: 1px solid var(--line); }
+  .fav h3{
+    margin: 0 0 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .fav ul{ margin: 0; padding: 0; list-style: none; }
+  .fav li{ font-size: 19px; font-weight: 600; line-height: 1.35; padding: 2px 0; }
+  .fav li small{ display: block; font-size: 14px; font-weight: 400; color: var(--muted); }
+  .fav a{ text-decoration-color: var(--accent); text-underline-offset: 3px; }
+  .fav a:hover{ color: var(--accent); }
+
+  .facts{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 40px;
+    border-top: 1px solid var(--line);
+    padding-top: 22px;
+  }
+  .facts li{ font-size: clamp(48px, 8vw, 120px); font-weight: 800; letter-spacing: -0.05em; line-height: 1; }
+  .facts li:last-child{ color: var(--accent); }
+
+  .counter{
+    margin-top: 72px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    color: var(--muted);
+  }
+  .digits{ display: inline-flex; gap: 2px; }
+  .digits span{
+    width: 22px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    color: #ff4a3a;
+    font: 700 22px/1 "Courier New", monospace;
+    border: 1px solid #333;
+  }
+
   footer{
     padding-top: 40px;
     padding-bottom: 60px;
@@ -408,135 +232,34 @@
     font-size: 14px;
     color: var(--muted);
   }
-
-  @media (max-width: 860px){
-    .hero{ grid-template-columns: 1fr; min-height: 0; padding-top: 10px; }
-    .stage{ height: 52vh; order: -1; }
-    .music{ grid-template-columns: 1fr; }
-    .work-grid{ grid-template-columns: repeat(2, 1fr); grid-auto-rows: 44vw; }
-    .work-item, .work-item.wide{ grid-column: span 1; }
-    .work-item.big{ grid-column: span 2; grid-row: span 2; }
-    .row{ grid-template-columns: 1fr; gap: 6px; }
-    .band-track span{ font-size: 32px; }
-    section{ padding: 64px 0; }
-    .top nav{ display: none; }
-  }
-
-  @media (prefers-reduced-motion: reduce){
-    html{ scroll-behavior: auto; }
-    *{ animation: none !important; transition: none !important; }
-  }
+  @media (prefers-reduced-motion: reduce){ *{ animation: none !important; transition: none !important; } }
 </style>
 </head>
 <body>
 <canvas id="c" aria-hidden="true"></canvas>
 <div class="page">
-
   <div class="wrap top">
-    <a class="mark" href="#">rad</a>
-    <nav>
-      <a href="#work">Work</a>
-      <a href="#music">Music</a>
-      <a href="#hi">About</a>
-      <a href="#find-me">Contact</a>
-      <a href="battleship/">Battleship</a>
-    </nav>
+    <a class="mark" href="../">rad</a>
+    <a class="back" href="../">Back to the main page</a>
   </div>
 
-  <header class="wrap hero">
-    <div>
-      <h1 class="name" aria-label="Rad">
-        <span class="rough" aria-hidden="true">Rad</span>
-        <span class="clean" aria-hidden="true">Rad</span>
-      </h1>
-      <p class="aka">or <b>Radd_Was_Taken</b>, depending where you found me</p>
-      <p class="tagline">I make stuff. I am cool.</p>
-      <p class="roles">Artist, animator, musician, modeler.</p>
-      <a class="hero-cta" href="#work">See the work</a>
-    </div>
-
-    <!--
-      YOUR 3D MODEL GOES HERE.
-      Export from Blender as model.glb (File > Export > glTF 2.0, format .glb)
-      and put it next to this file. Until it exists, the wireframe shows instead.
-    -->
-    <div class="stage" id="stage">
-      <model-viewer
-        id="mv"
-        src="model.glb"
-        alt="3D model by Rad"
-        camera-controls
-        auto-rotate
-        auto-rotate-delay="0"
-        rotation-per-second="18deg"
-        interaction-prompt="none"
-        shadow-intensity="1"
-        shadow-softness="0.8"
-        exposure="1"
-        environment-image="neutral"
-        disable-zoom></model-viewer>
-      <svg id="rig" viewBox="-150 -150 300 300" aria-hidden="true"></svg>
-      <p class="stage-hint">drag it around</p>
-    </div>
-  </header>
-
-  <div class="band" aria-hidden="true">
-    <div class="band-track">
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-    </div>
-  </div>
-
-  <section id="work">
-    <div class="wrap">
-      <h2>Work</h2>
-      <p class="lead" id="work-lead">Models, art, and stills from animations. Click anything to see it bigger.</p>
-      <div class="work-grid" id="grid"></div>
-      <p class="soon" id="soon">WILL ADD IMAGES SOONER OR LATER.<br><a href="elsewhere/">PLEASE GO ELSEWHERE</a> :)</p>
-    </div>
-  </section>
-
-  <section id="hi">
-    <div class="wrap hi">
-      <h2>Hi, I'm Rad</h2>
-      <p>I'm from Nova Scotia, Canada, and I'm Native. I make stuff. Right now I'm writing The Long Shot Initiative, making music, and playing with my band, House on the Bluff.</p>
-      <p class="hi-end">Uhhh. Hi hi!</p>
-    </div>
-  </section>
-
-  <section id="disciplines">
-    <div class="wrap">
-      <h2>The breakdown</h2>
-      <div class="row-list">
-        <div class="row"><div class="t">Modeling</div><div class="d">3D characters and sets for everything else to live in.</div></div>
-        <div class="row"><div class="t">Art</div><div class="d">Characters, environments, and the look of things.</div></div>
-        <div class="row"><div class="t">Animation</div><div class="d">Getting those drawings to move like they mean it.</div></div>
-        <div class="row"><div class="t">Music</div><div class="d">Original tracks and scores, written and produced by me.</div></div>
-      </div>
-    </div>
-  </section>
-
-  <section id="music">
-    <div class="wrap music">
-      <div>
-        <h2>Right now it's mostly music</h2>
-        <p class="lead">I write, arrange, and mix original tracks in FL Studio, from the first idea to the finished file. Here's one.</p>
-      </div>
-      <div class="video-frame">
-        <iframe
-          src="https://www.youtube.com/embed/22Lj8MbzlzI"
-          title="Video by Radd_Was_Taken on YouTube"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-      </div>
-    </div>
-  </section>
-
-  <section id="find-me">
-    <div class="wrap">
-      <h2>Come say hi</h2>
+  <main class="wrap">
+    <h1>Elsewhere</h1>
+    <p class="sub">Images aren't up yet, so here's where I actually am.</p>
+    <p class="me">Hello! I am Radd. Something something I make music, I'm a furry, I animate, I job, <span class="cut">I-</span></p>
+    <div class="links">
+      <a class="link-row" href="../battleship/">
+        <span><span class="label">Battleship</span><span class="who">Play against a bot or a friend</span></span>
+        <span class="handle">Play now</span>
+      </a>
+      <a class="link-row" href="../tlsi/">
+        <span><span class="label">The Long Shot Initiative</span><span class="who">The book I'm writing</span></span>
+        <span class="handle">TLSI</span>
+      </a>
+      <a class="link-row" href="../houseonthebluff/">
+        <span><span class="label">House on the Bluff</span><span class="who">My band, page made by Reza</span></span>
+        <span class="handle">Records</span>
+      </a>
       <a class="link-row" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">
         <span><span class="label">Discord</span><span class="who">Join the server</span></span>
         <span class="handle">discord.gg/j6ZrNMdA63</span>
@@ -558,92 +281,169 @@
         <address>Radd &amp; Crew<br>P.O. Box 6174<br>Lubbock, TX 79493-6174<br>USA</address>
       </div>
     </div>
-  </section>
+
+    <h2>FAQ</h2>
+    <p class="h2-sub">Read this before you ask me.</p>
+    <dl class="faq">
+      <div>
+        <dt>Do you take commissions?</dt>
+        <dd class="loud">I DO NOT DO COMMISSIONS. I HATE YOU.</dd>
+      </div>
+      <div>
+        <dt>Can I use your music in my video or game?</dt>
+        <dd>Not without a deal. Message me on Discord and we'll work something out, in writing, before anything goes in.</dd>
+      </div>
+      <div>
+        <dt>Can I make fan art?</dt>
+        <dd>Yes! Go for it. I'd love to see it.</dd>
+      </div>
+      <div>
+        <dt>Can I repost your art or models?</dt>
+        <dd>No. Share a link to the original instead.</dd>
+      </div>
+      <div>
+        <dt>What's the best way to reach you?</dt>
+        <dd>Discord. Mail works too if you're patient.</dd>
+      </div>
+      <div>
+        <dt>Where's all the art?</dt>
+        <dd>Sooner or later.</dd>
+      </div>
+    </dl>
+
+    <h2>People of note</h2>
+    <p class="h2-sub">No siblings, but online friends I do have.</p>
+    <ul class="people">
+        <li><span class="who-name">foxyflat</span><span class="who-role">Girlfriend :3</span></li>
+        <li><span class="who-name">iamflakey</span><span class="who-role">Brother, basically</span></li>
+        <li><span class="who-name">trainb0i</span><span class="who-role">Little brother, basically</span></li>
+        <li><span class="who-name">tencents</span><span class="who-role">Also my brother, basically</span></li>
+        <li><span class="who-name">themumbler</span><span class="who-role">Bestie</span></li>
+        <li><span class="who-name">why_you_looking_here</span><span class="who-role">Max.</span></li>
+        <li><span class="who-name">swh00py</span><span class="who-role">GNB buddy</span></li>
+        <li><span class="who-name">redmations.</span><span class="who-role">Ex-boss and person I hate (affectionately)</span></li>
+        <li><span class="who-name">jinu_jinu207</span><span class="who-role">R, Budiworo, J.</span></li>
+        <li><span class="who-name">proskilz_22</span><span class="who-role">Bought me a brick</span></li>
+        <li><span class="who-name">exoworo1</span><span class="who-role">Bought my P.O. box :)</span></li>
+        <li><span class="who-name">textkat.x3</span><span class="who-role">Jinzhou VA for hit book The Long Shot Initiative</span></li>
+        <li><span class="who-name">_grinch1</span><span class="who-role">Bestie in law</span></li>
+        <li><span class="who-name">bigoboingo</span><span class="who-role">Friend in law</span></li>
+        <li><span class="who-name">eshanthetrainlover</span><span class="who-role">TLSI editor</span></li>
+        <li><span class="who-name">r3xrapt0r</span><span class="who-role">Old buddy</span></li>
+        <li><span class="who-name">hiqu_art</span><span class="who-role">Oomfy</span></li>
+        <li><span class="who-name">crazyalx123</span><span class="who-role">Antle and musician</span></li>
+        <li><span class="who-name">themonhub</span><span class="who-role">ASCII background</span></li>
+    </ul>
+
+    <h2>Favorite stuff</h2>
+    <p class="h2-sub">Things I like, in no order.</p>
+    <div class="favs">
+      <div class="fav">
+        <h3>Games</h3>
+        <ul>
+          <li>Battlefield 1</li>
+          <li>Space Station 14</li>
+          <li>Railroads Online</li>
+          <li>GTA V</li>
+          <li>Stormworks</li>
+          <li>Barotrauma</li>
+          <li>Kerbal Space Program</li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Roblox games</h3>
+        <ul>
+          <li><a href="https://www.roblox.com/games/10068838/Survive-Mr-Bulldozer" target="_blank" rel="noopener">Survive Mr. Bulldozer</a></li>
+          <li><a href="https://www.roblox.com/games/12334109280/Guts-Blackpowder" target="_blank" rel="noopener">Guts &amp; Blackpowder</a></li>
+          <li><a href="https://www.roblox.com/games/12165361530/Steam-Steel" target="_blank" rel="noopener">Steam &amp; Steel</a></li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Music</h3>
+        <ul>
+          <li>Daniel Pemberton</li>
+          <li>Labirhin</li>
+          <li>Mac Miller</li>
+          <li>Kino</li>
+          <li>Toby Radiation Fox</li>
+          <li>Me</li>
+          <li>Music<small>in general</small></li>
+          <li><a href="https://www.youtube.com/watch?v=q7-D-wx8qSk" target="_blank" rel="noopener">"Alpha" Suite from Minecraft</a><small>Game Music Ensemble at UCLA</small></li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Shows and movies</h3>
+        <ul>
+          <li>Project Hail Mary</li>
+          <li>Little Lorraine</li>
+          <li>Mau Makan Apa</li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Car</h3>
+        <ul><li>Yugo</li></ul>
+      </div>
+      <div class="fav">
+        <h3>Other</h3>
+        <ul>
+          <li>The Big Sandwich<small>from the Atlantic Superstore on Highway 214</small></li>
+          <li>Blue</li>
+          <li>My bed</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Fun facts</h2>
+    <p class="h2-sub">Hand-picked.</p>
+    <ul class="facts">
+      <li>1</li>
+      <li>2</li>
+      <li>3! I CAN COUNT!</li>
+    </ul>
+
+    <div class="counter">
+      <span>You are visitor number</span>
+      <span class="digits" id="hits" aria-label="visitor count"></span>
+      <span id="hits-note"></span>
+    </div>
+  </main>
 
   <footer class="wrap">
     <span>House on the Bluff Records, an unincorporated partnership of musicians, <span id="yr">2026</span></span>
     <span>Made by Jayce and R, Budiworo, J.</span>
     <span>ASCII background by TheMonHub on Discord</span>
   </footer>
+  <script>
+    // Real visitor counter using Abacus (https://abacus.jasoncameron.dev), a free counting service.
+    // Each browser only adds +1 once per day, so refreshing doesn't inflate it.
+    (function(){
+      var box = document.getElementById('hits');
+      var note = document.getElementById('hits-note');
+      var base = 'https://abacus.jasoncameron.dev/';
+      var key = 'raddwastaken/elsewhere-visits';
+      var today = new Date().toDateString();
+      var counted = false;
+      try { counted = localStorage.getItem('rad-counted') === today; } catch(e){}
+
+      function show(n){
+        box.innerHTML = '';
+        String(n).padStart(7, '0').split('').forEach(function(d){
+          var s = document.createElement('span'); s.textContent = d; box.appendChild(s);
+        });
+      }
+      show('???????'.slice(0, 7));
+
+      fetch(base + (counted ? 'get/' : 'hit/') + key)
+        .then(function(r){ if (!r.ok) throw 0; return r.json(); })
+        .then(function(d){
+          show(d.value);
+          if (!counted){ try { localStorage.setItem('rad-counted', today); } catch(e){} }
+        })
+        .catch(function(){ note.textContent = '(counter is napping, try again later)'; });
+    })();
+  </script>
   <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </div>
-
-<dialog id="lightbox">
-  <button type="button" id="lb-close">Close</button>
-  <img id="lb-img" alt="">
-  <p id="lb-cap"></p>
-</dialog>
-
-<script>
-/*
-  YOUR WORK GOES HERE.
-  Put images in a folder called "work" next to this file, then list them below.
-  size: "big" (the large one, use for your best piece), "wide", or leave it out for normal.
-  Add or remove lines as you like.
-*/
-var WORK = [
-  // Example, remove the two slashes at the start of a line to use it:
-  // { src: "work/01.jpg", title: "Best piece goes here", kind: "3D model", size: "big" },
-  // { src: "work/02.jpg", title: "Title", kind: "Character art" },
-  // { src: "work/03.jpg", title: "Title", kind: "Animation still" },
-];
-// While this list is empty (or none of the files exist yet), the "sooner or later" message shows instead.
-
-(function(){
-  var grid = document.getElementById('grid');
-  var lb = document.getElementById('lightbox');
-  var lbImg = document.getElementById('lb-img');
-  var lbCap = document.getElementById('lb-cap');
-
-  function checkEmpty(){
-    var empty = grid.children.length === 0;
-    document.getElementById('soon').classList.toggle('show', empty);
-    document.getElementById('work-lead').style.display = empty ? 'none' : '';
-    grid.style.display = empty ? 'none' : '';
-  }
-
-  WORK.forEach(function(w){
-    var b = document.createElement('button');
-    b.type = 'button';
-    b.className = 'work-item' + (w.size ? ' ' + w.size : '');
-    var img = document.createElement('img');
-    img.src = w.src;
-    img.alt = w.title;
-    img.loading = 'lazy';
-    var cap = document.createElement('span');
-    cap.className = 'cap';
-    cap.innerHTML = '';
-    cap.appendChild(document.createTextNode(w.title));
-    var small = document.createElement('small');
-    small.textContent = w.kind || '';
-    cap.appendChild(small);
-
-    img.addEventListener('error', function(){
-      b.remove();
-      checkEmpty();
-    });
-
-    b.appendChild(img);
-    b.appendChild(cap);
-    b.addEventListener('click', function(){
-      lbImg.src = w.src;
-      lbImg.alt = w.title;
-      lbCap.textContent = w.title + (w.kind ? ', ' + w.kind.toLowerCase() : '');
-      lb.showModal();
-    });
-    grid.appendChild(b);
-  });
-
-  checkEmpty();
-
-  document.getElementById('lb-close').addEventListener('click', function(){ lb.close(); });
-  lb.addEventListener('click', function(e){ if (e.target === lb) lb.close(); });
-
-  // swap the wireframe out once the real model loads
-  var mv = document.getElementById('mv');
-  mv.addEventListener('load', function(){ document.getElementById('stage').classList.add('has-model'); });
-})();
-</script>
 
 <script>
 // Background animation generated using https://baptiste-schlienger.com/experiments/animatedascii/index.html
@@ -764,61 +564,6 @@ var WORK = [
   init();
   updateScroll();
   start();
-})();
-</script>
-
-<script>
-// Fallback shape: the Blender default cube. Shown until model.glb exists. Drag to spin.
-(function(){
-  var svg = document.getElementById('rig');
-  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var S = 78;                 // half the cube's width
-  var R = S * Math.sqrt(3);   // furthest a corner can be from the center
-
-  var verts = [
-    [-S,-S,-S],[ S,-S,-S],[ S, S,-S],[-S, S,-S],
-    [-S,-S, S],[ S,-S, S],[ S, S, S],[-S, S, S]
-  ];
-  var edges = [[0,1],[1,2],[2,3],[3,0],[4,5],[5,6],[6,7],[7,4],[0,4],[1,5],[2,6],[3,7]];
-
-  var NS = 'http://www.w3.org/2000/svg';
-  var lineEls = edges.map(function(){ var l = document.createElementNS(NS,'line'); svg.appendChild(l); return l; });
-
-  var rotX = 0.5, rotY = 0.6, velX = 0, velY = reduce ? 0 : 0.003;
-  var dragging = false, lastX = 0, lastY = 0;
-  svg.addEventListener('pointerdown', function(e){ dragging = true; lastX = e.clientX; lastY = e.clientY; svg.setPointerCapture(e.pointerId); });
-  svg.addEventListener('pointermove', function(e){
-    if (!dragging) return;
-    velY = (e.clientX - lastX) * 0.008; velX = -(e.clientY - lastY) * 0.008;
-    lastX = e.clientX; lastY = e.clientY;
-  });
-  svg.addEventListener('pointerup', function(){ dragging = false; });
-  svg.addEventListener('pointercancel', function(){ dragging = false; });
-
-  function project(v){
-    var cy = Math.cos(rotY), sy = Math.sin(rotY);
-    var x1 = v[0]*cy - v[2]*sy, z1 = v[0]*sy + v[2]*cy;
-    var cx = Math.cos(rotX), sx = Math.sin(rotX);
-    var y2 = v[1]*cx - z1*sx, z2 = v[1]*sx + z1*cx;
-    var s = 320 / (320 + z2);
-    return [x1*s, y2*s, z2];
-  }
-
-  function tick(){
-    rotY += velY; rotX += velX;
-    if (!dragging){ velY += ((reduce ? 0 : 0.003) - velY) * 0.03; velX *= 0.95; }
-    var pts = verts.map(project);
-    edges.forEach(function(e, i){
-      var a = pts[e[0]], b = pts[e[1]], l = lineEls[i];
-      // front edges solid, back edges faint, so it's clear which side is facing you
-      var depth = ((a[2] + b[2]) / 2 + R) / (2 * R);
-      l.setAttribute('x1', a[0]); l.setAttribute('y1', a[1]);
-      l.setAttribute('x2', b[0]); l.setAttribute('y2', b[1]);
-      l.setAttribute('stroke-opacity', (0.9 - depth * 0.8).toFixed(2));
-    });
-    requestAnimationFrame(tick);
-  }
-  requestAnimationFrame(tick);
 })();
 </script>
 </body>
