@@ -41,7 +41,7 @@
   .top .back{ color: var(--muted); text-decoration: none; font-weight: 500; }
   .top .back:hover{ color: var(--ink); }
 
-  main{ flex: 1; display: flex; flex-direction: column; justify-content: center; padding-top: 6vh; padding-bottom: 8vh; }
+  main{ flex: 1; padding-top: 6vh; padding-bottom: 8vh; }
   h1{
     margin: 0 0 12px;
     font-size: clamp(72px, 13vw, 220px);
@@ -77,6 +77,151 @@
   }
   .link-row .handle{ text-align: right; overflow-wrap: anywhere; }
 
+  .mail{
+    display: grid;
+    grid-template-columns: minmax(220px, 0.4fr) 1fr;
+    gap: 24px;
+    padding: 28px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .mail-label{
+    margin: 0;
+    font-size: clamp(36px, 5vw, 72px);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1;
+  }
+  .mail address{
+    font-style: normal;
+    font-size: clamp(20px, 2vw, 28px);
+    line-height: 1.35;
+    align-self: center;
+  }
+  @media (max-width: 860px){ .mail{ grid-template-columns: 1fr; gap: 12px; } }
+
+  .me{
+    margin: 0 0 72px;
+    max-width: 30ch;
+    font-size: clamp(26px, 3.2vw, 48px);
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -0.015em;
+  }
+  .me .cut{ color: var(--accent); }
+
+  h2{
+    margin: 96px 0 10px;
+    font-size: clamp(30px, 4.4vw, 52px);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.025em;
+  }
+  .h2-sub{ margin: 0 0 32px; color: var(--muted); font-size: clamp(18px, 1.6vw, 22px); }
+
+  .faq{ margin: 0; border-top: 1px solid var(--line); }
+  .faq div{
+    display: grid;
+    grid-template-columns: minmax(220px, 0.5fr) 1fr;
+    gap: 24px;
+    padding: 26px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .faq dt{
+    font-size: clamp(22px, 2vw, 28px);
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    line-height: 1.2;
+  }
+  .faq dd{
+    margin: 0;
+    max-width: 56ch;
+    color: var(--muted);
+    font-size: clamp(17px, 1.4vw, 20px);
+    align-self: center;
+  }
+  .faq dd.loud{
+    color: var(--ink);
+    font-weight: 800;
+    font-size: clamp(22px, 2.2vw, 32px);
+    letter-spacing: -0.02em;
+  }
+  @media (max-width: 860px){ .faq div{ grid-template-columns: 1fr; gap: 8px; } }
+
+  .people{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    column-gap: 32px;
+  }
+  .people li{
+    padding: 18px 0;
+    border-top: 1px solid var(--line);
+  }
+  .who-name{
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    overflow-wrap: anywhere;
+  }
+  .who-role{ display: block; margin-top: 2px; color: var(--muted); }
+
+  /* ---------- clutter ---------- */
+  .favs{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0 32px;
+  }
+  .fav{ padding: 22px 0; border-top: 1px solid var(--line); }
+  .fav h3{
+    margin: 0 0 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .fav ul{ margin: 0; padding: 0; list-style: none; }
+  .fav li{ font-size: 19px; font-weight: 600; line-height: 1.35; padding: 2px 0; }
+  .fav li small{ display: block; font-size: 14px; font-weight: 400; color: var(--muted); }
+  .fav a{ text-decoration-color: var(--accent); text-underline-offset: 3px; }
+  .fav a:hover{ color: var(--accent); }
+
+  .facts{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 40px;
+    border-top: 1px solid var(--line);
+    padding-top: 22px;
+  }
+  .facts li{ font-size: clamp(48px, 8vw, 120px); font-weight: 800; letter-spacing: -0.05em; line-height: 1; }
+  .facts li:last-child{ color: var(--accent); }
+
+  .counter{
+    margin-top: 72px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    color: var(--muted);
+  }
+  .digits{ display: inline-flex; gap: 2px; }
+  .digits span{
+    width: 22px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    color: #ff4a3a;
+    font: 700 22px/1 "Courier New", monospace;
+    border: 1px solid #333;
+  }
+
   footer{
     padding-top: 40px;
     padding-bottom: 60px;
@@ -101,6 +246,7 @@
   <main class="wrap">
     <h1>Elsewhere</h1>
     <p class="sub">Images aren't up yet, so here's where I actually am.</p>
+    <p class="me">Hello! I am Radd. Something something I make music, I'm a furry, I animate, I job, <span class="cut">I-</span></p>
     <div class="links">
       <a class="link-row" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">
         <span><span class="label">Discord</span><span class="who">Join the server</span></span>
@@ -118,6 +264,135 @@
         <span><span class="label">Labirhin</span><span class="who">Where I work as captionist and sub localization lead</span></span>
         <span class="handle">@Labirhin</span>
       </a>
+      <div class="mail">
+        <p class="mail-label">Send mail</p>
+        <address>Radd &amp; Crew<br>P.O. Box 6174<br>Lubbock, TX 79493-6174<br>USA</address>
+      </div>
+    </div>
+
+    <h2>FAQ</h2>
+    <p class="h2-sub">Read this before you ask me.</p>
+    <dl class="faq">
+      <div>
+        <dt>Do you take commissions?</dt>
+        <dd class="loud">I DO NOT DO COMMISSIONS. I HATE YOU.</dd>
+      </div>
+      <div>
+        <dt>Can I use your music in my video or game?</dt>
+        <dd>Not without a deal. Message me on Discord and we'll work something out, in writing, before anything goes in.</dd>
+      </div>
+      <div>
+        <dt>Can I make fan art?</dt>
+        <dd>Yes! Go for it. I'd love to see it.</dd>
+      </div>
+      <div>
+        <dt>Can I repost your art or models?</dt>
+        <dd>No. Share a link to the original instead.</dd>
+      </div>
+      <div>
+        <dt>What's the best way to reach you?</dt>
+        <dd>Discord. Mail works too if you're patient.</dd>
+      </div>
+      <div>
+        <dt>Where's all the art?</dt>
+        <dd>Sooner or later.</dd>
+      </div>
+    </dl>
+
+    <h2>People of note</h2>
+    <p class="h2-sub">No siblings, but online friends I do have.</p>
+    <ul class="people">
+        <li><span class="who-name">foxyflat</span><span class="who-role">Girlfriend :3</span></li>
+        <li><span class="who-name">iamflakey</span><span class="who-role">Brother, basically</span></li>
+        <li><span class="who-name">trainb0i</span><span class="who-role">Little brother, basically</span></li>
+        <li><span class="who-name">tencents</span><span class="who-role">Also my brother, basically</span></li>
+        <li><span class="who-name">themumbler</span><span class="who-role">Bestie</span></li>
+        <li><span class="who-name">why_you_looking_here</span><span class="who-role">Max.</span></li>
+        <li><span class="who-name">swh00py</span><span class="who-role">GNB buddy</span></li>
+        <li><span class="who-name">redmations.</span><span class="who-role">Ex-boss and person I hate (affectionately)</span></li>
+        <li><span class="who-name">jinu_jinu207</span><span class="who-role">R, Budiworo, J.</span></li>
+        <li><span class="who-name">proskilz_22</span><span class="who-role">Bought me a brick</span></li>
+        <li><span class="who-name">exoworo1</span><span class="who-role">Bought my P.O. box :)</span></li>
+        <li><span class="who-name">textkat.x3</span><span class="who-role">Jinzhou VA for hit book The Long Shot Initiative</span></li>
+        <li><span class="who-name">_grinch1</span><span class="who-role">Bestie in law</span></li>
+        <li><span class="who-name">bigoboingo</span><span class="who-role">Friend in law</span></li>
+        <li><span class="who-name">eshanthetrainlover</span><span class="who-role">TLSI editor</span></li>
+        <li><span class="who-name">r3xrapt0r</span><span class="who-role">Old buddy</span></li>
+        <li><span class="who-name">hiqu_art</span><span class="who-role">Oomfy</span></li>
+        <li><span class="who-name">crazyalx123</span><span class="who-role">Antle and musician</span></li>
+        <li><span class="who-name">themonhub</span><span class="who-role">ASCII background</span></li>
+    </ul>
+
+    <h2>Favorite stuff</h2>
+    <p class="h2-sub">Things I like, in no order.</p>
+    <div class="favs">
+      <div class="fav">
+        <h3>Games</h3>
+        <ul>
+          <li>Battlefield 1</li>
+          <li>Space Station 14</li>
+          <li>Railroads Online</li>
+          <li>GTA V</li>
+          <li>Stormworks</li>
+          <li>Barotrauma</li>
+          <li>Kerbal Space Program</li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Roblox games</h3>
+        <ul>
+          <li><a href="https://www.roblox.com/games/10068838/Survive-Mr-Bulldozer" target="_blank" rel="noopener">Survive Mr. Bulldozer</a></li>
+          <li><a href="https://www.roblox.com/games/12334109280/Guts-Blackpowder" target="_blank" rel="noopener">Guts &amp; Blackpowder</a></li>
+          <li><a href="https://www.roblox.com/games/12165361530/Steam-Steel" target="_blank" rel="noopener">Steam &amp; Steel</a></li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Music</h3>
+        <ul>
+          <li>Daniel Pemberton</li>
+          <li>Labirhin</li>
+          <li>Mac Miller</li>
+          <li>Kino</li>
+          <li>Toby Radiation Fox</li>
+          <li>Me</li>
+          <li>Music<small>in general</small></li>
+          <li><a href="https://www.youtube.com/watch?v=q7-D-wx8qSk" target="_blank" rel="noopener">"Alpha" Suite from Minecraft</a><small>Game Music Ensemble at UCLA</small></li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Shows and movies</h3>
+        <ul>
+          <li>Project Hail Mary</li>
+          <li>Little Lorraine</li>
+          <li>Mau Makan Apa</li>
+        </ul>
+      </div>
+      <div class="fav">
+        <h3>Car</h3>
+        <ul><li>Yugo</li></ul>
+      </div>
+      <div class="fav">
+        <h3>Other</h3>
+        <ul>
+          <li>The Big Sandwich<small>from the Atlantic Superstore on Highway 214</small></li>
+          <li>Blue</li>
+          <li>My bed</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Fun facts</h2>
+    <p class="h2-sub">Hand-picked.</p>
+    <ul class="facts">
+      <li>1</li>
+      <li>2</li>
+      <li>3! I CAN COUNT!</li>
+    </ul>
+
+    <div class="counter">
+      <span>You are visitor number</span>
+      <span class="digits" id="hits" aria-label="visitor count"></span>
+      <span id="hits-note"></span>
     </div>
   </main>
 
@@ -126,6 +401,35 @@
     <span>Made by Jayce and R, Budiworo, J.</span>
     <span>ASCII background by TheMonHub on Discord</span>
   </footer>
+  <script>
+    // Real visitor counter using Abacus (https://abacus.jasoncameron.dev), a free counting service.
+    // Each browser only adds +1 once per day, so refreshing doesn't inflate it.
+    (function(){
+      var box = document.getElementById('hits');
+      var note = document.getElementById('hits-note');
+      var base = 'https://abacus.jasoncameron.dev/';
+      var key = 'raddwastaken/elsewhere-visits';
+      var today = new Date().toDateString();
+      var counted = false;
+      try { counted = localStorage.getItem('rad-counted') === today; } catch(e){}
+
+      function show(n){
+        box.innerHTML = '';
+        String(n).padStart(7, '0').split('').forEach(function(d){
+          var s = document.createElement('span'); s.textContent = d; box.appendChild(s);
+        });
+      }
+      show('???????'.slice(0, 7));
+
+      fetch(base + (counted ? 'get/' : 'hit/') + key)
+        .then(function(r){ if (!r.ok) throw 0; return r.json(); })
+        .then(function(d){
+          show(d.value);
+          if (!counted){ try { localStorage.setItem('rad-counted', today); } catch(e){} }
+        })
+        .catch(function(){ note.textContent = '(counter is napping, try again later)'; });
+    })();
+  </script>
   <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </div>
 
