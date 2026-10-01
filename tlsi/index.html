@@ -4,19 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Long Shot Initiative (Rad)</title>
-<meta name="description" content="The Long Shot Initiative is a book by Rad, currently being written.">
+<meta name="description" content="Ethyn Vasek wakes up on a ship 6.4 light years from home with no memory, one other survivor, and a sun back home that's being eaten. A book by Rad and Reza, currently being written.">
 <meta name="theme-color" content="#0b0d11">
 <meta property="og:type" content="website">
 <meta property="og:title" content="The Long Shot Initiative">
-<meta property="og:description" content="A book by Rad, currently being written.">
+<meta property="og:description" content="Ethyn Vasek wakes up on a ship 6.4 light years from home with no memory, one other survivor, and a sun back home that's being eaten. A book by Rad and Reza, currently being written.">
 <meta property="og:url" content="https://raddwastaken.art/tlsi/">
 <meta name="twitter:card" content="summary">
-<!--
-  WHEN THE COVER IS APPROVED, add these two lines so Discord and Bluesky show it in link previews
-  (the link has to be the full address, and the file has to exist first):
-  <meta property="og:image" content="https://raddwastaken.art/tlsi/assets/tlsi-cover.webp">
-  and change the twitter:card line above to: <meta name="twitter:card" content="summary_large_image">
--->
+<meta property="og:image" content="https://raddwastaken.art/tlsi/assets/tlsi-cover.webp">
+<meta property="og:image:width" content="1600">
+<meta property="og:image:height" content="1600">
+<meta property="og:image:alt" content="Ethyn, a fox in glasses, and Jinzhou, a white dog, in blue jackets against a starfield, under the title The Long Shot Initiative">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
@@ -112,6 +110,30 @@
 
   .row .note{ color: var(--muted); }
 
+  .inspired{ margin: 10px 0 0; max-width: 60ch; font-size: 15px; color: var(--muted); }
+
+  .faq{ border-top: 1px solid var(--line); }
+  .faq details{ border-bottom: 1px solid var(--line); }
+  .faq summary{
+    list-style: none;
+    cursor: pointer;
+    padding: 22px 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    font-size: clamp(20px, 1.9vw, 26px);
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    line-height: 1.2;
+  }
+  .faq summary::-webkit-details-marker{ display: none; }
+  .faq summary::after{ content: "+"; color: var(--accent); font-weight: 400; font-size: 1.3em; line-height: 1; }
+  .faq details[open] summary::after{ content: "\2212"; }
+  .faq summary:hover{ color: var(--accent); }
+  .faq details p{ margin: 0 0 24px; max-width: 60ch; color: var(--muted); font-size: clamp(17px, 1.4vw, 20px); }
+
+  .follow{ display: flex; flex-wrap: wrap; gap: 12px 40px; font-size: clamp(26px, 3vw, 44px); font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+
   .ns{ margin: 40px 0 0; max-width: 50ch; font-size: 20px; }
 
   footer{ padding-top: 40px; padding-bottom: 60px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 32px; font-size: 14px; color: var(--muted); }
@@ -137,13 +159,14 @@
     <div class="hero" id="hero">
       <div>
         <h1>The Long Shot <span class="tlsi">Initiative</span></h1>
-        <p class="by">A book by Rad.</p>
+        <p class="by">A book by Rad and Reza.</p>
+        <p class="inspired" id="inspired" hidden></p>
         <p class="logline" id="logline" hidden></p>
       </div>
       <figure class="cover" id="cover" hidden></figure>
     </div>
 
-    <noscript><p class="ns">The Long Shot Initiative is a book by Rad. The rest of this page needs JavaScript turned on to show up.</p></noscript>
+    <noscript><p class="ns">The Long Shot Initiative is a book by Rad and Reza. The rest of this page needs JavaScript turned on to show up.</p></noscript>
 
     <section class="block" id="synopsis-block" hidden>
       <h2>What it's about</h2>
@@ -182,10 +205,20 @@
       <h2>Read it</h2>
       <div class="rows" id="links"></div>
     </section>
+
+    <section class="block" id="faq-block" hidden>
+      <h2>Questions</h2>
+      <div class="faq" id="faq"></div>
+    </section>
+
+    <section class="block" id="follow-block" hidden>
+      <h2>Follow along</h2>
+      <div class="follow" id="follow"></div>
+    </section>
   </main>
 
   <footer class="wrap">
-    <span>The Long Shot Initiative, by Rad</span>
+    <span>The Long Shot Initiative, by Rad and Reza</span>
     <span>ASCII background by TheMonHub on Discord</span>
   </footer>
 </div>
@@ -202,54 +235,92 @@
   so the page never has blank gaps. Nothing is hard-coded in the HTML above.
 */
 var TLSI = {
-  // One or two sentences. Shows up huge under the title.
-  logline: "",
-  // Draft to approve or rewrite, then paste it between the quotes above:
-  //   "Ethyn Vasek wakes on a ship 6.4 light years from home, with no memory, one other survivor, and a star that's being eaten."
+  logline: "Ethyn Vasek wakes up on a ship 6.4 light years from home with no memory, one other survivor, and a sun back home that's being eaten.",
 
   status: "Being written",
 
-  // Each line in quotes is one paragraph, like ["First paragraph.", "Second paragraph."]
-  synopsis: [],
+  // Small line shown under "A book by Rad and Reza."
+  inspired: "Inspired by Andy Weir's Project Hail Mary. The world, the characters, and the story are original.",
 
-  // Cover art. Leave src empty until the artist says yes and you have the credit name.
-  // Put the image in a folder called "assets" next to this file.
+  synopsis: [
+    "Ethyn Vasek wakes up on the Vanguard with a dry mouth, a sore body, and no idea who he is. The nearest thing to home is 6.4 light years behind him.",
+    "Back on Wask-ki, something is feeding on the sun, and a very small crew was sent to find out how to stop it. Ethyn is not the person you would pick for this. His only company is an engineer who reads the labels, never reacts to bad news, and disagrees with him about almost everything."
+  ],
+
   cover: {
-    src: "",                 // like "assets/tlsi-cover.webp"
-    alt: "",                 // describe the picture for people who can't see it
-    credit: "",              // like "Cover art by their-handle"
-    w: 0, h: 0               // the image's real pixel size (stops the page jumping while it loads)
+    src: "assets/tlsi-cover.webp",
+    alt: "Ethyn, a fox in glasses, and Jinzhou, a white dog, in blue jackets against a starfield, under the title The Long Shot Initiative",
+    credit: "Cover art by foxyflat",
+    w: 1600, h: 1600
   },
 
   characters: [
-    { name: "Jinzhou", role: "", voice: "textkat.x3" },
-    { name: "Ethyn", role: "", voice: "", status: "Casting" }
-    // { name: "Name", role: "one line about who they are", voice: "voice actor", status: "shown only if there's no voice yet" },
+    { name: "Ethyn", role: "A fox. Wakes up first, remembers nothing, and makes jokes about it anyway.", voice: "Rad" },
+    { name: "Jinzhou", role: "A dog and a software engineer. Reads the labels. Reacts to nothing.", voice: "textkat.x3" },
+    { name: "Y'shari", role: "The astronomer who found the line. Hates that it has her name.", voice: "", status: "Casting" },
+    { name: "ARACCSIM", role: "The ship's computer. Built from recorded audio, and it shows.", voice: "sarahphinasp" }
   ],
 
-  // Short blocks about the world: [{ title: "The Line", text: "one or two lines" }]
-  world: [],
+  world: [
+    { title: "The Y'shari Line", text: "A thin line of light running from the sun to the planet Aluk', named for the amateur astronomer who spotted it. Something is moving along it." },
+    { title: "Wask-ki", text: "Home, and yes, it's Earth, a very long time after humans. Freezing nights, cities built to survive them, and a sun called Nakuet." },
+    { title: "Aluk'", text: "The cloud-covered second planet, said Ah-lok. It's where the problem seems to start." },
+    { title: "Argon Industries", text: "A major engineering company and the builder of the Vanguard. Its LSI Division exists for problems with no good odds." },
+    { title: "The Vanguard", text: "A six-person ship built fast and sent far. Its computer does not always sound like it's listening." },
+    { title: "Volta", text: "The probe that went first. A station in orbit around Aluk' and a craft that skims its upper air, built to get the first close look." }
+  ],
 
-  // How to say the made-up words. Only confirmed ones go in.
   pronunciations: [
-    { term: "Aluk'", say: "Ah-lok" }
-    // { term: "Y'shari", say: "" }, { term: "Wask-ki", say: "" }, { term: "Nakuet", say: "" },
-    // { term: "Phengoclept", say: "" }, { term: "ARACCSIM", say: "" },
+    { term: "Aluk'", say: "Ah-lok" },
+    { term: "Y'shari", say: "Ya-shar-ree" },
+    { term: "Nakuet", say: "Na-koo-et" },
+    { term: "Phengoclept", say: "Fen-go-clapt" },
+    { term: "Wask-ki", say: "Wask-key" },
+    { term: "ARACCSIM", say: "Arack-sim" }
   ],
 
-  // Mission and crew patches: [{ src: "assets/patch-mission.png", alt: "what it shows", caption: "name of the patch", w: 600, h: 600 }]
-  gallery: [],
+  gallery: [
+    { src: "assets/patch-mission.png", alt: "Round navy patch reading The Long Shot Initiative, with an arc and an orange dot", caption: "Mission patch", w: 928, h: 928 },
+    { src: "assets/patch-name.png", alt: "Name patch reading Kenzo, J., Software Engineer", caption: "Name patch", w: 1072, h: 352 },
+    { src: "assets/patch-wordmark.png", alt: "Argon Industries LSI Division wordmark patch with a hexagon", caption: "Argon wordmark", w: 1072, h: 424 },
+    { src: "assets/patch-kanadian.png", alt: "Patch with a ring of 20 dots around an orange circle", caption: "Kanadian Commonwealth", w: 696, h: 468 },
+    { src: "assets/patch-mk1.png", alt: "Orange tag reading MK1", caption: "MK1 tag", w: 496, h: 236 }
+  ],
 
   credits: [
-    { role: "Written by", who: "Rad" },
+    { role: "Written by", who: "Rad and Reza (budiworo)" },
     { role: "Edited by", who: "eshanthetrainlover" },
-    { role: "Jinzhou voiced by", who: "textkat.x3" }
-    // { role: "Cover art", who: "their-handle" },
-    // { role: "ARACCSIM voiced by", who: "name" },
+    { role: "Jinzhou voiced by", who: "textkat.x3" },
+    { role: "Ethyn voiced by", who: "Rad" },
+    { role: "ARACCSIM voiced by", who: "sarahphinasp" },
+    { role: "art", who: "foxyflat & themumbler" }
   ],
 
-  // Where to read or listen: [{ label: "Chapter one", href: "https://...", note: "Coming soon" }]
-  links: []
+  links: [],
+
+  follow: [
+    { label: "Discord", href: "https://discord.gg/j6ZrNMdA63" },
+    { label: "Bluesky", href: "https://bsky.app/profile/raddwastaken.bsky.social" }
+  ],
+
+  faq: [
+    { q: "What is it?", a: "A story about a fox who wakes up on a spaceship with no memory, a dog who reads the labels, and a sun that's being eaten. Mostly funny, with some parts worth a moment of silence." },
+    { q: "Is it a book or an audio drama?", a: "Both. It's a written story, and the audio version is being cast with real voice actors, one chapter at a time." },
+    { q: "Who are the characters?", a: "Animals. They're bipedal anthropomorphic characters, closer to an animated movie than anything else." },
+    { q: "Is it funny or sad?", a: "Mostly funny. It has sad parts too, and you should let those be quiet." },
+    { q: "Do I need to have read Project Hail Mary?", a: "No. It's inspired by it and it stands on its own. If you've read it, you'll notice the family resemblance." },
+    { q: "Is it fan fiction?", a: "No. It's inspired by Project Hail Mary, but the setting, the characters, and the story are its own." },
+    { q: "Is this made with AI?", a: "No. The writing, the art, and the voices are all made by people." },
+    { q: "How long is it?", a: "About 24 chapters are drafted so far, and the ending is still to come. Expect a few days of casual reading, or several hours of audio." },
+    { q: "Is it free?", a: "Yes. It's free to read, and there's no physical copy." },
+    { q: "Can I make fan art?", a: "Yes, please. Send it my way on Discord or Bluesky." },
+    { q: "Is it finished?", a: "Not yet. Most of it is drafted, and the ending is still being written." },
+    { q: "Where can I read or listen?", a: "Nothing is out yet. The first chapter goes up when it's ready." },
+    { q: "How do I find out when it's out?", a: "Join the Discord or follow on Bluesky." },
+    { q: "Is Wask-ki Earth?", a: "Yes, a very long time from now." },
+    { q: "Who writes it?", a: "Rad and Reza (budiworo)." },
+    { q: "Anything I should know before starting?", a: "There is peril, grief, and some swearing." }
+  ]
 };
 
 (function(){
@@ -259,12 +330,15 @@ var TLSI = {
 
   // logline
   if (d.logline){ var l = document.getElementById('logline'); l.textContent = d.logline; l.hidden = false; }
+  if (d.inspired){ var ins = document.getElementById('inspired'); ins.textContent = d.inspired; ins.hidden = false; }
 
   // cover
   if (d.cover && d.cover.src){
     var fig = document.getElementById('cover');
     var img = el('img'); img.src = d.cover.src; img.alt = d.cover.alt || ''; img.setAttribute('loading', 'eager'); sized(img, d.cover.w, d.cover.h);
     fig.appendChild(img);
+    // if the image file isn't uploaded yet, drop the cover instead of showing a broken picture
+    img.addEventListener('error', function(){ fig.hidden = true; document.getElementById('hero').classList.remove('has-cover'); });
     if (d.cover.credit) fig.appendChild(el('figcaption', '', d.cover.credit));
     fig.hidden = false;
     document.getElementById('hero').classList.add('has-cover');
@@ -315,6 +389,8 @@ var TLSI = {
   rows('gallery', d.gallery, function(g){
     var b = el('button', 'shot'); b.type = 'button';
     var im = el('img'); im.src = g.src; im.alt = g.alt || g.caption || ''; im.setAttribute('loading', 'lazy'); sized(im, g.w, g.h);
+    // same for the patches: any file that isn't there yet just doesn't show
+    im.addEventListener('error', function(){ b.remove(); if (!document.getElementById('gallery').children.length) document.getElementById('gallery-block').hidden = true; });
     b.appendChild(im);
     if (g.caption) b.appendChild(el('span', '', g.caption));
     b.addEventListener('click', function(){
@@ -337,6 +413,14 @@ var TLSI = {
     var r = el('div', 'row'); var t = el('div', 't');
     var a = el('a', '', l.label); a.href = l.href; a.target = '_blank'; a.rel = 'noopener'; t.appendChild(a);
     r.appendChild(t); r.appendChild(el('div', 'd note', l.note || '')); return r;
+  });
+
+  rows('faq', d.faq, function(f){
+    var det = el('details'); det.appendChild(el('summary', '', f.q)); det.appendChild(el('p', '', f.a)); return det;
+  });
+
+  rows('follow', d.follow, function(f){
+    var a = el('a', '', f.label); a.href = f.href; a.target = '_blank'; a.rel = 'noopener'; return a;
   });
 })();
 </script>
