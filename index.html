@@ -4,6 +4,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rad (Radd_Was_Taken)</title>
+<meta name="description" content="Artist, animator, musician, and modeler from Nova Scotia. I make stuff. I am cool.">
+<meta name="theme-color" content="#0b0d11">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Rad">
+<meta property="og:title" content="Rad (Radd_Was_Taken)">
+<meta property="og:description" content="Artist, animator, musician, and modeler from Nova Scotia. I make stuff. I am cool.">
+<meta property="og:url" content="https://raddwastaken.art/">
+<meta property="og:image" content="https://raddwastaken.art/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Rad, also known as Radd_Was_Taken. Artist, animator, musician, modeler.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
@@ -416,6 +429,43 @@
   }
   @media (max-width: 860px){ .mail{ grid-template-columns: 1fr; gap: 12px; } }
 
+  /* ---------- right now strip ---------- */
+  .now-inner{ display: flex; flex-wrap: wrap; align-items: baseline; gap: 14px 56px; padding-top: 30px; padding-bottom: 30px; border-bottom: 1px solid var(--line); }
+  .now-title{ font-size: clamp(24px, 2.4vw, 34px); font-weight: 800; letter-spacing: -0.03em; color: var(--accent); }
+  .now-items{ display: flex; flex-wrap: wrap; gap: 14px 56px; flex: 1; }
+  .now-item .k{ display: block; font-size: 14px; color: var(--muted); }
+  .now-item .v{ font-size: clamp(20px, 2vw, 28px); font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; }
+  .now-item .v a{ text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  .now-item .v a:hover{ color: var(--accent); }
+  .now-date{ margin-left: auto; font-size: 14px; color: var(--muted); }
+
+  /* ---------- easter eggs ---------- */
+  .toast{
+    display: none;
+    position: fixed;
+    left: 50%;
+    bottom: 24px;
+    transform: translateX(-50%);
+    z-index: 50;
+    width: max-content;
+    max-width: min(92vw, 560px);
+    padding: 14px 22px;
+    border-radius: 14px;
+    background: var(--ink);
+    color: var(--bg);
+    font-weight: 700;
+    text-align: center;
+  }
+  .toast.show{ display: block; }
+  .toast a{ color: var(--bg); text-decoration-color: var(--accent); text-decoration-thickness: 3px; text-underline-offset: 4px; }
+  .ascii-pop{ position: fixed; z-index: 40; margin: 0; font: 15px/1.1 'Courier New', monospace; white-space: pre; pointer-events: none; }
+  .ascii-pop.yugo{ left: 0; bottom: 84px; color: var(--accent); animation: drive 6s linear forwards; }
+  .ascii-pop.sandwich{ right: clamp(16px, 3vw, 48px); bottom: 96px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); padding: 14px 18px; }
+  @keyframes drive{ from{ transform: translateX(-110%); } to{ transform: translateX(calc(100vw + 110%)); } }
+  .name.glitch .rough{ animation: jitter 0.1s steps(2) 10; }
+  @keyframes jitter{ from{ transform: translate(-0.08em, 0.06em) rotate(-5deg); } to{ transform: translate(0.04em, -0.02em) rotate(3deg); } }
+  @media (prefers-reduced-motion: reduce){ .ascii-pop.yugo{ left: 50%; transform: translateX(-50%); } }
+
   footer{
     padding-top: 40px;
     padding-bottom: 60px;
@@ -446,6 +496,7 @@
     *{ animation: none !important; transition: none !important; }
   }
 </style>
+<!-- the back room is at /secret/. nobody links to it. -->
 </head>
 <body>
 <canvas id="c" aria-hidden="true"></canvas>
@@ -458,6 +509,7 @@
         <a href="#work">Work</a>
         <a href="#music">Music</a>
         <a href="#hi">About</a>
+        <a href="comics/">Comics</a>
         <a href="elsewhere/">Elsewhere</a>
         <a href="battleship/">Battleship</a>
         <a class="pill" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a>
@@ -508,6 +560,14 @@
       <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
       <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
       <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
+    </div>
+  </div>
+
+  <div class="now" id="now" hidden>
+    <div class="wrap now-inner">
+      <span class="now-title">Right now</span>
+      <div class="now-items" id="now-items"></div>
+      <span class="now-date" id="now-date"></span>
     </div>
   </div>
 
@@ -666,6 +726,8 @@ var WORK = [
   mv.addEventListener('load', function(){ document.getElementById('stage').classList.add('has-model'); });
 })();
 </script>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script>
 // Background animation generated using https://baptiste-schlienger.com/experiments/animatedascii/index.html
@@ -843,5 +905,120 @@ var WORK = [
   requestAnimationFrame(tick);
 })();
 </script>
+<script>
+/*
+  RIGHT NOW STRIP. Change the text, or add your own lines.
+  Anything with empty text just doesn't show, so fill in "Listening to" and "Playing" whenever you want.
+*/
+var NOW = {
+  updated: "Oct 1, 2026",
+  items: [
+    { label: "Writing", text: "The Long Shot Initiative", href: "tlsi/" },
+    { label: "Making", text: "Music in FL Studio" },
+    { label: "Listening to", text: "" },
+    { label: "Playing", text: "" }
+  ]
+};
+(function(){
+  var items = (NOW.items || []).filter(function(i){ return i.text; });
+  if (!items.length) return;
+  var box = document.getElementById('now-items');
+  items.forEach(function(i){
+    var wrap = document.createElement('div'); wrap.className = 'now-item';
+    var k = document.createElement('span'); k.className = 'k'; k.textContent = i.label;
+    var v = document.createElement('span'); v.className = 'v';
+    if (i.href){ var a = document.createElement('a'); a.href = i.href; a.textContent = i.text; v.appendChild(a); }
+    else v.textContent = i.text;
+    wrap.appendChild(k); wrap.appendChild(v); box.appendChild(wrap);
+  });
+  if (NOW.updated) document.getElementById('now-date').textContent = 'Updated ' + NOW.updated;
+  document.getElementById('now').hidden = false;
+})();
+</script>
+
+<script>
+// Easter eggs. What gets found is remembered in this browser so the secret page can show it.
+(function(){
+  var KEY = 'rad-eggs';
+  function load(){ try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch(e){ return {}; } }
+  function found(id){ var o = load(); if (!o[id]){ o[id] = Date.now(); try { localStorage.setItem(KEY, JSON.stringify(o)); } catch(e){} } }
+
+  var toast = document.getElementById('toast'), timer;
+  function say(text, link){
+    toast.textContent = text;
+    if (link){
+      toast.appendChild(document.createTextNode(' '));
+      var a = document.createElement('a'); a.href = link.href; a.textContent = link.label; toast.appendChild(a);
+    }
+    toast.classList.add('show');
+    clearTimeout(timer);
+    timer = setTimeout(function(){ toast.classList.remove('show'); }, link ? 9000 : 3500);
+  }
+  function unlock(){ say('You found the back room.', { href: 'secret/', label: 'Go in' }); }
+
+  function pop(cls, art, ms){
+    if (document.querySelector('.ascii-pop.' + cls)) return;
+    var p = document.createElement('pre'); p.className = 'ascii-pop ' + cls; p.setAttribute('aria-hidden', 'true'); p.textContent = art;
+    document.body.appendChild(p);
+    setTimeout(function(){ p.remove(); }, ms);
+  }
+  var YUGO = [
+    '     _________',
+    '  __/ |      |  \\__',
+    ' |  [YUGO]        |',
+    ' |__(O)______(O)__|'
+  ].join('\n');
+  var SANDWICH = [
+    '  .--------------.',
+    ' (  o  o  o  o  o )',
+    "  '--------------'",
+    '  ################',
+    '  ~~~~~~~~~~~~~~~~',
+    '  ================',
+    '  (______________)'
+  ].join('\n');
+
+  // type words anywhere on the page, or the old cheat code
+  var KONAMI = ['ArrowUp','ArrowUp','ArrowDown','ArrowDown','ArrowLeft','ArrowRight','ArrowLeft','ArrowRight','b','a'];
+  var seq = [], word = '';
+  document.addEventListener('keydown', function(e){
+    if (e.ctrlKey || e.metaKey || e.altKey) return;
+    var tag = (e.target && e.target.tagName) || '';
+    if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+    var k = e.key.length === 1 ? e.key.toLowerCase() : e.key;
+    seq.push(k); if (seq.length > KONAMI.length) seq.shift();
+    if (seq.join() === KONAMI.join()){ found('konami'); unlock(); seq = []; }
+    if (e.key.length === 1){
+      word = (word + k).slice(-12);
+      if (word.slice(-4) === 'yugo'){ found('yugo'); pop('yugo', YUGO, 6300); say('Yugo spotted.'); word = ''; }
+      else if (word.slice(-8) === 'sandwich'){ found('sandwich'); pop('sandwich', SANDWICH, 6000); say('The Big Sandwich. Atlantic Superstore, Highway 214.'); word = ''; }
+    }
+  });
+
+  // poke the logo 7 times
+  var mark = document.querySelector('.top .mark'), logoClicks = 0, logoLast = 0;
+  if (mark) mark.addEventListener('click', function(){
+    var now = Date.now();
+    logoClicks = (now - logoLast < 1500) ? logoClicks + 1 : 1; logoLast = now;
+    if (logoClicks >= 7){ logoClicks = 0; found('logo'); unlock(); }
+  });
+
+  // poke the giant name 5 times
+  var nameEl = document.querySelector('h1.name'), nameClicks = 0, nameLast = 0;
+  if (nameEl) nameEl.addEventListener('click', function(){
+    var now = Date.now();
+    nameClicks = (now - nameLast < 2000) ? nameClicks + 1 : 1; nameLast = now;
+    if (nameClicks >= 5){
+      nameClicks = 0; found('name'); say('Ow.');
+      nameEl.classList.add('glitch'); setTimeout(function(){ nameEl.classList.remove('glitch'); }, 1100);
+    }
+  });
+
+  if (window.console && console.log){
+    console.log('%cpsst', 'color:#5b9be6;font-weight:800;font-size:22px', '\nThere is a back room on this site and nothing links to it.\nTry typing things. Try the old cheat code. Try poking stuff.');
+  }
+})();
+</script>
+
 </body>
 </html>

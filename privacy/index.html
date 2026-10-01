@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rules and privacy (Rad)</title>
+<meta name="description" content="What this site stores about you if you sign in, and the rules for comments.">
+<meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    color-scheme: dark;
+    --bg: #0b0d11; --ink: #f1f3f5; --muted: #a7b0ba; --line: #252a31; --accent: #5b9be6;
+    --font: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif;
+    --max: 2200px; --gutter: clamp(20px, 4vw, 64px);
+  }
+  *{ box-sizing: border-box; }
+  body{ margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 18px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  ::selection{ background: var(--accent); color: var(--bg); }
+  a{ color: var(--ink); text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  a:hover{ color: var(--accent); }
+  :focus-visible{ outline: 2px solid var(--accent); outline-offset: 3px; }
+  .wrap{ width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
+  .top{ padding-top: 26px; padding-bottom: 26px; }
+  .top a{ font-weight: 800; font-size: 22px; letter-spacing: -0.03em; text-decoration: none; }
+  h1{ margin: 5vh 0 0; font-size: clamp(48px, 9vw, 150px); font-weight: 800; line-height: 0.88; letter-spacing: -0.05em; }
+  .sub{ margin: 20px 0 0; font-size: clamp(20px, 2vw, 28px); color: var(--muted); max-width: 44ch; }
+  .grid{ margin-top: 72px; display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 56px clamp(32px, 5vw, 96px); }
+  h2{ margin: 0 0 12px; font-size: clamp(26px, 3vw, 40px); font-weight: 700; line-height: 1.05; letter-spacing: -0.025em; }
+  .grid p, .grid li{ max-width: 60ch; color: var(--muted); }
+  .grid li{ margin-bottom: 8px; }
+  .grid ul{ margin: 0; padding-left: 20px; }
+  .grid b{ color: var(--ink); font-weight: 600; }
+  footer{ padding-top: 64px; padding-bottom: 60px; font-size: 14px; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap top"><a href="../">rad</a></div>
+
+<main class="wrap">
+  <h1>Rules and privacy</h1>
+  <p class="sub">Plain version. You only need this if you sign in.</p>
+
+  <div class="grid">
+    <section>
+      <h2>What gets stored</h2>
+      <ul>
+        <li><b>A username</b> you pick. Everyone can see it.</li>
+        <li><b>Your sign in.</b> Discord (or an emailed link) tells the site who you are. There is no password on this site, and I never see one.</li>
+        <li><b>Your comments</b> on comic pages, with the date.</li>
+        <li><b>Your place</b> in each comic, so it can open where you stopped.</li>
+        <li><b>Your game results</b> for the Battleship leaderboard: wins and losses.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Who else touches it</h2>
+      <ul>
+        <li><b>Supabase</b> stores accounts and data for me.</li>
+        <li><b>Discord</b> handles the sign in if you use it. I only get what is needed to make your account.</li>
+        <li><b>GitHub</b> hosts the site itself.</li>
+        <li><b>Online Battleship</b> connects your browser straight to your opponent's, and that can show them your IP address. Play the bot if that bothers you.</li>
+        <li>The visitor counters count visits. They do not know who you are.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Comment rules</h2>
+      <ul>
+        <li>Be decent. No hate, no harassment, no spam, no links to sketchy stuff.</li>
+        <li>No personal info about anyone, including yourself.</li>
+        <li>I can delete any comment, and remove anyone who ruins it for others.</li>
+        <li>You need to be <b>13 or older</b> to sign in.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Getting out</h2>
+      <p>Click your username at the top of the comics or Battleship page, then <b>Delete my account</b>. That removes your username, comments, place in each comic, and scores for good.</p>
+      <p>If that does not work, message me on <a href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a> and I will do it by hand.</p>
+    </section>
+  </div>
+</main>
+
+<footer class="wrap">Questions? Ask in the Discord.</footer>
+</body>
+</html>
