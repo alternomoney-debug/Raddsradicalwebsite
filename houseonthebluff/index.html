@@ -5,23 +5,89 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>House on the Bluff Records</title>
 <style>
-  /*
-    REZA: this whole file is a stand-in. Delete everything in it and put your own page here.
-    Any look you want, any fonts, any colours. It does NOT have to match the main site on purpose.
-    The folder is houseonthebluff/ and the file has to be named index.html.
-  */
-  body{ margin: 0; min-height: 100svh; display: grid; place-items: center; background: #f2efe8; color: #1b1b1b; font: 20px/1.5 Georgia, 'Times New Roman', serif; text-align: center; padding: 24px; }
-  h1{ margin: 0 0 12px; font-size: clamp(32px, 6vw, 72px); font-weight: 400; }
-  p{ margin: 0 0 8px; }
+  body{ margin: 0; min-height: 100svh; background: #f2efe8; color: #1b1b1b; font: 18px/1.6 Georgia, 'Times New Roman', serif; padding: 24px; }
+  main{ max-width: 860px; margin: 0 auto; }
+  h1{ margin: 40px 0 4px; font-size: clamp(32px, 6vw, 68px); font-weight: 400; text-align: center; }
+  .tagline{ margin: 0 0 40px; font-style: italic; color: #555; text-align: center; }
+  .bio{ margin: 0 0 56px; }
+  .bio p{ margin: 0 0 16px; }
+
+  .members{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+    margin: 0 0 48px;
+  }
+  .card{
+    position: relative;
+    background: #fffdf8;
+    border: 1px solid #00000014;
+    border-radius: 4px;
+    padding: 22px 20px 20px;
+    box-shadow: 0 2px 6px #00000010;
+    overflow: hidden;
+  }
+  .card::before{
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 6px;
+    background: var(--c);
+  }
+  .card h2{ margin: 6px 0 6px; font-size: 22px; font-weight: 600; }
+  .card p{ margin: 0; color: #333; font-size: 16px; line-height: 1.5; }
+  .card .role-tag{
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--c);
+    font-family: Georgia, serif;
+    font-style: italic;
+  }
+
   a{ color: inherit; }
+  .back{ display: inline-block; margin-top: 8px; }
 </style>
 </head>
 <body>
   <main>
     <h1>House on the Bluff Records</h1>
-    <p>An unincorporated partnership of musicians.</p>
-    <p>This page is being made by Reza. Check back.</p>
-    <p><a href="../">Back to Rad's site</a></p>
+    <p class="tagline">An unincorporated partnership of musicians.</p>
+
+    <section class="bio">
+      <p>House on the Bluff formed in late 2024, a handful of friends with nothing better to do outside of school, piling into a basement in Nova Scotia to mess around with instruments. The name comes from Rad's grandfather's house, where he grew up on a bluff on Cape Croker reservation. The band wasn't actually named until April 2025, not long after he passed. It felt right to carry the name forward.</p>
+      <p>That basement's gone now too, and the band's scattered further apart these days. We're on pause while Reza makes his way back, waiting to pick it back up properly. Until then, consider this page a bit of a memoir for a band that's between chapters. About $24k went into gear and the room that made it all possible.</p>
+      <p>We've made soundtrack and ambient, somber work for a few friends and old faces over the years, some student films even have our work in them. We just don't really share where, though. We gatekeep.</p>
+      <p>We've also done soundtrack work for a Roblox game, though we've been putting some distance between ourselves and that project.</p>
+    </section>
+
+    <div class="members">
+      <div class="card" style="--c:#b22222">
+        <h2>Jayce</h2>
+        <p>Brass (trumpet, saxophone), synths, acoustic guitar, secondary guitar, FL Studio.</p>
+        <span class="role-tag">Legal Consultant</span>
+      </div>
+      <div class="card" style="--c:#d6c23a">
+        <h2>Budiworo</h2>
+        <p>Scorist, onsite mastering, strings, violin, secondary piano.</p>
+      </div>
+      <div class="card" style="--c:#4aa8e0">
+        <h2>Radd</h2>
+        <p>Composer, piano, electric guitar, post-mastering, FL Studio (but better).</p>
+      </div>
+      <div class="card" style="--c:#7d3c98">
+        <h2>Chris</h2>
+        <p>Jack of spades, master of none.</p>
+      </div>
+      <div class="card" style="--c:#4b7f2e">
+        <h2>Danny</h2>
+        <p>Bassist, punching bag.</p>
+      </div>
+    </div>
+
+    <p><a class="back" href="../">Back to Rad's site</a></p>
   </main>
 </body>
 </html>
