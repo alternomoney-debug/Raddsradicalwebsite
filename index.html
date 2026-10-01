@@ -175,8 +175,7 @@
     touch-action: none;
   }
   .stage.has-model svg{ display: none; }
-  .stage line{ stroke: var(--accent); stroke-width: 1.1; opacity: 0.75; }
-  .stage circle{ fill: var(--bg); stroke: var(--ink); stroke-width: 1.2; }
+  .stage line{ stroke: var(--accent); stroke-width: 2; stroke-linecap: round; }
   .stage-hint{
     position: absolute;
     left: 0;
@@ -450,7 +449,7 @@
       <h2>Work</h2>
       <p class="lead" id="work-lead">Models, art, and stills from animations. Click anything to see it bigger.</p>
       <div class="work-grid" id="grid"></div>
-      <p class="soon" id="soon">WILL ADD IMAGES SOONER OR LATER.<br><a href="#find-me">PLEASE GO ELSEWHERE</a> :)</p>
+      <p class="soon" id="soon">WILL ADD IMAGES SOONER OR LATER.<br><a href="elsewhere/">PLEASE GO ELSEWHERE</a> :)</p>
     </div>
   </section>
 
@@ -497,6 +496,7 @@
   <footer class="wrap">
     <span>House on the Bluff Records, an unincorporated partnership of musicians, <span id="yr">2026</span></span>
     <span>Made by Jayce and R, Budiworo, J.</span>
+    <span>ASCII background by TheMonHub on Discord</span>
   </footer>
   <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </div>
@@ -701,19 +701,23 @@ var WORK = [
 </script>
 
 <script>
-// Fallback wireframe, shown until model.glb exists. Drag to spin.
+// Fallback shape: the Blender default cube. Shown until model.glb exists. Drag to spin.
 (function(){
   var svg = document.getElementById('rig');
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var t = (1 + Math.sqrt(5)) / 2;
-  var raw = [[-1,t,0],[1,t,0],[-1,-t,0],[1,-t,0],[0,-1,t],[0,1,t],[0,-1,-t],[0,1,-t],[t,0,-1],[t,0,1],[-t,0,-1],[-t,0,1]];
-  var verts = raw.map(function(v){ var l = Math.hypot(v[0],v[1],v[2]); return [v[0]/l*90, v[1]/l*90, v[2]/l*90]; });
-  var edges = [[0,1],[0,5],[0,7],[0,10],[0,11],[1,5],[1,7],[1,8],[1,9],[2,3],[2,4],[2,6],[2,10],[2,11],[3,4],[3,6],[3,8],[3,9],[4,5],[4,9],[4,11],[5,9],[5,11],[6,7],[6,8],[6,10],[7,8],[7,10],[8,9],[10,11]];
+  var S = 78;                 // half the cube's width
+  var R = S * Math.sqrt(3);   // furthest a corner can be from the center
+
+  var verts = [
+    [-S,-S,-S],[ S,-S,-S],[ S, S,-S],[-S, S,-S],
+    [-S,-S, S],[ S,-S, S],[ S, S, S],[-S, S, S]
+  ];
+  var edges = [[0,1],[1,2],[2,3],[3,0],[4,5],[5,6],[6,7],[7,4],[0,4],[1,5],[2,6],[3,7]];
+
   var NS = 'http://www.w3.org/2000/svg';
   var lineEls = edges.map(function(){ var l = document.createElementNS(NS,'line'); svg.appendChild(l); return l; });
-  var vertEls = verts.map(function(){ var c = document.createElementNS(NS,'circle'); c.setAttribute('r', 3); svg.appendChild(c); return c; });
 
-  var rotX = 0.4, rotY = 0, velX = 0, velY = reduce ? 0 : 0.004;
+  var rotX = 0.5, rotY = 0.6, velX = 0, velY = reduce ? 0 : 0.003;
   var dragging = false, lastX = 0, lastY = 0;
   svg.addEventListener('pointerdown', function(e){ dragging = true; lastX = e.clientX; lastY = e.clientY; svg.setPointerCapture(e.pointerId); });
   svg.addEventListener('pointermove', function(e){
@@ -729,18 +733,22 @@ var WORK = [
     var x1 = v[0]*cy - v[2]*sy, z1 = v[0]*sy + v[2]*cy;
     var cx = Math.cos(rotX), sx = Math.sin(rotX);
     var y2 = v[1]*cx - z1*sx, z2 = v[1]*sx + z1*cx;
-    var s = 260 / (260 + z2);
-    return [x1*s, y2*s];
+    var s = 320 / (320 + z2);
+    return [x1*s, y2*s, z2];
   }
+
   function tick(){
     rotY += velY; rotX += velX;
-    if (!dragging){ velY += ((reduce ? 0 : 0.004) - velY) * 0.03; velX *= 0.95; }
+    if (!dragging){ velY += ((reduce ? 0 : 0.003) - velY) * 0.03; velX *= 0.95; }
     var pts = verts.map(project);
     edges.forEach(function(e, i){
       var a = pts[e[0]], b = pts[e[1]], l = lineEls[i];
-      l.setAttribute('x1', a[0]); l.setAttribute('y1', a[1]); l.setAttribute('x2', b[0]); l.setAttribute('y2', b[1]);
+      // front edges solid, back edges faint, so it's clear which side is facing you
+      var depth = ((a[2] + b[2]) / 2 + R) / (2 * R);
+      l.setAttribute('x1', a[0]); l.setAttribute('y1', a[1]);
+      l.setAttribute('x2', b[0]); l.setAttribute('y2', b[1]);
+      l.setAttribute('stroke-opacity', (0.9 - depth * 0.8).toFixed(2));
     });
-    pts.forEach(function(p, i){ vertEls[i].setAttribute('cx', p[0]); vertEls[i].setAttribute('cy', p[1]); });
     requestAnimationFrame(tick);
   }
   requestAnimationFrame(tick);
