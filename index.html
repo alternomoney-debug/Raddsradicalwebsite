@@ -376,6 +376,28 @@
   }
   .link-row .handle{ text-align: right; overflow-wrap: anywhere; }
 
+  .mail{
+    display: grid;
+    grid-template-columns: minmax(220px, 0.4fr) 1fr;
+    gap: 24px;
+    padding: 28px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .mail-label{
+    margin: 0;
+    font-size: clamp(36px, 5vw, 72px);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1;
+  }
+  .mail address{
+    font-style: normal;
+    font-size: clamp(20px, 2vw, 28px);
+    line-height: 1.35;
+    align-self: center;
+  }
+  @media (max-width: 860px){ .mail{ grid-template-columns: 1fr; gap: 12px; } }
+
   footer{
     padding-top: 40px;
     padding-bottom: 60px;
@@ -417,6 +439,7 @@
       <a href="#music">Music</a>
       <a href="#hi">About</a>
       <a href="#find-me">Contact</a>
+      <a href="battleship/">Battleship</a>
     </nav>
   </div>
 
@@ -530,6 +553,10 @@
         <span><span class="label">Labirhin</span><span class="who">Where I work as captionist and sub localization lead</span></span>
         <span class="handle">@Labirhin</span>
       </a>
+      <div class="mail">
+        <p class="mail-label">Send mail</p>
+        <address>Radd &amp; Crew<br>P.O. Box 6174<br>Lubbock, TX 79493-6174<br>USA</address>
+      </div>
     </div>
   </section>
 
