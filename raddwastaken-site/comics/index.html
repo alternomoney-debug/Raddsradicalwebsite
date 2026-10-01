@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comics (Rad)</title>
+<meta name="description" content="Read my webcomics, leave a comment, and pick up where you left off.">
+<meta name="theme-color" content="#0b0d11">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Rad">
+<meta property="og:title" content="Comics (Rad)">
+<meta property="og:description" content="Read my webcomics, leave a comment, and pick up where you left off.">
+<meta property="og:url" content="https://raddwastaken.art/comics/">
+<meta property="og:image" content="https://raddwastaken.art/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    color-scheme: dark;
+    --bg: #0b0d11; --bg-alt: #14171c; --ink: #f1f3f5; --muted: #a7b0ba; --line: #252a31; --accent: #5b9be6;
+    --font: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif;
+    --max: 2200px; --gutter: clamp(16px, 4vw, 64px); --radius: 10px;
+  }
+  *{ box-sizing: border-box; }
+  body{ margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 17px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  ::selection{ background: var(--accent); color: var(--bg); }
+  a{ color: var(--ink); text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  a:hover{ color: var(--accent); }
+  :focus-visible{ outline: 2px solid var(--accent); outline-offset: 3px; }
+  .wrap{ width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
+  [hidden]{ display: none !important; }
+
+  .top{ display: flex; justify-content: space-between; align-items: center; gap: 16px; padding-top: 22px; padding-bottom: 22px; }
+  .top .mark{ font-weight: 800; font-size: 22px; letter-spacing: -0.03em; text-decoration: none; }
+  .top .right{ display: flex; align-items: center; gap: 20px; }
+  .top .right a{ color: var(--muted); text-decoration: none; font-weight: 500; }
+  .top .right a:hover{ color: var(--ink); }
+
+  h1{ margin: 0; font-size: clamp(56px, 10vw, 160px); font-weight: 800; line-height: 0.85; letter-spacing: -0.05em; }
+  .sub{ margin: 20px 0 0; font-size: clamp(20px, 2vw, 28px); color: var(--muted); max-width: 40ch; }
+  main{ padding-top: 4vh; padding-bottom: 8vh; }
+
+  /* list */
+  .empty{ margin: 64px 0 0; font-size: clamp(34px, 6vw, 96px); font-weight: 800; line-height: 0.95; letter-spacing: -0.035em; }
+  .cards{ margin-top: 56px; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 28px; }
+  .card{ display: block; text-decoration: none; }
+  .card .cover{ aspect-ratio: 3 / 4; width: 100%; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+  .card .cover img{ width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.4s ease; }
+  .card:hover .cover img{ transform: scale(1.03); }
+  .card h2{ margin: 14px 0 4px; font-size: clamp(24px, 2.2vw, 32px); font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+  .card p{ margin: 0; color: var(--muted); }
+  .card .go{ margin-top: 6px; color: var(--accent); font-weight: 600; }
+
+  /* reader */
+  .rhead{ display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 24px; margin-bottom: 20px; }
+  .rhead .back{ color: var(--muted); text-decoration: none; }
+  .rhead .back:hover{ color: var(--ink); }
+  .rhead h1{ font-size: clamp(32px, 4vw, 60px); letter-spacing: -0.035em; line-height: 1; }
+  .rhead .pageinfo{ margin-left: auto; color: var(--muted); }
+  .layout{ display: grid; grid-template-columns: 1fr; gap: 32px; }
+  @media (min-width: 1200px){ .layout.has-comments{ grid-template-columns: minmax(0, 1.7fr) minmax(320px, 1fr); gap: clamp(32px, 4vw, 72px); align-items: start; } }
+
+  .viewer{ display: flex; justify-content: center; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); padding: clamp(8px, 1.5vw, 20px); min-height: 40vh; }
+  .viewer img{ display: block; max-width: 100%; max-height: 84vh; width: auto; height: auto; cursor: pointer; }
+  .viewer .err{ align-self: center; color: var(--muted); }
+  .controls{ display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; margin-top: 16px; }
+  button, select{ font: 700 16px var(--font); color: var(--ink); background: var(--bg-alt); border: 1px solid var(--line); padding: 10px 18px; border-radius: 999px; cursor: pointer; }
+  select{ font-weight: 500; max-width: 60vw; }
+  button:hover:not(:disabled){ border-color: var(--accent); }
+  button:disabled{ opacity: 0.35; cursor: not-allowed; }
+  button.solid{ background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  .keys{ text-align: center; margin-top: 10px; font-size: 14px; color: var(--muted); }
+
+  /* comments */
+  .comments h2{ margin: 0 0 6px; font-size: clamp(24px, 2.4vw, 34px); font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+  .comments .note{ margin: 0 0 18px; color: var(--muted); }
+  .comments form{ display: grid; gap: 10px; margin-bottom: 8px; }
+  .comments textarea{ width: 100%; min-height: 96px; resize: vertical; font: inherit; color: var(--ink); background: transparent; border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 14px; }
+  .comments .row{ display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+  .comments .count{ margin-left: auto; font-size: 14px; color: var(--muted); }
+  .comments .msg{ min-height: 1.4em; margin: 0; color: #ff7a68; font-size: 15px; }
+  .clist{ margin-top: 12px; border-top: 1px solid var(--line); }
+  .c{ padding: 16px 0; border-bottom: 1px solid var(--line); }
+  .c .who{ display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+  .c .who b{ font-size: 17px; }
+  .c .when{ font-size: 14px; color: var(--muted); }
+  .c .del{ margin-left: auto; padding: 2px 10px; font-size: 13px; color: var(--muted); }
+  .c .body{ margin: 6px 0 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+  .none{ padding: 16px 0; color: var(--muted); }
+
+  footer{ padding-top: 24px; padding-bottom: 60px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 32px; font-size: 14px; color: var(--muted); }
+  footer a{ color: inherit; }
+  @media (prefers-reduced-motion: reduce){ *{ transition: none !important; } }
+</style>
+</head>
+<body>
+  <div class="wrap top">
+    <a class="mark" href="../">rad</a>
+    <div class="right">
+      <a href="./">All comics</a>
+      <span id="acct"></span>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <!-- the list of comics -->
+    <section id="list" hidden>
+      <h1>Comics</h1>
+      <p class="sub" id="list-sub"></p>
+      <p class="empty" id="empty" hidden>NOTHING UP YET.<br>SOONER OR LATER.</p>
+      <div class="cards" id="cards"></div>
+    </section>
+
+    <!-- reading one -->
+    <section id="reader" hidden>
+      <div class="rhead">
+        <a class="back" href="./">&larr; All comics</a>
+        <h1 id="ctitle"></h1>
+        <span class="pageinfo" id="pageinfo"></span>
+      </div>
+      <div class="layout" id="layout">
+        <div>
+          <div class="viewer" id="viewer"><img id="page" alt=""></div>
+          <div class="controls">
+            <button type="button" id="first" aria-label="First page">&laquo;</button>
+            <button type="button" id="prev" class="solid">Previous</button>
+            <select id="jump" aria-label="Jump to a page"></select>
+            <button type="button" id="next" class="solid">Next</button>
+            <button type="button" id="last" aria-label="Last page">&raquo;</button>
+          </div>
+          <p class="keys">Use the left and right arrow keys, or tap the page to go forward.</p>
+        </div>
+
+        <aside class="comments" id="comments" hidden>
+          <h2 id="chead">Comments</h2>
+          <p class="note" id="cnote"></p>
+          <form id="cform" hidden>
+            <textarea id="cbody" maxlength="1000" placeholder="Say something nice, or at least say something." aria-label="Your comment"></textarea>
+            <div class="row">
+              <button type="submit" class="solid" id="cpost">Post</button>
+              <span class="count" id="ccount">0 / 1000</span>
+            </div>
+          </form>
+          <button type="button" id="csignin" hidden>Sign in to comment</button>
+          <p class="msg" id="cmsg"></p>
+          <div class="clist" id="clist"></div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <span>Comics by Rad</span>
+    <span><a id="privacy-link" href="../privacy/">Rules and privacy</a></span>
+  </footer>
+
+<script src="../config.js"></script>
+<script src="../auth.js"></script>
+<script>
+/*
+  YOUR COMICS GO HERE.
+
+  For each comic, make a folder inside "comics" named after its slug and put the page images in it,
+  named 001.webp, 002.webp, 003.webp and so on (3 digits). A cover.webp in the same folder is optional.
+  Then add a block below. "pages" is how many pages there are. Add new pages by bumping that number.
+
+    comics/
+      my-comic/
+        cover.webp
+        001.webp
+        002.webp
+*/
+var COMICS = [
+  // {
+  //   slug: "my-comic",            // the folder name. letters, numbers, dashes. Never change it later or comments and bookmarks get lost.
+  //   title: "My Comic",
+  //   blurb: "One line about it.",
+  //   pages: 24,
+  //   ext: "webp",                 // or "png" or "jpg"
+  //   chapters: [ { title: "Chapter 1", start: 1 }, { title: "Chapter 2", start: 9 } ]   // optional
+  // }
+];
+
+(function(){
+  var $ = function(id){ return document.getElementById(id); };
+  var params = new URLSearchParams(location.search);
+  var slug = params.get('c');
+  var comic = COMICS.filter(function(c){ return c.slug === slug; })[0];
+  var page = 1, cTok = 0, saveTimer = null;
+
+  function pad(n){ return String(n).padStart(3, '0'); }
+  function src(c, n){ return c.slug + '/' + pad(n) + '.' + (c.ext || 'webp'); }
+  function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text) e.textContent = text; return e; }
+
+  // ---------- where you left off: this browser always remembers, your account remembers too ----------
+  var BM = 'rad-bookmarks';
+  function localMarks(){ try { return JSON.parse(localStorage.getItem(BM)) || {}; } catch(e){ return {}; } }
+  function setLocal(s, p){ var m = localMarks(); m[s] = p; try { localStorage.setItem(BM, JSON.stringify(m)); } catch(e){} }
+  function serverMarks(){
+    if (!window.RadAuth || !RadAuth.enabled || !RadAuth.sb || !RadAuth.user) return Promise.resolve({});
+    return Promise.resolve(RadAuth.sb.from('bookmarks').select('comic,page')).then(function(r){
+      var m = {}; ((r && r.data) || []).forEach(function(x){ m[x.comic] = x.page; }); return m;
+    }).catch(function(){ return {}; });
+  }
+  function allMarks(){ return serverMarks().then(function(sv){ var m = localMarks(); Object.keys(sv).forEach(function(k){ m[k] = sv[k]; }); return m; }); }
+  function saveMark(s, p){
+    setLocal(s, p);
+    if (!window.RadAuth || !RadAuth.enabled || !RadAuth.sb || !RadAuth.user) return;
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(function(){
+      Promise.resolve(RadAuth.sb.from('bookmarks').upsert(
+        { user_id: RadAuth.user.id, comic: s, page: p, updated_at: new Date().toISOString() },
+        { onConflict: 'user_id,comic' }
+      )).catch(function(){});
+    }, 800);
+  }
+
+  // ---------- the list ----------
+  function showList(){
+    $('list').hidden = false;
+    if (!COMICS.length){ $('empty').hidden = false; return; }
+    $('list-sub').textContent = 'Pick one.';
+    allMarks().then(draw);
+    function draw(marks){
+      $('cards').innerHTML = '';
+      COMICS.forEach(function(c){
+        var mark = marks[c.slug] || 0;
+        var a = el('a', 'card'); a.href = '?c=' + encodeURIComponent(c.slug) + (mark > 1 ? '&p=' + mark : '');
+        var cover = el('div', 'cover'); var im = el('img'); im.src = c.slug + '/cover.' + (c.ext || 'webp'); im.alt = '';
+        im.addEventListener('error', function(){ im.remove(); }); cover.appendChild(im);
+        a.appendChild(cover); a.appendChild(el('h2', '', c.title));
+        if (c.blurb) a.appendChild(el('p', '', c.blurb));
+        a.appendChild(el('div', 'go', mark > 1 ? 'Continue from page ' + mark : 'Start reading'));
+        $('cards').appendChild(a);
+      });
+    }
+    if (window.RadAuth) RadAuth.onChange(function(){ allMarks().then(draw); });
+  }
+
+  // ---------- the reader ----------
+  function show(n, fromLoad){
+    n = Math.max(1, Math.min(comic.pages, n));
+    page = n;
+    var im = $('page');
+    im.alt = comic.title + ', page ' + n;
+    $('viewer').querySelectorAll('.err').forEach(function(e){ e.remove(); });
+    im.hidden = false;
+    im.onerror = function(){ im.hidden = true; var e = el('p', 'err', 'This page is not uploaded yet.'); $('viewer').appendChild(e); };
+    im.src = src(comic, n);
+    $('pageinfo').textContent = 'Page ' + n + ' of ' + comic.pages;
+    $('jump').value = String(n);
+    $('first').disabled = $('prev').disabled = n <= 1;
+    $('last').disabled = $('next').disabled = n >= comic.pages;
+    history.replaceState(null, '', '?c=' + encodeURIComponent(comic.slug) + '&p=' + n);
+    document.title = comic.title + ', page ' + n + ' (Rad)';
+    if (n < comic.pages){ var pre = new Image(); pre.src = src(comic, n + 1); }
+    if (!fromLoad) { window.scrollTo({ top: 0, behavior: 'auto' }); }
+    saveMark(comic.slug, n);
+    loadComments();
+  }
+
+  function showReader(){
+    $('reader').hidden = false;
+    $('ctitle').textContent = comic.title;
+    var jump = $('jump');
+    var groups = comic.chapters && comic.chapters.length ? comic.chapters.slice().sort(function(a, b){ return a.start - b.start; }) : null;
+    var parent = jump, grp = null, gi = 0;
+    for (var i = 1; i <= comic.pages; i++){
+      if (groups && gi < groups.length && groups[gi].start === i){ grp = el('optgroup'); grp.label = groups[gi].title; jump.appendChild(grp); parent = grp; gi++; }
+      var o = el('option', '', 'Page ' + i); o.value = String(i); parent.appendChild(o);
+    }
+    jump.addEventListener('change', function(){ show(parseInt(jump.value, 10)); });
+    $('first').addEventListener('click', function(){ show(1); });
+    $('prev').addEventListener('click', function(){ show(page - 1); });
+    $('next').addEventListener('click', function(){ show(page + 1); });
+    $('last').addEventListener('click', function(){ show(comic.pages); });
+    $('page').addEventListener('click', function(){ show(page + 1); });
+    document.addEventListener('keydown', function(e){
+      var t = (e.target && e.target.tagName) || '';
+      if (t === 'TEXTAREA' || t === 'INPUT' || t === 'SELECT' || e.ctrlKey || e.metaKey || e.altKey) return;
+      if (e.key === 'ArrowRight') show(page + 1);
+      if (e.key === 'ArrowLeft') show(page - 1);
+    });
+
+    var wanted = parseInt(params.get('p'), 10);
+    if (wanted >= 1){ show(wanted, true); }
+    else {
+      show(1, true);   // draw something right away
+      allMarks().then(function(m){ if (m[comic.slug] > 1 && page === 1 && !params.get('p')) show(m[comic.slug], true); });
+    }
+    setupComments();
+  }
+
+  // ---------- comments (only if the login system is switched on) ----------
+  function msg(t){ $('cmsg').textContent = t || ''; }
+  function setupComments(){
+    if (!window.RadAuth || !RadAuth.enabled) return;
+    $('comments').hidden = false;
+    $('layout').classList.add('has-comments');
+    $('cbody').addEventListener('input', function(){ $('ccount').textContent = $('cbody').value.length + ' / 1000'; });
+    $('csignin').addEventListener('click', function(){ RadAuth.open('signin'); });
+    $('cform').addEventListener('submit', function(ev){
+      ev.preventDefault(); msg('');
+      var body = $('cbody').value.trim();
+      if (!body) return msg('Write something first.');
+      if (!RadAuth.profile){ RadAuth.open('username'); return; }
+      $('cpost').disabled = true;
+      Promise.resolve(RadAuth.sb.from('comments').insert({ comic: comic.slug, page: page, body: body, user_id: RadAuth.user.id })).then(function(r){
+        $('cpost').disabled = false;
+        if (r && r.error){ msg(r.error.message && r.error.message.indexOf('Slow down') === 0 ? 'Slow down a little.' : 'Could not post that. Try again.'); return; }
+        $('cbody').value = ''; $('ccount').textContent = '0 / 1000'; loadComments();
+      }, function(){ $('cpost').disabled = false; msg('Could not post that. Try again.'); });
+    });
+    RadAuth.onChange(function(){ loadComments(); });
+  }
+
+  function loadComments(){
+    if (!window.RadAuth || !RadAuth.enabled || !RadAuth.sb || !comic) return;
+    var signedIn = !!RadAuth.user;
+    $('cform').hidden = !signedIn;
+    $('csignin').hidden = signedIn;
+    $('chead').textContent = 'Comments on page ' + page;
+    $('cnote').textContent = signedIn ? 'Be decent. I can remove anything.' : 'Anyone can read. Sign in to join in.';
+    var token = ++cTok;
+    Promise.resolve(RadAuth.sb.from('comments')
+      .select('id,body,created_at,user_id,profiles(username)')
+      .eq('comic', comic.slug).eq('page', page)
+      .order('created_at', { ascending: false }).limit(100)
+    ).then(function(r){
+      if (token !== cTok) return;   // a newer page was opened meanwhile
+      var list = $('clist'); list.innerHTML = '';
+      var rows = (r && r.data) || [];
+      if (!rows.length){ list.appendChild(el('div', 'none', 'No comments on this page yet.')); return; }
+      rows.forEach(function(c){
+        var box = el('div', 'c'); var who = el('div', 'who');
+        who.appendChild(el('b', '', (c.profiles && c.profiles.username) || 'someone'));
+        who.appendChild(el('span', 'when', new Date(c.created_at).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })));
+        if (RadAuth.user && (c.user_id === RadAuth.user.id || RadAuth.isAdmin)){
+          var d = el('button', 'del', 'Delete'); d.type = 'button';
+          d.addEventListener('click', function(){
+            Promise.resolve(RadAuth.sb.from('comments').delete().eq('id', c.id)).then(loadComments);
+          });
+          who.appendChild(d);
+        }
+        box.appendChild(who);
+        box.appendChild(el('p', 'body', c.body));   // textContent only, so nobody can sneak code in
+        list.appendChild(box);
+      });
+    }).catch(function(){});
+  }
+
+  // ---------- go ----------
+  if (comic) showReader(); else showList();
+  if (window.RadAuth) RadAuth.mount($('acct'));
+})();
+</script>
+</body>
+</html>
