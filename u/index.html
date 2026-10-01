@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Profile (Rad)</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    color-scheme: dark;
+    --bg: #0b0d11; --bg-alt: #14171c; --ink: #f1f3f5; --muted: #a7b0ba; --line: #252a31; --accent: #5b9be6;
+    --font: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif;
+    --max: 2200px; --gutter: clamp(16px, 4vw, 64px); --radius: 10px;
+  }
+  *{ box-sizing: border-box; }
+  body{ margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 17px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  ::selection{ background: var(--accent); color: var(--bg); }
+  a{ color: var(--ink); text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  a:hover{ color: var(--accent); }
+  :focus-visible{ outline: 2px solid var(--accent); outline-offset: 3px; }
+  [hidden]{ display: none !important; }
+  .wrap{ width: 100%; max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
+  .top{ display: flex; justify-content: space-between; align-items: center; gap: 16px; padding-top: 22px; padding-bottom: 22px; }
+  .top .mark{ font-weight: 800; font-size: 22px; letter-spacing: -0.03em; text-decoration: none; }
+  .top .right{ display: flex; align-items: center; gap: 20px; }
+  .top .right a{ color: var(--muted); text-decoration: none; font-weight: 500; }
+  .top .right a:hover{ color: var(--ink); }
+
+  main{ padding-top: 5vh; padding-bottom: 8vh; }
+  h1{ margin: 0; font-size: clamp(56px, 11vw, 190px); font-weight: 800; line-height: 0.85; letter-spacing: -0.05em; overflow-wrap: anywhere; }
+  .sub{ margin: 20px 0 0; font-size: clamp(18px, 1.8vw, 24px); color: var(--muted); }
+  .msg{ margin: 40px 0 0; font-size: clamp(28px, 4vw, 56px); font-weight: 800; letter-spacing: -0.03em; line-height: 1; }
+
+  .cols{ margin-top: 72px; display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 64px clamp(32px, 5vw, 96px); align-items: start; }
+  h2{ margin: 0 0 18px; font-size: clamp(26px, 3vw, 40px); font-weight: 700; line-height: 1.05; letter-spacing: -0.025em; }
+
+  .stats{ border-top: 1px solid var(--line); }
+  .stat{ display: grid; grid-template-columns: 1fr auto; gap: 16px; padding: 16px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
+  .stat .k{ color: var(--muted); }
+  .stat .v{ font-size: clamp(24px, 2.4vw, 34px); font-weight: 800; letter-spacing: -0.03em; }
+  .block + .block{ margin-top: 40px; }
+  .block h3{ margin: 0 0 8px; font-size: 20px; font-weight: 600; color: var(--accent); }
+
+  .ach{ border-top: 1px solid var(--line); }
+  .a{ padding: 16px 0; border-bottom: 1px solid var(--line); display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; align-items: baseline; }
+  .a .t{ font-size: clamp(20px, 1.9vw, 26px); font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; }
+  .a .d{ grid-column: 1; color: var(--muted); }
+  .a .w{ grid-column: 2; grid-row: 1; font-size: 14px; color: var(--accent); }
+  .a.locked .t{ color: var(--muted); }
+
+  .cm{ border-top: 1px solid var(--line); }
+  .cm .c{ padding: 16px 0; border-bottom: 1px solid var(--line); }
+  .cm .where{ font-size: 14px; color: var(--muted); }
+  .cm p{ margin: 4px 0 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+  .none{ color: var(--muted); padding: 12px 0; }
+
+  footer{ padding-top: 24px; padding-bottom: 60px; font-size: 14px; color: var(--muted); }
+  footer a{ color: inherit; }
+</style>
+</head>
+<body>
+  <div class="wrap top">
+    <a class="mark" href="../">rad</a>
+    <div class="right">
+      <a href="../comics/">Comics</a>
+      <a href="../battleship/">Battleship</a>
+      <span id="acct"></span>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <p class="msg" id="msg" hidden></p>
+
+    <section id="profile" hidden>
+      <h1 id="uname"></h1>
+      <p class="sub" id="joined"></p>
+
+      <div class="cols">
+        <div>
+          <h2>Battleship</h2>
+          <div class="block"><h3>Vs bot</h3><div class="stats" id="s-bot"></div></div>
+          <div class="block"><h3>Vs a friend</h3><div class="stats" id="s-online"></div></div>
+        </div>
+        <div>
+          <h2>Achievements <span id="ach-count" style="color:var(--muted);font-weight:500"></span></h2>
+          <div class="ach" id="ach"></div>
+        </div>
+        <div>
+          <h2>Latest comments</h2>
+          <div class="cm" id="cm"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap"><a href="../privacy/">Rules and privacy</a></footer>
+
+<script src="../config.js"></script>
+<script src="../auth.js"></script>
+<script>
+(function(){
+  var ACH = [
+    { key: 'first-win',      title: 'First win',       desc: 'Won a game of Battleship.' },
+    { key: 'ten-wins',       title: 'Admiral',         desc: 'Won 10 games of Battleship.' },
+    { key: 'first-comment',  title: 'First words',     desc: 'Left a comment on a comic.' },
+    { key: 'finished-comic', title: 'To the end',      desc: 'Reached the last page of a comic.' },
+    { key: 'egg-konami',     title: 'The old cheat code', secret: true },
+    { key: 'egg-logo',       title: 'Persistent',         secret: true },
+    { key: 'egg-yugo',       title: 'Yugo spotted',       secret: true },
+    { key: 'egg-sandwich',   title: 'The Big Sandwich',   secret: true },
+    { key: 'egg-name',       title: 'Ow',                 secret: true }
+  ];
+  var $ = function(id){ return document.getElementById(id); };
+  function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text) e.textContent = text; return e; }
+  function say(t){ var m = $('msg'); m.textContent = t; m.hidden = false; }
+
+  function statRows(host, row){
+    host.innerHTML = '';
+    function add(k, v){ var s = el('div', 'stat'); s.appendChild(el('span', 'k', k)); s.appendChild(el('span', 'v', v)); host.appendChild(s); }
+    if (!row){ var n = el('div', 'none', 'No games yet.'); host.appendChild(n); return; }
+    add('Won', String(row.wins)); add('Lost', String(row.losses));
+    add('Best win streak', String(row.best_streak || 0));
+    add('Fewest shots in a win', row.best_shots ? String(row.best_shots) : 'none yet');
+  }
+
+  function load(name){
+    var sb = RadAuth.sb;
+    Promise.resolve(sb.from('profiles').select('id,username,created_at').eq('username', name).maybeSingle()).then(function(r){
+      var p = r && r.data;
+      if (!p){ say('No one is called ' + name + '.'); return; }
+      document.title = p.username + ' (Rad)';
+      $('uname').textContent = p.username;
+      $('joined').textContent = 'Joined ' + new Date(p.created_at).toLocaleDateString(undefined, { year: 'numeric', month: 'long' });
+      $('profile').hidden = false;
+      return Promise.all([
+        sb.from('game_stats').select('game,wins,losses,best_streak,best_shots').eq('user_id', p.id),
+        sb.from('achievements').select('key,earned_at').eq('user_id', p.id),
+        sb.from('comments').select('comic,page,body,created_at').eq('user_id', p.id).order('created_at', { ascending: false }).limit(5)
+      ]).then(function(a){
+        var games = (a[0] && a[0].data) || [], got = {}, comments = (a[2] && a[2].data) || [];
+        statRows($('s-bot'), games.filter(function(g){ return g.game === 'battleship-bot'; })[0]);
+        statRows($('s-online'), games.filter(function(g){ return g.game === 'battleship-online'; })[0]);
+
+        ((a[1] && a[1].data) || []).forEach(function(x){ got[x.key] = x.earned_at; });
+        var n = 0, list = $('ach'); list.innerHTML = '';
+        ACH.forEach(function(d){
+          var has = !!got[d.key]; if (has) n++;
+          var row = el('div', 'a' + (has ? '' : ' locked'));
+          row.appendChild(el('div', 't', has || !d.secret ? d.title : '???'));
+          row.appendChild(el('div', 'd', has ? (d.desc || 'A hidden one.') : (d.secret ? 'Hidden. Go poke around the site.' : d.desc)));
+          if (has) row.appendChild(el('div', 'w', new Date(got[d.key]).toLocaleDateString(undefined, { month: 'short', day: 'numeric' })));
+          list.appendChild(row);
+        });
+        $('ach-count').textContent = n + ' of ' + ACH.length;
+
+        var cm = $('cm'); cm.innerHTML = '';
+        if (!comments.length) cm.appendChild(el('div', 'none', 'No comments yet.'));
+        comments.forEach(function(c){
+          var box = el('div', 'c'); var where = el('div', 'where');
+          var a = el('a', '', c.comic + ', page ' + c.page); a.href = '../comics/?c=' + encodeURIComponent(c.comic) + '&p=' + c.page;
+          where.appendChild(a); box.appendChild(where); box.appendChild(el('p', '', c.body)); cm.appendChild(box);
+        });
+      });
+    }).catch(function(){ say('Could not load that profile. Try again in a bit.'); });
+  }
+
+  var wanted = new URLSearchParams(location.search).get('name');
+  var started = false;
+  RadAuth.mount($('acct'));
+  RadAuth.onChange(function(){
+    if (started) return;
+    if (!RadAuth.enabled){ say('Accounts are not switched on yet.'); started = true; return; }
+    if (wanted){ started = true; load(wanted); return; }
+    if (RadAuth.user && RadAuth.profile){ started = true; history.replaceState(null, '', '?name=' + encodeURIComponent(RadAuth.profile.username)); load(RadAuth.profile.username); return; }
+    if (RadAuth.loaded && !RadAuth.user){ started = true; say('Sign in to see your profile.'); }
+  });
+})();
+</script>
+</body>
+</html>

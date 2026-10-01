@@ -191,6 +191,9 @@
   .lbrows .rank{ color: var(--muted); font-weight: 700; }
   .lbrows .who{ font-size: clamp(20px, 2vw, 28px); font-weight: 700; letter-spacing: -0.02em; overflow-wrap: anywhere; }
   .lbrows .rec{ color: var(--muted); white-space: nowrap; }
+  .lbrows .who a{ color: inherit; text-decoration: none; }
+  .lbrows .who a:hover{ color: var(--accent); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 4px; }
+  #lb .modes + .modes{ margin-top: 10px; }
   .lbrows li.me .who{ color: var(--accent); }
 
   footer{ padding-top: 60px; padding-bottom: 40px; color: var(--muted); font-size: 14px; }
@@ -256,6 +259,11 @@
       <div class="modes">
         <button type="button" id="lb-bot" class="on">Vs bot</button>
         <button type="button" id="lb-online">Vs a friend</button>
+      </div>
+      <div class="modes">
+        <button type="button" id="sort-wins" class="on">Most wins</button>
+        <button type="button" id="sort-streak">Best streak</button>
+        <button type="button" id="sort-shots">Fewest shots</button>
       </div>
       <p class="lbnote" id="lbnote"></p>
       <ol class="lbrows" id="lbrows"></ol>
@@ -324,6 +332,7 @@
   }
 
   // ---------- state ----------
+  var myShots = 0;
   var mode = 'bot';           // 'bot' | 'online'
   var phase = 'setup';        // 'setup' | 'waiting' | 'play' | 'over'
   var mine, enemyView, enemySunk, botBoard, myTurn, horiz = true, hover = null, lastMine = null, lastEnemy = null;
@@ -368,6 +377,7 @@
     enemySunk = [];
     botBoard = null;
     lastMine = lastEnemy = null;
+    myShots = 0;
     phase = 'setup';
     net.meReady = net.themReady = false;
     $('again').hidden = true;
@@ -474,6 +484,7 @@
     }
   }
   function applyMyShot(r, c, res){
+    myShots++;
     lastEnemy = [r, c];
     if (!res.hit){ enemyView[r][c] = 1; setStatus('Miss.'); }
     else if (res.sunk){
@@ -504,7 +515,7 @@
     if (window.RadAuth && RadAuth.enabled){
       var gameKey = mode === 'bot' ? 'battleship-bot' : 'battleship-online';
       if (RadAuth.user && RadAuth.profile){
-        Promise.resolve(RadAuth.recordResult(gameKey, won)).then(function(){ if (window.refreshLeaderboard) window.refreshLeaderboard(gameKey); });
+        Promise.resolve(RadAuth.recordResult(gameKey, won, won ? myShots : null)).then(function(){ if (window.refreshLeaderboard) window.refreshLeaderboard(gameKey); });
       } else {
         var n = document.getElementById('lbnote'); if (n) n.textContent = 'Sign in to put your wins on the leaderboard.';
       }
@@ -697,19 +708,25 @@
 <script>
 (function(){
   if (!window.RadAuth) return;
-  var current = 'battleship-bot';
+  var current = 'battleship-bot', sort = 'wins';
   var $ = function(id){ return document.getElementById(id); };
 
+  function recordText(r){
+    if (sort === 'streak') return 'best streak ' + (r.best_streak || 0);
+    if (sort === 'shots') return 'won in ' + r.best_shots + ' shots';
+    return r.wins + ' won, ' + r.losses + ' lost';
+  }
   function draw(rows){
     var ol = $('lbrows'); ol.innerHTML = '';
-    if (!rows.length){ var li = document.createElement('li'); li.textContent = 'No wins on the board yet. Be the first.'; li.style.gridTemplateColumns = '1fr'; ol.appendChild(li); return; }
+    if (!rows.length){ var li = document.createElement('li'); li.textContent = 'Nobody on this board yet. Be the first.'; li.style.gridTemplateColumns = '1fr'; ol.appendChild(li); return; }
     rows.forEach(function(r, i){
       var li = document.createElement('li');
       var name = (r.profiles && r.profiles.username) || 'someone';
       if (RadAuth.profile && name === RadAuth.profile.username) li.className = 'me';
       var a = document.createElement('span'); a.className = 'rank'; a.textContent = '#' + (i + 1);
-      var b = document.createElement('span'); b.className = 'who'; b.textContent = name;
-      var c = document.createElement('span'); c.className = 'rec'; c.textContent = r.wins + ' won, ' + r.losses + ' lost';
+      var b = document.createElement('span'); b.className = 'who';
+      var link = document.createElement('a'); link.href = RadAuth.profileUrl(name); link.textContent = name; b.appendChild(link);
+      var c = document.createElement('span'); c.className = 'rec'; c.textContent = recordText(r);
       li.appendChild(a); li.appendChild(b); li.appendChild(c); ol.appendChild(li);
     });
   }
@@ -718,15 +735,19 @@
     current = game || current;
     $('lb-bot').classList.toggle('on', current === 'battleship-bot');
     $('lb-online').classList.toggle('on', current === 'battleship-online');
+    ['wins', 'streak', 'shots'].forEach(function(k){ $('sort-' + k).classList.toggle('on', sort === k); });
     if (!RadAuth.sb) return;
-    Promise.resolve(RadAuth.sb.from('game_stats').select('wins,losses,profiles(username)')
-      .eq('game', current).order('wins', { ascending: false }).limit(10)
-    ).then(function(r){ draw((r && r.data) || []); }).catch(function(){});
+    var q = RadAuth.sb.from('game_stats').select('wins,losses,best_streak,best_shots,profiles(username)').eq('game', current);
+    if (sort === 'streak') q = q.gt('best_streak', 0).order('best_streak', { ascending: false });
+    else if (sort === 'shots') q = q.not('best_shots', 'is', null).order('best_shots', { ascending: true });
+    else q = q.order('wins', { ascending: false });
+    Promise.resolve(q.limit(10)).then(function(r){ draw((r && r.data) || []); }).catch(function(){});
   }
   window.refreshLeaderboard = load;
 
   $('lb-bot').addEventListener('click', function(){ load('battleship-bot'); });
   $('lb-online').addEventListener('click', function(){ load('battleship-online'); });
+  ['wins', 'streak', 'shots'].forEach(function(k){ $('sort-' + k).addEventListener('click', function(){ sort = k; load(); }); });
   RadAuth.mount($('acct'));
   RadAuth.onChange(function(){
     $('lb').hidden = !RadAuth.enabled;

@@ -513,6 +513,7 @@
         <a href="elsewhere/">Elsewhere</a>
         <a href="battleship/">Battleship</a>
         <a class="pill" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a>
+        <span id="acct"></span>
       </nav>
     </div>
   </div>
@@ -729,6 +730,9 @@ var WORK = [
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
+<script src="config.js"></script>
+<script src="auth.js"></script>
+
 <script>
 // Background animation generated using https://baptiste-schlienger.com/experiments/animatedascii/index.html
 // Customized and integrated by TheMonHub; recolored to neutral grey with blue peaks
@@ -941,7 +945,11 @@ var NOW = {
 (function(){
   var KEY = 'rad-eggs';
   function load(){ try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch(e){ return {}; } }
-  function found(id){ var o = load(); if (!o[id]){ o[id] = Date.now(); try { localStorage.setItem(KEY, JSON.stringify(o)); } catch(e){} } }
+  function found(id){
+    var o = load(); if (!o[id]){ o[id] = Date.now(); try { localStorage.setItem(KEY, JSON.stringify(o)); } catch(e){} }
+    if (window.RadAuth) RadAuth.earn('egg-' + id);   // also goes on the account, if signed in
+  }
+  if (window.RadAuth) RadAuth.mount(document.getElementById('acct'));
 
   var toast = document.getElementById('toast'), timer;
   function say(text, link){

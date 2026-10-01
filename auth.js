@@ -48,7 +48,10 @@
         R.profile = (a[0] && a[0].data) || null;
         R.isAdmin = !!(a[1] && a[1].data === true);
       });
-    }).catch(function(){}).then(emit);
+    }).catch(function(){}).then(function(){
+      emit();
+      return syncEggs().then(function(changed){ if (changed) emit(); });
+    });
   }
 
   R.signInDiscord = function(){
@@ -67,10 +70,39 @@
       return refresh().then(function(){ return {}; });
     });
   };
-  R.recordResult = function(game, won){
+  R.recordResult = function(game, won, shots){
     if (!R.user || !R.profile) return Promise.resolve();
-    return Promise.resolve(R.sb.rpc('record_result', { p_game: game, p_won: !!won })).catch(function(){});
+    var args = { p_game: game, p_won: !!won };
+    if (won && shots) args.p_shots = shots;
+    return Promise.resolve(R.sb.rpc('record_result', args)).catch(function(){});
   };
+
+  // achievements: ask the database to hand one out (it only allows the safe kinds)
+  R.earn = function(key){
+    if (!R.user || !R.profile) return Promise.resolve();
+    return Promise.resolve(R.sb.rpc('earn_achievement', { p_key: key })).catch(function(){});
+  };
+  R.profileUrl = function(name){ return BASE + 'u/?name=' + encodeURIComponent(name); };
+
+  // easter eggs found on this device get added to the account, and eggs found on other devices come back
+  var synced = false;
+  function syncEggs(){
+    if (synced || !R.user || !R.profile) return Promise.resolve(false);
+    synced = true;
+    var eggs = {}; try { eggs = JSON.parse(localStorage.getItem('rad-eggs')) || {}; } catch(e){}
+    var chain = Promise.resolve();
+    Object.keys(eggs).forEach(function(id){ chain = chain.then(function(){ return R.earn('egg-' + id); }); });
+    return chain.then(function(){
+      return Promise.resolve(R.sb.from('achievements').select('key').eq('user_id', R.user.id));
+    }).then(function(r){
+      var changed = false;
+      ((r && r.data) || []).forEach(function(a){
+        if (a.key.indexOf('egg-') === 0 && !eggs[a.key.slice(4)]){ eggs[a.key.slice(4)] = Date.now(); changed = true; }
+      });
+      if (changed){ try { localStorage.setItem('rad-eggs', JSON.stringify(eggs)); } catch(e){} }
+      return changed;
+    }).catch(function(){ return false; });
+  }
   R.deleteAccount = function(){
     return Promise.resolve(R.sb.rpc('delete_my_account')).then(function(r){
       if (r && r.error) throw r.error;
@@ -152,6 +184,10 @@
       dlg.appendChild(el('h2', '', R.profile ? R.profile.username : 'Your account'));
       dlg.appendChild(el('p', '', 'Signed in.'));
       var r3 = el('div', 'ra-row');
+      if (R.profile){
+        var pa = el('a', 'ra-btn solid', 'View my profile'); pa.href = R.profileUrl(R.profile.username); pa.style.textDecoration = 'none';
+        r3.appendChild(pa);
+      }
       r3.appendChild(btn('Sign out', '', function(){ R.signOut().then(function(){ dlg.close(); }); }));
       var armed = false;
       var del = btn('Delete my account', 'danger', function(){
