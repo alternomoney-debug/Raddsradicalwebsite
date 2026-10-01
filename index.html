@@ -314,6 +314,17 @@
     cursor: pointer;
   }
 
+  /* Hi */
+  .hi p{
+    margin: 0 0 18px;
+    max-width: 34ch;
+    font-size: clamp(24px, 2.8vw, 40px);
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: -0.015em;
+  }
+  .hi .hi-end{ color: var(--accent); margin: 0; }
+
   /* Breakdown rows */
   .row-list{ border-top: 1px solid var(--line); }
   .row{
@@ -355,6 +366,16 @@
   .link-row:hover .label{ color: var(--accent); }
   .link-row .handle{ color: var(--muted); }
 
+  .link-row .who{
+    display: block;
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: var(--muted);
+  }
+  .link-row .handle{ text-align: right; overflow-wrap: anywhere; }
+
   footer{
     padding-top: 40px;
     padding-bottom: 60px;
@@ -394,6 +415,7 @@
     <nav>
       <a href="#work">Work</a>
       <a href="#music">Music</a>
+      <a href="#hi">About</a>
       <a href="#find-me">Contact</a>
     </nav>
   </div>
@@ -453,6 +475,14 @@
     </div>
   </section>
 
+  <section id="hi">
+    <div class="wrap hi">
+      <h2>Hi, I'm Rad</h2>
+      <p>I'm from Nova Scotia, Canada, and I'm Native. I make stuff. Right now I'm writing The Long Shot Initiative, making music, and playing with my band, House on the Bluff.</p>
+      <p class="hi-end">Uhhh. Hi hi!</p>
+    </div>
+  </section>
+
   <section id="disciplines">
     <div class="wrap">
       <h2>The breakdown</h2>
@@ -484,8 +514,21 @@
   <section id="find-me">
     <div class="wrap">
       <h2>Come say hi</h2>
+      <a class="link-row" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">
+        <span><span class="label">Discord</span><span class="who">Join the server</span></span>
+        <span class="handle">discord.gg/j6ZrNMdA63</span>
+      </a>
       <a class="link-row" href="https://www.youtube.com/@Radd_Was_Taken" target="_blank" rel="noopener">
-        <span class="label">YouTube</span><span class="handle">@Radd_Was_Taken</span>
+        <span><span class="label">YouTube</span><span class="who">My channel</span></span>
+        <span class="handle">@Radd_Was_Taken</span>
+      </a>
+      <a class="link-row" href="https://bsky.app/profile/raddwastaken.bsky.social" target="_blank" rel="noopener">
+        <span><span class="label">Bluesky</span><span class="who">Posts, sometimes</span></span>
+        <span class="handle">@raddwastaken.bsky.social</span>
+      </a>
+      <a class="link-row" href="https://www.youtube.com/@Labirhin" target="_blank" rel="noopener">
+        <span><span class="label">Labirhin</span><span class="who">Where I work as captionist and sub localization lead</span></span>
+        <span class="handle">@Labirhin</span>
       </a>
     </div>
   </section>
