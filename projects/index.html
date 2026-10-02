@@ -10,7 +10,7 @@
 :root{color-scheme:dark;--bg:#0b0d11;--bg2:#14171c;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--acc:#5b9be6;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 var(--f);-webkit-font-smoothing:antialiased}
 a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
-.wrap{max-width:2200px;margin:0 auto;padding:0 clamp(16px,4vw,64px)}
+.wrap{display:flex;flex-direction:column;min-height:100svh;max-width:2200px;margin:0 auto;padding:0 clamp(16px,4vw,64px)}
 .top{display:flex;justify-content:space-between;align-items:center;padding-top:22px;padding-bottom:22px}.top a{text-decoration:none;font-weight:800;font-size:22px;letter-spacing:-.03em}.top .r{color:var(--mute);font:500 17px var(--f)}
 h1{margin:4vh 0 0;font-size:clamp(52px,10vw,170px);font-weight:800;line-height:.88;letter-spacing:-.05em}
 .sub{margin:18px 0 0;font-size:clamp(19px,2vw,28px);color:var(--mute);max-width:46ch}
@@ -18,13 +18,13 @@ h2{margin:72px 0 20px;font-size:clamp(28px,3.4vw,48px);font-weight:700;line-heig
 .grid{margin-top:44px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
 .p{display:flex;flex-direction:column;gap:6px;padding:22px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);text-decoration:none;transition:border-color .12s}
 .p:hover{border-color:var(--acc)}.p b{font-size:26px;letter-spacing:-.02em;line-height:1.1}.p span{color:var(--mute)}.p em{margin-top:auto;padding-top:10px;font-style:normal;font-size:14px;color:var(--acc)}
-footer>span{margin-left:16px}footer{padding:60px 0;color:var(--mute);font-size:14px}footer a{color:inherit}
+footer>span{margin-left:16px}footer{margin-top:auto;padding:60px 0 40px;color:var(--mute);font-size:14px}footer a{color:inherit}
 </style></head>
 <body><div class="wrap">
 <div class="top"><a href="../">rad</a><a class="r" href="../elsewhere/" style="font-weight:500;font-size:17px;letter-spacing:0;color:var(--mute)">About me</a></div>
 <h1>Projects</h1><p class="sub">Everything I'm making, in one place.</p>
 <div class="grid" id="grid"></div>
-<footer>Rad, <span id="yr">2026</span> &middot; <a href="../privacy/">Rules and privacy</a></footer>
+<footer>Rad, <span id="yr">2026</span> &middot; <a href="../privacy/">Rules and privacy</a> &middot; <a href="../credits/">Credits</a></footer>
 </div>
 <script>
 document.getElementById('yr').textContent=new Date().getFullYear();

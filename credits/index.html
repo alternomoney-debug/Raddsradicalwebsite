@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8">
+<script src="../lite.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Credits (Rad)</title><meta name="description" content="Who made this site.">
+<meta name="theme-color" content="#0b0d11"><meta property="og:title" content="Credits (Rad)"><meta property="og:description" content="Who made this site."><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
+<style>
+:root{color-scheme:dark;--bg:#0b0d11;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--acc:#5b9be6;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 var(--f);-webkit-font-smoothing:antialiased}
+a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.wrap{max-width:2200px;margin:0 auto;padding:0 clamp(16px,4vw,64px)}
+.top{display:flex;justify-content:space-between;align-items:center;padding:22px 0}.top a{text-decoration:none;font-weight:800;font-size:22px;letter-spacing:-.03em}.top .r{color:var(--mute);font-weight:500;font-size:17px;letter-spacing:0}
+h1{margin:5vh 0 0;font-size:clamp(52px,10vw,170px);font-weight:800;line-height:.88;letter-spacing:-.05em}
+.sub{margin:18px 0 48px;font-size:clamp(19px,2vw,28px);color:var(--mute)}
+.rows{border-top:1px solid var(--line);max-width:1100px}
+.row{display:grid;grid-template-columns:minmax(180px,.45fr) 1fr;gap:6px 28px;padding:24px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.row b{font-size:clamp(28px,3.4vw,48px);font-weight:800;letter-spacing:-.03em;line-height:1}.row span{font-size:clamp(19px,1.9vw,26px);color:var(--mute)}
+.thanks{margin:48px 0 0;color:var(--mute);max-width:60ch}
+@media(max-width:600px){.row{grid-template-columns:1fr}}
+footer{padding:60px 0;color:var(--mute);font-size:14px}footer a{color:inherit}footer>span{margin-left:16px}
+</style></head>
+<body><div class="wrap">
+<div class="top"><a href="../">rad</a><a class="r" href="../projects/">All projects</a></div>
+<h1>Credits</h1><p class="sub">The people who made this site.</p>
+<div class="rows" id="rows"></div>
+<p class="thanks">The animated letter background is by TheMonHub, from Discord. Thank you!</p>
+<footer>Rad, <span id="yr" style="margin:0">2026</span> &middot; <a href="../privacy/">Rules and privacy</a></footer>
+</div>
+<script>
+document.getElementById('yr').textContent=new Date().getFullYear();
+// EDIT THIS LIST to change the credits. One line per person.
+var CREDITS=[
+ ['Jayson','Main coder'],
+ ['Reza','Secondary coder and UI'],
+ ['Rad','I oversaw this stuff!'],
+ ['Danny','Playtester and UI']
+];
+var box=document.getElementById('rows');
+CREDITS.forEach(function(c){var r=document.createElement('div');r.className='row';var b=document.createElement('b');b.textContent=c[0];var s=document.createElement('span');s.textContent=c[1];r.appendChild(b);r.appendChild(s);box.appendChild(r)});
+</script></body></html>

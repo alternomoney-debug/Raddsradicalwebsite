@@ -10,7 +10,7 @@
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
 <style>
 :root{color-scheme:dark;--bg:#0b0d11;--bg2:#14171c;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--edge:#3b434e;--acc:#5b9be6;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 var(--f);-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}body{min-height:100svh;display:flex;flex-direction:column;margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 var(--f);-webkit-font-smoothing:antialiased}
 a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
 .bar{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px clamp(16px,3vw,48px);border-bottom:3px solid var(--edge)}
 .bar .mark{font-weight:800;font-size:22px;letter-spacing:-.03em;text-decoration:none}
@@ -18,7 +18,7 @@ a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3p
 .bar nav a{color:var(--mute);text-decoration:none;font-weight:500}.bar nav a:hover{color:var(--ink)}
 .bar nav a.cur{color:var(--ink);font-weight:800;font-size:1.2em;letter-spacing:-.02em}
 .bar nav a.pill{color:var(--bg);background:var(--ink);padding:7px 16px;border-radius:999px;font-weight:700}.bar nav a.pill:hover{background:var(--acc)}
-.layout{display:grid;grid-template-columns:minmax(0,2fr) minmax(280px,1fr)}
+.layout{flex:1;display:grid;grid-template-columns:minmax(0,2fr) minmax(280px,1fr)}
 .panels{display:grid;grid-template-columns:1fr 1fr;gap:3px;background:var(--edge);border-right:3px solid var(--edge);border-bottom:3px solid var(--edge)}
 .panel{padding:clamp(18px,2.4vw,36px);min-height:60vh;background:var(--bg);min-width:0}
 .panel h2{margin:0 0 22px;text-align:center;font-size:clamp(34px,4.6vw,68px);font-weight:800;line-height:1;letter-spacing:-.04em}
@@ -51,14 +51,14 @@ footer{padding:40px clamp(16px,3vw,48px);color:var(--mute);font-size:14px;displa
 </div>
 <aside class="info" id="info" aria-live="polite"></aside>
 </div>
-<footer><span>Rad, <span id="yr">2026</span></span><a href="../privacy/">Rules and privacy</a></footer>
+<footer><span>Rad, <span id="yr">2026</span></span><a href="../privacy/">Rules and privacy</a><a href="../credits/">Credits</a></footer>
 <script src="../config.js"></script><script src="../auth.js"></script>
 <script>
 document.getElementById('yr').textContent=new Date().getFullYear();
 if(window.RadAuth)RadAuth.mount(document.getElementById('acct'));
 // EDIT THIS LIST to add things. c = comics, stories, shows, or films. img is the cover (optional).
 var ITEMS=[
- {c:'stories',n:'The Long Shot Initiative',k:'Book',s:'Being written',u:'../tlsi/',img:'../tlsi/assets/tlsi-cover.webp',
+ {c:'stories',n:'The Long Shot Initiative',k:'Book',s:'Being written',u:'tlsi/',img:'tlsi/assets/tlsi-cover.webp',img2:'../tlsi/assets/tlsi-cover.webp',
   d:'Ethyn Vasek wakes up on the Vanguard with a dry mouth, a sore body, and no idea who he is. The nearest thing to home is 6.4 light years behind him. A book I am writing with Reza.'}
 ];
 var EMPTY={comics:'The first comic is on its way',stories:'',shows:'Nothing here yet',films:'Nothing here yet'};
@@ -72,7 +72,7 @@ function show(it){info.innerHTML='';
  var a=el('a','go','Open');a.href=it.u;info.appendChild(a)}
 function tile(it){var a=el('a','tile');a.href=it.u;a.setAttribute('aria-label',it.n+', '+it.s);
  var box=el('div','cover');
- if(it.img){var im=el('img');im.alt='';im.loading='lazy';im.onerror=function(){im.remove();box.className='cover ph';box.appendChild(el('span','',it.n))};im.src=it.img;box.appendChild(im)}else{box.className='cover ph';box.appendChild(el('span','',it.n))}
+ if(it.img){var im=el('img');im.alt='';im.loading='lazy';im.onerror=function(){if(it.img2&&!im.dataset.fb){im.dataset.fb=1;im.src=it.img2;return}im.remove();box.className='cover ph';box.appendChild(el('span','',it.n))};im.src=it.img;box.appendChild(im)}else{box.className='cover ph';box.appendChild(el('span','',it.n))}
  a.appendChild(box);a.appendChild(el('b','',it.n));a.appendChild(el('small','',it.s));
  a.addEventListener('mouseenter',function(){show(it)});a.addEventListener('focus',function(){show(it)});a.addEventListener('mouseleave',function(){show(null)});a.addEventListener('blur',function(){show(null)});return a}
 document.querySelectorAll('.panel').forEach(function(p){var c=p.getAttribute('data-cat'),box=p.querySelector('.tiles'),list=ITEMS.filter(function(i){return i.c===c});
