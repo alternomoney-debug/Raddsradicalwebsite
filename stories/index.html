@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8">
+<script src="../lite.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stories (Rad)</title>
+<meta name="description" content="Comics, stories, shows, and films by Rad.">
+<meta name="theme-color" content="#0b0d11"><meta property="og:type" content="website"><meta property="og:title" content="Stories (Rad)"><meta property="og:description" content="Comics, stories, shows, and films by Rad."><meta property="og:url" content="https://raddwastaken.art/stories/"><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
+<style>
+:root{color-scheme:dark;--bg:#0b0d11;--bg2:#14171c;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--edge:#3b434e;--acc:#5b9be6;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 var(--f);-webkit-font-smoothing:antialiased}
+a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px clamp(16px,3vw,48px);border-bottom:3px solid var(--edge)}
+.bar .mark{font-weight:800;font-size:22px;letter-spacing:-.03em;text-decoration:none}
+.bar nav{display:flex;flex-wrap:wrap;align-items:center;gap:6px clamp(14px,2.2vw,32px);justify-content:flex-end}
+.bar nav a{color:var(--mute);text-decoration:none;font-weight:500}.bar nav a:hover{color:var(--ink)}
+.bar nav a.cur{color:var(--ink);font-weight:800;font-size:1.2em;letter-spacing:-.02em}
+.bar nav a.pill{color:var(--bg);background:var(--ink);padding:7px 16px;border-radius:999px;font-weight:700}.bar nav a.pill:hover{background:var(--acc)}
+.layout{display:grid;grid-template-columns:minmax(0,2fr) minmax(280px,1fr)}
+.panels{display:grid;grid-template-columns:1fr 1fr;gap:3px;background:var(--edge);border-right:3px solid var(--edge);border-bottom:3px solid var(--edge)}
+.panel{padding:clamp(18px,2.4vw,36px);min-height:60vh;background:var(--bg);min-width:0}
+.panel h2{margin:0 0 22px;text-align:center;font-size:clamp(34px,4.6vw,68px);font-weight:800;line-height:1;letter-spacing:-.04em}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:22px 16px}
+.tile{display:flex;flex-direction:column;gap:6px;text-decoration:none;min-width:0}
+.cover{aspect-ratio:2/3;border:2px solid var(--edge);border-radius:6px;overflow:hidden;background:var(--bg2);display:grid;place-items:center;transition:border-color .12s}
+.cover img{width:100%;height:100%;object-fit:cover;display:block}
+.cover.ph span{padding:10px;text-align:center;font-weight:800;font-size:clamp(15px,1.5vw,20px);line-height:1.1;letter-spacing:-.02em;color:var(--mute)}
+.tile:hover .cover,.tile:focus-visible .cover{border-color:var(--acc)}
+.tile b{font-size:16px;line-height:1.2;letter-spacing:-.01em;overflow-wrap:anywhere}.tile small{color:var(--mute);font-size:13px}
+.tile.empty .cover{border-style:dashed;background:none}.tile.empty .cover span{color:var(--mute);font-weight:500;font-size:14px;text-align:center;padding:10px}
+.info{position:sticky;top:0;align-self:start;max-height:100vh;overflow:auto;padding:clamp(20px,2.6vw,40px)}
+.info h1{margin:0 0 14px;font-size:clamp(30px,3.4vw,52px);font-weight:800;line-height:1;letter-spacing:-.04em}
+.info p{margin:0 0 14px;color:var(--mute);font-size:clamp(17px,1.4vw,20px)}
+.info .k{display:inline-block;margin-bottom:10px;font-size:13px;color:var(--acc);font-weight:700}
+.info .go{display:inline-block;margin-top:6px;padding:9px 20px;border-radius:999px;background:var(--ink);color:var(--bg);font-weight:700;text-decoration:none}
+@media(max-width:1000px){.layout{grid-template-columns:1fr}.panels{border-right:0}.info{display:none}}
+@media(max-width:620px){.panels{grid-template-columns:1fr}.panel{min-height:0}}
+footer{padding:40px clamp(16px,3vw,48px);color:var(--mute);font-size:14px;display:flex;flex-wrap:wrap;gap:8px 16px}footer a{color:inherit}
+</style></head>
+<body>
+<header class="bar"><a class="mark" href="../">rad</a>
+<nav aria-label="Main"><a class="cur" href="./" aria-current="page">Stories</a><a href="../projects/">Projects</a><a href="../games/">Games</a><a href="../elsewhere/">Elsewhere</a><a class="pill" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a><span id="acct"></span></nav></header>
+<div class="layout">
+<div class="panels">
+ <section class="panel" data-cat="stories"><h2>Stories</h2><div class="tiles"></div></section>
+ <section class="panel" data-cat="comics"><h2>Comics</h2><div class="tiles"></div></section>
+ <section class="panel" data-cat="shows"><h2>Shows</h2><div class="tiles"></div></section>
+ <section class="panel" data-cat="films"><h2>Films</h2><div class="tiles"></div></section>
+</div>
+<aside class="info" id="info" aria-live="polite"></aside>
+</div>
+<footer><span>Rad, <span id="yr">2026</span></span><a href="../privacy/">Rules and privacy</a></footer>
+<script src="../config.js"></script><script src="../auth.js"></script>
+<script>
+document.getElementById('yr').textContent=new Date().getFullYear();
+if(window.RadAuth)RadAuth.mount(document.getElementById('acct'));
+// EDIT THIS LIST to add things. c = comics, stories, shows, or films. img is the cover (optional).
+var ITEMS=[
+ {c:'stories',n:'The Long Shot Initiative',k:'Book',s:'Being written',u:'../tlsi/',img:'../tlsi/assets/tlsi-cover.webp',
+  d:'Ethyn Vasek wakes up on the Vanguard with a dry mouth, a sore body, and no idea who he is. The nearest thing to home is 6.4 light years behind him. A book I am writing with Reza.'}
+];
+var EMPTY={comics:'The first comic is on its way',stories:'',shows:'Nothing here yet',films:'Nothing here yet'};
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x)e.textContent=x;return e}
+var info=document.getElementById('info');
+function show(it){info.innerHTML='';
+ if(!it){info.appendChild(el('h1','','Stories'));info.appendChild(el('p','','Things I write, draw, and make. Point at a cover to see what it is, and click it to open.'));
+  var counts=['comics','stories','shows','films'].map(function(c){return ITEMS.filter(function(i){return i.c===c}).length}).reduce(function(a,b){return a+b},0);
+  info.appendChild(el('p','',counts+(counts===1?' thing is':' things are')+' up so far, and more are on the way.'));return}
+ info.appendChild(el('span','k',it.k+' \u00B7 '+it.s));info.appendChild(el('h1','',it.n));info.appendChild(el('p','',it.d));
+ var a=el('a','go','Open');a.href=it.u;info.appendChild(a)}
+function tile(it){var a=el('a','tile');a.href=it.u;a.setAttribute('aria-label',it.n+', '+it.s);
+ var box=el('div','cover');
+ if(it.img){var im=el('img');im.alt='';im.loading='lazy';im.onerror=function(){im.remove();box.className='cover ph';box.appendChild(el('span','',it.n))};im.src=it.img;box.appendChild(im)}else{box.className='cover ph';box.appendChild(el('span','',it.n))}
+ a.appendChild(box);a.appendChild(el('b','',it.n));a.appendChild(el('small','',it.s));
+ a.addEventListener('mouseenter',function(){show(it)});a.addEventListener('focus',function(){show(it)});a.addEventListener('mouseleave',function(){show(null)});a.addEventListener('blur',function(){show(null)});return a}
+document.querySelectorAll('.panel').forEach(function(p){var c=p.getAttribute('data-cat'),box=p.querySelector('.tiles'),list=ITEMS.filter(function(i){return i.c===c});
+ list.forEach(function(it){box.appendChild(tile(it))});
+ if(!list.length||c==='comics'&&!list.length){var e=el('div','tile empty');var cv=el('div','cover');cv.appendChild(el('span','',EMPTY[c]||'Nothing here yet'));e.appendChild(cv);box.appendChild(e)}});
+show(null);
+</script></body></html>

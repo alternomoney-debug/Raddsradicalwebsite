@@ -3,8 +3,8 @@
 <script src="../lite.js"></script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Projects (Rad)</title>
-<meta name="description" content="Everything Rad is making: a book, a band, comics, games, and more, plus what's new.">
-<meta name="theme-color" content="#0b0d11"><meta property="og:type" content="website"><meta property="og:title" content="Projects (Rad)"><meta property="og:description" content="Everything Rad is making: a book, a band, comics, games, and more, plus what's new."><meta property="og:url" content="https://raddwastaken.art/projects/"><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
+<meta name="description" content="Everything Rad is making: stories, a band, games, and more.">
+<meta name="theme-color" content="#0b0d11"><meta property="og:type" content="website"><meta property="og:title" content="Projects (Rad)"><meta property="og:description" content="Everything Rad is making: stories, a band, games, and more."><meta property="og:url" content="https://raddwastaken.art/projects/"><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <style>
 :root{color-scheme:dark;--bg:#0b0d11;--bg2:#14171c;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--acc:#5b9be6;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
@@ -18,36 +18,24 @@ h2{margin:72px 0 20px;font-size:clamp(28px,3.4vw,48px);font-weight:700;line-heig
 .grid{margin-top:44px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
 .p{display:flex;flex-direction:column;gap:6px;padding:22px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);text-decoration:none;transition:border-color .12s}
 .p:hover{border-color:var(--acc)}.p b{font-size:26px;letter-spacing:-.02em;line-height:1.1}.p span{color:var(--mute)}.p em{margin-top:auto;padding-top:10px;font-style:normal;font-size:14px;color:var(--acc)}
-.log{border-top:1px solid var(--line);max-width:900px}.log>div{display:grid;grid-template-columns:130px 1fr;gap:6px 24px;padding:18px 0;border-bottom:1px solid var(--line)}
-.log time{color:var(--mute)}.log b{display:block;font-size:20px;letter-spacing:-.01em}.log span{color:var(--mute)}
-@media(max-width:600px){.log>div{grid-template-columns:1fr}}
 footer>span{margin-left:16px}footer{padding:60px 0;color:var(--mute);font-size:14px}footer a{color:inherit}
 </style></head>
 <body><div class="wrap">
 <div class="top"><a href="../">rad</a><a class="r" href="../elsewhere/" style="font-weight:500;font-size:17px;letter-spacing:0;color:var(--mute)">About me</a></div>
 <h1>Projects</h1><p class="sub">Everything I'm making, in one place.</p>
 <div class="grid" id="grid"></div>
-<h2>What's new</h2><div class="log" id="log"></div>
 <footer>Rad, <span id="yr">2026</span> &middot; <a href="../privacy/">Rules and privacy</a></footer>
 </div>
 <script>
 document.getElementById('yr').textContent=new Date().getFullYear();
-// EDIT THESE TWO LISTS to change the page. One line per project / update.
+// EDIT THIS LIST to change the page. One line per project.
 var PROJECTS=[
- {n:'The Long Shot Initiative',d:'A book I am writing with Reza. A fox wakes up on a spaceship with no memory, a dog reads the labels, and the sun is being eaten.',s:'Being written',u:'../tlsi/'},
- {n:'House on the Bluff Records',d:'My band. A partnership of musicians, between chapters for now.',s:'On pause',u:'../houseonthebluff/'},
- {n:'Comics',d:'A reader with comments and bookmarks. The first comic is on its way.',s:'Coming soon',u:'../comics/'},
+ {n:'Stories',d:'The Long Shot Initiative, the book I am writing with Reza, plus webcomics when they arrive.',s:'',u:'../stories/'},
  {n:'Games',d:'Eight little games for when you have five minutes, plus online games to play with friends.',s:'Playable',u:'../games/'},
  {n:'Fleet War',d:'Battleship for up to 8 players on one ocean. Armored ships, weapons, decoys, and a shop.',s:'Playable',u:'../fleet/'},
+ {n:'House on the Bluff Records',d:'My band. A partnership of musicians, between chapters for now.',s:'On pause',u:'../houseonthebluff/'},
  {n:'Elsewhere',d:'Where to find me, my favorite stuff, the people I like, and a FAQ.',s:'',u:'../elsewhere/'}
-];
-var NEWS=[
- {t:'Oct 2, 2026',n:'The Games arcade',d:'Eight little games, a search, and a random button. Plus Lite mode for slow computers, and guest play so friends can join without an account.'},
- {t:'Oct 1, 2026',n:'Fleet War gets a shop',d:'Custom map sizes up to 100 by 100, coins, and new weapons: sonar, recon, torpedoes, bombers, and more.'},
- {t:'Sep 30, 2026',n:'Accounts',d:'Sign in with Discord for profiles, achievements, comic bookmarks, and leaderboards.'},
- {t:'Sep 29, 2026',n:'Fleet War opens',d:'Up to 8 players, bots, and a server that referees every shot.'}
 ];
 function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x)e.textContent=x;return e}
 var g=document.getElementById('grid');PROJECTS.forEach(function(p){var a=el('a','p');a.href=p.u;a.appendChild(el('b','',p.n));a.appendChild(el('span','',p.d));if(p.s)a.appendChild(el('em','',p.s));g.appendChild(a)});
-var l=document.getElementById('log');NEWS.forEach(function(n){var d=el('div');d.appendChild(el('time','',n.t));var r=el('div');r.appendChild(el('b','',n.n));r.appendChild(el('span','',n.d));d.appendChild(r);l.appendChild(d)});
 </script></body></html>
