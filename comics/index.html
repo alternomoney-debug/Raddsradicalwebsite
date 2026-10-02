@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<script src="../lite.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Comics (Rad)</title>
 <meta name="description" content="Read my webcomics, leave a comment, and pick up where you left off.">
@@ -16,7 +17,7 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
 <style>
   :root{
     color-scheme: dark;
@@ -363,7 +364,7 @@ var COMICS = [
     $('comments').hidden = false;
     $('layout').classList.add('has-comments');
     $('cbody').addEventListener('input', function(){ $('ccount').textContent = $('cbody').value.length + ' / 1000'; });
-    $('csignin').addEventListener('click', function(){ RadAuth.open('signin'); });
+    $('csignin').addEventListener('click', function(){ if (RadAuth.profile && RadAuth.profile.guest) RadAuth.linkDiscord(); else RadAuth.open('signin'); });
     $('cform').addEventListener('submit', function(ev){
       ev.preventDefault(); msg('');
       var body = $('cbody').value.trim();
@@ -381,11 +382,12 @@ var COMICS = [
 
   function loadComments(){
     if (!window.RadAuth || !RadAuth.enabled || !RadAuth.sb || !comic) return;
-    var signedIn = !!RadAuth.user;
+    var guest = !!(RadAuth.profile && RadAuth.profile.guest), signedIn = !!RadAuth.user && !guest;
     $('cform').hidden = !signedIn;
     $('csignin').hidden = signedIn;
+    $('csignin').textContent = guest ? 'Upgrade with Discord to comment' : 'Sign in to comment';
     $('chead').textContent = 'Comments on page ' + page;
-    $('cnote').textContent = signedIn ? 'Be decent. I can remove anything.' : 'Anyone can read. Sign in to join in.';
+    $('cnote').textContent = signedIn ? 'Be decent. I can remove anything.' : (guest ? 'Guests can read comments but not post them.' : 'Anyone can read. Sign in to join in.');
     var token = ++cTok;
     Promise.resolve(RadAuth.sb.from('comments')
       .select('id,body,created_at,user_id,profiles(username)')

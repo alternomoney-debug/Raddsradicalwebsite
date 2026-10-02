@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<script src="../lite.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Fleet War (Rad)</title>
 <meta name="description" content="Battleship for up to 8 players on one big ocean. Armored ships, machine guns, mortars, and decoys.">
@@ -16,7 +17,7 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
 <style>
   :root{
     color-scheme: dark;
@@ -154,7 +155,7 @@
     <section id="gate">
       <h1>Fleet War</h1>
       <p class="msg" id="gatemsg">Loading...</p>
-      <div class="row" style="margin-top:20px"><button type="button" id="gate-signin" class="go" hidden>Sign in</button></div>
+      <div class="row" style="margin-top:20px"><button type="button" id="gate-signin" class="go" hidden>Sign in with Discord</button><button type="button" id="gate-guest" hidden>Play as a guest</button></div>
     </section>
 
     <!-- HOME -->
@@ -288,7 +289,7 @@
   'use strict';
   var $ = function(id){ return document.getElementById(id); };
   function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
-  var RM = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var RM = !!(window.__LITE || (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches));
   function sleep(ms){ return new Promise(function(r){ setTimeout(r, RM ? Math.min(ms, 60) : ms); }); }
 
   // ---------------- rules the screen needs to know (the server checks them again) ----------------
@@ -383,7 +384,7 @@
   var A = { weapon: null, targets: [], hover: null, dir: 'h', tdir: 'r' };       // aiming
   var homeSize = 'medium', homeFleet = 'medium', homeFfa = true, homeTeams = 2, homeCustom = { w: 40, h: 20, max: 4 };
   var WAL = null;
-  var cv = $('map'), ctx = cv.getContext('2d'), cs = 24, dpr = Math.min(2, window.devicePixelRatio || 1);
+  var cv = $('map'), ctx = cv.getContext('2d'), cs = 24, dpr = window.__LITE ? 1 : Math.min(2, window.devicePixelRatio || 1);
 
   function tcolor(t){ return TEAM_COLORS[t % TEAM_COLORS.length]; }
   function player(seat){ return S.players.filter(function(p){ return p.seat === seat; })[0]; }
@@ -400,8 +401,9 @@
 
   // ---------------- views ----------------
   function show(which){ ['gate', 'home', 'lobby', 'game'].forEach(function(v){ $(v).hidden = v !== which; }); }
-  function gate(msg, canSignIn){ show('gate'); $('gatemsg').textContent = msg; $('gate-signin').hidden = !canSignIn; }
+  function gate(msg, canSignIn){ show('gate'); $('gatemsg').textContent = msg; $('gate-signin').hidden = !canSignIn; $('gate-guest').hidden = !(canSignIn && RadAuth.guestEnabled); }
   $('gate-signin').addEventListener('click', function(){ RadAuth.open('signin'); });
+  $('gate-guest').addEventListener('click', function(){ RadAuth.open('guest'); });
 
   // ---------------- HOME ----------------
   function buildSizeButtons(host, current, onPick){
@@ -464,6 +466,7 @@
   function loadWallet(){ return rpc('bs_wallet').then(function(w){ WAL = w; renderArmory(); }).catch(function(){}); }
   function renderArmory(){
     var host = $('armory'); if (!WAL){ host.textContent = ''; return; }
+    if (WAL.guest){ $('coins').textContent = ''; $('coinnote').textContent = 'Guests can play everything, but coins, scores and the shop need a Discord account. Open your name at the top and choose Upgrade with Discord to keep your progress.'; host.innerHTML = ''; return; }
     $('coins').textContent = WAL.coins + ' coins';
     $('coinnote').textContent = 'Win games with 2 or more real players to earn coins (' + WAL.earned_today + ' of ' + WAL.daily_cap + ' earned today). Shop weapons are side-grades: each one trades something away.';
     host.innerHTML = '';
@@ -1137,7 +1140,12 @@
       var cur = player(S.match.turn_seat), r = cur && rectOf(cur.team); if (r && !RM){ c.strokeStyle = 'rgba(255,255,255,' + (0.25 + 0.2 * Math.sin(t / 300)) + ')'; c.lineWidth = 3; c.strokeRect(r.x0 * cs + 3, r.y0 * cs + 3, (r.x1 - r.x0 + 1) * cs - 6, (r.y1 - r.y0 + 1) * cs - 6); }
     }
   }
-  function loop(t){ draw(t); requestAnimationFrame(loop); }
+  var lastDraw = 0;
+  function loop(t){
+    // Lite mode redraws about 8 times a second unless something is moving
+    if (window.__LITE && !S.fx.length && t - lastDraw < 120){ requestAnimationFrame(loop); return; }
+    lastDraw = t; draw(t); requestAnimationFrame(loop);
+  }
   requestAnimationFrame(loop);
 
   // ---------------- mouse / touch on the map ----------------
@@ -1182,7 +1190,7 @@
       var w = m.winner_team == null ? 'Nobody won.' : 'Team ' + (m.winner_team + 1) + ' (' + S.players.filter(function(p){ return p.team === m.winner_team; }).map(function(p){ return p.name; }).join(', ') + ') took the ocean.';
       $('endtitle').textContent = m.winner_team === S.me.team ? 'Victory!' : 'Game over'; $('endsub').textContent = w + ' Every fleet is revealed on the map.';
       var humans = S.players.filter(function(p){ return !p.bot; }).length, pay = me && me.payout;
-      $('endcoins').textContent = pay ? '+' + pay + ' coins' : (humans < 2 ? 'No coins this time: coins only come from games with 2 or more real players.' : 'No coins this time: the game was over too quickly, or you hit today\'s limit.');
+      $('endcoins').textContent = pay ? '+' + pay + ' coins' : (RadAuth.profile && RadAuth.profile.guest ? 'Guests do not earn coins or scores. Sign in with Discord to keep them.' : humans < 2 ? 'No coins this time: coins only come from games with 2 or more real players.' : 'No coins this time: the game was over too quickly, or you hit today\'s limit.');
       if (!render.walletDone){ render.walletDone = true; loadWallet(); }
       if (!render.endShown){ render.endShown = true; setTimeout(function(){ banner(m.winner_team === S.me.team ? 'VICTORY' : 'DEFEAT', m.winner_team === S.me.team ? 'win' : 'lose', 2200); }, 400); }
     } else { render.endShown = false; render.walletDone = false; }
@@ -1263,7 +1271,7 @@
     if (started) return;
     if (!RadAuth.enabled) return gate('Accounts are not switched on yet, and Fleet War needs one.', false);
     if (!RadAuth.loaded) return;
-    if (!RadAuth.user) return gate('Sign in to play. It takes two clicks, and there is no password.', true);
+    if (!RadAuth.user) return gate(((new URLSearchParams(location.search).get('room')) ? 'You were invited to a room. ' : '') + 'Sign in with Discord, or just play as a guest (no account, works at school).', true);
     if (!RadAuth.profile) return gate('Pick a username first, then come back to this page.', false);
     started = true; start();
   });

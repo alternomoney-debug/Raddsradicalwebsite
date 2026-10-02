@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lite mode (Rad)</title><meta name="robots" content="noindex">
+<style>body{margin:0;min-height:100svh;display:grid;place-items:center;background:#0b0d11;color:#f1f3f5;font:600 20px system-ui,sans-serif;text-align:center;padding:24px}a{color:#5b9be6}</style></head>
+<body><p>Switching to Lite mode...<br><small style="font-weight:400;color:#a7b0ba"><a href="../?lite=1">Tap here if nothing happens.</a></small></p>
+<script>try { localStorage.setItem('rad-lite', '1'); } catch (e) {}
+var to = new URLSearchParams(location.search).get('to');
+location.replace(to === 'fleet' ? '../fleet/?lite=1' : to === 'battleship' ? '../battleship/?lite=1' : '../?lite=1');</script></body></html>

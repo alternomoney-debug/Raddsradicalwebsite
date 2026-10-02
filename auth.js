@@ -29,24 +29,25 @@
   function loadLib(){
     return new Promise(function(res, rej){
       if (window.supabase) return res();
-      var s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2';
-      s.onload = res; s.onerror = rej;
-      document.head.appendChild(s);
+      function add(src, fail){ var sc = document.createElement('script'); sc.src = src; sc.onload = res; sc.onerror = fail; document.head.appendChild(sc); }
+      add(BASE + 'vendor/supabase.js', function(){ add('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2', rej); });
     });
   }
-
   function refresh(){
     return R.sb.auth.getSession().then(function(r){
       var s = r.data && r.data.session;
       R.user = s ? s.user : null;
       if (!R.user){ R.profile = null; R.isAdmin = false; return; }
       return Promise.all([
-        R.sb.from('profiles').select('username').eq('id', R.user.id).maybeSingle(),
+        R.sb.from('profiles').select('username,guest').eq('id', R.user.id).maybeSingle(),
         R.sb.rpc('is_admin')
       ]).then(function(a){
         R.profile = (a[0] && a[0].data) || null;
         R.isAdmin = !!(a[1] && a[1].data === true);
+        // a guest who has since signed in with Discord stops being a guest
+        if (R.profile && R.profile.guest && R.user.is_anonymous === false){
+          return Promise.resolve(R.sb.rpc('bs_upgrade_profile')).then(function(){ R.profile.guest = false; }, function(){});
+        }
       });
     }).catch(function(){}).then(function(){
       emit();
@@ -57,6 +58,16 @@
   R.signInDiscord = function(){
     return R.sb.auth.signInWithOAuth({ provider: 'discord', options: { redirectTo: here() } });
   };
+  R.guestEnabled = cfg.GUEST_LOGIN !== false;
+  R.signInGuest = function(name){
+    var have = R.user ? Promise.resolve({ data: { user: R.user } }) : R.sb.auth.signInAnonymously();
+    return have.then(function(r){
+      if (r.error) return { error: { message: /anonymous/i.test(r.error.message || '') ? 'Guest play is not switched on yet.' : 'Could not start a guest session. Try again.' } };
+      R.user = r.data.user || R.user;
+      return R.setUsername(name);
+    });
+  };
+  R.linkDiscord = function(){ return R.sb.auth.linkIdentity({ provider: 'discord', options: { redirectTo: here() } }); };
   R.signInEmail = function(email){
     return R.sb.auth.signInWithOtp({ email: email, options: { emailRedirectTo: here() } });
   };
@@ -122,6 +133,7 @@
     '.ra-dialog h2{margin:0 0 8px;font-size:28px;letter-spacing:-.02em}',
     '.ra-dialog p{margin:0 0 16px;color:var(--muted,#a7b0ba)}',
     '.ra-dialog input{width:100%;font:inherit;padding:10px 14px;margin:0 0 10px;border-radius:10px;border:1px solid var(--line,#252a31);background:transparent;color:inherit}',
+    '.ra-dialog input{text-transform:none;letter-spacing:normal;text-align:left;width:100%;border-radius:10px}',
     '.ra-dialog .ra-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}',
     '.ra-dialog .ra-msg{min-height:1.4em;margin:10px 0 0;color:#ff7a68;font-size:15px}',
     '.ra-dialog .ra-msg.ok{color:var(--accent,#5b9be6)}',
@@ -154,6 +166,10 @@
       var row = el('div', 'ra-row');
       row.appendChild(btn('Continue with Discord', 'solid', function(){ say(''); R.signInDiscord(); }));
       dlg.appendChild(row);
+      if (R.guestEnabled){
+        var g = el('div', 'ra-row'); g.appendChild(btn('Play as a guest', '', function(){ R.open('guest'); })); dlg.appendChild(g);
+        dlg.appendChild(el('small', '', 'No account needed, and it works where Discord is blocked. Guests can play every game, but they do not get coins, scores, or comments.'));
+      }
       if (cfg.EMAIL_LOGIN){
         dlg.appendChild(el('p', '', ''));
         var input = el('input'); input.type = 'email'; input.placeholder = 'you@example.com'; input.autocomplete = 'email'; input.setAttribute('aria-label', 'Email');
@@ -167,6 +183,21 @@
       var small = el('small'); small.appendChild(document.createTextNode('You need to be 13 or older. Signing in means you are okay with the '));
       var a = el('a', '', 'rules and privacy page'); a.href = BASE + 'privacy/'; small.appendChild(a); small.appendChild(document.createTextNode('.'));
       dlg.appendChild(small);
+    }
+
+    if (kind === 'guest'){
+      dlg.appendChild(el('h2', '', 'Play as a guest'));
+      dlg.appendChild(el('p', '', 'Pick a name your friends will see. 3 to 20 letters, numbers, or underscores.'));
+      var gn = el('input'); gn.maxLength = 20; gn.autocomplete = 'off'; gn.setAttribute('aria-label', 'Guest name');
+      gn.value = 'Guest_' + Math.random().toString(36).slice(2, 6); dlg.appendChild(gn);
+      var go = function(){
+        say(''); gb.disabled = true;
+        R.signInGuest(gn.value.trim()).then(function(r){ gb.disabled = false; if (r && r.error) say(r.error.message); else dlg.close(); });
+      };
+      gn.addEventListener('keydown', function(e){ if (e.key === 'Enter') go(); });
+      var gb = btn('Start playing', 'solid', go); var gr = el('div', 'ra-row'); gr.appendChild(gb); gr.appendChild(btn('Back', '', function(){ R.open('signin'); }));
+      dlg.appendChild(gr); dlg.appendChild(msg);
+      dlg.appendChild(el('small', '', 'Your guest account lives in this browser. If you clear your browser data you lose it. It is deleted after 90 days.'));
     }
 
     if (kind === 'username'){
@@ -185,12 +216,13 @@
 
     if (kind === 'account'){
       dlg.appendChild(el('h2', '', R.profile ? R.profile.username : 'Your account'));
-      dlg.appendChild(el('p', '', 'Signed in.'));
+      dlg.appendChild(el('p', '', R.profile && R.profile.guest ? 'Guest account. You can play everything, but no coins, scores, or comments. Sign in with Discord to keep your progress and unlock those.' : 'Signed in.'));
       var r3 = el('div', 'ra-row');
       if (R.profile){
         var pa = el('a', 'ra-btn solid', 'View my profile'); pa.href = R.profileUrl(R.profile.username); pa.style.textDecoration = 'none';
         r3.appendChild(pa);
       }
+      if (R.profile && R.profile.guest) r3.appendChild(btn('Upgrade with Discord', 'solid', function(){ R.linkDiscord(); }));
       r3.appendChild(btn('Sign out', '', function(){ R.signOut().then(function(){ dlg.close(); }); }));
       var armed = false;
       var del = btn('Delete my account', 'danger', function(){
@@ -212,7 +244,7 @@
       if (!R.enabled || !R.loaded){ m.hidden = true; return; }
       m.hidden = false;
       if (R.user){
-        m.appendChild(btn(R.profile ? R.profile.username : 'Pick a username', '', function(){ R.open(R.profile ? 'account' : 'username'); }));
+        m.appendChild(btn(R.profile ? R.profile.username + (R.profile.guest ? ' (guest)' : '') : 'Pick a username', '', function(){ R.open(R.profile ? 'account' : 'username'); }));
       } else {
         m.appendChild(btn('Sign in', '', function(){ R.open('signin'); }));
       }

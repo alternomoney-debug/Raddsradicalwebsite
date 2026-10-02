@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<script src="lite.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rad (Radd_Was_Taken)</title>
 <meta name="description" content="Artist, animator, musician, and modeler from Nova Scotia. I make stuff. I am cool.">
@@ -19,8 +20,8 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
+<script>fetch("model.glb",{method:"HEAD"}).then(function(r){if(r.ok&&!window.__LITE){var m=document.createElement("script");m.type="module";m.src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js";document.head.appendChild(m);}}).catch(function(){});</script>
 <style>
   :root{
     color-scheme: dark;
@@ -556,22 +557,7 @@
     </div>
   </header>
 
-  <div class="band" aria-hidden="true">
-    <div class="band-track">
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-      <span>Artist</span><span>Animator</span><span>Musician</span><span>Modeler</span>
-    </div>
-  </div>
 
-  <div class="now" id="now" hidden>
-    <div class="wrap now-inner">
-      <span class="now-title">Right now</span>
-      <div class="now-items" id="now-items"></div>
-      <span class="now-date" id="now-date"></span>
-    </div>
-  </div>
 
   <section id="work">
     <div class="wrap">
@@ -738,6 +724,7 @@ var WORK = [
 // Background animation generated using https://baptiste-schlienger.com/experiments/animatedascii/index.html
 // Customized and integrated by TheMonHub; recolored to neutral grey with blue peaks
 (function(){
+  if (window.__LITE) return;   // Lite mode: leave the background off
   var canvas = document.getElementById('c');
   var ctx = canvas.getContext('2d', { alpha: false });
   var w, h, cols, rows, frame = 0;
@@ -905,42 +892,11 @@ var WORK = [
       l.setAttribute('x2', b[0]); l.setAttribute('y2', b[1]);
       l.setAttribute('stroke-opacity', (0.9 - depth * 0.8).toFixed(2));
     });
-    requestAnimationFrame(tick);
+    if (window.__LITE) setTimeout(tick, 120); else requestAnimationFrame(tick);
   }
   requestAnimationFrame(tick);
 })();
 </script>
-<script>
-/*
-  RIGHT NOW STRIP. Change the text, or add your own lines.
-  Anything with empty text just doesn't show, so fill in "Listening to" and "Playing" whenever you want.
-*/
-var NOW = {
-  updated: "Oct 1, 2026",
-  items: [
-    { label: "Writing", text: "The Long Shot Initiative", href: "tlsi/" },
-    { label: "Making", text: "Music in FL Studio" },
-    { label: "Listening to", text: "" },
-    { label: "Playing", text: "" }
-  ]
-};
-(function(){
-  var items = (NOW.items || []).filter(function(i){ return i.text; });
-  if (!items.length) return;
-  var box = document.getElementById('now-items');
-  items.forEach(function(i){
-    var wrap = document.createElement('div'); wrap.className = 'now-item';
-    var k = document.createElement('span'); k.className = 'k'; k.textContent = i.label;
-    var v = document.createElement('span'); v.className = 'v';
-    if (i.href){ var a = document.createElement('a'); a.href = i.href; a.textContent = i.text; v.appendChild(a); }
-    else v.textContent = i.text;
-    wrap.appendChild(k); wrap.appendChild(v); box.appendChild(wrap);
-  });
-  if (NOW.updated) document.getElementById('now-date').textContent = 'Updated ' + NOW.updated;
-  document.getElementById('now').hidden = false;
-})();
-</script>
-
 <script>
 // Easter eggs. What gets found is remembered in this browser so the secret page can show it.
 (function(){

@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<script src="../lite.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rules and privacy (Rad)</title>
 <meta name="description" content="What this site stores about you if you sign in, and the rules for comments.">
@@ -9,7 +10,7 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
 <style>
   :root{
     color-scheme: dark;
@@ -49,7 +50,7 @@
       <h2>What gets stored</h2>
       <ul>
         <li><b>A username</b> you pick. Everyone can see it.</li>
-        <li><b>Your sign in.</b> Discord (or an emailed link) tells the site who you are. There is no password on this site, and I never see one.</li>
+        <li><b>Your sign in.</b> Discord tells the site who you are. There is no password on this site, and I never see one. <b>Guests</b> use no sign in at all: they get an anonymous account that lives in their browser and is deleted after 90 days.</li>
         <li><b>Your comments</b> on comic pages, with the date.</li>
         <li><b>Your place</b> in each comic, so it can open where you stopped.</li>
         <li><b>Your game results</b> for the Battleship leaderboard: wins and losses.</li>
