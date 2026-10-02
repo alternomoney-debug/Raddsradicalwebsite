@@ -268,6 +268,11 @@
             <div class="row" style="margin-top:10px"><button type="button" id="pass" hidden>Hold fire (skip turn)</button></div>
             <p class="err" id="fireerr"></p>
           </section>
+          <section id="outpanel" hidden>
+            <h2>You're out</h2>
+            <p class="small">All your real ships are sunk. You can keep watching, or leave. If the game had 2 or more real players and lasted a while, your coins are paid when the whole game ends, even if you've left.</p>
+            <div class="row"><button type="button" id="leaveout" class="go">Leave to the menu</button></div>
+          </section>
           <section id="endpanel" hidden>
             <h2 id="endtitle"></h2>
             <p class="small" id="endsub"></p>
@@ -513,8 +518,8 @@
 
   // ---------------- entering a match + polling ----------------
   function resetBoard(){ S.board = new Map(); S.sunk = []; S.spotted = new Map(); S.sonar = []; S.queue = []; S.busy = false; S.since = 0; S.fx = []; P.fleet = []; P.submitted = false; A.targets = []; A.weapon = null; $('log').innerHTML = ''; }
-  function enterMatch(id, code){
-    stopPolling(); resetBoard(); S.matchId = id; S.code = code; S.loaded = false;
+  function enterMatch(id, code, resume){
+    stopPolling(); resetBoard(); S.matchId = id; S.code = code; S.loaded = false; S.resume = !!resume;
     try { localStorage.setItem('fleet-match', id); } catch(e){}
     history.replaceState(null, '', '?room=' + code);
     poll();
@@ -541,6 +546,11 @@
     S.match = st.match; S.me = st.me; S.players = st.players; S.weapons = st.weapons;
     S.code = st.match.code;
     var last = st.events.length ? st.events[st.events.length - 1].id : S.since;
+    if (!S.loaded && S.resume){
+      S.resume = false;
+      var meP = st.players.filter(function(p){ return p.seat === st.me.seat; })[0];
+      if (meP && !meP.alive && st.match.status !== 'finished'){ goHome(); return; }   // you are out of that game, so start at the menu
+    }
     if (!S.loaded){
       S.ships = st.ships; S.tiles = st.tiles; S.board = new Map(); S.sunk = []; S.spotted = new Map(); S.sonar = [];
       st.events.forEach(function(ev){ applyFire(ev, true); logEvent(ev, true); });
@@ -744,6 +754,7 @@
     rpc('bs_forfeit', { p_match: S.match.id }).then(poll);
   });
   $('again').addEventListener('click', function(){ goHome(); });
+  $('leaveout').addEventListener('click', function(){ goHome(); });
 
   function driveBots(){
     var m = S.match; if (!m || m.status !== 'playing' || S.busy || S.queue.length) return;
@@ -1185,6 +1196,7 @@
     $('placepanel').hidden = !(st === 'placing');
     $('firepanel').hidden = !(st === 'playing' && me && me.alive);
     $('endpanel').hidden = st !== 'finished';
+    $('outpanel').hidden = !(st === 'playing' && me && !me.alive);
     $('forfeit').parentNode.parentNode.hidden = st === 'finished' || !(me && me.alive);
     if (st === 'finished'){
       var w = m.winner_team == null ? 'Nobody won.' : 'Team ' + (m.winner_team + 1) + ' (' + S.players.filter(function(p){ return p.team === m.winner_team; }).map(function(p){ return p.name; }).join(', ') + ') took the ocean.';
@@ -1263,7 +1275,7 @@
   function start(){
     var want = (new URLSearchParams(location.search).get('room') || '').toUpperCase();
     if (want){ gate('Joining ' + want + '...', false); doJoin(want).then(function(){ if (!S.matchId) show('home'); }); return; }
-    rpc('bs_mine').then(function(r){ if (r && r.id) enterMatch(r.id, r.code); else goHome(); }).catch(function(){ goHome(); });
+    rpc('bs_mine').then(function(r){ if (r && r.id) enterMatch(r.id, r.code, true); else goHome(); }).catch(function(){ goHome(); });
   }
   var started = false;
   RadAuth.mount($('acct'));
