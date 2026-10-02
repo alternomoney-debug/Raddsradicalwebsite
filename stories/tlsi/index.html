@@ -244,6 +244,7 @@
   <p id="lb-cap"></p>
 </dialog>
 
+<script src="chapters.js"></script>
 <script>
 /*
   FILL THIS IN. Anything left empty ("" or [] or removed) just doesn't show up,
@@ -311,10 +312,7 @@ var TLSI = {
     { role: "Cover art", who: "foxyflat" }
   ],
 
-  // CHAPTERS. Add one line per chapter as it goes up. href = where to read it (like your AO3 link), audio = optional link to listen.
-  // Example:  { n: 1, title: "Wake up", href: "https://archiveofourown.org/works/...", audio: "" },
-  // A chapter with no href shows as "coming soon". With no chapters at all, the note below is shown.
-  chapters: [],
+  // CHAPTERS now live in their own small file: stories/tlsi/chapters.js
   chapterNote: "About 24 chapters are drafted. Each one is listed here the day it goes up.",
 
   links: [],
@@ -430,14 +428,21 @@ var TLSI = {
     var desc = el('div', 'd'); desc.appendChild(el('b', '', c.who)); r.appendChild(desc); return r;
   });
 
-  (function(){   // chapters
-    var box = document.getElementById('chapters'), list = d.chapters || []; box.innerHTML = '';
+  (function(){   // chapters: the list comes from chapters.js
+    var box = document.getElementById('chapters'), list = (window.TLSI_CHAPTERS || d.chapters || []).slice().sort(function(a, b){ return a.n - b.n; }); box.innerHTML = '';
     if (!list.length){ var r0 = el('div', 'row'); r0.appendChild(el('div', 't', 'Soon')); r0.appendChild(el('div', 'd', d.chapterNote || "The first chapter goes up when it's ready.")); box.appendChild(r0); return; }
+    var ready = list.filter(function(c){ return !c.soon && !c.href; }), saved = null;
+    try { saved = JSON.parse(localStorage.getItem('rad-read:tlsi') || 'null'); } catch(e){}
+    if (ready.length){
+      var go = ready.some(function(c){ return saved && c.n === saved.c; }) ? saved.c : ready[0].n;
+      var cta = el('div', 'row'); cta.appendChild(el('div', 't', saved && go === saved.c ? 'Welcome back' : 'Start here'));
+      var cd = el('div', 'd'); var ca = el('a', '', saved && go === saved.c ? 'Continue reading: Chapter ' + go : 'Start reading: Chapter ' + ready[0].n); ca.href = 'read/?c=' + go; ca.style.fontWeight = '700'; cd.appendChild(ca); cta.appendChild(cd); box.appendChild(cta);
+    }
     list.forEach(function(c, i){
       var r = el('div', 'row'); r.appendChild(el('div', 't', 'Chapter ' + (c.n || i + 1)));
       var desc = el('div', 'd');
-      if (c.href){ var a = el('a', '', c.title || 'Read'); a.href = c.href; a.target = '_blank'; a.rel = 'noopener'; desc.appendChild(a); }
-      else { desc.appendChild(el('b', '', c.title || 'Coming soon')); desc.appendChild(document.createTextNode(c.title ? ' (coming soon)' : '')); }
+      if (c.soon){ desc.appendChild(el('b', '', c.title || 'Coming soon')); desc.appendChild(document.createTextNode(' (coming soon)')); }
+      else { var a = el('a', '', c.title || 'Read'); a.href = c.href || 'read/?c=' + c.n; if (c.href){ a.target = '_blank'; a.rel = 'noopener'; } desc.appendChild(a); }
       if (c.audio){ desc.appendChild(document.createTextNode('   ')); var au = el('a', '', 'Listen'); au.href = c.audio; au.target = '_blank'; au.rel = 'noopener'; desc.appendChild(au); }
       r.appendChild(desc); box.appendChild(r);
     });
