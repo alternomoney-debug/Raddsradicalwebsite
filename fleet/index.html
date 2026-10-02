@@ -120,6 +120,23 @@
   .log{ list-style: none; margin: 0; padding: 0; max-height: 230px; overflow-y: auto; font-size: 14px; color: var(--muted); }
   .log li{ padding: 3px 0; } .log li b{ color: var(--ink); font-weight: 600; } .log li.big{ color: var(--ink); }
 
+  input[type=number]{ width: 7ch; letter-spacing: 0; text-transform: none; text-align: center; padding: 8px 10px; }
+  label.num{ display: inline-flex; align-items: center; gap: 8px; color: var(--muted); font-size: 15px; }
+  .coins{ font-size: 0.6em; color: var(--gold); font-weight: 700; margin-left: 10px; letter-spacing: 0; }
+  .armory-slot{ border-top: 1px solid var(--line); padding: 14px 0; }
+  .armory-slot h3{ margin: 0 0 8px; font-size: 17px; font-weight: 700; }
+  .armory-slot h3 small{ color: var(--muted); font-weight: 400; font-size: 14px; margin-left: 6px; }
+  .opts{ display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .opt{ border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
+  .opt.eq{ border-color: var(--accent); background: rgba(91,155,230,0.1); }
+  .opt b{ display: block; } .opt span{ display: block; color: var(--muted); font-size: 13px; line-height: 1.35; margin: 2px 0 8px; }
+  .opt button{ padding: 5px 12px; font-size: 14px; }
+  @media (max-width: 560px){ .opts{ grid-template-columns: 1fr; } }
+  .mapbar{ display: flex; gap: 8px; margin-bottom: 8px; align-items: center; }
+  .mapbar button{ padding: 4px 14px; font-size: 18px; line-height: 1.2; }
+  .mapbar span{ color: var(--muted); font-size: 14px; margin-left: 4px; }
+  #mapwrap{ overflow: auto; max-height: calc(100vh - 110px); }
+  .coinline{ color: var(--gold); font-weight: 700; font-size: 20px; margin: 6px 0; }
   footer{ padding-top: 24px; padding-bottom: 60px; font-size: 14px; color: var(--muted); }
   footer a{ color: inherit; }
 </style>
@@ -143,15 +160,19 @@
     <!-- HOME -->
     <section id="home" hidden>
       <h1>Fleet War</h1>
-      <p class="sub">Up to 8 players on one ocean. Armored ships, machine guns, mortars, and decoys. Everything is refereed by the server, so nobody can peek.</p>
+      <p class="sub">Up to 8 players on one ocean, on any map you can dream up. Every ship carries its own weapon. Earn coins, swap in new weapons, and sink the lot.</p>
       <div class="homegrid">
         <div>
           <h2>Make a room</h2>
           <div class="field"><span class="label">Map</span>
             <div class="row sizes" id="sizes"></div></div>
+          <div class="field" id="customfields" hidden><span class="label">Custom map (2 to 100 on a side, 10,000 tiles at most)</span>
+            <div class="row"><label class="num">Width <input id="cw" type="number" min="2" max="100"></label><label class="num">Height <input id="ch" type="number" min="2" max="100"></label><label class="num">Players <select id="cmax" aria-label="Players"></select></label></div></div>
+          <div class="field"><span class="label">Fleet size</span><div class="row"><select id="fleetsel" aria-label="Fleet size"></select></div></div>
           <div class="field"><span class="label">Mode</span>
             <div class="row"><button type="button" id="mode-ffa" class="on">Free for all</button><button type="button" id="mode-teams">Teams</button>
               <select id="teamcount" hidden aria-label="Number of teams"></select></div></div>
+          <p class="small" id="capnote" style="margin:0 0 14px"></p>
           <button type="button" id="make" class="go">Make room</button>
           <p class="err" id="homeerr"></p>
         </div>
@@ -160,11 +181,19 @@
           <div class="row"><input id="joincode" maxlength="5" placeholder="CODE" aria-label="Room code" autocomplete="off"><button type="button" id="join">Join</button></div>
           <h2 style="margin-top:40px">Weapons</h2>
           <div class="guide">
-            <div><b>Shell</b><span>1 tile, 4 damage. Every tile has 4 armor, so one shell destroys it. From Battleships, Dreadnoughts, Carriers, and Submarines.</span></div>
+            <div><b>Shell</b><span>1 tile, 4 damage. Every tile has 4 armor, so one shell destroys it. From Battleships and Dreadnoughts.</span></div>
             <div><b>Machine gun</b><span>4 shots, 1 damage each. Spread them out or stack them on one tile. You only learn what you hit after the whole burst. From Destroyers.</span></div>
             <div><b>Mortar</b><span>Once per match. Hits a rounded 5x5 area: every tile takes damage, the centre takes 5, plus 8 random extra hits. From Cruisers.</span></div>
+            <div><b>Sonar ping</b><span>From Submarines. Counts ship tiles in a 3x3. No damage. Only your team sees the answer.</span></div>
+            <div><b>Recon flight</b><span>From Carriers. Marks every ship tile in a 3x3 for your team. Recharges for 2 turns.</span></div>
             <div><b>Bait boats</b><span>Decoys that look real. They do not count toward winning.</span></div>
           </div>
+        </div>
+        <div>
+          <h2>Armory <span class="coins" id="coins"></span></h2>
+          <p class="small" id="coinnote" style="margin:0 0 10px">Win games with 2 or more real players to earn coins. Weapons from the shop are side-grades, not upgrades: each one trades something away.</p>
+          <div id="armory"></div>
+          <p class="err" id="armoryerr"></p>
         </div>
         <div>
           <h2>Fleet War wins</h2>
@@ -188,11 +217,15 @@
         <div>
           <h2>Settings</h2>
           <div class="field"><span class="label">Map</span><div class="row sizes" id="lsizes"></div></div>
+          <div class="field" id="lcustom" hidden><span class="label">Custom map</span>
+            <div class="row"><label class="num">Width <input id="lcw" type="number" min="2" max="100"></label><label class="num">Height <input id="lch" type="number" min="2" max="100"></label><label class="num">Players <select id="lcmax" aria-label="Players"></select></label><button type="button" id="lapply">Apply</button></div></div>
+          <div class="field"><span class="label">Fleet size</span><div class="row"><select id="lfleet" aria-label="Fleet size"></select></div></div>
           <div class="field"><span class="label">Mode</span>
             <div class="row"><button type="button" id="lmode-ffa">Free for all</button><button type="button" id="lmode-teams">Teams</button>
               <select id="lteams" hidden aria-label="Number of teams"></select></div></div>
           <div class="field" id="botbox"><span class="label">Fill a seat with a bot</span>
             <div class="row"><select id="botlevel" aria-label="Bot level"><option value="1">Rookie</option><option value="2">Sailor</option><option value="3">Admiral</option></select><button type="button" id="addbot">Add bot</button></div></div>
+          <p class="small" id="lcap" style="margin:0 0 12px"></p>
           <div class="row"><button type="button" id="start" class="go">Start game</button><button type="button" id="leave">Leave</button></div>
           <p class="small" id="waithost"></p>
         </div>
@@ -202,12 +235,15 @@
     <!-- GAME -->
     <section id="game" hidden>
       <div class="gamegrid">
+        <div class="mapcol">
+        <div class="mapbar"><button type="button" id="zoomout" aria-label="Zoom out">-</button><button type="button" id="zoomin" aria-label="Zoom in">+</button><button type="button" id="zoomfit">Fit</button><span id="mapsize"></span></div>
         <div id="mapwrap">
           <div id="stage">
             <canvas id="map"></canvas>
             <div id="banner"></div>
             <div id="flash"></div>
           </div>
+        </div>
         </div>
         <aside class="side">
           <section>
@@ -227,12 +263,14 @@
             <h2>Weapons</h2>
             <div class="weapons" id="weapons"></div>
             <p class="small" id="aimhelp" style="margin:10px 0 0"></p>
-            <div class="row" style="margin-top:10px"><button type="button" id="fire" class="go" disabled>Fire</button><button type="button" id="undo">Undo</button></div>
+            <div class="row" style="margin-top:10px"><button type="button" id="fire" class="go" disabled>Fire</button><button type="button" id="undo">Undo</button><button type="button" id="aimrotate" hidden>Rotate (R)</button></div>
+            <div class="row" style="margin-top:10px"><button type="button" id="pass" hidden>Hold fire (skip turn)</button></div>
             <p class="err" id="fireerr"></p>
           </section>
           <section id="endpanel" hidden>
             <h2 id="endtitle"></h2>
             <p class="small" id="endsub"></p>
+            <p class="coinline" id="endcoins"></p>
             <div class="row"><button type="button" id="again" class="go">Back to menu</button></div>
           </section>
           <section><h2 style="font-size:22px">Fleets</h2><ul class="players" id="players"></ul></section>
@@ -258,24 +296,74 @@
     classic: { label: 'Classic', w: 20, h: 10, max: 2, note: '20x10, 2 players' },
     medium:  { label: 'Medium',  w: 20, h: 20, max: 4, note: '20x20, up to 4' },
     large:   { label: 'Large',   w: 26, h: 26, max: 6, note: '26x26, up to 6' },
-    huge:    { label: 'Huge',    w: 32, h: 32, max: 8, note: '32x32, up to 8' }
+    huge:    { label: 'Huge',    w: 32, h: 32, max: 8, note: '32x32, up to 8' },
+    custom:  { label: 'Custom',  max: 8, note: 'you pick, up to 100x100' }
   };
+  var TIERS = { classic: 'Classic: 5 ships', medium: 'Medium: 5 ships + 1 bait', large: 'Large: 9 ships + 2 bait', huge: 'Huge: 11 ships + 3 bait' };
   var LEN = { carrier: 5, battleship: 4, cruiser: 3, submarine: 3, destroyer: 2, dreadnought: 6 };
   var NAMES = { carrier: 'Carrier', battleship: 'Battleship', cruiser: 'Cruiser', submarine: 'Submarine', destroyer: 'Destroyer', dreadnought: 'Dreadnought', bait: 'Bait boat' };
-  function fleetFor(size){
+  function fleetFor(tier){
     var f = [['carrier',5],['battleship',4],['cruiser',3],['submarine',3],['destroyer',2]];
-    if (size === 'medium') f.push(['bait',2]);
-    if (size === 'large' || size === 'huge') f.push(['battleship',4],['cruiser',3],['destroyer',2],['submarine',3]);
-    if (size === 'large') f.push(['bait',2],['bait',3]);
-    if (size === 'huge') f.push(['dreadnought',6],['carrier',5],['bait',1],['bait',2],['bait',3]);
+    if (tier === 'medium') f.push(['bait',2]);
+    if (tier === 'large' || tier === 'huge') f.push(['battleship',4],['cruiser',3],['destroyer',2],['submarine',3]);
+    if (tier === 'large') f.push(['bait',2],['bait',3]);
+    if (tier === 'huge') f.push(['dreadnought',6],['carrier',5],['bait',1],['bait',2],['bait',3]);
     return f.map(function(a, i){ return { id: i, kind: a[0], len: a[1], placed: false, x: 0, y: 0, dir: 'h' }; })
             .sort(function(a, b){ return b.len - a.len || a.id - b.id; });
   }
+  function fleetTiles(tier){ return fleetFor(tier).reduce(function(a, f){ return a + f.len; }, 0); }
+  // the same maths the server uses, so the screen can warn you before you press Start
+  function gridFor(n, w, h){
+    var best = null;
+    for (var rws = 1; rws <= n; rws++){ var cols = Math.ceil(n / rws), cw = w / cols, ch = h / rws; if (cw < 2 || ch < 2) continue;
+      var sc = Math.abs(Math.log(cw / ch)) + 0.3 * (cols * rws - n) / n; if (!best || sc < best.sc) best = { cols: cols, rws: rws, sc: sc }; }
+    return best;
+  }
+  function minTerritory(w, h, n){
+    var g = gridFor(n, w, h); if (!g) return null; var minA = Infinity, minD = null;
+    for (var gc = 0; gc < g.cols; gc++) for (var gr = 0; gr < g.rws; gr++){
+      var x0 = Math.floor(gc * w / g.cols), x1 = Math.floor((gc + 1) * w / g.cols) - 1, y0 = Math.floor(gr * h / g.rws), y1 = Math.floor((gr + 1) * h / g.rws) - 1;
+      if (gc > 0) x0++; if (gc < g.cols - 1) x1--; if (gr > 0) y0++; if (gr < g.rws - 1) y1--;
+      var tw = x1 - x0 + 1, th = y1 - y0 + 1; if (tw < 1 || th < 1) return { bad: true };
+      if (tw * th < minA){ minA = tw * th; minD = [tw, th]; }
+    }
+    return { area: minA, w: minD[0], h: minD[1] };
+  }
+  function capacityNote(w, h, tier, nTeams, perTeam){
+    var t = minTerritory(w, h, nTeams); if (!t || t.bad) return { text: 'That map is too small for ' + nTeams + ' teams.', bad: true };
+    var need = fleetTiles(tier) * perTeam, bad = need * 10 > t.area * 6;
+    return { text: 'Each territory is about ' + t.w + 'x' + t.h + ' (' + t.area + ' tiles). A team of ' + perTeam + ' needs ' + need + ' tiles of ships.' + (bad ? ' Too crowded: pick a bigger map, a smaller fleet, or more teams.' : ''), bad: bad };
+  }
   var TEAM_COLORS = ['#5b9be6', '#e5533f', '#d6c23a', '#9b59d0', '#4fa63a', '#e8893c', '#2cb5a5', '#d0679b'];
   var WEAPONS = {
-    shell:  { name: 'Shell',       desc: '1 tile. 4 damage destroys it.', keys: '1', shots: 1 },
-    mg:     { name: 'Machine gun', desc: '4 shots, 1 damage each. Spread or stack. Results show after the burst.', keys: '2', shots: 4 },
-    mortar: { name: 'Mortar',      desc: 'Once per match. Rounded 5x5, centre takes 5, plus 8 random hits.', keys: '3', shots: 1 }
+    shell:   { name: 'Shell',        mode: 'single', desc: '1 tile. 4 damage destroys it.' },
+    heavy:   { name: 'Heavy shell',  mode: 'single', desc: '4 damage, plus 1 to the 4 tiles around it. Needs a turn to reload.' },
+    mg:      { name: 'Machine gun',  mode: 'multi',  desc: '4 shots, 1 damage each. Spread or stack. Results show after the burst.' },
+    burst:   { name: 'Burst',        mode: 'line', len: 3, desc: 'A straight line of 3 tiles, 2 damage each. Needs a turn to reload.' },
+    bomber:  { name: 'Bomber run',   mode: 'line', len: 5, desc: 'A straight line of 5 tiles, 1 damage each. Needs a turn to reload.' },
+    mortar:  { name: 'Mortar',       mode: 'area', desc: 'Once per match. Rounded 5x5: every tile hit, centre takes 5, plus 8 random hits.' },
+    barrage: { name: 'Barrage',      mode: 'area', desc: 'Once per match. A huge area: every tile hit, centre takes 2, plus 6 random hits.' },
+    sonar:   { name: 'Sonar ping',   mode: 'scan', desc: 'Counts ship tiles in a 3x3. No damage. Only your team sees it.' },
+    recon:   { name: 'Recon flight', mode: 'scan', desc: 'Marks every ship tile in a 3x3. Recharges for 2 turns. Only your team sees it.' },
+    torpedo: { name: 'Torpedo',      mode: 'lane', desc: '2 per match. Runs along a row or column and hits the first enemy ship for 2.' }
+  };
+  function needFor(w){ var d = WEAPONS[w]; return d.mode === 'multi' ? 4 : d.mode === 'line' ? d.len : 1; }
+  // what the shop sells (the server holds the real prices)
+  var SLOTS = [
+    { slot: 'shell',  ship: 'Battleship', items: ['shell', 'heavy'] },
+    { slot: 'mortar', ship: 'Cruiser',    items: ['mortar', 'barrage'] },
+    { slot: 'mg',     ship: 'Destroyer',  items: ['mg', 'burst'] },
+    { slot: 'sonar',  ship: 'Submarine',  items: ['sonar', 'torpedo'] },
+    { slot: 'air',    ship: 'Carrier',    items: ['recon', 'bomber'] }
+  ];
+  var PRICES = { heavy: 120, barrage: 150, burst: 120, torpedo: 180, bomber: 150 };
+  var TRADE = {
+    shell: 'The reliable one.', mortar: 'One shot per match.', mg: 'Weak per shot, flexible.', sonar: 'Scouting only.', recon: 'Scouting only.',
+    heavy: 'Hits harder around the target, but you must skip a turn to reload it.',
+    barrage: 'Covers far more ground, but the centre only takes 2 so it cannot sink a tile on its own.',
+    burst: 'Needs a straight line of 3 and a turn to reload, but each tile takes 2.',
+    torpedo: 'Finds the first enemy ship in a whole lane, but only 2 damage and 2 per match.',
+    bomber: 'Damages 5 tiles in a line instead of scouting, but 1 each and a turn to reload.'
   };
 
   // ---------------- talking to the server ----------------
@@ -289,11 +377,12 @@
   // ---------------- state ----------------
   var S = { matchId: null, code: null, match: null, me: null, players: [], weapons: [], ships: [], tiles: [],
             board: new Map(), sunk: [], since: 0, queue: [], busy: false, loaded: false, offset: 0, lastBot: 0, timer: null, polling: false,
-            fx: [], shakeAmp: 0, shakeUntil: 0 };
+            fx: [], shakeAmp: 0, shakeUntil: 0, spotted: new Map(), sonar: [], zoom: 1 };
   window.FLEET_DEBUG = S;   // handy for checking the game state from the browser console
   var P = { fleet: [], sel: 0, dir: 'h', hover: null, submitted: false };      // placing
-  var A = { weapon: null, targets: [], hover: null };                           // aiming
-  var homeSize = 'medium', homeFfa = true, homeTeams = 2;
+  var A = { weapon: null, targets: [], hover: null, dir: 'h', tdir: 'r' };       // aiming
+  var homeSize = 'medium', homeFleet = 'medium', homeFfa = true, homeTeams = 2, homeCustom = { w: 40, h: 20, max: 4 };
+  var WAL = null;
   var cv = $('map'), ctx = cv.getContext('2d'), cs = 24, dpr = Math.min(2, window.devicePixelRatio || 1);
 
   function tcolor(t){ return TEAM_COLORS[t % TEAM_COLORS.length]; }
@@ -301,7 +390,11 @@
   function myRect(){ return rectOf(S.me.team); }
   function rectOf(team){ var t = S.match && S.match.terrain; if (!t) return null; return t.territories.filter(function(r){ return r.team === team; })[0] || null; }
   function inRect(r, x, y){ return r && x >= r.x0 && x <= r.x1 && y >= r.y0 && y <= r.y1; }
-  function isIsland(x, y){ var t = S.match.terrain; return t && t.islands.some(function(i){ return i[0] === x && i[1] === y; }); }
+  function isIsland(x, y){
+    var t = S.match && S.match.terrain; if (!t) return false;
+    if (S._islT !== t){ S._islT = t; S._isl = new Set(t.islands.map(function(i){ return i[0] + ',' + i[1]; })); }
+    return S._isl.has(x + ',' + y);
+  }
   function isMyTurn(){ return S.match && S.match.status === 'playing' && S.match.turn_seat === S.me.seat; }
   function nowServer(){ return Date.now() + S.offset; }
 
@@ -315,7 +408,7 @@
     host.innerHTML = '';
     Object.keys(SIZES).forEach(function(k){
       var b = el('button', current === k ? 'on' : ''); b.type = 'button';
-      b.appendChild(document.createTextNode(SIZES[k].label)); var s = el('small', '', SIZES[k].note); b.appendChild(s);
+      b.appendChild(document.createTextNode(SIZES[k].label)); var sm = el('small', '', SIZES[k].note); b.appendChild(sm);
       b.addEventListener('click', function(){ onPick(k); }); host.appendChild(b);
     });
   }
@@ -323,18 +416,41 @@
     sel.innerHTML = '';
     for (var n = 2; n <= max; n++){ var o = el('option', '', n + ' teams'); o.value = n; if (n === current) o.selected = true; sel.appendChild(o); }
   }
+  function fillPlayersSelect(sel, current){
+    sel.innerHTML = '';
+    for (var n = 2; n <= 8; n++){ var o = el('option', '', String(n)); o.value = n; if (n === current) o.selected = true; sel.appendChild(o); }
+  }
+  function fillFleetSelect(sel, current){
+    sel.innerHTML = '';
+    Object.keys(TIERS).forEach(function(k){ var o = el('option', '', TIERS[k]); o.value = k; if (k === current) o.selected = true; sel.appendChild(o); });
+  }
+  function homeDims(){ return homeSize === 'custom' ? { w: homeCustom.w, h: homeCustom.h, max: homeCustom.max } : { w: SIZES[homeSize].w, h: SIZES[homeSize].h, max: SIZES[homeSize].max }; }
+  function clampDim(v, fallback){ v = parseInt(v, 10); if (isNaN(v)) v = fallback; return Math.max(2, Math.min(100, v)); }
   function renderHome(){
-    buildSizeButtons($('sizes'), homeSize, function(k){ homeSize = k; homeTeams = Math.min(homeTeams, SIZES[k].max); renderHome(); });
+    buildSizeButtons($('sizes'), homeSize, function(k){ homeSize = k; if (k !== 'custom') homeFleet = k; homeTeams = Math.min(homeTeams, homeDims().max); renderHome(); });
+    $('customfields').hidden = homeSize !== 'custom';
+    $('cw').value = homeCustom.w; $('ch').value = homeCustom.h; fillPlayersSelect($('cmax'), homeCustom.max);
+    fillFleetSelect($('fleetsel'), homeFleet);
     $('mode-ffa').className = homeFfa ? 'on' : ''; $('mode-teams').className = homeFfa ? '' : 'on';
-    $('teamcount').hidden = homeFfa; fillTeamSelect($('teamcount'), SIZES[homeSize].max, homeTeams);
+    var d = homeDims(); homeTeams = Math.min(homeTeams, d.max);
+    $('teamcount').hidden = homeFfa; fillTeamSelect($('teamcount'), d.max, homeTeams);
+    var tooBig = d.w * d.h > 10000, teams = homeFfa ? d.max : homeTeams, per = homeFfa ? 1 : Math.ceil(d.max / teams);
+    var cap = tooBig ? { text: 'Too big: a map can have 10,000 tiles at most.', bad: true } : capacityNote(d.w, d.h, homeFleet, teams, per);
+    $('capnote').textContent = d.w + 'x' + d.h + ' map for ' + d.max + ' players. ' + cap.text;
+    $('capnote').style.color = cap.bad ? '#ff7a68' : ''; $('make').disabled = tooBig;
   }
   $('mode-ffa').addEventListener('click', function(){ homeFfa = true; renderHome(); });
   $('mode-teams').addEventListener('click', function(){ homeFfa = false; renderHome(); });
-  $('teamcount').addEventListener('change', function(){ homeTeams = parseInt($('teamcount').value, 10); });
+  $('teamcount').addEventListener('change', function(){ homeTeams = parseInt($('teamcount').value, 10); renderHome(); });
+  $('fleetsel').addEventListener('change', function(){ homeFleet = $('fleetsel').value; renderHome(); });
+  $('cw').addEventListener('change', function(){ homeCustom.w = clampDim($('cw').value, homeCustom.w); renderHome(); });
+  $('ch').addEventListener('change', function(){ homeCustom.h = clampDim($('ch').value, homeCustom.h); renderHome(); });
+  $('cmax').addEventListener('change', function(){ homeCustom.max = parseInt($('cmax').value, 10); renderHome(); });
   $('make').addEventListener('click', function(){
     $('homeerr').textContent = '';
-    rpc('bs_create', { p_size: homeSize, p_ffa: homeFfa, p_teams: homeTeams }).then(function(r){ enterMatch(r.id, r.code); })
-      .catch(function(e){ $('homeerr').textContent = e.message; });
+    var d = homeDims(), args = { p_size: homeSize, p_ffa: homeFfa, p_teams: homeTeams, p_fleet: homeFleet };
+    if (homeSize === 'custom'){ args.p_w = d.w; args.p_h = d.h; args.p_max = d.max; }
+    rpc('bs_create', args).then(function(r){ enterMatch(r.id, r.code); }).catch(function(e){ $('homeerr').textContent = e.message; });
   });
   function doJoin(code){
     $('homeerr').textContent = '';
@@ -343,6 +459,33 @@
   }
   $('join').addEventListener('click', function(){ doJoin($('joincode').value.trim()); });
   $('joincode').addEventListener('keydown', function(e){ if (e.key === 'Enter') doJoin($('joincode').value.trim()); });
+
+  // ---------------- ARMORY ----------------
+  function loadWallet(){ return rpc('bs_wallet').then(function(w){ WAL = w; renderArmory(); }).catch(function(){}); }
+  function renderArmory(){
+    var host = $('armory'); if (!WAL){ host.textContent = ''; return; }
+    $('coins').textContent = WAL.coins + ' coins';
+    $('coinnote').textContent = 'Win games with 2 or more real players to earn coins (' + WAL.earned_today + ' of ' + WAL.daily_cap + ' earned today). Shop weapons are side-grades: each one trades something away.';
+    host.innerHTML = '';
+    SLOTS.forEach(function(sl){
+      var box = el('div', 'armory-slot'); var h3 = el('h3', '', sl.ship); h3.appendChild(el('small', '', 'pick one weapon for this ship')); box.appendChild(h3);
+      var opts = el('div', 'opts');
+      sl.items.forEach(function(id){
+        var def = WEAPONS[id], price = PRICES[id], owned = !price || WAL.owned.indexOf(id) >= 0, eq = WAL.loadout[sl.slot] === id;
+        var o = el('div', 'opt' + (eq ? ' eq' : '')); o.appendChild(el('b', '', def.name)); o.appendChild(el('span', '', def.desc));
+        var b = el('button', eq ? 'on' : ''); b.type = 'button';
+        if (eq){ b.textContent = 'Equipped'; b.disabled = true; }
+        else if (owned){ b.textContent = 'Equip'; b.addEventListener('click', function(){ armoryCall('bs_equip', { p_slot: sl.slot, p_item: id }); }); }
+        else { b.textContent = 'Buy for ' + price; b.disabled = WAL.coins < price; b.addEventListener('click', function(){ armoryCall('bs_buy', { p_item: id }); }); }
+        o.appendChild(b); opts.appendChild(o);
+      });
+      box.appendChild(opts); host.appendChild(box);
+    });
+  }
+  function armoryCall(fn, args){
+    $('armoryerr').textContent = '';
+    rpc(fn, args).then(function(w){ WAL = w; renderArmory(); }).catch(function(e){ $('armoryerr').textContent = e.message; });
+  }
 
   function loadBoard(){
     var ol = $('lb'); ol.innerHTML = '';
@@ -362,11 +505,11 @@
     stopPolling(); S.matchId = null; S.loaded = false; S.match = null; resetBoard();
     try { localStorage.removeItem('fleet-match'); } catch(e){}
     history.replaceState(null, '', location.pathname);
-    show('home'); renderHome(); loadBoard(); if (msg) $('homeerr').textContent = msg;
+    show('home'); renderHome(); loadBoard(); loadWallet(); if (msg) $('homeerr').textContent = msg;
   }
 
   // ---------------- entering a match + polling ----------------
-  function resetBoard(){ S.board = new Map(); S.sunk = []; S.queue = []; S.busy = false; S.since = 0; S.fx = []; P.fleet = []; P.submitted = false; A.targets = []; A.weapon = null; $('log').innerHTML = ''; }
+  function resetBoard(){ S.board = new Map(); S.sunk = []; S.spotted = new Map(); S.sonar = []; S.queue = []; S.busy = false; S.since = 0; S.fx = []; P.fleet = []; P.submitted = false; A.targets = []; A.weapon = null; $('log').innerHTML = ''; }
   function enterMatch(id, code){
     stopPolling(); resetBoard(); S.matchId = id; S.code = code; S.loaded = false;
     try { localStorage.setItem('fleet-match', id); } catch(e){}
@@ -396,7 +539,7 @@
     S.code = st.match.code;
     var last = st.events.length ? st.events[st.events.length - 1].id : S.since;
     if (!S.loaded){
-      S.ships = st.ships; S.tiles = st.tiles; S.board = new Map(); S.sunk = [];
+      S.ships = st.ships; S.tiles = st.tiles; S.board = new Map(); S.sunk = []; S.spotted = new Map(); S.sonar = [];
       st.events.forEach(function(ev){ applyFire(ev, true); logEvent(ev, true); });
       S.since = last; S.loaded = true; sizeMap();
     } else {
@@ -411,18 +554,36 @@
 
   // ---------------- LOBBY ----------------
   var lobbySig = '';
+  function setOptions(patch){
+    var m = S.match, o = { p_match: m.id, p_size: m.size, p_ffa: m.ffa, p_teams: m.team_count, p_w: m.w, p_h: m.h, p_fleet: m.fleet, p_max: m.max };
+    Object.keys(patch).forEach(function(k){ o[k] = patch[k]; });
+    return rpc('bs_options', o).then(poll).catch(lobbyErr);
+  }
   function renderLobby(){
     var m = S.match, isHost = S.me.seat === m.host_seat;
-    var sig = JSON.stringify([m.size, m.ffa, m.team_count, S.players.map(function(p){ return [p.seat, p.name, p.team, p.bot, p.level]; }), isHost]);
+    var sig = JSON.stringify([m.size, m.fleet, m.w, m.h, m.max, ISH(isHost), m.ffa, m.team_count, S.players.map(function(p){ return [p.seat, p.name, p.team, p.bot, p.level]; })]);
     $('roomcode').textContent = m.code;
     if (sig === lobbySig) return; lobbySig = sig;
-    buildSizeButtons($('lsizes'), m.size, function(k){ if (isHost) rpc('bs_options', { p_match: m.id, p_size: k, p_ffa: m.ffa, p_teams: m.team_count }).then(poll).catch(lobbyErr); });
-    ['lsizes'].forEach(function(id){ [].forEach.call($(id).children, function(b){ b.disabled = !isHost; }); });
+    buildSizeButtons($('lsizes'), m.size, function(k){
+      if (!isHost) return;
+      if (k === 'custom') setOptions({ p_size: 'custom', p_w: m.w, p_h: m.h, p_max: Math.max(m.max, S.players.length, 2) });
+      else setOptions({ p_size: k, p_fleet: k });
+    });
+    [].forEach.call($('lsizes').children, function(b){ b.disabled = !isHost; });
+    $('lcustom').hidden = m.size !== 'custom';
+    $('lcw').value = m.w; $('lch').value = m.h; fillPlayersSelect($('lcmax'), m.max);
+    [$('lcw'), $('lch'), $('lcmax'), $('lapply'), $('lfleet')].forEach(function(x){ x.disabled = !isHost; });
+    fillFleetSelect($('lfleet'), m.fleet);
     $('lmode-ffa').className = m.ffa ? 'on' : ''; $('lmode-teams').className = m.ffa ? '' : 'on';
     $('lmode-ffa').disabled = $('lmode-teams').disabled = !isHost;
-    $('lteams').hidden = m.ffa; fillTeamSelect($('lteams'), SIZES[m.size].max, m.team_count); $('lteams').disabled = !isHost;
+    $('lteams').hidden = m.ffa; fillTeamSelect($('lteams'), m.max, m.team_count); $('lteams').disabled = !isHost;
     $('botbox').hidden = !isHost; $('start').hidden = !isHost; $('waithost').textContent = isHost ? '' : 'Waiting for the host to start.';
     $('seatcount').textContent = S.players.length + ' of ' + m.max;
+    // warn about a map that is too small for the fleets before anybody presses Start
+    var counts = {}; S.players.forEach(function(p){ var t = m.ffa ? 'p' + p.seat : 't' + p.team; counts[t] = (counts[t] || 0) + 1; });
+    var nTeams = Math.max(2, Object.keys(counts).length), per = Math.max.apply(null, Object.keys(counts).map(function(k){ return counts[k]; }).concat([1]));
+    var cap = capacityNote(m.w, m.h, m.fleet, nTeams, per);
+    $('lcap').textContent = m.w + 'x' + m.h + ' map, ' + TIERS[m.fleet] + '. ' + cap.text; $('lcap').style.color = cap.bad ? '#ff7a68' : '';
     var list = $('plist'); list.innerHTML = '';
     S.players.forEach(function(p){
       var row = el('div', 'pl'); var dot = el('span', 'dot'); dot.style.background = tcolor(p.team); row.appendChild(dot);
@@ -441,10 +602,13 @@
     });
     for (var i = S.players.length; i < m.max; i++) list.appendChild(el('div', 'empty-seat', 'Open seat'));
   }
+  function ISH(v){ return v ? 1 : 0; }
   function lobbyErr(e){ $('lobbyerr').textContent = e.message; setTimeout(function(){ $('lobbyerr').textContent = ''; }, 5000); }
-  $('lmode-ffa').addEventListener('click', function(){ var m = S.match; rpc('bs_options', { p_match: m.id, p_size: m.size, p_ffa: true, p_teams: m.team_count }).then(poll).catch(lobbyErr); });
-  $('lmode-teams').addEventListener('click', function(){ var m = S.match; rpc('bs_options', { p_match: m.id, p_size: m.size, p_ffa: false, p_teams: m.team_count }).then(poll).catch(lobbyErr); });
-  $('lteams').addEventListener('change', function(){ var m = S.match; rpc('bs_options', { p_match: m.id, p_size: m.size, p_ffa: m.ffa, p_teams: parseInt($('lteams').value, 10) }).then(poll).catch(lobbyErr); });
+  $('lmode-ffa').addEventListener('click', function(){ setOptions({ p_ffa: true }); });
+  $('lmode-teams').addEventListener('click', function(){ setOptions({ p_ffa: false }); });
+  $('lteams').addEventListener('change', function(){ setOptions({ p_teams: parseInt($('lteams').value, 10) }); });
+  $('lfleet').addEventListener('change', function(){ setOptions({ p_fleet: $('lfleet').value }); });
+  $('lapply').addEventListener('click', function(){ setOptions({ p_size: 'custom', p_w: clampDim($('lcw').value, S.match.w), p_h: clampDim($('lch').value, S.match.h), p_max: parseInt($('lcmax').value, 10) }); });
   $('addbot').addEventListener('click', function(){ rpc('bs_add_bot', { p_match: S.match.id, p_level: parseInt($('botlevel').value, 10) }).then(poll).catch(lobbyErr); });
   $('start').addEventListener('click', function(){ rpc('bs_start', { p_match: S.match.id }).then(poll).catch(lobbyErr); });
   $('leave').addEventListener('click', function(){ rpc('bs_leave', { p_match: S.match.id }).then(function(){ goHome(); }).catch(lobbyErr); });
@@ -454,7 +618,7 @@
   });
 
   // ---------------- PLACING ----------------
-  function initPlacing(){ P.fleet = fleetFor(S.match.size); P.sel = 0; P.dir = 'h'; P.submitted = S.players.filter(function(p){ return p.seat === S.me.seat; })[0].placed; if (P.submitted) P.fleet.forEach(function(f){ f.placed = true; }); }
+  function initPlacing(){ P.fleet = fleetFor(S.match.fleet); P.sel = 0; P.dir = 'h'; P.submitted = S.players.filter(function(p){ return p.seat === S.me.seat; })[0].placed; if (P.submitted) P.fleet.forEach(function(f){ f.placed = true; }); }
   function shipCells(f){ var out = []; for (var i = 0; i < f.len; i++) out.push([f.x + (f.dir === 'h' ? i : 0), f.y + (f.dir === 'h' ? 0 : i)]); return out; }
   function takenBy(x, y, skip){
     for (var i = 0; i < P.fleet.length; i++){ var f = P.fleet[i]; if (!f.placed || f === skip) continue;
@@ -500,6 +664,7 @@
   });
 
   // ---------------- AIMING + FIRING ----------------
+  var DIRS = ['r', 'd', 'l', 'u'], DIRNAME = { r: 'right', d: 'down', l: 'left', u: 'up' };
   function aimable(x, y){
     if (x < 0 || y < 0 || x >= S.match.w || y >= S.match.h) return false;
     if (isIsland(x, y)) return false;
@@ -507,36 +672,68 @@
     var b = S.board.get(x + ',' + y); if (b && (b.s === 'water' || b.s === 'sunk')) return false;
     return true;
   }
-  function mortarCells(cx, cy){
-    var out = [];
-    for (var dx = -2; dx <= 2; dx++) for (var dy = -2; dy <= 2; dy++){
-      if (Math.abs(dx) === 2 && Math.abs(dy) === 2) continue;
+  // the tiles an area weapon covers, seen from a given team (a team's own side is never hit)
+  function areaCells(w, cx, cy, team){
+    var out = [], mode = WEAPONS[w].mode, rect = rectOf(team == null ? S.me.team : team);
+    for (var dx = -3; dx <= 3; dx++) for (var dy = -3; dy <= 3; dy++){
+      if (mode === 'scan'){ if (Math.abs(dx) > 1 || Math.abs(dy) > 1) continue; }
+      else if (w === 'mortar'){ if (Math.abs(dx) > 2 || Math.abs(dy) > 2 || (Math.abs(dx) === 2 && Math.abs(dy) === 2)) continue; }
+      else { if (Math.abs(dx) + Math.abs(dy) > 4) continue; }
       var x = cx + dx, y = cy + dy; if (x < 0 || y < 0 || x >= S.match.w || y >= S.match.h) continue;
-      if (isIsland(x, y) || inRect(myRect(), x, y)) continue; out.push([x, y]);
+      if (mode !== 'scan' && (isIsland(x, y) || inRect(rect, x, y))) continue;
+      out.push([x, y]);
     }
     return out;
   }
-  function chooseWeapon(w){
-    if (!isMyTurn() || S.busy || S.weapons.indexOf(w) < 0) return;
-    A.weapon = w; A.targets = []; render();
+  function lineCells(w, x, y){
+    var n = WEAPONS[w].len, off = Math.floor((n - 1) / 2), out = [];
+    for (var i = 0; i < n; i++) out.push(A.dir === 'h' ? [x - off + i, y] : [x, y - off + i]);
+    return out;
+  }
+  function lineOk(cells){ return cells.every(function(c){ return c[0] >= 0 && c[1] >= 0 && c[0] < S.match.w && c[1] < S.match.h && !isIsland(c[0], c[1]) && !inRect(myRect(), c[0], c[1]); }); }
+  function laneCells(x, y, dir){
+    var out = [], W = S.match.w, H = S.match.h, i;
+    if (dir === 'r') for (i = 0; i < W; i++) out.push([i, y]);
+    else if (dir === 'l') for (i = W - 1; i >= 0; i--) out.push([i, y]);
+    else if (dir === 'd') for (i = 0; i < H; i++) out.push([x, i]);
+    else for (i = H - 1; i >= 0; i--) out.push([x, i]);
+    return out;
+  }
+  function readyWeapons(){ return S.weapons.filter(function(x){ return x.ready; }); }
+  function chooseWeapon(id){
+    var wd = S.weapons.filter(function(x){ return x.id === id; })[0];
+    if (!isMyTurn() || S.busy || !wd || !wd.ready) return;
+    A.weapon = id; A.targets = []; render();
   }
   function aimClick(x, y){
     if (!isMyTurn() || S.busy || !A.weapon) return;
-    if (A.weapon === 'mortar'){ if (x < 0 || y < 0 || x >= S.match.w || y >= S.match.h || isIsland(x, y) || inRect(myRect(), x, y)) return; A.targets = [[x, y]]; }
-    else {
-      if (!aimable(x, y)) return;
-      if (A.weapon === 'shell') A.targets = [[x, y]];
-      else if (A.targets.length < 4) A.targets.push([x, y]);
-    }
+    var w = A.weapon, mode = WEAPONS[w].mode;
+    if (mode === 'single'){ if (!aimable(x, y)) return; A.targets = [[x, y]]; }
+    else if (mode === 'multi'){ if (!aimable(x, y)) return; if (A.targets.length < 4) A.targets.push([x, y]); }
+    else if (mode === 'line'){ var cells = lineCells(w, x, y); if (!lineOk(cells)) return; A.targets = cells; }
+    else if (mode === 'area'){ if (x < 0 || y < 0 || x >= S.match.w || y >= S.match.h || inRect(myRect(), x, y)) return; A.targets = [[x, y]]; }
+    else if (mode === 'scan'){ if (inRect(myRect(), x, y)) return; A.targets = [[x, y]]; }
+    else if (mode === 'lane'){ A.targets = [[x, y]]; }
     render();
   }
+  function rotateAim(){
+    var m = A.weapon && WEAPONS[A.weapon].mode;
+    if (m === 'line'){ A.dir = A.dir === 'h' ? 'v' : 'h'; A.targets = []; }
+    else if (m === 'lane'){ A.tdir = DIRS[(DIRS.indexOf(A.tdir) + 1) % 4]; }
+    render();
+  }
+  $('aimrotate').addEventListener('click', rotateAim);
   $('undo').addEventListener('click', function(){ A.targets.pop(); render(); });
   $('fire').addEventListener('click', function(){
-    var need = WEAPONS[A.weapon].shots; if (!isMyTurn() || A.targets.length !== need) return;
-    var tg = A.targets.map(function(t){ return { x: t[0], y: t[1] }; }), w = A.weapon;
+    if (!isMyTurn() || !A.weapon || A.targets.length !== needFor(A.weapon)) return;
+    var w = A.weapon, tg = A.targets.map(function(t){ var o = { x: t[0], y: t[1] }; if (w === 'torpedo') o.dir = A.tdir; return o; });
     $('fire').disabled = true; $('fireerr').textContent = '';
     rpc('bs_fire', { p_match: S.match.id, p_weapon: w, p_targets: tg }).then(function(){ A.targets = []; poll(); })
       .catch(function(e){ $('fireerr').textContent = e.message; render(); });
+  });
+  $('pass').addEventListener('click', function(){
+    $('fireerr').textContent = '';
+    rpc('bs_fire', { p_match: S.match.id, p_weapon: 'pass', p_targets: [] }).then(poll).catch(function(e){ $('fireerr').textContent = e.message; });
   });
   $('skip').addEventListener('click', function(){ rpc('bs_skip', { p_match: S.match.id }).then(poll).catch(function(e){ $('fireerr').textContent = e.message; }); });
   $('forfeit').addEventListener('click', function(){
@@ -565,23 +762,34 @@
     if (r.res !== 'water') S.tiles.forEach(function(t){ if (t.x === r.x && t.y === r.y) t.hp = Math.max(0, 4 - (r.d || 0)); });
   }
   function applyFire(ev, quiet){
-    if (ev.kind === 'forfeit'){ S.tiles.forEach(function(t){ if (t.seat === ev.payload.seat) t.hp = 0; }); return; }
+    var p = ev.payload || {};
+    if (ev.kind === 'forfeit'){ S.tiles.forEach(function(t){ if (t.seat === p.seat) t.hp = 0; }); return; }
     if (ev.kind !== 'fire') return;
-    (ev.payload.results || []).forEach(setTileResult);
-    (ev.payload.sunk || []).forEach(function(sk){
+    (p.results || []).forEach(setTileResult);
+    (p.sunk || []).forEach(function(sk){
       S.sunk.push(sk);
       S.ships.forEach(function(sh){ if (sh.id === sk.ship) sh.sunk = true; });
     });
+    if (ev.weapon === 'recon' && p.seen) p.seen.forEach(function(c){ S.spotted.set(c[0] + ',' + c[1], true); });
+    if (ev.weapon === 'sonar' && p.count != null && p.center) S.sonar.push({ x: p.center.x, y: p.center.y, n: p.count });
   }
   function pname(seat){ var p = player(seat); return p ? p.name : 'Someone'; }
   function logEvent(ev, quiet){
     var li = null, p = ev.payload || {}, res = p.results || [], hits = res.filter(function(r){ return r.res === 'hit' || r.res === 'sunk_tile'; }).length, dead = res.filter(function(r){ return r.res === 'sunk_tile'; }).length;
-    var who = pname(ev.actor);
+    var who = pname(ev.actor), w = ev.weapon;
     if (ev.kind === 'fire'){
-      if (ev.weapon === 'shell') li = who + ' fired a shell: ' + (dead ? 'tile destroyed.' : hits ? 'hit.' : 'miss.');
-      else if (ev.weapon === 'mg') li = who + ' opened up with the machine gun: ' + hits + ' of 4 shots hit.';
-      else li = who + ' called a MORTAR strike: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      if (w === 'shell') li = who + ' fired a shell: ' + (dead ? 'tile destroyed.' : hits ? 'hit.' : 'miss.');
+      else if (w === 'heavy') li = who + ' fired a heavy shell: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      else if (w === 'mg') li = who + ' opened up with the machine gun: ' + hits + ' of 4 shots hit.';
+      else if (w === 'burst') li = who + ' fired a burst: ' + hits + ' of 3 tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      else if (w === 'bomber') li = who + ' sent a bomber run: ' + hits + ' of 5 tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      else if (w === 'mortar') li = who + ' called a MORTAR strike: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      else if (w === 'barrage') li = who + ' called a BARRAGE: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      else if (w === 'sonar') li = p.count != null ? who + ' pinged sonar: ' + p.count + (p.count === 1 ? ' ship tile' : ' ship tiles') + ' in range.' : who + ' pinged sonar.';
+      else if (w === 'recon') li = p.seen ? who + ' flew recon: ' + p.seen.length + ' ship tiles spotted.' : who + ' flew a recon mission.';
+      else if (w === 'torpedo') li = who + ' launched a torpedo: ' + (p.lane && p.lane.stopped === 'hit' ? 'it found a ship.' : p.lane && p.lane.stopped === 'island' ? 'it hit an island.' : 'it found nothing.');
     } else if (ev.kind === 'skip') li = pname(p.seat) + ' ran out of time.';
+    else if (ev.kind === 'pass') li = pname(p.seat) + ' held fire while reloading.';
     else if (ev.kind === 'forfeit') li = pname(p.seat) + ' gave up.';
     else if (ev.kind === 'play') li = 'Battle stations. ' + who + ' goes first.';
     if (li) addLog(li, false);
@@ -607,23 +815,41 @@
     var fresh = Math.abs(nowServer() - ev.at_ms) < 15000;
     if (ev.kind === 'play'){ logEvent(ev); if (fresh) banner('BATTLE STATIONS', 'warn', 1200); return; }
     if (ev.kind !== 'fire'){ applyFire(ev); logEvent(ev); return; }
-    var p = ev.payload, res = p.results || [];
+    var p = ev.payload, res = p.results || [], wpn = ev.weapon;
     if (!fresh || RM){ applyFire(ev); logEvent(ev); noteHits(res); return; }
-    var from = origin(ev.actor), tg = p.targets || [];
-    if (ev.weapon === 'shell'){
-      var t = tg[0]; await flight(from, { x: px(t.x), y: px(t.y) }, 650, 1.0);
-      await revealTiles(res, 0);
-    } else if (ev.weapon === 'mg'){
+    var from = origin(ev.actor), tg = p.targets || [], actor = player(ev.actor), team = actor ? actor.team : null;
+    var ownSide = team === S.me.team, c = tg[0] || {}, cx = px(c.x || 0), cy = px(c.y || 0);
+    if (wpn === 'shell' || wpn === 'heavy'){
+      await flight(from, { x: cx, y: cy }, 650, wpn === 'heavy' ? 1.4 : 1.0);
+      if (wpn === 'heavy'){ shake(4, 260); shockwave(cx, cy, cs * 1.8, 500, '#ffb347'); }
+      await revealTiles(res, wpn === 'heavy' ? 90 : 0);
+    } else if (wpn === 'mg'){
       await Promise.all(tg.map(function(t, i){ return sleep(i * 190).then(function(){ return flight(from, { x: px(t.x), y: px(t.y) }, 420, 0.55).then(function(){ puff(px(t.x), px(t.y)); }); }); }));
       await sleep(450);
       await revealTiles(res, 230);
-    } else {
-      var c = tg[0], cx = px(c.x), cy = px(c.y);
-      banner('MORTAR INBOUND!', 'warn shake', 1500);
-      await incomingMortar(cx, cy, 1300);
-      shake(7, 520); shockwave(cx, cy, cs * 3.2, 700, '#ffb347');
+    } else if (wpn === 'burst'){
+      await Promise.all(tg.map(function(t, i){ return sleep(i * 120).then(function(){ return flight(from, { x: px(t.x), y: px(t.y) }, 360, 0.75); }); }));
+      await revealTiles(res.slice().sort(function(a, b){ return (a.x - b.x) || (a.y - b.y); }), 110);
+    } else if (wpn === 'bomber'){
+      banner('BOMBER RUN!', 'warn', 1100);
+      await Promise.all(tg.map(function(t, i){ return sleep(i * 170).then(function(){ return bombDrop(px(t.x), px(t.y), 560); }); }));
+      await revealTiles(res.slice().sort(function(a, b){ return (a.x - b.x) || (a.y - b.y); }), 90);
+    } else if (wpn === 'mortar' || wpn === 'barrage'){
+      banner(wpn === 'mortar' ? 'MORTAR INBOUND!' : 'BARRAGE INBOUND!', 'warn shake', 1500);
+      await incomingArea(areaCells(wpn, c.x, c.y, team), cx, cy, 1300, wpn === 'barrage' ? 1.6 : 1);
+      shake(wpn === 'barrage' ? 9 : 7, 560); shockwave(cx, cy, cs * (wpn === 'barrage' ? 4.8 : 3.2), 760, '#ffb347');
       var ordered = res.slice().sort(function(a, b){ return Math.hypot(a.x - c.x, a.y - c.y) - Math.hypot(b.x - c.x, b.y - c.y); });
-      await revealTiles(ordered, 45);
+      await revealTiles(ordered, wpn === 'barrage' ? 28 : 45);
+    } else if (wpn === 'sonar'){
+      await sonarPing(cx, cy, 1500);
+      if (p.count != null && ownSide) banner(p.count + (p.count === 1 ? ' CONTACT' : ' CONTACTS'), 'warn', 1400);
+    } else if (wpn === 'recon'){
+      await reconSweep(cx, cy, 1500);
+      if (p.seen && ownSide) banner(p.seen.length + ' SPOTTED', 'warn', 1300);
+    } else if (wpn === 'torpedo'){
+      banner('TORPEDO AWAY!', 'warn', 1000);
+      await torpedoRun(p.lane, 1200);
+      if (res.length){ await revealTiles(res, 0); } else if (p.lane && p.lane.stopped === 'island'){ splash(px(p.lane.ex), px(p.lane.ey)); await sleep(500); }
     }
     applyFire(ev);
     for (var i = 0; i < (p.sunk || []).length; i++){
@@ -673,18 +899,53 @@
       c.fillStyle = g; c.beginPath(); c.arc(x, y, r, 0, 7); c.fill();
       for (var i = 0; i < 9; i++){ var a = i / 9 * 6.283 + y, d = cs * 1.1 * p * size; c.fillStyle = 'rgba(255,190,80,' + (1 - p) + ')'; c.fillRect(x + Math.cos(a) * d, y + Math.sin(a) * d - p * 8 * p, 2.4, 2.4); } }); }
   function shockwave(x, y, r, dur, col){ addFx(dur, function(p, c){ c.strokeStyle = col; c.globalAlpha = 0.7 * (1 - p); c.lineWidth = 4 * (1 - p) + 1; c.beginPath(); c.arc(x, y, r * p, 0, 7); c.stroke(); c.globalAlpha = 1; }); }
-  function incomingMortar(cx, cy, dur){
-    var cells = mortarFootprint(cx, cy);
+  function incomingArea(cells, cx, cy, dur, big){
+    big = big || 1;
     return addFx(dur, function(p, c){
       c.fillStyle = 'rgba(255,170,60,' + (0.1 + 0.28 * p) + ')'; cells.forEach(function(k){ c.fillRect(k[0] * cs, k[1] * cs, cs, cs); });
-      c.fillStyle = 'rgba(0,0,0,' + (0.15 + 0.3 * p) + ')'; c.beginPath(); c.ellipse(cx, cy, cs * (2.5 - 1.7 * p), cs * (1.7 - 1.0 * p), 0, 0, 7); c.fill();
-      var y = cy - (1 - p) * (1 - p) * cs * 14, s = 0.4 + (1 - p) * 0.6;
-      c.fillStyle = '#ffd28a'; c.beginPath(); c.arc(cx, y, cs * 0.35 * s + 2, 0, 7); c.fill();
+      c.fillStyle = 'rgba(0,0,0,' + (0.15 + 0.3 * p) + ')'; c.beginPath(); c.ellipse(cx, cy, cs * (2.5 * big - 1.7 * big * p), cs * (1.7 * big - 1.0 * big * p), 0, 0, 7); c.fill();
+      var y = cy - (1 - p) * (1 - p) * cs * 14, s2 = 0.4 + (1 - p) * 0.6;
+      c.fillStyle = '#ffd28a'; c.beginPath(); c.arc(cx, y, cs * 0.35 * s2 + 2, 0, 7); c.fill();
       c.strokeStyle = 'rgba(255,200,120,0.55)'; c.lineWidth = 3; c.beginPath(); c.moveTo(cx, y); c.lineTo(cx, y - cs * 3 * (1 - p)); c.stroke();
     });
   }
-  function mortarFootprint(px_, py_){
-    var cx = Math.floor(px_ / cs), cy = Math.floor(py_ / cs); return mortarCells(cx, cy);
+  function sonarPing(cx, cy, dur){
+    return addFx(dur, function(p, c){
+      for (var k = 0; k < 3; k++){ var q = p * 1.5 - k * 0.3; if (q <= 0 || q >= 1) continue;
+        c.strokeStyle = 'rgba(120,230,210,' + (0.85 * (1 - q)) + ')'; c.lineWidth = 3 * (1 - q) + 1; c.beginPath(); c.arc(cx, cy, cs * (0.3 + q * 2.8), 0, 7); c.stroke(); }
+      c.fillStyle = 'rgba(120,230,210,0.9)'; c.beginPath(); c.arc(cx, cy, cs * 0.14, 0, 7); c.fill();
+      c.strokeStyle = 'rgba(120,230,210,' + (0.4 + 0.3 * Math.sin(p * 20)) + ')'; c.lineWidth = 2; c.strokeRect(cx - cs * 1.5, cy - cs * 1.5, cs * 3, cs * 3);
+    });
+  }
+  function reconSweep(cx, cy, dur){
+    return addFx(dur, function(p, c){
+      var x = cx - cs * 5 + cs * 10 * p, y = cy - cs * 0.1;
+      c.strokeStyle = 'rgba(150,210,255,' + (0.45 + 0.3 * Math.sin(p * 18)) + ')'; c.lineWidth = 2; c.strokeRect(cx - cs * 1.5, cy - cs * 1.5, cs * 3, cs * 3);
+      c.fillStyle = 'rgba(150,210,255,0.14)'; c.fillRect(Math.max(cx - cs * 1.5, x - cs * 0.6), cy - cs * 1.5, Math.min(cs * 1.2, cx + cs * 1.5 - Math.max(cx - cs * 1.5, x - cs * 0.6)), cs * 3);
+      c.fillStyle = 'rgba(0,0,0,0.3)'; c.beginPath(); c.ellipse(x, y + cs * 0.9, cs * 0.5, cs * 0.18, 0, 0, 7); c.fill();
+      c.save(); c.translate(x, y - cs * 0.3); c.fillStyle = '#dfe7f1'; c.beginPath(); c.moveTo(cs * 0.55, 0); c.lineTo(-cs * 0.3, -cs * 0.28); c.lineTo(-cs * 0.15, 0); c.lineTo(-cs * 0.3, cs * 0.28); c.closePath(); c.fill();
+      c.fillStyle = '#9fb2c8'; c.fillRect(-cs * 0.12, -cs * 0.5, cs * 0.14, cs * 1.0); c.restore();
+    });
+  }
+  function bombDrop(x, y, dur){
+    return addFx(dur, function(p, c){
+      var yy = y - (1 - p) * (1 - p) * cs * 11;
+      c.fillStyle = 'rgba(0,0,0,' + (0.1 + 0.25 * p) + ')'; c.beginPath(); c.ellipse(x, y, cs * (0.5 - 0.25 * p), cs * (0.28 - 0.14 * p), 0, 0, 7); c.fill();
+      c.save(); c.translate(x, yy); c.fillStyle = '#2b3440'; c.beginPath(); c.ellipse(0, 0, cs * 0.14, cs * 0.26, 0, 0, 7); c.fill(); c.fillStyle = '#ffb347'; c.fillRect(-cs * 0.12, -cs * 0.34, cs * 0.24, cs * 0.1); c.restore();
+    }).then(function(){ boom(x, y, 0.55); });
+  }
+  function torpedoRun(lane, dur){
+    if (!lane) return Promise.resolve();
+    var W = S.match.w, H = S.match.h, sx, sy;
+    if (lane.dir === 'r'){ sx = 0; sy = lane.y; } else if (lane.dir === 'l'){ sx = W - 1; sy = lane.y; } else if (lane.dir === 'd'){ sx = lane.x; sy = 0; } else { sx = lane.x; sy = H - 1; }
+    var a = { x: px(sx), y: px(sy) }, b = { x: px(lane.ex), y: px(lane.ey) };
+    return addFx(dur, function(p, c){
+      var x = a.x + (b.x - a.x) * p, y = a.y + (b.y - a.y) * p;
+      c.strokeStyle = 'rgba(190,230,255,0.45)'; c.lineWidth = 3; c.beginPath(); c.moveTo(a.x, a.y); c.lineTo(x, y); c.stroke();
+      for (var i = 0; i < 12; i++){ var q = Math.max(0, p - i * 0.02); var bx = a.x + (b.x - a.x) * q, by = a.y + (b.y - a.y) * q + Math.sin(i * 2 + p * 30) * cs * 0.18;
+        c.fillStyle = 'rgba(210,240,255,' + (0.6 - i * 0.045) + ')'; c.beginPath(); c.arc(bx, by, cs * 0.07, 0, 7); c.fill(); }
+      c.fillStyle = '#e8eef5'; c.beginPath(); c.ellipse(x, y, cs * 0.42, cs * 0.13, Math.atan2(b.y - a.y, b.x - a.x), 0, 7); c.fill();
+    });
   }
   function shake(amp, ms){ if (RM) return; S.shakeAmp = amp; S.shakeUntil = performance.now() + ms; }
   function flash(){ if (RM) return; var f = $('flash'); f.classList.remove('on'); void f.offsetWidth; f.classList.add('on'); }
@@ -694,11 +955,18 @@
   function sizeMap(){
     if (!S.match || S.match.status === 'lobby') return;
     var W = S.match.w, H = S.match.h;
-    var availW = Math.min($('mapwrap').clientWidth || 9999, document.documentElement.clientWidth - 2 * 14) - 4, availH = Math.max(340, window.innerHeight - 150);
-    var n = Math.max(10, Math.min(44, Math.floor(Math.min(availW / W, availH / H))));
+    var availW = Math.min($('mapwrap').parentNode.clientWidth || 9999, document.documentElement.clientWidth - 2 * 14) - 4, availH = Math.max(340, window.innerHeight - 170);
+    var fit = Math.max(10, Math.min(44, Math.floor(Math.min(availW / W, availH / H))));
+    fit = Math.max(fit, Math.min(24, Math.ceil(120 / H)));   // very flat maps (like 100x2) get taller tiles so they stay readable; scroll sideways or use zoom
+    var limit = Math.max(5, Math.floor(8192 / (Math.max(W, H) * dpr)));
+    var n = Math.max(5, Math.min(limit, Math.round(fit * S.zoom)));
+    $('mapsize').textContent = W + ' x ' + H + (S.zoom !== 1 ? ', zoom ' + Math.round(S.zoom * 100) + '%' : '');
     if (n === cs && cv.width === W * cs * dpr) return; cs = n;
     cv.width = W * cs * dpr; cv.height = H * cs * dpr; cv.style.width = W * cs + 'px'; cv.style.height = H * cs + 'px';
   }
+  $('zoomin').addEventListener('click', function(){ S.zoom = Math.min(4, S.zoom * 1.25); sizeMap(); });
+  $('zoomout').addEventListener('click', function(){ S.zoom = Math.max(0.4, S.zoom / 1.25); sizeMap(); });
+  $('zoomfit').addEventListener('click', function(){ S.zoom = 1; sizeMap(); });
   window.addEventListener('resize', function(){ sizeMap(); });
 
   function seeded(a, b, i){ var s = Math.sin(a * 12.9898 + b * 78.233 + i * 37.719) * 43758.5453; return s - Math.floor(s); }
@@ -782,6 +1050,18 @@
       else if (b.s === 'hit'){ c.fillStyle = 'rgba(229,83,63,' + (0.35 + b.d * 0.12) + ')'; c.fillRect(px0 + 1, py0 + 1, cs - 2, cs - 2); cracks(c, x, y, b.d); if (!RM && b.d >= 3){ c.fillStyle = 'rgba(255,170,60,' + (0.4 + 0.3 * Math.sin(t / 110 + x)) + ')'; c.beginPath(); c.arc(px0 + cs / 2, py0 + cs / 2, cs * 0.14, 0, 7); c.fill(); } }
       else { c.fillStyle = 'rgba(20,10,10,0.88)'; c.fillRect(px0 + 1, py0 + 1, cs - 2, cs - 2); c.strokeStyle = 'rgba(229,83,63,0.9)'; c.lineWidth = 1.5; c.strokeRect(px0 + 2, py0 + 2, cs - 4, cs - 4); c.beginPath(); c.moveTo(px0 + cs * 0.3, py0 + cs * 0.3); c.lineTo(px0 + cs * 0.7, py0 + cs * 0.7); c.moveTo(px0 + cs * 0.7, py0 + cs * 0.3); c.lineTo(px0 + cs * 0.3, py0 + cs * 0.7); c.stroke(); }
     });
+    // what your team has scouted: recon marks and sonar rings stay on the map
+    S.spotted.forEach(function(_, k){
+      if (S.board.has(k)) return; var q = k.split(','), x = +q[0], y = +q[1];
+      var pulse = RM ? 0.7 : 0.55 + 0.25 * Math.sin(t / 260 + x + y);
+      c.strokeStyle = 'rgba(150,210,255,' + pulse + ')'; c.lineWidth = 2; var m = cs * 0.14, L = cs * 0.28;
+      [[x * cs + m, y * cs + m, 1, 1], [x * cs + cs - m, y * cs + m, -1, 1], [x * cs + m, y * cs + cs - m, 1, -1], [x * cs + cs - m, y * cs + cs - m, -1, -1]].forEach(function(k2){
+        c.beginPath(); c.moveTo(k2[0] + k2[2] * L, k2[1]); c.lineTo(k2[0], k2[1]); c.lineTo(k2[0], k2[1] + k2[3] * L); c.stroke(); });
+    });
+    S.sonar.forEach(function(m){
+      c.strokeStyle = 'rgba(120,230,210,0.7)'; c.lineWidth = 1.5; c.setLineDash([4, 4]); c.strokeRect((m.x - 1) * cs + 1, (m.y - 1) * cs + 1, cs * 3 - 2, cs * 3 - 2); c.setLineDash([]);
+      c.fillStyle = 'rgba(120,230,210,0.95)'; c.font = '800 ' + Math.max(12, Math.floor(cs * 0.8)) + 'px sans-serif'; c.textAlign = 'center'; c.textBaseline = 'middle'; c.fillText(String(m.n), m.x * cs + cs / 2, m.y * cs + cs / 2); c.textAlign = 'left'; c.textBaseline = 'alphabetic';
+    });
     // sunk ships revealed
     S.sunk.forEach(function(sk){ drawShip(c, sk.cells, sk.kind, sk.bait, t, { still: true, tint: '#7d2a20', ghost: 'rgba(30,8,8,0.62)' }); });
     // my ships (and everyone's once the game is over)
@@ -824,13 +1104,33 @@
       }
     }
     if (st === 'playing' && isMyTurn() && !S.busy && A.weapon){
-      var h = A.hover;
-      if (A.weapon === 'mortar'){
+      var h = A.hover, w = A.weapon, mode = WEAPONS[w].mode;
+      if (mode === 'single'){
+        var tgt = A.targets[0] || (h && aimable(h[0], h[1]) ? h : null);
+        if (w === 'heavy' && tgt) [[1, 0], [-1, 0], [0, 1], [0, -1]].forEach(function(d){ var x = tgt[0] + d[0], y = tgt[1] + d[1]; if (x >= 0 && y >= 0 && x < S.match.w && y < S.match.h && !isIsland(x, y) && !inRect(myRect(), x, y)){ c.fillStyle = 'rgba(255,170,60,0.3)'; c.fillRect(x * cs, y * cs, cs, cs); } });
+        A.targets.forEach(function(q){ crosshair(c, q[0], q[1], '#5b9be6'); });
+        if (h && !A.targets.length) crosshair(c, h[0], h[1], aimable(h[0], h[1]) ? 'rgba(241,243,245,0.8)' : 'rgba(229,83,63,0.8)');
+      } else if (mode === 'multi'){
+        A.targets.forEach(function(q, i){ crosshair(c, q[0], q[1], '#5b9be6', String(i + 1)); });
+        if (h && A.targets.length < 4) crosshair(c, h[0], h[1], aimable(h[0], h[1]) ? 'rgba(241,243,245,0.8)' : 'rgba(229,83,63,0.8)');
+      } else if (mode === 'line'){
+        var cells = A.targets.length ? A.targets : (h ? lineCells(w, h[0], h[1]) : []), ok = cells.length && lineOk(cells);
+        cells.forEach(function(q){ if (q[0] < 0 || q[1] < 0 || q[0] >= S.match.w || q[1] >= S.match.h) return; c.fillStyle = ok ? (A.targets.length ? 'rgba(91,155,230,0.5)' : 'rgba(91,155,230,0.28)') : 'rgba(229,83,63,0.35)'; c.fillRect(q[0] * cs, q[1] * cs, cs, cs); });
+      } else if (mode === 'area' || mode === 'scan'){
         var ctr = A.targets[0] || (h && !inRect(myRect(), h[0], h[1]) ? h : null);
-        if (ctr){ mortarCells(ctr[0], ctr[1]).forEach(function(q){ c.fillStyle = A.targets[0] ? 'rgba(255,170,60,0.38)' : 'rgba(255,170,60,0.2)'; c.fillRect(q[0] * cs, q[1] * cs, cs, cs); }); crosshair(c, ctr[0], ctr[1], '#ffb347'); }
-      } else {
-        A.targets.forEach(function(q, i){ crosshair(c, q[0], q[1], '#5b9be6', A.weapon === 'mg' ? String(i + 1) : null); });
-        if (h && (A.weapon === 'shell' ? A.targets.length === 0 : A.targets.length < 4)) crosshair(c, h[0], h[1], aimable(h[0], h[1]) ? 'rgba(241,243,245,0.8)' : 'rgba(229,83,63,0.8)');
+        if (ctr){
+          areaCells(w, ctr[0], ctr[1]).forEach(function(q){ var base = mode === 'scan' ? '120,230,210' : '255,170,60'; c.fillStyle = 'rgba(' + base + ',' + (A.targets[0] ? 0.38 : 0.2) + ')'; c.fillRect(q[0] * cs, q[1] * cs, cs, cs); });
+          crosshair(c, ctr[0], ctr[1], mode === 'scan' ? '#78e6d2' : '#ffb347');
+        }
+      } else if (mode === 'lane'){
+        var ln = A.targets[0] || h;
+        if (ln){
+          var lane = laneCells(ln[0], ln[1], A.tdir);
+          lane.forEach(function(q){ c.fillStyle = 'rgba(190,230,255,0.13)'; c.fillRect(q[0] * cs, q[1] * cs, cs, cs); });
+          var last = lane[lane.length - 1], ax = px(last[0]), ay = px(last[1]), d = { r: [1, 0], l: [-1, 0], d: [0, 1], u: [0, -1] }[A.tdir];
+          c.strokeStyle = 'rgba(190,230,255,0.9)'; c.lineWidth = 2; c.beginPath(); c.moveTo(ax - d[0] * cs * 0.9 - d[1] * cs * 0.4, ay - d[1] * cs * 0.9 - d[0] * cs * 0.4); c.lineTo(ax, ay); c.lineTo(ax - d[0] * cs * 0.9 + d[1] * cs * 0.4, ay - d[1] * cs * 0.9 + d[0] * cs * 0.4); c.stroke();
+          if (A.targets[0]) crosshair(c, ln[0], ln[1], '#b9e4ff');
+        }
       }
     }
     if (st === 'playing' && S.match.turn_seat != null){
@@ -853,9 +1153,11 @@
   document.addEventListener('keydown', function(e){
     if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT')) return;
     if (!S.match) return;
-    if (e.key === 'r' || e.key === 'R') P.dir = P.dir === 'h' ? 'v' : 'h';
+    if (e.key === 'r' || e.key === 'R'){
+      if (S.match.status === 'playing') rotateAim(); else P.dir = P.dir === 'h' ? 'v' : 'h';
+    }
     if (S.match.status === 'playing'){
-      if (e.key === '1') chooseWeapon('shell'); if (e.key === '2') chooseWeapon('mg'); if (e.key === '3') chooseWeapon('mortar');
+      var n = parseInt(e.key, 10); if (n >= 1 && n <= S.weapons.length) chooseWeapon(S.weapons[n - 1].id);
       if (e.key === 'Enter') $('fire').click(); if (e.key === 'Escape'){ A.targets = []; render(); }
       if (e.key === 'Backspace'){ A.targets.pop(); render(); }
     }
@@ -879,8 +1181,11 @@
     if (st === 'finished'){
       var w = m.winner_team == null ? 'Nobody won.' : 'Team ' + (m.winner_team + 1) + ' (' + S.players.filter(function(p){ return p.team === m.winner_team; }).map(function(p){ return p.name; }).join(', ') + ') took the ocean.';
       $('endtitle').textContent = m.winner_team === S.me.team ? 'Victory!' : 'Game over'; $('endsub').textContent = w + ' Every fleet is revealed on the map.';
+      var humans = S.players.filter(function(p){ return !p.bot; }).length, pay = me && me.payout;
+      $('endcoins').textContent = pay ? '+' + pay + ' coins' : (humans < 2 ? 'No coins this time: coins only come from games with 2 or more real players.' : 'No coins this time: the game was over too quickly, or you hit today\'s limit.');
+      if (!render.walletDone){ render.walletDone = true; loadWallet(); }
       if (!render.endShown){ render.endShown = true; setTimeout(function(){ banner(m.winner_team === S.me.team ? 'VICTORY' : 'DEFEAT', m.winner_team === S.me.team ? 'win' : 'lose', 2200); }, 400); }
-    } else render.endShown = false;
+    } else { render.endShown = false; render.walletDone = false; }
 
     if (st === 'placing') renderPlacing();
     if (st === 'playing') renderWeapons();
@@ -900,21 +1205,32 @@
   }
   function renderWeapons(){
     var box = $('weapons'); box.innerHTML = '';
-    var mine = isMyTurn() && !S.busy;
-    ['shell', 'mg', 'mortar'].forEach(function(w){
-      var has = S.weapons.indexOf(w) >= 0, me = player(S.me.seat);
-      var b = el('button', 'weapon' + (A.weapon === w && mine ? ' on' : '')); b.type = 'button';
-      var k = el('kbd', '', WEAPONS[w].keys); b.appendChild(k); b.appendChild(el('b', '', WEAPONS[w].name));
-      b.appendChild(el('span', '', has ? WEAPONS[w].desc : (w === 'mortar' && me && me.mortar_used ? 'Already used this match.' : 'You lost the ship that carries this.')));
-      b.disabled = !has || !mine; b.addEventListener('click', function(){ chooseWeapon(w); }); box.appendChild(b);
+    var mine = isMyTurn() && !S.busy, ready = readyWeapons();
+    if (mine && (!A.weapon || !ready.some(function(r){ return r.id === A.weapon; }))){ A.weapon = ready.length ? ready[0].id : null; A.targets = []; }
+    S.weapons.forEach(function(wd, i){
+      var def = WEAPONS[wd.id]; if (!def) return;
+      var b = el('button', 'weapon' + (A.weapon === wd.id && mine ? ' on' : '')); b.type = 'button';
+      b.appendChild(el('kbd', '', String(i + 1))); b.appendChild(el('b', '', def.name));
+      var note = def.desc;
+      if (wd.cd > 0) note = 'Reloading: ready in ' + wd.cd + (wd.cd === 1 ? ' turn.' : ' turns.');
+      else if (wd.uses === 0) note = 'Out of ammo for this match.';
+      else if (wd.uses != null) note = def.desc + ' (' + wd.uses + ' left)';
+      b.appendChild(el('span', '', note));
+      b.disabled = !wd.ready || !mine; b.addEventListener('click', function(){ chooseWeapon(wd.id); }); box.appendChild(b);
     });
-    if (mine && !A.weapon){ var first = S.weapons[0]; if (first) { A.weapon = first; A.targets = []; return renderWeapons(); } }
     if (!mine) A.targets = [];
-    var need = A.weapon ? WEAPONS[A.weapon].shots : 0;
-    $('aimhelp').textContent = !mine ? 'Wait for your turn.' : (A.weapon === 'mg' ? 'Click up to 4 tiles (you can click the same tile again to stack). ' + A.targets.length + ' of 4 picked.' : A.weapon === 'mortar' ? 'Click the centre of the strike.' : 'Click a tile to aim.');
-    $('fire').disabled = !mine || A.targets.length !== need; $('undo').disabled = !mine || !A.targets.length;
-    $('fire').parentNode.hidden = !mine;
-    $('fire').textContent = A.weapon === 'mortar' ? 'Fire mortar' : (A.weapon === 'mg' ? 'Open fire' : 'Fire');
+    var w = A.weapon, mode = w ? WEAPONS[w].mode : null, need = w ? needFor(w) : 0;
+    var help = { single: 'Click a tile to aim.', multi: 'Click up to 4 tiles (click the same tile again to stack shots). ' + A.targets.length + ' of 4 picked.',
+      line: 'Click to place the line (it is centred on your click). Rotate to turn it.', area: 'Click the centre of the strike.',
+      scan: 'Click the centre of the 3x3 area to scan.', lane: 'Click any tile in the lane you want. Rotate to change direction (now going ' + DIRNAME[A.tdir] + ').' };
+    $('aimhelp').textContent = !mine ? 'Wait for your turn.' : (ready.length ? (help[mode] || '') : 'Everything is reloading. You can hold fire this turn.');
+    $('fire').disabled = !mine || !w || A.targets.length !== need; $('undo').disabled = !mine || !A.targets.length;
+    $('fire').parentNode.hidden = !mine || !ready.length;
+    $('aimrotate').hidden = !(mode === 'line' || mode === 'lane');
+    $('pass').hidden = !(mine && !ready.length);
+    $('pass').parentNode.hidden = $('pass').hidden;
+    var label = { mortar: 'Fire mortar', barrage: 'Fire barrage', mg: 'Open fire', sonar: 'Ping', recon: 'Launch recon', torpedo: 'Launch torpedo', bomber: 'Drop bombs', burst: 'Fire burst', heavy: 'Fire heavy shell' };
+    $('fire').textContent = label[w] || 'Fire';
   }
   function renderPlayers(){
     var ul = $('players'); ul.innerHTML = '';
