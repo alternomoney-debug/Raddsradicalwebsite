@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Big Sandwich Clicker (Rad)</title><meta name="description" content="Click the sandwich, buy helpers, make a ridiculous number of sandwiches."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style>#big{background:none;border:0;padding:6px;border-radius:50%;transition:transform .08s}#big:active{transform:scale(.94)}#shop{display:grid;gap:6px;width:min(94vw,460px)}.item{display:grid;grid-template-columns:1fr auto;text-align:left;gap:0 12px;border-radius:12px;padding:8px 14px}.item span{grid-column:1;color:#a7b0ba;font-weight:400;font-size:13px}.item em{grid-column:2;grid-row:1/3;align-self:center;font-style:normal;color:#ffc857}.item:disabled{opacity:.45;cursor:not-allowed}</style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Big Sandwich Clicker</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat"><span><b id="total">0</b> sandwiches</span><span><b id="rate">0</b> per second</span></div>
+<button type="button" id="big" aria-label="Make a sandwich"><svg viewBox="0 0 200 150" width="220" height="165"><path d="M20 70 Q20 15 100 15 Q180 15 180 70 Z" fill="#d9a05b"/><rect x="18" y="70" width="164" height="12" rx="6" fill="#6fb34a"/><rect x="14" y="80" width="172" height="12" rx="6" fill="#e8504b"/><rect x="18" y="90" width="164" height="12" rx="6" fill="#f2d16b"/><path d="M20 102 H180 Q180 135 150 135 H50 Q20 135 20 102 Z" fill="#c98f4a"/></svg></button>
+<p class="msg" id="msg">Click the sandwich!</p><div id="shop"></div><div class="row"><button type="button" id="reset">Start over</button></div></main><p class="how">Click the sandwich to make sandwiches. Spend them on helpers that make more. It saves by itself and keeps going a little while you are away.</p>
+<script src="../g.js"></script><script>
+(function(){
+var KEY='g:sandwich:save',gens=[['Hungry friend',.3,15],['Deli counter',2,120],['Sandwich truck',12,1300],['Highway 214 superstore',70,14000],['Sandwich factory',400,160000],['Sandwich planet',2500,2000000]],
+ st={s:0,t:0,cl:0,own:gens.map(function(){return 0}),at:Date.now()};
+function load(){try{var d=JSON.parse(localStorage.getItem(KEY));if(d&&d.own&&d.own.length===gens.length){st=d;var away=Math.min(7200,(Date.now()-d.at)/1000);var g=rate()*away;if(g>1){st.s+=g;st.t+=g;G.$('msg').textContent='While you were away your helpers made '+fmt(g)+' sandwiches.'}}}catch(e){}}
+function save(){st.at=Date.now();try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}G.setBest('sandwich',Math.floor(st.t))}
+function fmt(n){if(n<1000)return n<10?n.toFixed(1):Math.floor(n)+'';var u=['K','M','B','T','Qa','Qi'],i=-1;while(n>=1000&&i<u.length-1){n/=1000;i++}return n.toFixed(2)+u[i]}
+function rate(){var r=0;gens.forEach(function(g,i){r+=g[1]*st.own[i]});return r}
+function power(){return 1+st.cl}
+function ccost(){return Math.floor(30*Math.pow(1.6,st.cl))}
+function cost(i){return Math.floor(gens[i][2]*Math.pow(1.15,st.own[i]))}
+function shop(){var h=G.$('shop');h.innerHTML='';
+ var b=document.createElement('button');b.className='item';b.disabled=st.s<ccost();b.innerHTML='<b>Better bread</b> <span>+1 per click (now '+power()+')</span><em>'+fmt(ccost())+'</em>';b.onclick=function(){if(st.s>=ccost()){st.s-=ccost();st.cl++;upd()}};h.appendChild(b);
+ gens.forEach(function(g,i){var c=cost(i),b=document.createElement('button');b.className='item';b.disabled=st.s<c;b.innerHTML='<b>'+g[0]+'</b> <span>'+g[1]+'/s, you have '+st.own[i]+'</span><em>'+fmt(c)+'</em>';b.onclick=function(){var cc=cost(i);if(st.s>=cc){st.s-=cc;st.own[i]++;upd()}};h.appendChild(b)})}
+function upd(){G.$('total').textContent=fmt(st.s);G.$('rate').textContent=fmt(rate());shop()}
+G.$('big').onclick=function(){st.s+=power();st.t+=power();G.$('msg').textContent='';upd()};
+G.$('reset').onclick=function(){if(confirm('Start over? You will lose everything.')){st={s:0,t:0,cl:0,own:gens.map(function(){return 0}),at:Date.now()};save();upd()}};
+var last=Date.now();setInterval(function(){var n=Date.now(),d=(n-last)/1000;last=n;var g=rate()*d;st.s+=g;st.t+=g;G.$('total').textContent=fmt(st.s);G.$('rate').textContent=fmt(rate());var bs=G.$('shop').children;[ccost()].concat(gens.map(function(_,i){return cost(i)})).forEach(function(c,i){if(bs[i])bs[i].disabled=st.s<c})},250);
+setInterval(save,3000);G.onHide(save);load();upd();
+})();
+</script></body></html>

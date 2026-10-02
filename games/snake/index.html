@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Snake (Rad)</title><meta name="description" content="Eat, grow, and do not hit anything."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style></style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Snake</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat">Length <b id="score">3</b> Best <b id="best">0</b></div><canvas id="cv" width="400" height="400"></canvas><p class="msg" id="msg"></p><div class="row"><button type="button" id="new" class="go">New game</button></div></main><p class="how">Arrow keys or WASD to steer, space to pause, swipe on a phone. The walls and your own tail are deadly.</p>
+<script src="../g.js"></script><script>
+(function(){
+var cv=G.$('cv'),x=cv.getContext('2d'),S=20,N=cv.width/S,snake,dir,nd,food,len,over,run,iv,best=G.best('snake');
+function reset(){clearInterval(iv);snake=[[10,10],[9,10],[8,10]];dir=nd=[1,0];len=3;over=false;run=false;place();draw();G.$('msg').textContent='Press an arrow key, WASD, or swipe to start';G.$('best').textContent=best}
+function place(){do{food=[Math.floor(Math.random()*N),Math.floor(Math.random()*N)]}while(snake.some(function(s){return s[0]===food[0]&&s[1]===food[1]}))}
+function tick(){dir=nd;var h=[snake[0][0]+dir[0],snake[0][1]+dir[1]];
+ if(h[0]<0||h[1]<0||h[0]>=N||h[1]>=N||snake.some(function(s){return s[0]===h[0]&&s[1]===h[1]})){over=true;run=false;clearInterval(iv);G.$('msg').textContent='Game over. Press New game.';draw();return}
+ snake.unshift(h);if(h[0]===food[0]&&h[1]===food[1]){len++;if(len>best){best=len;G.setBest('snake',best)}place();clearInterval(iv);iv=setInterval(tick,Math.max(55,120-len*2))}else snake.pop();
+ G.$('score').textContent=len;G.$('best').textContent=best;draw()}
+function turn(d){if(over)return;if(d[0]===-dir[0]&&d[1]===-dir[1]&&len>1)return;nd=d;if(!run){run=true;G.$('msg').textContent='';iv=setInterval(tick,120)}}
+function draw(){x.fillStyle='#10151c';x.fillRect(0,0,400,400);x.fillStyle='#ff7a68';x.beginPath();x.arc(food[0]*S+10,food[1]*S+10,7,0,7);x.fill();
+ snake.forEach(function(s,i){x.fillStyle=i?'#6fd48a':'#9fffb8';x.fillRect(s[0]*S+1,s[1]*S+1,S-2,S-2)})}
+var D={ArrowLeft:[-1,0],a:[-1,0],ArrowRight:[1,0],d:[1,0],ArrowUp:[0,-1],w:[0,-1],ArrowDown:[0,1],s:[0,1]};
+G.keys(function(k){if(D[k])turn(D[k]);if(k===' '&&run){run=false;clearInterval(iv);G.$('msg').textContent='Paused'}});
+G.swipe(cv,function(s){turn({l:D.a,r:D.d,u:D.w,d:D.s}[s])});G.onHide(function(){if(run){run=false;clearInterval(iv);G.$('msg').textContent='Paused. Press a direction to go on.'}});
+G.$('new').onclick=reset;reset();
+})();
+</script></body></html>

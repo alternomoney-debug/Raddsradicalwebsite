@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Paddle Duel (Rad)</title><meta name="description" content="Two-player paddle battle on one keyboard."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style></style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Paddle Duel</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat"><b id="a">0</b> : <b id="b">0</b></div><canvas id="cv" width="640" height="400"></canvas><p class="msg" id="msg"></p><div class="row"><button type="button" id="mode" class="go">Mode: 2 players</button><button type="button" id="new">New match</button></div></main><p class="how">Two players share a keyboard: W and S on the left, Up and Down on the right. Or play the computer. First to 7 wins.</p>
+<script src="../g.js"></script><script>
+(function(){
+var cv=G.$('cv'),x=cv.getContext('2d'),W=640,H=400,ph=70,pa,pb,ball,sa,sb,run,over,two=true,last=0,k={w:0,s:0,u:0,d:0};
+function reset(){pa=pb=H/2-ph/2;sa=sb=0;over=false;G.$('a').textContent=0;G.$('b').textContent=0;serve(1)}
+function serve(dir){ball={x:W/2,y:H/2,vx:4*dir,vy:(Math.random()*4-2)};run=false;G.$('msg').textContent=(two?'Left: W / S   Right: Up / Down':'You: W / S  (or Up / Down)')+'   Space to serve'}
+function step(dt){if(!run)return;
+ pa+=(k.s-k.w)*5.5*dt;if(two)pb+=(k.d-k.u)*5.5*dt;else{var c=pb+ph/2;pb+=Math.max(-3.4,Math.min(3.4,ball.y-c))*dt}
+ if(!two){}pa=Math.max(0,Math.min(H-ph,pa));pb=Math.max(0,Math.min(H-ph,pb));
+ ball.x+=ball.vx*dt;ball.y+=ball.vy*dt;if(ball.y<6||ball.y>H-6)ball.vy=-ball.vy;
+ if(ball.vx<0&&ball.x<26&&ball.x>10&&ball.y>pa&&ball.y<pa+ph){ball.vx=Math.min(11,-ball.vx*1.06);ball.vy+=(ball.y-(pa+ph/2))/ph*5}
+ if(ball.vx>0&&ball.x>W-26&&ball.x<W-10&&ball.y>pb&&ball.y<pb+ph){ball.vx=-Math.min(11,ball.vx*1.06);ball.vy+=(ball.y-(pb+ph/2))/ph*5}
+ if(ball.x<-10){sb++;point(1)}if(ball.x>W+10){sa++;point(-1)}}
+function point(dir){G.$('a').textContent=sa;G.$('b').textContent=sb;if(sa>=7||sb>=7){over=true;run=false;G.$('msg').textContent=(sa>sb?(two?'Left player':'You'):(two?'Right player':'The computer'))+' wins! Press New match.'}else serve(dir)}
+function draw(){x.fillStyle='#10151c';x.fillRect(0,0,W,H);x.fillStyle='#252a31';for(var y=0;y<H;y+=24)x.fillRect(W/2-1,y,2,12);x.fillStyle='#f1f3f5';x.fillRect(12,pa,10,ph);x.fillRect(W-22,pb,10,ph);x.beginPath();x.arc(ball.x,ball.y,6,0,7);x.fill()}
+function loop(t){var dt=Math.min(3,(t-last)/16.67||1);last=t;if(!document.hidden)step(dt);draw();requestAnimationFrame(loop)}
+G.keys(function(key){if(key==='w')k.w=1;if(key==='s')k.s=1;if(key==='ArrowUp'){k.u=1;if(!two)k.w=1}if(key==='ArrowDown'){k.d=1;if(!two)k.s=1}if(key===' '&&!over&&!run){run=true;G.$('msg').textContent=''}});
+document.addEventListener('keyup',function(e){var key=e.key.length===1?e.key.toLowerCase():e.key;if(key==='w')k.w=0;if(key==='s')k.s=0;if(key==='ArrowUp'){k.u=0;if(!two)k.w=0}if(key==='ArrowDown'){k.d=0;if(!two)k.s=0}});
+cv.addEventListener('pointerdown',function(){if(!over&&!run){run=true;G.$('msg').textContent=''}});
+G.$('mode').onclick=function(){two=!two;this.textContent='Mode: '+(two?'2 players':'vs computer');reset()};G.$('new').onclick=reset;G.onHide(function(){run=false});
+reset();requestAnimationFrame(loop);
+})();
+</script></body></html>

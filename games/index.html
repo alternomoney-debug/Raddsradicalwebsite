@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Games (Rad)</title><meta name="description" content="Free little browser games. No sign up, no sound, pick one and play.">
+<meta name="theme-color" content="#0b0d11"><meta property="og:title" content="Games (Rad)"><meta property="og:description" content="Free little browser games. No sign up, no sound, pick one and play."><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="g.css">
+<style>
+.wrap{max-width:1500px;margin:0 auto;padding:0 clamp(14px,3vw,40px) 60px}
+h1.big{margin:18px 0 6px;font-size:clamp(48px,9vw,120px);font-weight:800;line-height:.9;letter-spacing:-.05em}
+.sub{margin:0 0 22px;color:#a7b0ba;font-size:clamp(17px,1.8vw,22px);max-width:52ch}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:18px}
+input[type=search]{font:500 16px system-ui;color:#f1f3f5;background:#14171c;border:1px solid #2d343d;border-radius:999px;padding:9px 16px;width:min(100%,260px)}
+h2{margin:30px 0 12px;font-size:22px;letter-spacing:-.02em}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.card{display:flex;flex-direction:column;text-decoration:none;background:#14171c;border:1px solid #252a31;border-radius:14px;overflow:hidden;transition:transform .12s,border-color .12s}
+.card:hover{transform:translateY(-3px);border-color:var(--c)}
+.art{height:96px;display:grid;place-items:center;font-size:44px;font-weight:800;letter-spacing:-.04em;color:#0b0d11;background:var(--c)}
+.cb{padding:12px 14px 14px;display:flex;flex-direction:column;gap:4px;flex:1}
+.cb b{font-size:19px;letter-spacing:-.01em}.cb span{color:#a7b0ba;font-size:14px;line-height:1.35}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;padding-top:8px}.tag{font-size:12px;color:#a7b0ba;border:1px solid #2d343d;border-radius:999px;padding:1px 9px}.best{color:#ffc857;font-size:13px;margin-top:4px}
+.none{color:#a7b0ba}
+footer{margin-top:50px;color:#8a95a1;font-size:14px}
+</style></head>
+<body>
+<header class="gh"><a href="../">&larr; rad</a><span class="sp"></span></header>
+<div class="wrap">
+<h1 class="big">Games</h1>
+<p class="sub">Little games for when you have five minutes. No sign up, no sound, and your progress saves in this browser.</p>
+<div class="bar"><input type="search" id="q" placeholder="Search games" aria-label="Search games">
+<span id="chips" class="bar" style="margin:0"></span><button type="button" id="rand" class="go">Random game</button></div>
+<section id="recentbox" hidden><h2>Pick up where you left off</h2><div class="grid" id="recent"></div></section>
+<h2 id="allh">All games</h2><div class="grid" id="all"></div><p class="none" id="none" hidden>Nothing matches that.</p>
+<h2>Play with friends online</h2><div class="grid" id="online"></div>
+<footer>More games on the way. Want one that is not here? Tell me on Discord.</footer>
+</div>
+<script src="g.js"></script>
+<script>
+var GAMES=[
+ {s:'merge',n:'Number Merge',d:'Slide tiles, merge numbers, chase 2048.',t:['Puzzle','Quick'],c:'#6fb0ff',a:'2048',f:function(v){return v+' pts'}},
+ {s:'sweeper',n:'Sweeper',d:'Clear the minefield without a boom.',t:['Puzzle'],c:'#6fd48a',a:'*',f:function(v){return v+' s'},low:1},
+ {s:'pairs',n:'Flip Pairs',d:'Match all the pairs in fewer moves.',t:['Puzzle','Quick'],c:'#b48cff',a:'\u25B2\u25CF',f:function(v){return v+' moves'},low:1},
+ {s:'snake',n:'Snake',d:'Eat, grow, do not crash.',t:['Arcade','Quick'],c:'#9fffb8',a:'S',f:function(v){return 'length '+v}},
+ {s:'bricks',n:'Brick Smash',d:'Bounce the ball, break every brick.',t:['Arcade'],c:'#ff9a68',a:'||||',f:function(v){return v+' pts'}},
+ {s:'hop',n:'Hop Through',d:'Flap through the gaps. One touch ends it.',t:['Arcade','Quick'],c:'#ffc857',a:'^',f:function(v){return v+' pipes'}},
+ {s:'sandwich',n:'Big Sandwich Clicker',d:'Click, upgrade, repeat. It keeps going while you are away.',t:['Idle'],c:'#e8a45f',a:'BLT',f:function(v){return v>=1e6?(v/1e6).toFixed(1)+'M made':Math.floor(v)+' made'}},
+ {s:'duel',n:'Paddle Duel',d:'Two players, one keyboard. Or beat the computer.',t:['Arcade','2 players'],c:'#5b9be6',a:'|  o  |',f:null}
+];
+var ONLINE=[
+ {u:'../fleet/',n:'Fleet War',d:'Up to 8 players on one ocean. Armored ships, weapons, decoys. Play as a guest.',t:['Online','Strategy'],c:'#5b9be6',a:'FW'},
+ {u:'../battleship/',n:'Classic Battleship',d:'The regular game, against a bot or a friend.',t:['Online','Quick'],c:'#7d8ea3',a:'B-5'}
+];
+var filt='All',q='';
+function card(g,online){var a=document.createElement('a');a.className='card';a.style.setProperty('--c',g.c);a.href=online?g.u:g.s+'/';
+ var b=g.f?G.best(g.s):0,best=b?'<div class="best">Best: '+g.f(b)+'</div>':'';
+ a.innerHTML='<div class="art">'+g.a+'</div><div class="cb"><b>'+g.n+'</b><span>'+g.d+'</span>'+best+'<div class="tags">'+g.t.map(function(t){return'<span class="tag">'+t+'</span>'}).join('')+'</div></div>';return a}
+function render(){var all=document.getElementById('all');all.innerHTML='';
+ var list=GAMES.filter(function(g){return(filt==='All'||g.t.indexOf(filt)>=0)&&(g.n+' '+g.d).toLowerCase().indexOf(q)>=0});
+ list.forEach(function(g){all.appendChild(card(g))});document.getElementById('none').hidden=list.length>0;
+ var on=document.getElementById('online');on.innerHTML='';ONLINE.forEach(function(g){on.appendChild(card(g,1))});
+ var rec=[];try{rec=JSON.parse(localStorage.getItem('g:recent')||'[]')}catch(e){}
+ var rl=rec.map(function(s){return GAMES.filter(function(g){return g.s===s})[0]}).filter(Boolean).slice(0,4),rb=document.getElementById('recent');rb.innerHTML='';rl.forEach(function(g){rb.appendChild(card(g))});document.getElementById('recentbox').hidden=!rl.length}
+var chips=document.getElementById('chips');['All','Puzzle','Arcade','Idle','2 players','Quick'].forEach(function(c){var b=document.createElement('button');b.type='button';b.textContent=c;b.className=c==='All'?'on':'';b.onclick=function(){filt=c;[].forEach.call(chips.children,function(x){x.className=x===b?'on':''});render()};chips.appendChild(b)});
+document.getElementById('q').oninput=function(){q=this.value.toLowerCase();render()};
+document.getElementById('rand').onclick=function(){location.href=GAMES[Math.floor(Math.random()*GAMES.length)].s+'/'};
+render();
+</script></body></html>

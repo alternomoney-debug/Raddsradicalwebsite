@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Flip Pairs (Rad)</title><meta name="description" content="Find all the matching pairs in as few moves as you can."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style>#board{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;width:min(92vw,380px)}.card{aspect-ratio:1;padding:0;border-radius:10px;font-size:clamp(26px,9vw,40px);background:#1d232c;border:1px solid #2d343d}.card.up{background:#10151c}</style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Flip Pairs</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat">Moves <b id="moves">0</b> Best <b id="best">-</b></div><div id="board"></div><p class="msg" id="msg"></p><div class="row"><button type="button" id="new" class="go">New game</button></div></main><p class="how">Flip two cards at a time. If they match they stay up. Fewer moves is better.</p>
+<script src="../g.js"></script><script>
+(function(){
+var sym=['\u25B2','\u25CF','\u25A0','\u2605','\u25C6','\u271A','\u2716','\u2B22'],col=['#ff7a68','#6fb0ff','#6fd48a','#ffc857','#b48cff','#5fd6d0','#ff9ad0','#c8d0da'],cards,open_,lock,moves,found,bd=G.$('board');
+function reset(){var d=[];for(var i=0;i<8;i++)d.push(i,i);for(var j=d.length-1;j>0;j--){var k=Math.floor(Math.random()*(j+1)),t=d[j];d[j]=d[k];d[k]=t}
+ cards=d.map(function(v){return{v:v,up:0,done:0}});open_=[];lock=false;moves=0;found=0;G.$('moves').textContent=0;G.$('msg').textContent='';var b=G.best('pairs');G.$('best').textContent=b||'-';draw()}
+function draw(){bd.innerHTML='';cards.forEach(function(c,i){var b=document.createElement('button');b.className='card'+(c.up||c.done?' up':'');if(c.up||c.done){b.textContent=sym[c.v];b.style.color=col[c.v]}b.onclick=function(){flip(i)};bd.appendChild(b)})}
+function flip(i){var c=cards[i];if(lock||c.up||c.done)return;c.up=1;open_.push(i);draw();
+ if(open_.length===2){moves++;G.$('moves').textContent=moves;var a=cards[open_[0]],b=cards[open_[1]];
+  if(a.v===b.v){a.done=b.done=1;a.up=b.up=0;found++;open_=[];draw();if(found===8){G.setBest('pairs',moves,true);G.$('best').textContent=G.best('pairs');G.$('msg').textContent='All pairs found in '+moves+' moves!'}}
+  else{lock=true;setTimeout(function(){a.up=b.up=0;open_=[];lock=false;draw()},800)}}}
+G.$('new').onclick=reset;reset();
+})();
+</script></body></html>

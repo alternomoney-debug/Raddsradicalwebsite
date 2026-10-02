@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sweeper (Rad)</title><meta name="description" content="Clear the minefield without hitting a mine."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style>#board{display:grid;grid-template-columns:repeat(9,1fr);gap:3px;width:min(92vw,400px)}.c{aspect-ratio:1;padding:0;border-radius:6px;font-size:clamp(14px,4vw,20px);font-weight:800;background:#1d232c;border:1px solid #2d343d}.c.r{background:#10151c;border-color:#1b2028;cursor:default}.c.m{background:#7d2a20}.c[data-n="1"]{color:#6fb0ff}.c[data-n="2"]{color:#6fd48a}.c[data-n="3"]{color:#ff7a68}.c[data-n="4"]{color:#b48cff}.c[data-n="5"],.c[data-n="6"],.c[data-n="7"],.c[data-n="8"]{color:#ffc857}</style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Sweeper</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat">Mines <b id="mines">10</b> Time <b id="time">0</b> Best <b id="best">-</b></div><div id="board"></div><p class="msg" id="msg"></p><div class="row"><button type="button" id="flag">Flag mode: off</button><button type="button" id="new" class="go">New game</button></div></main><p class="how">Click to dig. Right-click (or turn on Flag mode on a phone) to flag a mine. Numbers show how many mines touch that square.</p>
+<script src="../g.js"></script><script>
+(function(){
+var W=9,H=9,M=10,cells,over,started,fm=false,t0,tm,fl,bd=G.$('board'),btns=[];
+function nb(i){var r=(i/W)|0,c=i%W,o=[];for(var a=-1;a<=1;a++)for(var b=-1;b<=1;b++){if(!a&&!b)continue;var rr=r+a,cc=c+b;if(rr>=0&&cc>=0&&rr<H&&cc<W)o.push(rr*W+cc)}return o}
+function reset(){cells=[];for(var i=0;i<W*H;i++)cells.push({m:0,r:0,f:0,n:0});over=false;started=false;fl=0;clearInterval(tm);G.$('time').textContent=0;G.$('msg').textContent='';
+ bd.innerHTML='';btns=[];cells.forEach(function(c,i){var d=document.createElement('button');d.className='c';d.oncontextmenu=function(e){e.preventDefault();flag(i)};d.onclick=function(){fm?flag(i):open(i)};bd.appendChild(d);btns.push(d)});paint();
+ var b=G.best('sweeper');G.$('best').textContent=b?b+'s':'-'}
+function plant(safe){var left=M;while(left){var i=Math.floor(Math.random()*W*H);if(i===safe||cells[i].m)continue;cells[i].m=1;left--}cells.forEach(function(c,i){c.n=nb(i).filter(function(j){return cells[j].m}).length})}
+function open(i){if(over||cells[i].r||cells[i].f)return;
+ if(!started){started=true;plant(i);t0=Date.now();tm=setInterval(function(){G.$('time').textContent=Math.floor((Date.now()-t0)/1000)},400)}
+ var st=[i];while(st.length){var j=st.pop(),c=cells[j];if(c.r||c.f)continue;c.r=1;if(c.m){lose();return}if(!c.n)nb(j).forEach(function(k){if(!cells[k].r)st.push(k)})}
+ paint();if(!cells.some(function(c){return!c.r&&!c.m}))win()}
+function flag(i){if(over||cells[i].r)return;cells[i].f=!cells[i].f;fl+=cells[i].f?1:-1;paint()}
+function lose(){over=true;clearInterval(tm);cells.forEach(function(c){if(c.m)c.r=1});paint();G.$('msg').textContent='Boom. Press New game.'}
+function win(){over=true;clearInterval(tm);var s=Math.floor((Date.now()-t0)/1000);G.setBest('sweeper',s,true);G.$('best').textContent=G.best('sweeper')+'s';G.$('msg').textContent='Cleared in '+s+' seconds!'}
+function paint(){cells.forEach(function(c,i){var b=btns[i];b.className='c'+(c.r?' r':'')+(c.m&&c.r?' m':'');b.textContent=c.r?(c.m?'*':(c.n||'')):(c.f?'F':'');if(c.r&&c.n)b.dataset.n=c.n});G.$('mines').textContent=M-fl}
+G.$('flag').onclick=function(){fm=!fm;this.textContent='Flag mode: '+(fm?'on':'off');this.className=fm?'on':''};G.$('new').onclick=reset;reset();
+})();
+</script></body></html>

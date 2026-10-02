@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hop Through (Rad)</title><meta name="description" content="Flap through the gaps without crashing."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style></style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Hop Through</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat">Score <b id="score">0</b> Best <b id="best">0</b></div><canvas id="cv" width="320" height="480"></canvas><p class="msg" id="msg"></p></main><p class="how">Click, tap, or press space to hop. Fly through the gaps. One touch and it is over.</p>
+<script src="../g.js"></script><script>
+(function(){
+var cv=G.$('cv'),x=cv.getContext('2d'),W=320,H=480,bird,pipes,score,over,run,frame,last=0,best=G.best('hop');
+function reset(){bird={y:H/2,vy:0};pipes=[];score=0;over=false;run=false;frame=0;G.$('score').textContent=0;G.$('best').textContent=best;G.$('msg').textContent='Click, tap, or press space to hop'}
+function hop(){if(over){reset();return}if(!run)run=true;G.$('msg').textContent='';bird.vy=-7}
+function step(dt){if(!run)return;frame+=dt;bird.vy+=.5*dt;bird.y+=bird.vy*dt;
+ if(!pipes.length||frame>=85){frame=0;pipes.push({x:W,gy:90+Math.random()*(H-260),p:0})}
+ pipes.forEach(function(p){p.x-=2.3*dt;if(!p.p&&p.x+44<70){p.p=1;score++;G.$('score').textContent=score;if(score>best){best=score;G.setBest('hop',best);G.$('best').textContent=best}}
+  if(70+11>p.x&&70-11<p.x+44&&(bird.y-11<p.gy||bird.y+11>p.gy+135))crash()});
+ pipes=pipes.filter(function(p){return p.x>-60});if(bird.y>H-11||bird.y<11)crash()}
+function crash(){over=true;run=false;G.$('msg').textContent='Crashed! Click or press space to try again.'}
+function draw(){x.fillStyle='#10151c';x.fillRect(0,0,W,H);x.fillStyle='#2f7d4a';pipes.forEach(function(p){x.fillRect(p.x,0,44,p.gy);x.fillRect(p.x,p.gy+135,44,H)});
+ x.fillStyle='#ffc857';x.beginPath();x.arc(70,bird.y,11,0,7);x.fill();x.fillStyle='#0b0d11';x.beginPath();x.arc(74,bird.y-3,2.5,0,7);x.fill()}
+function loop(t){var dt=Math.min(3,(t-last)/16.67||1);last=t;if(!document.hidden)step(dt);draw();requestAnimationFrame(loop)}
+cv.addEventListener('pointerdown',hop);G.keys(function(k){if(k===' '||k==='ArrowUp'||k==='w')hop()});G.onHide(function(){if(run){run=false;G.$('msg').textContent='Paused. Hop to go on.'}});
+reset();requestAnimationFrame(loop);
+})();
+</script></body></html>

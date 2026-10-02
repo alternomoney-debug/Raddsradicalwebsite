@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Number Merge (Rad)</title><meta name="description" content="Slide tiles and merge matching numbers."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style>#board{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;width:min(92vw,420px);aspect-ratio:1;background:#14181f;padding:8px;border-radius:12px;touch-action:none}.t{display:grid;place-items:center;border-radius:8px;font-weight:800;font-size:clamp(20px,6.5vw,34px);background:#1b212b}</style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Number Merge</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat">Score <b id="score">0</b> Best <b id="best">0</b></div><div id="board"></div><p class="msg" id="msg"></p><div class="row"><button type="button" id="new" class="go">New game</button></div></main><p class="how">Arrow keys, WASD, or swipe. Matching tiles merge into one. Try to reach 2048.</p>
+<script src="../g.js"></script><script>
+(function(){
+var N=4,grid,score=0,best=G.best('merge'),over=false,bd=G.$('board');
+function empty(){var e=[];for(var r=0;r<N;r++)for(var c=0;c<N;c++)if(!grid[r][c])e.push([r,c]);return e}
+function spawn(){var e=empty();if(!e.length)return;var p=e[Math.floor(Math.random()*e.length)];grid[p[0]][p[1]]=Math.random()<.9?2:4}
+function reset(){grid=[];for(var r=0;r<N;r++)grid.push([0,0,0,0]);score=0;over=false;spawn();spawn();draw()}
+function slide(line){var a=line.filter(Boolean),g=0;for(var i=0;i<a.length-1;i++)if(a[i]===a[i+1]){a[i]*=2;g+=a[i];a.splice(i+1,1)}while(a.length<N)a.push(0);return[a,g]}
+function rc(d,i,j){return d%2===0?[i,d===0?j:N-1-j]:[d===1?j:N-1-j,i]}
+function canMove(){if(empty().length)return true;for(var r=0;r<N;r++)for(var c=0;c<N;c++){if(c<N-1&&grid[r][c]===grid[r][c+1])return true;if(r<N-1&&grid[r][c]===grid[r+1][c])return true}return false}
+function move(d){if(over)return;var moved=false,gain=0;
+ for(var i=0;i<N;i++){var line=[],j,p;for(j=0;j<N;j++){p=rc(d,i,j);line.push(grid[p[0]][p[1]])}
+  var res=slide(line);gain+=res[1];for(j=0;j<N;j++){p=rc(d,i,j);if(grid[p[0]][p[1]]!==res[0][j])moved=true;grid[p[0]][p[1]]=res[0][j]}}
+ if(!moved)return;score+=gain;spawn();if(score>best){best=score;G.setBest('merge',best)}if(!canMove())over=true;draw()}
+function draw(){bd.innerHTML='';grid.forEach(function(row){row.forEach(function(v){var t=document.createElement('div');t.className='t';if(v){t.textContent=v;var l=Math.log2(v);t.style.background='hsl('+(215-l*13)+' 55% '+(26+l*3)+'%)';t.style.fontSize=v>=1024?'0.7em':''}bd.appendChild(t)})});
+ G.$('score').textContent=score;G.$('best').textContent=best;G.$('msg').textContent=over?'No moves left. Press New game.':''}
+G.keys(function(k){var m={ArrowLeft:0,a:0,ArrowUp:1,w:1,ArrowRight:2,d:2,ArrowDown:3,s:3}[k];if(m!==undefined)move(m)});
+G.swipe(bd,function(s){move({l:0,u:1,r:2,d:3}[s])});G.$('new').onclick=reset;reset();
+})();
+</script></body></html>

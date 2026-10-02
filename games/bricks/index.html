@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Brick Smash (Rad)</title><meta name="description" content="Bounce the ball and break every brick."><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E"><link rel="stylesheet" href="../g.css">
+<style></style></head>
+<body><header class="gh"><a href="../">&larr; All games</a><h1>Brick Smash</h1><span class="sp"></span><button type="button" id="fs">Fullscreen</button></header>
+<main><div class="row stat">Score <b id="score">0</b> Lives <b id="lives">3</b> Level <b id="lvl">1</b> Best <b id="best">0</b></div><canvas id="cv" width="480" height="360"></canvas><p class="msg" id="msg"></p><div class="row"><button type="button" id="new" class="go">New game</button></div></main><p class="how">Move the paddle with the mouse, finger, or arrow keys. Click or press space to launch. Hit the ball with the edge of the paddle to steer it.</p>
+<script src="../g.js"></script><script>
+(function(){
+var cv=G.$('cv'),x=cv.getContext('2d'),W=480,H=360,pad,ball,bricks,score,lives,lvl,run,over,last=0,best=G.best('bricks'),keys={L:0,R:0};
+function build(){bricks=[];for(var r=0;r<5;r++)for(var c=0;c<8;c++)bricks.push({x:12+c*57,y:40+r*22,w:52,h:18,col:'hsl('+(r*40)+' 65% 55%)'})}
+function serve(){ball={x:pad.x,y:H-40,vx:2.4*(Math.random()<.5?-1:1),vy:-3.2-lvl*.3,r:6};run=false;G.$('msg').textContent='Click or press space to launch'}
+function reset(){pad={x:W/2,w:84};score=0;lives=3;lvl=1;over=false;build();serve();hud()}
+function hud(){G.$('score').textContent=score;G.$('lives').textContent=lives;G.$('lvl').textContent=lvl;G.$('best').textContent=best}
+function launch(){if(over){return}if(!run){run=true;G.$('msg').textContent=''}}
+function step(dt){pad.x+=(keys.R-keys.L)*6*dt;pad.x=Math.max(pad.w/2,Math.min(W-pad.w/2,pad.x));
+ if(!run){ball.x=pad.x;ball.y=H-40;return}
+ ball.x+=ball.vx*dt;ball.y+=ball.vy*dt;
+ if(ball.x<ball.r){ball.x=ball.r;ball.vx=Math.abs(ball.vx)}if(ball.x>W-ball.r){ball.x=W-ball.r;ball.vx=-Math.abs(ball.vx)}if(ball.y<ball.r){ball.y=ball.r;ball.vy=Math.abs(ball.vy)}
+ if(ball.vy>0&&ball.y>H-28-ball.r&&ball.y<H-14&&Math.abs(ball.x-pad.x)<pad.w/2+ball.r){ball.vy=-Math.abs(ball.vy);ball.vx=(ball.x-pad.x)/(pad.w/2)*4.2}
+ for(var i=0;i<bricks.length;i++){var b=bricks[i];if(ball.x>b.x-ball.r&&ball.x<b.x+b.w+ball.r&&ball.y>b.y-ball.r&&ball.y<b.y+b.h+ball.r){bricks.splice(i,1);ball.vy=-ball.vy;score+=10;if(score>best){best=score;G.setBest('bricks',best)}hud();break}}
+ if(!bricks.length){lvl++;build();serve();hud();G.$('msg').textContent='Level '+lvl+'. Click to launch.'}
+ if(ball.y>H+10){lives--;hud();if(lives<=0){over=true;run=false;G.$('msg').textContent='Game over. Press New game.'}else serve()}}
+function draw(){x.fillStyle='#10151c';x.fillRect(0,0,W,H);bricks.forEach(function(b){x.fillStyle=b.col;x.fillRect(b.x,b.y,b.w,b.h)});x.fillStyle='#f1f3f5';x.fillRect(pad.x-pad.w/2,H-26,pad.w,10);x.beginPath();x.arc(ball.x,ball.y,ball.r,0,7);x.fill()}
+function loop(t){var dt=Math.min(3,(t-last)/16.67||1);last=t;if(!document.hidden)step(dt);draw();requestAnimationFrame(loop)}
+cv.addEventListener('pointermove',function(e){var r=cv.getBoundingClientRect();pad.x=(e.clientX-r.left)*W/r.width});cv.addEventListener('pointerdown',launch);
+G.keys(function(k){if(k==='ArrowLeft'||k==='a')keys.L=1;if(k==='ArrowRight'||k==='d')keys.R=1;if(k===' ')launch()});
+document.addEventListener('keyup',function(e){if(e.key==='ArrowLeft'||e.key==='a')keys.L=0;if(e.key==='ArrowRight'||e.key==='d')keys.R=0});
+G.$('new').onclick=reset;reset();requestAnimationFrame(loop);
+})();
+</script></body></html>

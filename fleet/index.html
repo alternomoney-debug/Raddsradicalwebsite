@@ -146,7 +146,7 @@
   <div class="wrap top">
     <a class="mark" href="../">rad</a>
     <div class="right">
-      <a href="../battleship/">Classic Battleship</a>
+      <a href="../games/">All games</a>
       <span id="acct"></span>
     </div>
   </div>
@@ -195,6 +195,10 @@
           <p class="small" id="coinnote" style="margin:0 0 10px">Win games with 2 or more real players to earn coins. Weapons from the shop are side-grades, not upgrades: each one trades something away.</p>
           <div id="armory"></div>
           <p class="err" id="armoryerr"></p>
+          <div id="adminbox" hidden>
+            <h3 style="margin:18px 0 8px;font-size:17px">Admin: give coins</h3>
+            <div class="row"><input id="adm-user" placeholder="username (blank = you)" style="width:22ch;text-transform:none;letter-spacing:0;text-align:left" autocomplete="off"><input id="adm-amt" type="number" value="500" style="width:9ch"><button type="button" id="adm-go" class="go">Give coins</button></div>
+          </div>
         </div>
         <div>
           <h2>Fleet War wins</h2>
@@ -470,6 +474,7 @@
   // ---------------- ARMORY ----------------
   function loadWallet(){ return rpc('bs_wallet').then(function(w){ WAL = w; renderArmory(); }).catch(function(){}); }
   function renderArmory(){
+    $('adminbox').hidden = !RadAuth.isAdmin;
     var host = $('armory'); if (!WAL){ host.textContent = ''; return; }
     if (WAL.guest){ $('coins').textContent = ''; $('coinnote').textContent = 'Guests can play everything, but coins, scores and the shop need a Discord account. Open your name at the top and choose Upgrade with Discord to keep your progress.'; host.innerHTML = ''; return; }
     $('coins').textContent = WAL.coins + ' coins';
@@ -490,6 +495,9 @@
       box.appendChild(opts); host.appendChild(box);
     });
   }
+  $('adm-go').addEventListener('click', function(){
+    armoryCall('bs_admin_coins', { p_username: $('adm-user').value.trim(), p_amount: parseInt($('adm-amt').value, 10) || 0 });
+  });
   function armoryCall(fn, args){
     $('armoryerr').textContent = '';
     rpc(fn, args).then(function(w){ WAL = w; renderArmory(); }).catch(function(e){ $('armoryerr').textContent = e.message; });

@@ -21,7 +21,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&display=swap" rel="stylesheet"></noscript>
-<script>fetch("model.glb",{method:"HEAD"}).then(function(r){if(r.ok&&!window.__LITE){var m=document.createElement("script");m.type="module";m.src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js";document.head.appendChild(m);}}).catch(function(){});</script>
+<meta name="has-model" content="no">
+<script>/* when you add model.glb, change the has-model line above to content="yes" and the 3D viewer loads */if(document.querySelector('meta[name=has-model][content=yes]')&&!window.__LITE){var m=document.createElement("script");m.type="module";m.src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js";document.head.appendChild(m);}</script>
 <style>
   :root{
     color-scheme: dark;
@@ -512,8 +513,7 @@
         <a href="#hi">About</a>
         <a href="comics/">Comics</a>
         <a href="elsewhere/">Elsewhere</a>
-        <a href="battleship/">Battleship</a>
-        <a href="fleet/">Fleet War</a>
+        <a href="games/">Games</a>
         <a class="pill" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a>
         <span id="acct"></span>
       </nav>
@@ -576,17 +576,6 @@
     </div>
   </section>
 
-  <section id="disciplines">
-    <div class="wrap">
-      <h2>The breakdown</h2>
-      <div class="row-list">
-        <div class="row"><div class="t">Modeling</div><div class="d">3D characters and sets for everything else to live in.</div></div>
-        <div class="row"><div class="t">Art</div><div class="d">Characters, environments, and the look of things.</div></div>
-        <div class="row"><div class="t">Animation</div><div class="d">Getting those drawings to move like they mean it.</div></div>
-        <div class="row"><div class="t">Music</div><div class="d">Original tracks and scores, written and produced by me.</div></div>
-      </div>
-    </div>
-  </section>
 
   <section id="music">
     <div class="wrap music">
