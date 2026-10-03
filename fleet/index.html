@@ -347,15 +347,15 @@
   var TEAM_COLORS = ['#5b9be6', '#e5533f', '#d6c23a', '#9b59d0', '#4fa63a', '#e8893c', '#2cb5a5', '#d0679b'];
   var WEAPONS = {
     shell:   { name: 'Shell',        mode: 'single', desc: '1 tile. 4 damage destroys it.' },
-    heavy:   { name: 'Heavy shell',  mode: 'single', desc: '4 damage, plus 1 to the 4 tiles around it. Needs a turn to reload.' },
+    heavy:   { name: 'Heavy shell',  mode: 'single', desc: '4 damage in the middle, 2 on the four tiles beside it, 1 on the corners. Needs a turn to reload.' },
     mg:      { name: 'Machine gun',  mode: 'multi',  desc: '4 shots, 1 damage each. Spread or stack. Results show after the burst.' },
-    burst:   { name: 'Burst',        mode: 'line', len: 3, desc: 'A straight line of 3 tiles, 2 damage each. Needs a turn to reload.' },
-    bomber:  { name: 'Bomber run',   mode: 'line', len: 5, desc: 'A straight line of 5 tiles, 1 damage each. Needs a turn to reload.' },
+    burst:   { name: 'Burst',        mode: 'line', len: 4, desc: 'A straight line of 4 tiles, 3 damage each. Needs a turn to reload.' },
+    bomber:  { name: 'Bomber run',   mode: 'line', len: 5, desc: 'A straight line of 5 tiles, 3 damage each. Needs a turn to reload.' },
     mortar:  { name: 'Mortar',       mode: 'area', desc: 'Once per match. Rounded 5x5: every tile hit, centre takes 5, plus 8 random hits.' },
-    barrage: { name: 'Barrage',      mode: 'area', desc: 'Once per match. A huge area: every tile hit, centre takes 2, plus 6 random hits.' },
+    barrage: { name: 'Barrage',      mode: 'area', desc: 'Once per match. A huge area: every tile hit, the centre takes 4 (destroyed), plus 10 random hits.' },
     sonar:   { name: 'Sonar ping',   mode: 'scan', desc: 'Counts ship tiles in a 3x3. No damage. Only your team sees it.' },
     recon:   { name: 'Recon flight', mode: 'scan', desc: 'Marks every ship tile in a 3x3. Recharges for 2 turns. Only your team sees it.' },
-    torpedo: { name: 'Torpedo',      mode: 'lane', desc: '2 per match. Runs along a row or column and hits the first enemy ship for 2.' }
+    torpedo: { name: 'Torpedo',      mode: 'lane', desc: '3 per match. Runs along a row or column and hits the first enemy ship for 4, enough to destroy a tile.' }
   };
   function needFor(w){ var d = WEAPONS[w]; return d.mode === 'multi' ? 4 : d.mode === 'line' ? d.len : 1; }
   // what the shop sells (the server holds the real prices)
@@ -803,7 +803,7 @@
       if (w === 'shell') li = who + ' fired a shell: ' + (dead ? 'tile destroyed.' : hits ? 'hit.' : 'miss.');
       else if (w === 'heavy') li = who + ' fired a heavy shell: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
       else if (w === 'mg') li = who + ' opened up with the machine gun: ' + hits + ' of 4 shots hit.';
-      else if (w === 'burst') li = who + ' fired a burst: ' + hits + ' of 3 tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
+      else if (w === 'burst') li = who + ' fired a burst: ' + hits + ' of 4 tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
       else if (w === 'bomber') li = who + ' sent a bomber run: ' + hits + ' of 5 tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
       else if (w === 'mortar') li = who + ' called a MORTAR strike: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
       else if (w === 'barrage') li = who + ' called a BARRAGE: ' + hits + ' tiles hit' + (dead ? ', ' + dead + ' destroyed.' : '.');
@@ -1129,7 +1129,7 @@
       var h = A.hover, w = A.weapon, mode = WEAPONS[w].mode;
       if (mode === 'single'){
         var tgt = A.targets[0] || (h && aimable(h[0], h[1]) ? h : null);
-        if (w === 'heavy' && tgt) [[1, 0], [-1, 0], [0, 1], [0, -1]].forEach(function(d){ var x = tgt[0] + d[0], y = tgt[1] + d[1]; if (x >= 0 && y >= 0 && x < S.match.w && y < S.match.h && !isIsland(x, y) && !inRect(myRect(), x, y)){ c.fillStyle = 'rgba(255,170,60,0.3)'; c.fillRect(x * cs, y * cs, cs, cs); } });
+        if (w === 'heavy' && tgt) [[1, 0], [-1, 0], [0, 1], [0, -1], [1, 1], [1, -1], [-1, 1], [-1, -1]].forEach(function(d, di){ var x = tgt[0] + d[0], y = tgt[1] + d[1]; if (x >= 0 && y >= 0 && x < S.match.w && y < S.match.h && !isIsland(x, y) && !inRect(myRect(), x, y)){ c.fillStyle = di < 4 ? 'rgba(255,170,60,0.34)' : 'rgba(255,170,60,0.16)'; c.fillRect(x * cs, y * cs, cs, cs); } });
         A.targets.forEach(function(q){ crosshair(c, q[0], q[1], '#5b9be6'); });
         if (h && !A.targets.length) crosshair(c, h[0], h[1], aimable(h[0], h[1]) ? 'rgba(241,243,245,0.8)' : 'rgba(229,83,63,0.8)');
       } else if (mode === 'multi'){
