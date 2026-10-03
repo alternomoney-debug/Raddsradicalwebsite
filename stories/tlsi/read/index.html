@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8">
+<script src="../../../lite.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Reading (Rad)</title><meta name="theme-color" content="#0b0d11">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
+<style>
+:root{color-scheme:dark;--bg:#0b0d11;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--edge:#3b434e;--acc:#5b9be6;--fs:20px;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;min-height:100svh;display:flex;flex-direction:column;background:var(--bg);color:var(--ink);font:17px/1.55 var(--f);-webkit-font-smoothing:antialiased}
+a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px clamp(16px,3vw,48px);border-bottom:3px solid var(--edge)}
+.bar .mark{font-weight:800;font-size:22px;letter-spacing:-.03em;text-decoration:none}
+.bar nav{display:flex;flex-wrap:wrap;align-items:center;gap:6px clamp(14px,2.2vw,32px);justify-content:flex-end}
+.bar nav a{color:var(--mute);text-decoration:none;font-weight:500}.bar nav a:hover{color:var(--ink)}.bar nav a.cur{color:var(--ink);font-weight:800;font-size:1.2em;letter-spacing:-.02em}
+.bar nav a.pill{color:var(--bg);background:var(--ink);padding:7px 16px;border-radius:999px;font-weight:700}.bar nav a.pill:hover{background:var(--acc)}
+.read{flex:1;width:100%;max-width:720px;margin:0 auto;padding:clamp(24px,5vh,56px) clamp(16px,4vw,32px) 40px}
+.crumb{margin:0 0 8px;color:var(--mute)}.crumb a{color:var(--mute)}.crumb a:hover{color:var(--ink)}
+h1{margin:0 0 20px;font-size:clamp(34px,5vw,56px);font-weight:800;line-height:1.02;letter-spacing:-.04em}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:28px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+button,select{font:600 15px var(--f);color:var(--ink);background:#14171c;border:1px solid #2d343d;padding:7px 14px;border-radius:999px;cursor:pointer}button:hover:not(:disabled),select:hover{border-color:var(--acc)}button:disabled{opacity:.35;cursor:not-allowed}select{max-width:100%;font-weight:500}
+#text{font-size:var(--fs);line-height:1.7}#text p{margin:0 0 1.1em}#text h2{margin:1.6em 0 .6em;font-size:1.2em;letter-spacing:-.02em}#text hr{border:0;text-align:center;margin:2em 0;color:var(--mute)}#text hr:after{content:"* * *";letter-spacing:.4em}
+.msg{color:var(--mute);font-size:1.1em}
+.pn{display:flex;justify-content:space-between;gap:12px;margin-top:40px;padding-top:24px;border-top:1px solid var(--line)}
+.pn a{padding:10px 20px;border-radius:999px;border:1px solid #2d343d;text-decoration:none;font-weight:700}.pn a:hover{border-color:var(--acc)}.pn a.go{background:var(--ink);color:var(--bg);border-color:var(--ink);margin-left:auto}.pn a[hidden]{display:none}
+footer{padding:24px clamp(16px,3vw,48px) 34px;color:var(--mute);font-size:14px;display:flex;flex-wrap:wrap;gap:8px 16px}footer a{color:inherit}
+</style></head>
+<body>
+<header class="bar"><a class="mark" href="../../../">rad</a>
+<nav aria-label="Main"><a class="cur" href="../../" aria-current="page">Stories</a><a href="../../../projects/">Projects</a><a href="../../../games/">Games</a><a href="../../../elsewhere/">Elsewhere</a><a class="pill" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a><span id="acct"></span></nav></header>
+<main class="read">
+ <p class="crumb"><a href="../">&larr; The Long Shot Initiative</a></p>
+ <h1 id="ct">Loading...</h1>
+ <div class="tools"><button type="button" id="fsm" aria-label="Smaller text">A-</button><button type="button" id="fsp" aria-label="Bigger text">A+</button><select id="jump" aria-label="Jump to a chapter"></select></div>
+ <article id="text"><p class="msg">Loading...</p></article>
+ <nav class="pn" aria-label="Chapters"><a id="prev" href="#">&larr; Previous</a><a id="next" class="go" href="#">Next &rarr;</a></nav>
+</main>
+<footer><span>The Long Shot Initiative, by Rad and Reza</span><a href="../../../privacy/">Rules and privacy</a></footer>
+<script src="../chapters.js"></script>
+<script src="../../../config.js"></script><script src="../../../auth.js"></script>
+<script>
+(function(){
+var $=function(i){return document.getElementById(i)};
+var ALL=(window.TLSI_CHAPTERS||[]).slice().sort(function(a,b){return a.n-b.n}), READY=ALL.filter(function(c){return !c.soon&&!c.href});
+var cur=parseInt(new URLSearchParams(location.search).get('c'),10);
+var KEY='rad-read:tlsi';
+if(window.RadAuth)RadAuth.mount($('acct'));
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+function inl(s){return esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/\*(.+?)\*/g,'<i>$1</i>')}
+function render(t){var o=[];t.replace(/\r\n?/g,'\n').split(/\n{2,}/).forEach(function(b){b=b.trim();if(!b)return;
+ if(/^(-{3,}|\*{3,}|_{3,})$/.test(b))o.push('<hr>');else if(/^#\s+/.test(b))o.push('<h2>'+inl(b.replace(/^#\s+/,''))+'</h2>');else o.push('<p>'+inl(b).replace(/\n/g,'<br>')+'</p>')});return o.join('\n')}
+// text size
+var fs=parseInt(localStorage.getItem('rad-fs'),10)||20;function setFs(v){fs=Math.max(15,Math.min(32,v));document.documentElement.style.setProperty('--fs',fs+'px');try{localStorage.setItem('rad-fs',fs)}catch(e){}}
+setFs(fs);$('fsm').onclick=function(){setFs(fs-2)};$('fsp').onclick=function(){setFs(fs+2)};
+function go(n){location.href='?c='+n}
+if(!READY.length){$('ct').textContent='No chapters yet';$('text').innerHTML='<p class="msg">The first chapter goes up when it\u2019s ready. <a href="../">Back to the book</a>.</p>';$('prev').hidden=$('next').hidden=true;$('jump').hidden=true;return}
+if(!READY.some(function(c){return c.n===cur}))cur=READY[0].n;
+var i=READY.map(function(c){return c.n}).indexOf(cur),ch=READY[i];
+document.title='Chapter '+ch.n+': '+ch.title+' (Rad)';$('ct').textContent='Chapter '+ch.n+': '+ch.title;
+READY.forEach(function(c){var o=document.createElement('option');o.value=c.n;o.textContent='Chapter '+c.n+': '+c.title;if(c.n===cur)o.selected=true;$('jump').appendChild(o)});
+$('jump').onchange=function(){go(this.value)};
+var p=READY[i-1],n=READY[i+1];
+if(p){$('prev').href='?c='+p.n}else $('prev').hidden=true;
+if(n){$('next').href='?c='+n.n}else{$('next').textContent='Back to the book';$('next').href='../'}
+document.addEventListener('keydown',function(e){if(e.target&&/INPUT|TEXTAREA|SELECT/.test(e.target.tagName)||e.ctrlKey||e.metaKey||e.altKey)return;if(e.key==='ArrowLeft'&&p)go(p.n);if(e.key==='ArrowRight'&&n)go(n.n)});
+fetch('../chapters/'+ch.n+'.txt').then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
+ $('text').innerHTML=render(t);
+ try{var s=JSON.parse(localStorage.getItem(KEY)||'null');if(s&&s.c===cur&&s.y>0&&!location.hash)setTimeout(function(){window.scrollTo(0,s.y*(document.documentElement.scrollHeight-innerHeight))},50)}catch(e){}
+}).catch(function(){$('text').innerHTML='<p class="msg">This chapter isn\u2019t up yet. Check back soon, or <a href="../">go back to the book</a>.</p>'});
+// remember the place: chapter + how far down, on this device, and on the account if signed in
+var tm;function saveSoon(){clearTimeout(tm);tm=setTimeout(function(){var h=document.documentElement.scrollHeight-innerHeight;try{localStorage.setItem(KEY,JSON.stringify({c:cur,y:h>0?scrollY/h:0}))}catch(e){}},400)}
+window.addEventListener('scroll',saveSoon,{passive:true});try{localStorage.setItem(KEY,JSON.stringify({c:cur,y:0}))}catch(e){}
+if(window.RadAuth)RadAuth.onChange(function(){if(RadAuth.sb&&RadAuth.user&&RadAuth.profile)Promise.resolve(RadAuth.sb.from('bookmarks').upsert({user_id:RadAuth.user.id,comic:'tlsi',page:cur,updated_at:new Date().toISOString()},{onConflict:'user_id,comic'})).catch(function(){})});
+})();
+</script></body></html>
