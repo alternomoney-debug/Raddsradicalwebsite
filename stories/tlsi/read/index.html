@@ -88,6 +88,7 @@ function lay(){var c=$('shell').classList;c.toggle('hl',!L.l);c.toggle('hr',!L.r
  try{localStorage.setItem(LK,JSON.stringify(L))}catch(e){}}
 $('tl').onclick=function(){L.l=L.l?0:1;lay()};$('tr').onclick=function(){L.r=L.r?0:1;lay()};$('tw').onclick=function(){L.w=(L.w+1)%3;lay()};lay();
 function go(n){location.href='?c='+n}
+function main(){
 if(!READY.length){$('ct').textContent='No chapters yet';$('text').innerHTML='<p class="msg">The first chapter goes up when it\u2019s ready. <a href="../">Back to the book</a>.</p>';$('prev').hidden=$('next').hidden=true;$('jump').hidden=true;$('shell').classList.add('solo');return}
 if(!READY.some(function(c){return c.n===cur}))cur=READY[0].n;
 var i=READY.map(function(c){return c.n}).indexOf(cur),ch=READY[i];
@@ -107,11 +108,14 @@ document.addEventListener('keydown',function(e){if(e.target&&/INPUT|TEXTAREA|SEL
 fetch('../chapters/'+ch.n+'.txt').then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
  $('text').innerHTML=render(t);
  try{var s=JSON.parse(localStorage.getItem(KEY)||'null');if(s&&s.c===cur&&s.y>0&&!location.hash)setTimeout(function(){window.scrollTo(0,s.y*(document.documentElement.scrollHeight-innerHeight))},50)}catch(e){}
-}).catch(function(){$('text').innerHTML='<p class="msg">This chapter isn\u2019t up yet. Check back soon, or <a href="../">go back to the book</a>.</p>'});
+}).catch(function(){$('text').innerHTML='<p class="msg">No chapter '+ch.n+' yet? Oh yeah, no file! Check back soon, or <a href="../">go back to the book</a>.</p>'});
 // remember the place: chapter + how far down, on this device, and on the account if signed in
 var tm;function saveSoon(){clearTimeout(tm);tm=setTimeout(function(){var h=document.documentElement.scrollHeight-innerHeight;try{localStorage.setItem(KEY,JSON.stringify({c:cur,y:h>0?scrollY/h:0}))}catch(e){}},400)}
 function prog(){var h=document.documentElement.scrollHeight-innerHeight,v=h>0?Math.min(1,scrollY/h):1;$('prog').style.width=Math.round(v*100)+'%';$('pct').textContent=Math.round(v*100)+'% of this chapter'}
 window.addEventListener('scroll',function(){saveSoon();prog()},{passive:true});window.addEventListener('resize',prog);setTimeout(prog,300);try{localStorage.setItem(KEY,JSON.stringify({c:cur,y:0}))}catch(e){}
 if(window.RadAuth)RadAuth.onChange(function(){if(RadAuth.sb&&RadAuth.user&&RadAuth.profile)Promise.resolve(RadAuth.sb.from('bookmarks').upsert({user_id:RadAuth.user.id,comic:'tlsi',page:cur,updated_at:new Date().toISOString()},{onConflict:'user_id,comic'})).catch(function(){})});
+}
+var BASE='../chapters/',chk=ALL.filter(function(c){return !c.soon&&!c.href});
+Promise.all(chk.map(function(c){return fetch(BASE+c.n+'.txt',{method:'HEAD'}).then(function(x){return x.ok}).catch(function(){return false})})).then(function(res){var bad=false;chk.forEach(function(c,k){if(!res[k])bad=true;if(bad)c.soon=true});READY=ALL.filter(function(c){return !c.soon&&!c.href});main()}).catch(main);
 })();
 </script></body></html>
