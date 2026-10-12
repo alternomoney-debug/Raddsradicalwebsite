@@ -11,6 +11,8 @@
   The text for chapter 1 goes in the file  stories/tlsi/chapters/1.txt  (chapter 2 in 2.txt, and so on).
 */
 window.TLSI_CHAPTERS = [
-  { n: 1, title: "Three Plus Four" },
-  { n: 2, title: "Partial Confirm" },
+  { n: 1, title: "What Is Three Plus Four?" },
+  { n: 2, title: "Partial Like a D Minus" },
+  { n: 3, title: "What Do You Say to Someone You Don’t Remember?" },
+  { n: 4, title: "The Day the Arm Didn’t Hand Me a Tube" },
 ];
