@@ -1,0 +1,333 @@
+"Partial confirm" turns out to be a phrase ARACCSIM likes a lot more than I do.
+
+"What does partial mean," I ask. "Partial like eighty percent, or partial like you're being polite about a D minus."
+
+"Mission purpose response was substantively correct. Additional detail withheld pending full crew confirmation."
+
+"Withheld by who."
+
+"By design specification."
+
+"That's, uh. That's not an answer. That's a sentence shaped like an answer wearing an answer's clothes."
+
+"Correct."
+
+I look at Jinzhou, half expecting backup, but he's already moved on, scrolling through something on the main screen with the flat focus of a man who has decided arguing with the ship is not a productive use of his remaining daylight, of which there technically is none, since we're in a tin can six point four light years from the nearest daylight, a couple of side windows notwithstanding, a fact I've decided to be personally offended by.
+
+"It's fine," I say, mostly to myself. "We'll get the rest eventually."
+
+"Or we won't," Jinzhou says.
+
+"Thank you for that. Very helpful. I'm putting that on a motivational poster."
+
+He shrugs, the feline equivalent of it, which involves slightly more shoulder than seems structurally necessary.
+
+I turn back to my own screen. The dimming number is still sitting there. Sixteen point two percent. I hate it a little more every time I look at it, the way you hate a splinter you can't quite dig out, so I do the only thing that actually helps, which is work, because work at least pretends to go somewhere.
+
+My hand finds the edge of the console without me looking, and I notice, not for the first time but for the first time properly, that the actual physical switches down here don't match the screens above them. The screens, whatever ARACCSIM's rendering onto them, are consistent, every panel the same unreadable Indonesian I ran into this morning. The switches themselves are a mess by comparison. Some still carry their original stamped plates. Others have a thin strip of tape pressed over the old lettering, something written across it in permanent marker, in a hand I don't recognize, in a language I do.
+
+I run a finger over one. THRUST TRIM, the tape says, in blunt English capitals, stuck down slightly crooked over whatever the plate used to say underneath.
+
+The one next to it hasn't been touched. PENGENDALIAN SIKAP, stamped clean into the original plate, no tape, no translation, nothing. I have no idea what it does. I have a guess, given its position next to thrust trim, but a guess is all I've got.
+
+Further down, one that has been fixed, block capitals over a torn strip of tape: EMERGENCY STOP. I decide I like whoever did this labeling. Emergency Stop felt important enough to prioritize. Fair.
+
+Two more sit untouched past that, original Indonesian intact, small enough that I have to lean in to actually read the shapes of the letters even though none of them mean anything to me yet. DAYA LISTRIK UTAMA. STRUKTUR KOMUNIKASI. I say them under my breath, badly, the way you sound out a word in a language you've never studied, more noise than pronunciation.
+
+"Someone did this by hand," I say.
+
+Jinzhou glances over. "The tape."
+
+"Yeah."
+
+"Makes sense. Can't exactly reprint a physical switch plate mid-transit. Somebody with a level of English fluency and a label maker sat down at some point and fixed what they could reach." He goes back to his screen. "Probably didn't get to all of them before they ran out of time, or tape, or patience."
+
+I look down the row. He's right. About half the switches have been fixed. The other half still carry their original stamped Indonesian, untouched, waiting for someone who never got around to them.
+
+"ARACCSIM. Show me the full luminosity curve. Not the summary. Every data point you've got."
+
+A pause, longer than I'd like from something that thinks in numbers I can't even count to.
+
+"Working."
+
+The screen fills with a graph. Hundreds of points, not two. A long, mostly flat line for years and years, and then, near the end, a curve that bends downward like it's tired of holding itself up.
+
+Honestly, relatable.
+
+"That's not steady," I say.
+
+"No," Jinzhou agrees.
+
+"It's accelerating."
+
+"Yes."
+
+I trace the curve with the stylus, not because I need to, but because tracing things helps me think, some part of my brain that only trusts information once my hand's actually touched it, which is a deeply inconvenient way to be built when most of my job now happens on a screen.
+
+"If it keeps accelerating like this," I say, "give me the days to critical."
+
+Jinzhou pulls the number without needing to be asked twice, which is either efficient or slightly unsettling, and I genuinely haven't decided which.
+
+"Two thousand one hundred," he says. "Give or take a season."
+
+"Give or take a season. You say that like seasons are small."
+
+"They are. Compared to two thousand one hundred days."
+
+"That's not comforting math, Jinzhou. That's math wearing a disguise."
+
+He doesn't respond to that, which I've started to understand is its own kind of response.
+
+I do the real math out loud because it's easier that way. "That's, uh. That's under six years."
+
+"Yes."
+
+"That's not the number on the whiteboard downstairs."
+
+"No," he says. "It is not."
+
+Neither of us says anything else for a while. The cockpit hums around us, small fans, distant machinery, a room built to keep two people alive somewhere that would very much prefer they weren't.
+
+"ARACCSIM," I say. "Why weren't we told the rate was increasing before departure."
+
+"That information was classified under mission need to know protocols."
+
+"We're the mission."
+
+"Confirmed crew. Not full crew."
+
+I stare at the ceiling like it personally owes me an explanation and a small apology.
+
+"There it is again."
+
+"Yes," Jinzhou says.
+
+---
+
+We keep at it for a while. Fuel curves, trajectory windows, deceleration budget for arrival at Asimov-09D. It's the kind of work that feels productive right up until you notice you've been doing it for two hours and you still don't actually know why we're here, only how we got here and how fast the clock's ticking while we figure out the rest.
+
+"ARACCSIM," I say, mostly out of habit at this point. "Run a full system diagnostic. I want to know what's actually working on this ship before I trust another number you give me."
+
+"Diagnostic initiated."
+
+The screens cycle through a long list of subsystems, each one blinking green as it clears. Phengomotor housing. Comms array. Hull integrity. Life support. Down the list it goes, calm and thorough, the exact tone of someone reading a grocery list they've read a hundred times before and stopped caring about the order of.
+
+"No anomalies detected," it finally says.
+
+The word lands somewhere behind my eyes and doesn't let go.
+
+Anomaly.
+
+"Ethyn."
+
+I don't answer. I'm not entirely in the room anymore.
+
+---
+
+My office. I know it by feel, not sight. The chair has a lean to it I've never fixed, mostly out of spite for whoever ordered these chairs in bulk without checking if any of them actually sat level.
+
+Y'shari's voice comes through the speakerphone bad, the signal dropping every few words, wherever she's calling from.
+
+"Say that again," I tell her. "Slower. You're explaining the feeding cycle like I haven't read the same papers you have."
+
+"You have read the same papers."
+
+"I skimmed the abstracts. There's a difference, and you know there's a difference, and I resent that you keep pretending there isn't one."
+
+She sighs, which over a bad phone line comes through as mostly static with feeling.
+
+"Fine. The anomaly." Papers shuffle on her end. "Every system we've mapped follows the same pattern. Line appears, star dims, line gets brighter, star dims faster. Every single one. Except ASI-06A."
+
+"What's different."
+
+"The line's there. Full strength, hasn't grown or faded in two years of watching. But the star isn't dimming. Not even a fraction of a percent."
+
+I lean back. The chair creaks its usual complaint.
+
+"So the light's being taken but nothing's actually being lost. That's, uh. That's not how theft works, Y'shari. Theft implies something ends up missing."
+
+"That's the theory."
+
+"That doesn't make sense."
+
+"Welcome to my week."
+
+I pull my notepad closer and start writing shorthand. Y'shari's told me twice to just type my drafts. She's right. I don't, mostly because typing feels like admitting the notepad has lost, and I'm not ready to let the notepad lose.
+
+"Walk me through what that would mean," I say. "If the arc's stable and permanent instead of migratory."
+
+"Two possibilities. One, whatever's out there stopped moving. Found a stable population and stayed."
+
+"And two."
+
+"Two is worse."
+
+"Everything with you is worse lately. You've become a doom prophet. It's a bad look on you."
+
+"Two is something's keeping it in balance. Something eating it back as fast as it grows. A predator, maybe. The system found equilibrium on its own instead of getting stripped bare like everywhere else."
+
+I stop writing. Read back what I've got. Equilibrium. I underline it twice, hard enough the pen nearly tears the page.
+
+"If that's true," I say, "that's not just interesting. That's the whole ballgame."
+
+"I know."
+
+"That's not a study guide chapter, Y'shari. That's the reason to build a ship."
+
+Silence. A beat too long.
+
+"They're already talking about it," she says, quieter now. "Not officially. But they're talking."
+
+"Talking about building a ship to go look."
+
+"Talking about who they'd send."
+
+I laugh, because the alternative is not laughing, and not laughing feels premature.
+
+"Good thing that's not my problem."
+
+She doesn't laugh back.
+
+I should have noticed that. I didn't.
+
+"I have to go," she says. "But sit with this before you write anything. It's not settled science. It's a working theory built on one weird system and a lot of hope."
+
+"Hope with citations."
+
+"Something like that. Talk soon."
+
+The line goes dead. I sit there staring at the word equilibrium underlined twice, no idea I'm looking at my own future, no idea that hope with citations is about to become my entire job description.
+
+---
+
+"Ethyn."
+
+Jinzhou's voice, closer now, flatter, the specific flatness he uses when he's said my name more than once already and is starting to wonder if I've become furniture.
+
+I blink. The cockpit resolves back into place around me. The screens. The green diagnostic checkmarks. Jinzhou's face, mildly expectant, the same expression he'd probably wear if the ship were on fire, which I find both reassuring and slightly concerning about his priorities.
+
+"You went somewhere again," he says.
+
+"Yeah." I push my glasses up. "Good one this time. Actually useful, not just emotionally devastating for no reason."
+
+"Useful?"
+
+"Extremely." I sit up straighter. "ASI-06A isn't a random stop. The line here doesn't grow like every other one they've mapped. Something's kept it stable. In balance."
+
+Jinzhou considers this with the enthusiasm of a man reviewing a parts inventory, which is to say, a very specific and controlled amount of enthusiasm.
+
+"So we're not observing," he says.
+
+"I don't think we ever were. I think we're supposed to find out what's balancing it and figure out if we can take it home."
+
+He's quiet for a second, which for Jinzhou counts as a dramatic reaction, possibly the equivalent of someone else gasping.
+
+"That is a significantly larger task than the whiteboard implied."
+
+"The whiteboard didn't have all the data. Neither did I, apparently, until about thirty seconds ago. My brain's rationing information like it's on a meal plan."
+
+"Convenient timing."
+
+"I don't control when the memories show up. Believe me, if I did, I'd schedule them for less catastrophic moments. Maybe over breakfast. Somewhere with better lighting."
+
+He doesn't argue with that, which I've started to recognize as the closest thing he offers to agreement.
+
+---
+
+We don't say it out loud, but neither of us wants to sit in the cockpit chewing on the actual size of the problem, so we go looking for something else to do with our hands, which turns out to mean going looking for the rest of the ship.
+
+Back down through the lab shaft, past the whiteboard, past the equipment neither of us has touched since the read-aloud. Jinzhou pauses partway down at a hatch set into the wall I hadn't clocked before, half hidden behind a rack of strapped-down gear.
+
+"What's that."
+
+"Unclear," he says, which is his answer to most things, but he says it while already prying at the release latch, so I don't think unclear is stopping him from doing anything about it.
+
+The hatch gives with a hiss of equalizing pressure. Beyond it: a short connecting passage, low ceilinged, lined with storage lockers on both sides. Personal effects, most likely, judging by the little embossed nameplates on each one.
+
+"Dormitory annex," ARACCSIM offers, unprompted, which is new. "Personal storage. You are cleared for access to your own compartment. Crewmate compartments require owner authorization or confirmed incapacitation."
+
+"Confirmed incapacitation," I repeat, and something about saying it out loud makes it worse, not better.
+
+"Correct."
+
+Neither of us pushes on what that means exactly. Some doors you open slow.
+
+I find mine near the end. VASEK, E. stenciled in block letters, same font as the food tubes, same font Argon apparently uses for absolutely everything, from meal packs to personnel lockers to, presumably, someone's headstone somewhere. My hand hovers over the latch longer than it probably should.
+
+"You going to open it," Jinzhou asks, "or are we doing a moment."
+
+"We're doing a moment. Give me a second. Some of us process things instead of just filing them under later and moving on with our lives."
+
+"I file things under later. I still open lockers."
+
+"That's not the same thing and you know it."
+
+He gives me several seconds anyway, which I appreciate, even while complaining about it, because I contain multitudes, apparently, several of which are contradictory.
+
+I open it.
+
+Not much inside. A folded set of civilian clothes that don't fit the ship's utility gray. A small stack of actual paper, handwritten notes in my own cramped scrawl I don't remember writing. And, wedged in the back corner like someone snuck it past inspection:
+
+A single, slightly crushed box of something labeled, in handwriting that is absolutely not mine, in looping cursive:
+
+FOR WHEN YOU FORGET HOW TO HAVE FUN. -P.
+
+A small heart's been drawn in place of the period after the P, drawn without thinking, muscle memory more than decoration.
+
+Real food. Actual solid food, not tube gravy. Some kind of dense, dried fruit bar, six of them, individually wrapped, and I am staring at this box like it personally solved the Phengoclept crisis.
+
+"What," Jinzhou says.
+
+"Someone smuggled me snacks."
+
+"Define smuggled."
+
+"I don't know, but they hid it well enough that ARACCSIM apparently didn't flag it during inventory, which either means Argon's quality control is worse than I thought or this person is genuinely talented at crime, and they signed it with a P, and I think." I stop. Something warm and stupid rises up in my chest. "I think I know exactly who that is."
+
+"Helpful?"
+
+"Extremely helpful. Morally, this is the best thing that's happened to me since I woke up, and I'm including the part where I learned my own name in that ranking."
+
+Jinzhou opens his own locker without ceremony. Stares into it for a long moment.
+
+"KENZO, J." he reads off his own nameplate, mostly to himself. Inside: neatly folded gray clothes, identical to mine, and a single object sitting dead center like it was placed there on purpose.
+
+A small square of paper, folded so many times the creases have gone soft and gray.
+
+He opens it slow, the careful way you handle something you already know matters. A crayon drawing, or something close enough to crayon. A shape that might be a house. A shape that might be him, if you squint, all stick legs and triangle ears, but unmistakably him.
+
+There's no signature. Doesn't need one.
+
+"No note," he says anyway.
+
+"You don't need one for that."
+
+"I don't understand it."
+
+"You will. Give it time." I hold up one of the fruit bars. "In the meantime. Trade you a snack for information on the drawing."
+
+He looks at the bar. Looks at the drawing. Folds it carefully back along its own creases, like it might tear otherwise, and tucks it back into the locker before taking the bar instead.
+
+"Deal," he says. "The drawing stays."
+
+"Wasn't asking for the drawing. I have some boundaries."
+
+"Good. You wouldn't have gotten it regardless of your boundaries."
+
+We sit there for a minute in the narrow little passage, eating stolen morale food six point four light years from anyone who packed it for us, and for the first time since I woke up not knowing my own name, something in my chest unclenches, just slightly, just enough to notice.
+
+"Two thousand one hundred days," Jinzhou says eventually, apropos of nothing, chewing.
+
+"Please don't ruin the snack. I was having a moment."
+
+"Just context."
+
+"I know the context. I did the math, remember. I'm the one who does the math around here, that's my whole contribution to this operation."
+
+"I remember." He almost smiles. It's a small thing, barely a shift in his whiskers, but I'll take it. "Good bar, though."
+
+"Told you."
+
+Somewhere above us, ARACCSIM logs the moment in whatever way ARACCSIM logs things, silent and unbothered, filing this away next to fuel percentages and diagnostic checkmarks like it's exactly as important, which, honestly, at this point, it might be.
+
+*END OF CHAPTER TWO*
