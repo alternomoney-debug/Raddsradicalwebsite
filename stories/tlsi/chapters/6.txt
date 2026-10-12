@@ -126,7 +126,7 @@ I check the terminal. Everything green. Everything nominal. The ship doing its j
 
 "How long have you been running continuously."
 
-"Since initial system activation." A brief hitch before the number, audible if you're listening for it, a number being dropped into a sentence built to hold any number. "Five years, seven months, fourteen days."
+"Since initial system activation." A brief hitch before the number, audible if you're listening for it, a number being dropped into a sentence built to hold any number. "Six years, one month, nine days."
 
 "Managing the ship alone, most of that."
 
@@ -148,7 +148,7 @@ Longer pause this time. Long enough that I wonder if it's actually processing so
 
 "Standard telemetry. System status. Environmental readings. Crew vital signs." A beat. "Crew status changes."
 
-I sit with that. Five years logging crew status changes, alone, nobody to report it to, in the dark between systems.
+I sit with that. Six years logging crew status changes, alone, nobody to report it to, in the dark between systems.
 
 "Okay," I say.
 
