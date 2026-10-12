@@ -42,7 +42,7 @@ a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3p
 h1{margin:0 0 20px;font-size:clamp(34px,5vw,56px);font-weight:800;line-height:1.02;letter-spacing:-.04em}
 .tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:28px;padding-bottom:18px;border-bottom:1px solid var(--line)}
 button,select{font:600 15px var(--f);color:var(--ink);background:#14171c;border:1px solid #2d343d;padding:7px 14px;border-radius:999px;cursor:pointer}button:hover:not(:disabled),select:hover{border-color:var(--acc)}button:disabled{opacity:.35;cursor:not-allowed}select{max-width:100%;font-weight:500}
-#text{font-size:var(--fs);line-height:1.7}#text p{margin:0 0 1.15em}#text h2{margin:1.6em 0 .6em;font-size:1.2em;letter-spacing:-.02em}#text hr{border:0;text-align:center;margin:2em 0;color:var(--mute)}#text hr:after{content:"* * *";letter-spacing:.4em}
+#text{font-size:var(--fs);line-height:1.7}#text p{margin:0 0 1.15em}#text h2{margin:1.6em 0 .6em;font-size:1.5em;font-weight:800;letter-spacing:-.02em}#text h3{margin:1.5em 0 .6em;font-size:1.25em;font-weight:800;letter-spacing:-.02em}#text hr{border:0;text-align:center;margin:2em 0;color:var(--mute)}#text hr:after{content:"* * *";letter-spacing:.4em}
 .msg{color:var(--mute);font-size:1.1em}
 .pn{display:flex;justify-content:space-between;gap:12px;margin-top:40px;padding-top:24px;border-top:1px solid var(--line)}
 .pn a{padding:10px 20px;border-radius:999px;border:1px solid #2d343d;text-decoration:none;font-weight:700}.pn a:hover{border-color:var(--acc)}.pn a.go{background:var(--ink);color:var(--bg);border-color:var(--ink);margin-left:auto}.pn a[hidden]{display:none}
@@ -77,7 +77,7 @@ if(window.RadAuth)RadAuth.mount($('acct'));
 function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 function inl(s){return esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/\*(.+?)\*/g,'<i>$1</i>')}
 function render(t){var o=[];t.replace(/\r\n?/g,'\n').split('\n').forEach(function(b){b=b.trim();if(!b)return;
- if(/^(-{3,}|\*{3,}|_{3,})$/.test(b))o.push('<hr>');else if(/^#\s+/.test(b))o.push('<h2>'+inl(b.replace(/^#\s+/,''))+'</h2>');else o.push('<p>'+inl(b)+'</p>')});return o.join('\n')}
+ if(/^(-{3,}|\*{3,}|_{3,})$/.test(b))o.push('<hr>');else if(/^##\s+/.test(b))o.push('<h3>'+inl(b.replace(/^##\s+/,''))+'</h3>');else if(/^#\s+/.test(b))o.push('<h2>'+inl(b.replace(/^#\s+/,''))+'</h2>');else o.push('<p>'+inl(b)+'</p>')});return o.join('\n')}
 // text size
 var fs=parseInt(localStorage.getItem('rad-fs'),10)||20;function setFs(v){fs=Math.max(15,Math.min(32,v));document.documentElement.style.setProperty('--fs',fs+'px');try{localStorage.setItem('rad-fs',fs)}catch(e){}}
 setFs(fs);$('fsm').onclick=$('fsm2').onclick=function(){setFs(fs-2)};$('fsp').onclick=$('fsp2').onclick=function(){setFs(fs+2)};
