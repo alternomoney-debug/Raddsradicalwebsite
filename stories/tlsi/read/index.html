@@ -14,10 +14,14 @@ a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3p
 .bar nav{display:flex;flex-wrap:wrap;align-items:center;gap:6px clamp(14px,2.2vw,32px);justify-content:flex-end}
 .bar nav a{color:var(--mute);text-decoration:none;font-weight:500}.bar nav a:hover{color:var(--ink)}.bar nav a.cur{color:var(--ink);font-weight:800;font-size:1.2em;letter-spacing:-.02em}
 .bar nav a.pill{color:var(--bg);background:var(--ink);padding:7px 16px;border-radius:999px;font-weight:700}.bar nav a.pill:hover{background:var(--acc)}
-.shell{flex:1;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,clamp(600px,46vw,820px)) minmax(0,1fr)}
-.read{width:100%;min-width:0;border-left:1px solid var(--line);border-right:1px solid var(--line);padding:clamp(24px,5vh,56px) clamp(16px,3vw,40px) 40px}
-.side{position:sticky;top:0;align-self:start;max-height:100svh;overflow:auto;padding:clamp(24px,5vh,56px) clamp(16px,2.4vw,44px)}
+.shell{flex:1;display:flex;justify-content:center;align-items:flex-start;--rw:clamp(600px,46vw,820px)}
+.shell.w-wide{--rw:clamp(700px,64vw,1000px)}.shell.w-full{--rw:100%}
+.read{flex:1 1 0;width:100%;max-width:var(--rw);min-width:0;border-left:1px solid var(--line);border-right:1px solid var(--line);padding:clamp(24px,5vh,56px) clamp(16px,3vw,40px) 40px}
+.side{flex:0 0 clamp(200px,19vw,300px);position:sticky;top:0;align-self:start;max-height:100svh;overflow:auto;padding:clamp(24px,5vh,56px) clamp(16px,2.4vw,44px)}
 
+.side.right{flex-basis:clamp(190px,16vw,240px)}
+.shell.hl .side.left,.shell.hr .side.right{display:none}
+.shell.hl .read{border-left:0}.shell.hr .read{border-right:0}
 .side h2{margin:0 0 14px;font-size:14px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--mute)}
 #toclist{list-style:none;margin:0;padding:0;display:grid;gap:2px}
 #toclist a,#toclist span{display:grid;grid-template-columns:2.6em 1fr;gap:0 6px;padding:8px 12px;border-radius:8px;text-decoration:none;color:var(--mute);line-height:1.3}
@@ -28,9 +32,11 @@ a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3p
 #pct{margin:0 0 22px;color:var(--mute);font-size:14px}
 .side .btns{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
 .side .lnk[hidden]{display:none}.side .lnk{display:block;margin:0 0 10px;color:var(--mute)}.side .lnk:hover{color:var(--ink)}
-.shell.solo{grid-template-columns:minmax(0,1fr)}.shell.solo .side{display:none}.shell.solo .read{max-width:700px;margin:0 auto;border:0}
-@media(min-width:1181px){.tools{display:none}}
-@media(max-width:1180px){.shell{grid-template-columns:minmax(0,1fr)}.side{display:none}.read{max-width:700px;margin:0 auto;border:0}}
+.shell.solo{display:block}.shell.solo .side{display:none}.shell.solo .read{max-width:700px;margin:0 auto;border:0}
+@media(min-width:1181px){#jump{display:none}}
+.tools .lay{display:none}@media(min-width:1181px){.tools .lay{display:inline-block}}
+.tools .on{border-color:var(--acc);color:var(--acc)}
+@media(max-width:1180px){.shell{display:block}.side{display:none}.read{max-width:700px;margin:0 auto;border:0}}
 .crumb{margin:0 0 8px;color:var(--mute)}.crumb a{color:var(--mute)}.crumb a:hover{color:var(--ink)}
 h1{margin:0 0 20px;font-size:clamp(34px,5vw,56px);font-weight:800;line-height:1.02;letter-spacing:-.04em}
 .tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:28px;padding-bottom:18px;border-bottom:1px solid var(--line)}
@@ -49,7 +55,7 @@ footer{padding:24px clamp(16px,3vw,48px) 34px;color:var(--mute);font-size:14px;d
 <main class="read">
  <p class="crumb"><a href="../">&larr; The Long Shot Initiative</a></p>
  <h1 id="ct">Loading...</h1>
- <div class="tools"><button type="button" id="fsm" aria-label="Smaller text">A-</button><button type="button" id="fsp" aria-label="Bigger text">A+</button><select id="jump" aria-label="Jump to a chapter"></select></div>
+ <div class="tools"><button type="button" id="fsm" aria-label="Smaller text">A-</button><button type="button" id="fsp" aria-label="Bigger text">A+</button><button type="button" class="lay" id="tl" aria-pressed="true">Chapters</button><button type="button" class="lay" id="tr" aria-pressed="true">Reading</button><button type="button" class="lay" id="tw">Width: Narrow</button><select id="jump" aria-label="Jump to a chapter"></select></div>
  <article id="text"><p class="msg">Loading...</p></article>
  <nav class="pn" aria-label="Chapters"><a id="prev" href="#">&larr; Previous</a><a id="next" class="go" href="#">Next &rarr;</a></nav>
 </main>
@@ -74,6 +80,12 @@ function render(t){var o=[];t.replace(/\r\n?/g,'\n').split('\n').forEach(functio
 // text size
 var fs=parseInt(localStorage.getItem('rad-fs'),10)||20;function setFs(v){fs=Math.max(15,Math.min(32,v));document.documentElement.style.setProperty('--fs',fs+'px');try{localStorage.setItem('rad-fs',fs)}catch(e){}}
 setFs(fs);$('fsm').onclick=$('fsm2').onclick=function(){setFs(fs-2)};$('fsp').onclick=$('fsp2').onclick=function(){setFs(fs+2)};
+var LK='rad-layout',L={l:1,r:1,w:0},WN=['Narrow','Wide','Full'];
+try{var q=JSON.parse(localStorage.getItem(LK)||'null');if(q)L={l:q.l?1:0,r:q.r?1:0,w:q.w>=0&&q.w<3?q.w:0}}catch(e){}
+function lay(){var c=$('shell').classList;c.toggle('hl',!L.l);c.toggle('hr',!L.r);c.toggle('w-wide',L.w===1);c.toggle('w-full',L.w===2);
+ $('tl').classList.toggle('on',!!L.l);$('tr').classList.toggle('on',!!L.r);$('tl').setAttribute('aria-pressed',!!L.l);$('tr').setAttribute('aria-pressed',!!L.r);$('tw').textContent='Width: '+WN[L.w];
+ try{localStorage.setItem(LK,JSON.stringify(L))}catch(e){}}
+$('tl').onclick=function(){L.l=L.l?0:1;lay()};$('tr').onclick=function(){L.r=L.r?0:1;lay()};$('tw').onclick=function(){L.w=(L.w+1)%3;lay()};lay();
 function go(n){location.href='?c='+n}
 if(!READY.length){$('ct').textContent='No chapters yet';$('text').innerHTML='<p class="msg">The first chapter goes up when it\u2019s ready. <a href="../">Back to the book</a>.</p>';$('prev').hidden=$('next').hidden=true;$('jump').hidden=true;$('shell').classList.add('solo');return}
 if(!READY.some(function(c){return c.n===cur}))cur=READY[0].n;
