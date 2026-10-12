@@ -12,4 +12,5 @@
 */
 window.TLSI_CHAPTERS = [
   { n: 1, title: "Three Plus Four" },
+  { n: 2, title: "Partial Confirm" },
 ];
