@@ -1,0 +1,585 @@
+## Day One
+
+The phone rings at six AM on a Tuesday. I'm still in bed. I answer it anyway, because I always do, and I have never once in my life learned anything useful from that habit.
+
+"Meet me at the airport parking lot," Y'shari says. "Five PM. Tuesday."
+
+"That's today."
+
+"Yes."
+
+"Y'shari, it's six in the morning."
+
+"Five PM." She says it again, slower this time, spacing the words out like she's reading off a script she half-memorized. "Please."
+
+She doesn't say please. Not to me. Not like that.
+
+"Alright," I say.
+
+The line goes dead. I sit up, bare paws on the cold floor, phone still in my hand, and I stare at the wall for a while without actually looking at anything on it.
+
+I don't get back to sleep. I make coffee I don't drink. I sit at my desk and open the document I've been writing for three weeks and read the same paragraph four times without any of it landing.
+
+At some point the sun comes up. I don't remember deciding to get dressed.
+
+---
+
+The airport parking lot is grey and freezing and smells like exhaust and old cigarette smoke. Y'shari is standing next to a car I don't recognize, in a coat I've never seen her wear. Dark. Unfamiliar cut. Bought recently, in a hurry.
+
+I don't ask.
+
+She hands me an envelope before I've fully stopped walking.
+
+"Don't open it here," she says.
+
+"What is it."
+
+"A ticket. Some others. A number written on a card."
+
+"Y'shari."
+
+"The flight leaves at seven forty-five." She isn't looking at me. She's watching the terminal entrance, scanning it. "When you land, find a payphone downtown. Not your mobile. A payphone. Call the number on the card. Say your name and where you're standing. Someone will come."
+
+"Someone."
+
+"Someone I trust." She finally looks at me straight on. Numbers already run, answer already hated, decision made anyway. "I'm sorry I can't tell you more here. I'm sorry about a lot of things, actually." A pause. "Go home. Pack a bag. Don't tell anyone."
+
+"You're, uh... you're scaring me, Y'shari..."
+
+"Good," she says. "You should be a little scared. It'll keep you moving."
+
+She gets back in the car. She doesn't wave.
+
+I stand in the parking lot a long time after she drives off. Snow starts, thin flakes catching on my fur, melting on contact. The envelope is already in my coat pocket.
+
+I don't remember putting it there.
+
+---
+
+Arktos Airport at seven thirty in the evening is loud enough that being nobody is easy. I buy a coffee and drink it too fast. I find my gate. I sit with the envelope in my lap and don't open it.
+
+The ticket is for Port Jiji. I've been once, years back, a conference on Phengoclept dispersal modeling I mostly remember for the bad hotel coffee. A city that never finished being built and is proud of that fact, cranes still stuck on the skyline, permanent fixtures nobody ever bothered to take down.
+
+The other tickets are stapled together, dated in sequence. Four of them. The card has a number in her handwriting. 51-333-27466.
+
+A government number. A type of number I've only ever seen printed in PSAs, warnings about evacuation routes or contaminated water, the numbers a voice reads out fast at the end of a broadcast when something's actually wrong. Not something I'd expect a colleague to just have sitting around, memorized well enough to write down from memory on the back of a boarding pass.
+
+I fold everything back into the envelope and board the plane.
+
+---
+
+Port Jiji from the air is a smear of orange light against black harbor water. I land, get my bag, and go looking for a payphone, which takes twenty minutes longer than it should because nobody uses payphones anymore and the one I finally find is wedged behind a bus shelter with a cracked receiver and a sticker for a business that closed years ago.
+
+I call the number. It rings twice.
+
+"Name and location," a voice says. Not a question. A format.
+
+"Ethyn Vasek. Port Jiji central block. Mayson Street near building 1957, behind the bus stop."
+
+"Forty minutes," the voice says, and hangs up.
+
+A vehicle pulls up exactly on time, dark plated, unmarked except for a small LP Defense Solutions decal near the rear window. The window comes down. A raccoon, broad-shouldered, uniform collar too tight for his neck, looks at me.
+
+"Vasek."
+
+"That's me."
+
+"Get in. Names Wyaine, by the way, in case you were gonna spend the whole drive wondering."
+
+"Ethyn."
+
+"Yeah, I know. Get in."
+
+---
+
+The launch site is three hours outside Port Jiji. I sleep for most of the drive. I wake when the vehicle slows.
+
+I look out the window and stop thinking about postponing anything at all.
+
+The site is so big my brain takes several seconds just to catch up, and even then falls short. The facility sprawls for kilometers in every direction, lit up against the dark like a small city that decided halfway through being a city to become a spaceport instead. Warehouses the size of city blocks. Four VAB towers visible against the sky. Roads wide enough for the kind of vehicles that carry rocket stages, and those vehicles on them, moving slow and deliberate at this hour.
+
+Above it, a cluster of lights drifts with the unhurried patience of low orbit. Rising toward it from a distant pad is a supply rocket and its payload, climbing in a long bright arc into the black.
+
+I watch it until it's just an orange point.
+
+"The Vanguard," Wyaine says. First real thing he's said since get in. "They've been assembling it for eight months. Three more to go, give or take."
+
+A forklift the size of a building hauls what looks like a thruster housing out of one of the warehouses as we pass, slow and careful, headed somewhere further into the site.
+
+"This is where the Day-Star rockets were built," he says. "For Faraday. You've probably seen it on broadcasts." He glances at me in the mirror. "First time a civilian's been on site past the visitor area, if you're wondering why I keep narrating. Company likes us to talk. Makes the new ones feel less like they're being kidnapped."
+
+"Are you succeeding."
+
+"Little bit. Give it time."
+
+I look at the shape of the Vanguard against the stars. Too far to resolve into anything but light. I know from the briefing packet what it is and roughly how large it is, and none of that information makes it feel real from down here.
+
+"Come on," he says. "They're expecting you in the morning. I'll swing by the dorms around seven, get you fed before they throw you at the lab."
+
+## Day Two
+
+The research lab is a dedicated building on the north end of the site, about the size of one of the smaller warehouses. Argon Industries and LP Defense Solutions logos on the side, plus a third logo I don't immediately recognize but file away for later. It doesn't look like a place that contains live Phengoclept. It looks like a place that makes components for things that will eventually be in space.
+
+Which is, I suppose, accurate enough.
+
+Wyaine's there at seven exactly, same vehicle, same tight collar, holding two cups of something that's technically coffee.
+
+"Big day," he says, handing one over. "First one's always the worst. After this you'll know where the bathrooms are and it stops being terrifying and starts being just a job."
+
+"Comforting."
+
+"I do my best."
+
+He drops me at the checkpoint to the lab wing. Bejors is waiting there when I arrive. She's been at the site for three weeks already, which I learn from her immediately, unprompted.
+
+"You're late," she says, which means I'm on time and she's been here since before breakfast.
+
+"I got the morning briefing on the way in."
+
+"The raccoon?"
+
+"Wyaine. He's got a name now."
+
+"The raccoon," she says again, unbothered, already walking. I follow.
+
+---
+
+The containment unit is in the center of the main floor, sealed behind four layers of shielding I'm not cleared to touch. Small. About the size of a carry-on bag. Inside, according to readouts confirmed independently by three separate systems every thirty seconds, is a quantity of live Phengoclept culture so small the six figures on the dial don't look like they're doing anything at all.
+
+Y'shari is at the far end of the room, finishing a call, and turns like she's already three items into a list she means to finish today.
+
+"Ethyn," she says. "Come look at this."
+
+I come look at this.
+
+Up close, the containment unit is less impressive than it looked from across the room, which somehow makes it worse. A thing this small, behind this much shielding, has been eating stars. The readout shows culture count, temperature, containment pressure.
+
+All nominal. All perfectly, infuriatingly nominal.
+
+"It doesn't do much at this scale," Y'shari says. "The culture's too small for meaningful output. You won't watch it eat anything in there. But it's alive. Reproducing. Doing exactly what it does at full scale, just smaller."
+
+"And what it does," I say, "is eat light."
+
+"It metabolizes electromagnetic radiation, mostly infrared and the high-energy output tied to stellar thermal activity. That's why stars dim. They're not losing mass. They're losing output, converted and consumed before it can radiate outward."
+
+"And then it migrates to breed, comes back, and there's twice as much of it."
+
+"Everywhere we've looked." She looks at the unit. "Almost everywhere."
+
+I look at her.
+
+"ASI," I say.
+
+"ASI," she agrees.
+
+We work through the day. Real work, the kind that swallows hours without announcing it, and by the time Wyaine sticks his head into the lab wing to ask if anyone wants a ride back to the dorms, it's well past dark and neither Bejors nor I have noticed.
+
+"You two live in here now?" he asks.
+
+"Apparently," I say.
+
+"I'll come back in an hour. Try to remember you have legs."
+
+## Day Three
+
+The work is good, when it's just the work.
+
+That matters more than it sounds like it should. Research settings don't guarantee the work stays clean, and when it does, you notice it by the absence of the thing you braced for.
+
+Bejors is the best scientist I've ever worked beside. I've told her this exactly zero times, because she'd weaponize it in every methodology argument we have, and we have a lot of them. Good arguments. Half testing each other, half enjoying it.
+
+We're in the middle of one, technically two at once, the afternoon of the incident. I'm arguing with Y'shari about the data. Bejors is three feet away having the same argument from a different angle.
+
+"The growth rate in the third sample batch is higher than the model predicted," I say, scrolling the output. "Not by much. But consistent. Every batch, slightly over."
+
+"Within acceptable variance," Y'shari says.
+
+"I know it's within variance. That's not the point. Consistent deviation isn't random variance, it's a signal the model's slightly wrong about something." I push my glasses up. "I want to know what."
+
+"We don't have time to rebuild the model right now."
+
+"Not asking to rebuild it. Asking to look at where it's off and figure out if it matters."
+
+Bejors swivels her chair around.
+
+"The lab protocol," she says. "The quantity we're feeding the tech team for culture propagation. It's one digit higher than the breeding model specifies. I flagged it in the last review. It's going to cause issues."
+
+"It's within range," Y'shari says.
+
+"It's at the top of the range. One digit more and it's over." Bejors looks at me directly. "Ethyn. The quantity they're working with downstairs. Someone should double-check the transfer amount before the next batch."
+
+I check my screen. She's right, it's at the top of the window, but it's still inside the window, and I've got three other threads open and the model deviation is more interesting to me right now, and the next batch isn't for another six hours.
+
+"I'll look at it after," I say.
+
+Bejors holds my eyes a second longer than she needs to. Then she turns back to her screen.
+
+"Alright," she says.
+
+We keep working.
+
+---
+
+Fifteen hours later, Y'shari puts her hand on the door.
+
+"We're done for the night," she says.
+
+Neither Bejors nor I look up.
+
+"I mean it," she says. "Both of you. Screens off. We can pick this up in the morning."
+
+"We're close to something," I say.
+
+"You've been close to something for four hours. You said that. You were right. It'll still be close in the morning." She crosses the room and physically closes my laptop. Not hard. The way a parent closes a book when the reading light's been on past midnight. "I will have security walk you out if you don't move in the next five minutes."
+
+Bejors saves her work without being asked. I look at the half-finished model on my screen for another few seconds before closing it.
+
+"The predator hypothesis," I say. "If we're right about the population cap at ASI, something is eating them before the return trip. Something in the atmosphere of Asimov-09D."
+
+"I know," Y'shari says. "Write it down when you get to the dorms. We'll look at it in the morning."
+
+"If we're right, that means the predator, whatever it is, can be replicated. Brought back. It's not just interesting, it's."
+
+"The whole ballgame," Y'shari says. "Yes. I know. Morning."
+
+We go.
+
+## Day Four
+
+Wyaine's waiting outside the dorms in the morning with two cups of the technically-coffee and an expression I've started to recognize as him having an idea he hasn't fully talked himself out of yet.
+
+"So," he says, handing one over. "The breeding thing."
+
+"What breeding thing."
+
+"The Phengoclept. You guys keep sayin' you need reliable propagation numbers before the mission timeline actually works, right? Consistent doubling time, no more one batch runs high and the next one runs low. I was thinkin' about it last night."
+
+"You were thinking about xenobiology last night."
+
+"I think about a lot of things last night. Mostly I don't sleep great." He shrugs, unbothered by his own admission. "Anyway. What if the problem's not the culture. What if it's the container."
+
+I stop walking.
+
+"Say that again."
+
+"You've got these standard breeding trays, right, same ones for every batch, same material, same everything. What if the tray itself's inconsistent. Not by much. Enough to matter over enough batches."
+
+It's not a scientist's idea. It's not phrased like one, doesn't come with a hypothesis attached or a model behind it, just a guy who spent all night turning a problem over because he happened to be awake and it happened to be interesting. And it's also, I realize about four seconds later, standing in the cold with a coffee going lukewarm in my hand, probably right.
+
+"Nobody's tested tray-to-tray variance," I say, mostly to myself. "We've been assuming the trays are identical because they're manufactured to spec. Nobody's actually checked if spec means what we think it means."
+
+"That a good idea or a bad idea."
+
+"That's a very good idea, Wyaine."
+
+He looks genuinely pleased about this in a way that has nothing to do with credit and everything to do with having been useful, which I file away as a thing I like about him.
+
+---
+
+Getting Wyaine actual lab access takes the better part of the morning, several phone calls, and one very long conversation between Y'shari and someone in facility security that I'm not invited to but can hear the tone of through a door.
+
+"He's not cleared for containment work," Y'shari says, when she finally comes to find me.
+
+"He doesn't need to touch the containment unit. He needs to help me measure trays."
+
+"That's a strange hill to defend a driver on."
+
+"He had the idea. I'd like him in the room when we test it." I don't fully know why this matters to me as much as it apparently does. "It's a small ask."
+
+She looks at me for a long moment, the specific look she gets when she's deciding whether something's worth the political cost of getting it.
+
+"Two hours," she says. "Supervised. And if he touches anything he's not supposed to, that's on you."
+
+"Understood."
+
+"I don't think you do," she says, "but we'll find out."
+
+---
+
+Wyaine turns out to be, against every expectation I walked in with, genuinely good at this.
+
+Not at the science, exactly. He doesn't know the vocabulary, keeps calling the calipers "the pinchy thing" no matter how many times I correct him, and once refers to the entire containment wing as "the scary room," which Bejors overhears and adopts immediately and permanently. But he's got a mechanic's patience for tolerances, a sense for where a manufactured object might quietly disagree with its own spec sheet, that neither Bejors nor I have, because neither of us has spent years underneath vehicles finding the half-millimeter gaps that turn into real problems at highway speed.
+
+"There," he says, on the fourth tray, pointing at a reading that's a hair off from the other three. "That one's got a lip. Real small. You'd never see it lookin', you'd only feel it if you ran a finger round the edge."
+
+I run a finger round the edge. He's right. There's a lip.
+
+"How did you," I start, and don't finish the sentence, because I don't actually know how to finish it in a way that isn't just repeating the question.
+
+"Dunno. Just a feel thing." He shrugs again. It's becoming his signature move. "Cars are the same. Two parts made off the same mold, they ain't ever really identical. Close enough for government work, not close enough for some jobs."
+
+"This is one of the jobs where it matters."
+
+"Guess so."
+
+## Day Five
+
+We map every tray in inventory. All of them. It takes the whole day and most of the next morning, Wyaine running measurements while I log them and Bejors cross-references the batch history against tray serial numbers, and by the early afternoon of Day Five we have something that looks, for the first time since I got here, like an actual answer instead of a growing pile of unexplained variance.
+
+"Six trays out of forty," Bejors says, reading off the final tally. "All from the same manufacturing run. All with the same lip, give or take a hair."
+
+"And every batch that ran high," I say, pulling up the cross-reference, "used one of those six."
+
+Nobody says anything for a second. Weeks of shapeless problem, and now it has an actual edge to it, something you could point at and name.
+
+"So swap the trays," Wyaine says, like it's obvious, because to him it apparently is.
+
+"Swap the trays," I agree.
+
+Bejors looks between the two of us with an expression I can't fully read, something between amused and genuinely surprised.
+
+"You found this," she says to Wyaine, "by feel."
+
+"Yeah."
+
+"You should probably get a bonus or somethin'."
+
+"I'll take a sandwich," Wyaine says. "I'm starvin'."
+
+## Day Six
+
+The bad trays get pulled from rotation and the propagation numbers stabilize almost immediately, which should feel like more of a victory than it does, mostly because there's still seven days until the launch window and a hundred smaller problems behind this one, each waiting patiently for their turn.
+
+Wyaine keeps showing up anyway. Officially his shift ended when the tray problem got solved. Unofficially he's found some paperwork reason to keep clearing him for the lab wing, and I've stopped asking how, because I've decided I don't actually want to know how many rules are being quietly bent to keep a driver in a containment facility.
+
+"You don't have to keep coming in," I tell him, on Day Six, watching him recalibrate a sensor array with the same unhurried mechanic's patience he brought to the trays.
+
+"I know."
+
+"I mean it. This isn't your job."
+
+"Wasn't my job to find the lip on tray fourteen either." He doesn't look up from the sensor. "Turns out I'm good at noticin' when somethin's a little bit wrong. World's endin', might as well be useful with it while I still can."
+
+I don't have a response to that, so I hand him the next component instead, and we keep working.
+
+## Day Seven
+
+"Can I ask you something," Wyaine says, over lunch, which by now has become a thing that just happens, no scheduling required, the two of us and whatever Bejors hasn't finished eating at her own desk.
+
+"Go for it."
+
+"You scared?"
+
+I consider lying. Decide against it, mostly because he asked plainly and he deserves a plain answer back.
+
+"Yeah," I say. "Most of the time. Not always about the same thing. Sometimes it's the mission, sometimes it's just, uh, whether I'm actually the right person for any of this."
+
+"Why wouldn't you be."
+
+"I didn't build any of this. I write books about things other people discovered. I'm not sure that's the same thing as being qualified to go find out what's actually out there."
+
+Wyaine chews on that, and on his sandwich, for a while.
+
+"Found the lip on a tray forty other people walked past for weeks," he says eventually. "Didn't need a doctorate for that. Just needed to actually look." He glances at me. "Maybe bein' qualified ain't the only thing that matters out there. Maybe payin' attention counts for somethin' too."
+
+"That's oddly wise for a guy who calls calipers the pinchy thing."
+
+"I contain multitudes," he says, entirely straight-faced, and goes back to his sandwich.
+
+## Day Eight
+
+The days start blurring into each other the way work does when it's actually going well, small fixes stacking into bigger ones, Wyaine's unofficial lab access becoming so normalized that I catch myself forgetting he was ever just a driver. He's started keeping a running list, handwritten, tucked in his uniform pocket, of every small inconsistency he notices around the facility that isn't officially his problem to notice.
+
+"What's that," I ask, catching him adding to it during a lull.
+
+"Nothin'. Just stuff."
+
+"Wyaine."
+
+"Fine." He hands it over, a little sheepish. A dozen items, mostly mundane, a door that doesn't seal quite right, a warning light that flickers when it shouldn't, and then, near the bottom, in the same handwriting as everything else: *tray lip, day 4, fixed.*
+
+"You're keeping a log," I say.
+
+"I like keepin' track of things. Makes the big stuff feel smaller if you got a list of the little stuff you already handled."
+
+I don't say anything for a second, because I'm busy deciding I like this person considerably more than I expected to like anyone I met by accident in an airport parking lot a week ago.
+
+## Day Nine
+
+Y'shari finds the three of us in the lab, late, the way she always seems to find us late, and stands in the doorway for a moment before saying anything.
+
+"The launch window opens in four days," she says.
+
+"We know," Bejors says, not looking up.
+
+"I'm aware you know. I'm saying it out loud because I want to watch you all react to hearing it out loud, which tells me more than the calendar does." She looks at Wyaine specifically. "You've been remarkably difficult to keep out of a restricted facility for someone with no formal clearance."
+
+"I'm very determined," Wyaine says.
+
+"Apparently." She doesn't smile, exactly, but something in her posture loosens by a degree that I've learned to recognize as the closest she gets to it. "Keep at it. All of you. We're close."
+
+She leaves. Wyaine watches the door for a second after she's gone.
+
+"She's somethin', huh," he says.
+
+"She's something," I agree, and don't elaborate, because I don't fully know how to yet.
+
+## Day Ten
+
+The satellite dish array is on the far side of the site from the lab, used for tracking and communication during launches. Y'shari wants to check the calibration before tonight's observation window. Bejors and I are along because neither of us actually went to the dorms and Y'shari didn't push it, which tells me she wanted the walk too.
+
+We're still talking about the predator hypothesis. We can't help it. It's the kind of idea that follows you out of the room.
+
+Y'shari says something. Bejors answers. I start to form a reply.
+
+The flash comes first. White, total, gone before I register it as light at all, just an absence of every other visual input for a fraction of a second. Then the sound. Should be one sound, arrives as three or four stacked on top of each other, a crack and a boom and a pressure change that hits the chest before it reaches the ears.
+
+Then the ground.
+
+I'm already on the ground, palms in snow, ears doing something, cold suddenly the only fact in the world.
+
+I look up.
+
+The research building's topside is on fire.
+
+The far wing is gone structurally. Nothing left of it but smoke, rising steady into the wind. The near wing is burning. The sky above it has gone orange and red.
+
+I'm on my feet before I register standing. My legs move without waiting for approval. My body makes a decision about the building and executes it before I've formed an opinion, and I'm running before I know I'm running, four points of contact, paws punching snow, whatever runs underneath thought taking over once thought stops being fast enough.
+
+The snow blurs past. The dishes blur past. I cross one road, then another. I can smell it now, the smell of a building that has stopped being a building, and my body keeps closing the distance because I don't have a better plan, and standing still in the cold watching a place full of people twenty seconds ago burn isn't one either.
+
+Forty yards. Maybe a little less.
+
+Then nothing.
+
+---
+
+I'm in a conference room.
+
+I don't know how I got here. My paws are clean, first thing I notice. Different clothes, second thing. A table of people looking at me, third.
+
+Y'shari is at the head of it. She looks exactly the way she always looks, which I file away to think about later, because I remember clearly that she was outside with me, and I remember exactly what was behind us.
+
+Bejors is here, three seats down, arms folded, already wearing the look that means she's against this and is just waiting for her moment to say so.
+
+Others I don't fully place. Argon site personnel. LP Defense insignia on two of them. LP military contractors behind them. Several people who look like Kanadian council members, the kind who fly in because a situation has graduated past the point where you send a representative.
+
+"Two hundred and forty-nine confirmed," Y'shari says. She's mid-sentence. I've been inserted into the middle of it. "The primary research team and support staff. The backup team was in the adjacent wing."
+
+"The adjacent wing," someone repeats.
+
+"Yes."
+
+"Which also."
+
+"Was destroyed."
+
+I try to count what I remember. My brain starts and stalls. My paws are clean. I don't know what that means about the forty yards and the gap between them and this room, and I choose not to find out right now.
+
+"The cause," someone says.
+
+Y'shari is quiet for a moment.
+
+"Transfer quantity error," she says. "One digit. What the lab team processed was ten times the specified amount. One mistake, in a sealed environment, with that many people in the space." She pauses. "It was an issue that was flagged. It was not dealt with. For that, we are sorry."
+
+She doesn't look at me. She doesn't look at Bejors. She looks at the table.
+
+The room stays quiet.
+
+"We have three days until the launch window," she says. "We have almost no crew left. The primary scientists, our main software engineer, our medic, and our pilot. All gone."
+
+People are looking at me. Not everyone. Enough of them, the way you look at a solution to a problem nobody's said out loud yet.
+
+"No," I say.
+
+Y'shari looks at me.
+
+"Nuh uh, NOPE." I say sort of repeating my self. "I am not a mission scien- I'm a, a study guide author who got recruited to write, uh, accessible copy about Phengoclept behavior. All I did was write a book and, and talk to you. I'm not certified for- for anything. I'm not in the right space to go either."
+
+"You are, actually." Her voice doesn't change, doesn't warm, doesn't do anything except state the thing like it's already decided. "You've been on every major call for two years. You've heard every containment review, every breeding cycle, every argument Bejors and I have ever had on a conference line. You have a PhD. You have the clearance. On paper, that's enough."
+
+On paper. I don't catch the qualifier at the time. I'm too busy hearing the first half of the sentence.
+
+That lands somewhere I wasn't braced for.
+
+"I didn't sign anything," I say.
+
+"You signed the facility clearance documents."
+
+"That's not the same thing."
+
+"It has a clause."
+
+I look at her. Her gaze doesn't move, steady in the way of someone who has already decided this and is only now getting around to informing the room. Whatever this cost her to arrive at, she arrived at it a while ago, somewhere I wasn't in the meeting for.
+
+"No," I say, one more time, quieter.
+
+"You don't have any parents. Let alone any extended family. You don't even have a stable job," she says. Not cruel. Not soft either. Just an inventory, the kind you run when you've stopped letting yourself feel anything about the running of it. "Sunday. Think about it. Go wherever you need to go. We'll find you."
+
+Bejors stands. Her chair scrapes back hard enough that a few heads turn.
+
+"Nope," she says. "Right there. He said no. He said it clearly, three times, I counted. You cannot put someone on a mission-critical vessel against their stated wishes. This isn't a military draft. He's a civilian researcher."
+
+"You are going too," Y'shari says.
+
+Bejors blinks. Then she laughs, a short, disbelieving, almost manic sound that starts as loud snorting exhales through the nose before it turns into anything like actual noise.
+
+". . . . . ha-HAHA." A snort. Another one, louder. "I'M SORRY? ...I'm NOT going."
+
+One eyebrow climbs. She says it the way you repeat something stupid back to the person who said it, flat and slow, to hear how it sounds out loud.
+
+"Your certifications match his. Research hours, containment training, secondary pilot qualification." Something in Y'shari's expression sharpens, thin and pointed. "Three PhDs. You're both going."
+
+The room goes very still.
+
+"What. No. You cannot draft us to do this against our will." Bejors says it with an odd amount of space between the words, each one landing separately, like she's setting them down one at a time so nobody can pretend they didn't hear.
+
+"The mission requires a lead and a secondary. You two are the lead and the secondary."
+
+"This is an error." Bejors is already arguing the appeal before the verdict's finished. "This is a procedural error. We are not certified mission crew. We were not selected. We did not volunteer. We did not consent. Whatever clause you think covers this, I promise you it does not cover this. I have read every document I signed at this facility and none of them say anything about."
+
+"Bejors," Y'shari says.
+
+"No. Objection. Full objection. This doesn't."
+
+"Three days," Y'shari says. "Both of you. If you really don't want to go, flee the country, go into hiding, I genuinely do not care how you spend the three days. But if we find you, you are going."
+
+She looks at me. Then at Bejors. Then back at me. Then back at Bejors again. Then back at me again. Then back at Bejors again again. Then back at me again again.  Then back at Bejors again aga-
+
+---
+
+Y'shari finds me an hour later, in a stairwell nobody uses, sitting on the third step from the bottom because I ran out of building before I ran out of needing to not be in a room with other people.
+
+She sits down next to me without asking. Doesn't say anything for a while. I appreciate that more than I'd be able to say out loud right now.
+
+"You should know the whole shape of it," she says eventually. "Not the pieces. All of it, in one sitting, so you're not finding the rest out a chapter at a time over the next three days like it's some kind of drip campaign designed to keep you from bolting."
+
+"That's oddly considerate of you."
+
+"It's not consideration. It's respect." She says it flat, no warmth in it, just the fact of the thing. "You deserve to make this decision with the actual information instead of the version that's easiest to swallow one piece at a time."
+
+I don't say anything. I let her keep going.
+
+"Six years, one way, if the fuel math holds and nothing goes wrong along the transit, which nothing ever does, so account for delays. You'll go into an induced coma for most of it, which is safer than being conscious for it and also considerably less understood than anyone wants to admit in the briefing packet. There is no return fuel budgeted. None. Not a partial amount, not an emergency reserve. The ship carries exactly enough to get you there, decelerate, and conduct the mission."
+
+"And then."
+
+"And then whatever you find, you send home. There's a courier vessel built into the mission architecture specifically for that purpose, unmanned, faster to launch than it would be to fly the crew back even if there were fuel for it. It goes home whether or not you do."
+
+I sit with that.
+
+"So the actual plan," I say, "assuming everything works exactly the way it's supposed to. The good outcome."
+
+"The good outcome is you solve the problem, the courier carries the solution home years ahead of you, and Wask-ki starts implementing it long before you'd ever physically arrive back, if arriving back were even on the table, which it isn't."
+
+"And the crew."
+
+"The crew's job is to be smart enough, on-site, in real time, to find something a probe alone couldn't find. That's the entire reason there are people on this mission instead of just machinery. You're not cargo. You're judgment, in a place too far away to phone home for it." She finally looks at me. "You are also, in the framework anyone above me has ever discussed this in, not expected to require a return trip in the planning. I want you to hear that stated plainly, once, by someone willing to say it plainly, rather than let you assemble it yourself out of things nobody quite finished saying."
+
+Not expected to require a return trip in the planning.
+
+I turn that phrase over a few times, looking for a softer read of it, and there isn't one hiding in there. There's just the one meaning, stated as carefully and honestly as she seems capable of stating anything right now.
+
+"You could have let me find that out slower," I say. "Nobody would've blamed you for it."
+
+"I would have blamed me for it." She looks back down the stairwell, at nothing in particular. "I've watched what happens to people who find out the real shape of something after they've already committed past the point of it mattering. It doesn't make them safer. It just makes the finding-out worse, and later, and alone."
+
+"Is that what happened to you," I ask, before I've fully decided I want to ask it. "Finding out the real shape of something too late."
+
+She doesn't answer that. Not with words. Something in her face does something I don't have a name for, and then it's gone, filed away behind whatever door she keeps those things behind, and she stands up before I can try again.
+
+"Three days," she says. "Think about it properly now. You have everything you need to."
+
+She leaves me on the stairs. I sit there a long time after, doing the math on six years and no return fuel and a courier ship that goes home whether or not I do, and none of it gets any easier to hold the longer I look at it.
+
+*END OF CHAPTER FIVE*
