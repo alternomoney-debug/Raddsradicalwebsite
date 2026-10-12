@@ -1,0 +1,205 @@
+*Written from the perspective of Jinzhou T. Kenzo.*
+
+Gravity came back three days ago. I sat on the floor for eleven minutes.
+
+I know it was eleven because I counted. Not out loud. Back against the sample fridge, legs out, gravity doing its job. That's all I wanted from it.
+
+Ethyn sat across the room for about the same stretch. Neither of us talked. Correct call.
+
+He's not really here right now. Physically, yes, same chair he's been in for an hour. But the part of him that answers when you talk to him has clocked out for the evening. This happens. More often on days where a lot has happened. Today qualifies.
+
+I note it. Not on paper. I just note things.
+
+He'll come back. He always does.
+
+---
+
+Found the laptops two days ago. Didn't mention it. I do that. Look at something first, decide what it is, then say something if it's worth saying. Ethyn narrates while he's still figuring things out. Different system. Not wrong. Just not mine.
+
+Cabinet in the lab, looks like it should hold samples, holds eight laptops and a charging hub instead. Sticky note on the inside of the door: FOR USE WHEN RESEARCHING OR BORED. Handwriting I don't recognize.
+
+They talk to the Vanguard's internal network. Not the internet. We're nowhere near an internet. Just the ship's own servers, which hold more data than I've finished processing and probably more than I ever will.
+
+One laptop has a cracked screen. Corner to center, working half and dead half. I use that one. Not the best option. The honest one. Somebody dropped it. It kept working anyway.
+
+I've been reading the technical specs. All of them. Every subsystem, every maintenance log, every note the engineers left behind while building this thing over our heads. Eleven thousand pages. I'm at four hundred. I'll finish the rest, because this ship is the only thing keeping us alive and I'd like to understand it better than the people who built it.
+
+Not everyone's idea of downtime. Fine by me. Don't have a better one.
+
+---
+
+Two people on a ship learn each other fast. Not on purpose. Same way you learn a building's noises if you live in it long enough.
+
+Ethyn makes coffee first thing, or whatever the machine calls coffee. I've had it twice. Adequate. He pushes his glasses up when he's concentrating. Talks through math out loud, whether or not anyone's listening. Forgets to eat, remembers, eats too fast.
+
+I eat when the arm brings the tray. Simple system. Works.
+
+I note these things because noting things is what I do. Fuel curves. Ethyn's coffee habits. What Asimov-09D looks like depending on which filter the sensor array is running. All of it goes in the same place. My head. I've never mapped how it's organized in there. Doesn't need mapping. It works.
+
+---
+
+A memory surfaced today. Not all at once. They don't come that way for me.
+
+I'd been off-site the week before, running a systems check on launch infrastructure. Came back Thursday morning with a bag of groceries from the market by the transit station, because the facility canteen had stopped making the good soup and I had opinions about that.
+
+Nelson was in the common room. Usually was. Reading something. Technical documentation or nothing adjacent to it. Never in between.
+
+"You're back," he said. Didn't look up.
+
+"Transit was delayed. It sucked."
+
+"Heard." Turned a page. "Soup's still bad, by the way."
+
+"That's why I went to the market."
+
+He looked up then. Looked at the bag. Back to the book.
+
+"What'd you get."
+
+"Actual soup. Among other things."
+
+"Mind if I bum a can off ya?"
+
+"I don't."
+
+He put the book down. "I'll get bowls, then."
+
+That's the whole memory. No point to it, beyond a Thursday and some soup and Nelson getting bowls before I'd even set the bag down, because that's who he was. No production. Just up, bowls, done.
+
+I've thought about it more than it earns. A Thursday. Soup. Bowls.
+
+Thought about it a lot today.
+
+---
+
+The drawing's in my pocket.
+
+Went back to my locker for it the morning after. Been there since. Folded along its own creases. I've taken it out once since, when Ethyn was asleep in his chair, ship's-night lighting low enough that looking at it felt private.
+
+A house. A figure with triangle ears and stick legs. Supposed to be me, I think. Has to be, given the nameplate on that locker said KENZO, J.
+
+No signature.
+
+I know who drew it. Not memory exactly. There's a category of knowing that isn't memory, more like weight sitting somewhere in the chest with a shape to it. This one's small and specific. Belongs to someone younger than me who learned to draw before they learned to write, who used to hand me everything they made because I was the one who actually looked at it.
+
+I don't push past that. There's an angle you can think about a thing from, and a length of time you can hold that angle before it stops being useful and starts being something else. I know both for this one. I stop when I hit it.
+
+Fold it back along the creases. Pocket.
+
+---
+
+At some point I close the technical specs and open something else. Not PERSONAL_STORAGE. Not ready for that yet. REFERENCE_LIBRARY_MIRROR instead, organized loosely by subject, with a section on orbital mechanics I've been circling since Ethyn first showed me the directory.
+
+I read it anyway. Not because I've forgotten any of it, training's coming back the same incremental way Ethyn's memory is, skills first, names later, but rereading something you already know shows you what you'd assumed without noticing you were assuming it.
+
+From there I land on an encyclopedia entry for Stephfren Asimov. Discovered this system. Dead longer than the Vanguard's existed. Short entry. Surveyor astronomer, worked alone, filed the discovery through standard channels, no ceremony. Left one line in his field notes: anomalous in expected spectral profile, worth additional observation. Died before anyone followed up.
+
+Worth additional observation.
+
+Six point four light years out, in orbit around exactly that anomaly, I find the line relatable in a way I don't examine too closely.
+
+---
+
+ARACCSIM speaks up late in ship's-evening. It doesn't track evenings, technically, there's no sun out here to set. Just a schedule the lights follow.
+
+"Mr. Kenzo."
+
+"Yes."
+
+"Daily system status is available for review."
+
+"Send it to the terminal."
+
+A pause, the kind that shouldn't need to exist for something moving a file from one place to another. "Sent."
+
+"Thank you."
+
+Another pause. This one has a different quality to it, and it takes me a second to place what. Then I do. There's a version of "you're welcome" recorded for exactly this, thanks offered, gratitude acknowledged, and the version that comes back doesn't quite match the shape of the sentence around it, warmer than the rest of the exchange, pulled from somewhere else in whatever library the system draws from.
+
+"You are welcome," it says.
+
+I check the terminal. Everything green. Everything nominal. The ship doing its job in the dark, six point four light years from whoever built it.
+
+"ARACCSIM."
+
+"Mr. Kenzo."
+
+"How long have you been running continuously."
+
+"Since initial system activation." A brief hitch before the number, audible if you're listening for it, a number being dropped into a sentence built to hold any number. "Five years, seven months, fourteen days."
+
+"Managing the ship alone, most of that."
+
+"LSI-ASM&C maintained primary operations during transit. I resumed active management upon crew revival."
+
+"But you were running. In the background."
+
+A pause.
+
+"Yes."
+
+"Logging."
+
+"Yes."
+
+"What did you log."
+
+Longer pause this time. Long enough that I wonder if it's actually processing something or just performing the appropriate amount of hesitation for the question, and I don't know which possibility I prefer.
+
+"Standard telemetry. System status. Environmental readings. Crew vital signs." A beat. "Crew status changes."
+
+I sit with that. Five years logging crew status changes, alone, nobody to report it to, in the dark between systems.
+
+"Okay," I say.
+
+"Is there anything further, Mr. Kenzo."
+
+"No. That's all."
+
+It goes quiet. I go back to the encyclopedia.
+
+---
+
+Ethyn surfaces around what the clock calls 2200. Hasn't moved, physically, same chair the whole time. Just comes back from wherever he goes. Blinks a few times. Pushes his glasses up. Looks around the lab like he's checking it's still the same lab. It is. Always is.
+
+"Hey," he says.
+
+"Yo," I say.
+
+He looks at me for a second too long. Can't tell if it's the crack in my screen or something else. Maybe I speak less cold than usual. Hard to say from in here.
+
+"That one works?"
+
+"Mostly."
+
+"Hm." He leans back, looks at the ceiling a while. "I was thinking about Bejors."
+
+I don't say anything. Not a question.
+
+"Keep almost remembering something," he says. "About the studies. Something she said." Glasses again. "I'll get there."
+
+"You will," I say.
+
+He nods once, slow. Looks at my screen.
+
+"Orbital mechanics?"
+
+"Encyclopedia entry on Asimov."
+
+"Learn anything new?"
+
+"He thought the system was worth additional observation."
+
+Ethyn considers that.
+
+"Well," he says. "He wasn't wrong."
+
+"No," I say. "He was not."
+
+We sit there a while after that. Cracked laptop. The centrifuge doing one thing it's supposed to, holding us at one G. Asimov-09D turning slow outside the hull, and past it the star with the anomaly in its line, the thing worth additional observation, patient, not going anywhere.
+
+It's fine, actually. As evenings go.
+
+I make a note of it.
+
+*END OF CHAPTER SIX*
