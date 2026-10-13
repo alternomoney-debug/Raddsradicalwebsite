@@ -1,3 +1,4 @@
+
 ## Day One
 
 The phone rings at six AM on a Tuesday. I'm still in bed. I answer it anyway, because I always do, and I have never once in my life learned anything useful from that habit.
@@ -16,7 +17,7 @@ She doesn't say please. Not to me. Not like that.
 
 "Alright," I say.
 
-The line goes dead. I sit up, bare paws on the cold floor, phone still in my hand, and I stare at the wall for a while without actually looking at anything on it.
+The line goes dead. I sit up, bare paws on the cold floor, phone still in my paw, and I stare at the wall for a while without actually looking at anything on it.
 
 I don't get back to sleep. I make coffee I don't drink. I sit at my desk and open the document I've been writing for three weeks and read the same paragraph four times without any of it landing.
 
@@ -28,7 +29,7 @@ The airport parking lot is grey and freezing and smells like exhaust and old cig
 
 I don't ask.
 
-She hands me an envelope before I've fully stopped walking.
+She presses an envelope into my paw before I've fully stopped walking.
 
 "Don't open it here," she says.
 
@@ -84,7 +85,7 @@ A vehicle pulls up exactly on time, dark plated, unmarked except for a small LP 
 
 "That's me."
 
-"Get in. Names Wyaine, by the way, in case you were gonna spend the whole drive wondering."
+"Get in. Name's Wyaine, by the way, in case you were gonna spend the whole drive wondering."
 
 "Ethyn."
 
@@ -118,13 +119,13 @@ I look at the shape of the Vanguard against the stars. Too far to resolve into a
 
 ## Day Two
 
-The research lab is a dedicated building on the north end of the site, about the size of one of the smaller warehouses. Argon Industries and LP Defense Solutions logos on the side, plus a third logo I don't immediately recognize but file away for later. It doesn't look like a place that contains live Phengoclept. It looks like a place that makes components for things that will eventually be in space.
+The research lab is a dedicated building on the north end of the site, about the size of one of the smaller warehouses. Argon Industries and LP Defense Solutions logos on the side, plus a third logo I don't immediately recognize. It doesn't look like a place that contains live Phengoclept. It looks like a place that makes components for things that will eventually be in space.
 
 Which is, I suppose, accurate enough.
 
 Wyaine's there at seven exactly, same vehicle, same tight collar, holding two cups of something that's technically coffee.
 
-"Big day," he says, handing one over. "First one's always the worst. After this you'll know where the bathrooms are and it stops being terrifying and starts being just a job."
+"Big day," he says, passing one over. "First one's always the worst. After this you'll know where the bathrooms are and it stops being terrifying and starts being just a job."
 
 "Comforting."
 
@@ -172,7 +173,7 @@ I look at her.
 
 "ASI," she agrees.
 
-We work through the day. Real work, the kind that swallows hours without announcing it, and by the time Wyaine sticks his head into the lab wing to ask if anyone wants a ride back to the dorms, it's well past dark and neither Bejors nor I have noticed.
+We work through the day. Real work, the sort that swallows hours without announcing it, and by the time Wyaine sticks his head into the lab wing to ask if anyone wants a ride back to the dorms, it's well past dark and neither Bejors nor I have noticed.
 
 "You two live in here now?" he asks.
 
@@ -220,7 +221,7 @@ We keep working.
 
 ---
 
-Fifteen hours later, Y'shari puts her hand on the door.
+Fifteen hours later, Y'shari puts a paw on the door.
 
 "We're done for the night," she says.
 
@@ -230,7 +231,7 @@ Neither Bejors nor I look up.
 
 "We're close to something," I say.
 
-"You've been close to something for four hours. You said that. You were right. It'll still be close in the morning." She crosses the room and physically closes my laptop. Not hard. The way a parent closes a book when the reading light's been on past midnight. "I will have security walk you out if you don't move in the next five minutes."
+"You've been close to something for four hours. You said that. You were right. It'll still be close in the morning." She crosses the room and physically closes my laptop. Not hard. Like a parent closing a book when the reading light's been on past midnight. "I will have security walk you out if you don't move in the next five minutes."
 
 Bejors saves her work without being asked. I look at the half-finished model on my screen for another few seconds before closing it.
 
@@ -248,7 +249,7 @@ We go.
 
 Wyaine's waiting outside the dorms in the morning with two cups of the technically-coffee and an expression I've started to recognize as him having an idea he hasn't fully talked himself out of yet.
 
-"So," he says, handing one over. "The breeding thing."
+"So," he says, passing one over. "The breeding thing."
 
 "What breeding thing."
 
@@ -264,15 +265,15 @@ I stop walking.
 
 "You've got these standard breeding trays, right, same ones for every batch, same material, same everything. What if the tray itself's inconsistent. Not by much. Enough to matter over enough batches."
 
-It's not a scientist's idea. It's not phrased like one, doesn't come with a hypothesis attached or a model behind it, just a guy who spent all night turning a problem over because he happened to be awake and it happened to be interesting. And it's also, I realize about four seconds later, standing in the cold with a coffee going lukewarm in my hand, probably right.
+It's not a scientist's idea. It's not phrased like one, doesn't come with a hypothesis attached or a model behind it, just a guy who spent all night turning a problem over because he happened to be awake and it happened to be interesting. And it's also, I realize about four seconds later, standing in the cold with a coffee going lukewarm in my paw, probably right.
 
-"Nobody's tested tray-to-tray variance," I say, mostly to myself. "We've been assuming the trays are identical because they're manufactured to spec. Nobody's actually checked if spec means what we think it means."
+"Nobody's tested tray-to-tray variance," I say, mostly to myself. "We've been, uh, assuming the trays are identical because they're manufactured to spec. Nobody's actually checked if spec means what we think it means."
 
 "That a good idea or a bad idea."
 
 "That's a very good idea, Wyaine."
 
-He looks genuinely pleased about this in a way that has nothing to do with credit and everything to do with having been useful, which I file away as a thing I like about him.
+He looks genuinely pleased about this in a way that has nothing to do with credit and everything to do with having been useful, which I like about him.
 
 ---
 
@@ -300,9 +301,9 @@ Wyaine turns out to be, against every expectation I walked in with, genuinely go
 
 Not at the science, exactly. He doesn't know the vocabulary, keeps calling the calipers "the pinchy thing" no matter how many times I correct him, and once refers to the entire containment wing as "the scary room," which Bejors overhears and adopts immediately and permanently. But he's got a mechanic's patience for tolerances, a sense for where a manufactured object might quietly disagree with its own spec sheet, that neither Bejors nor I have, because neither of us has spent years underneath vehicles finding the half-millimeter gaps that turn into real problems at highway speed.
 
-"There," he says, on the fourth tray, pointing at a reading that's a hair off from the other three. "That one's got a lip. Real small. You'd never see it lookin', you'd only feel it if you ran a finger round the edge."
+"There," he says, on the fourth tray, pointing at a reading that's a hair off from the other three. "That one's got a lip. Real small. You'd never see it lookin', you'd only feel it if you ran a claw round the edge."
 
-I run a finger round the edge. He's right. There's a lip.
+I run a claw round the edge. He's right. There's a lip.
 
 "How did you," I start, and don't finish the sentence, because I don't actually know how to finish it in a way that isn't just repeating the question.
 
@@ -340,7 +341,7 @@ Bejors looks between the two of us with an expression I can't fully read, someth
 
 The bad trays get pulled from rotation and the propagation numbers stabilize almost immediately, which should feel like more of a victory than it does, mostly because there's still seven days until the launch window and a hundred smaller problems behind this one, each waiting patiently for their turn.
 
-Wyaine keeps showing up anyway. Officially his shift ended when the tray problem got solved. Unofficially he's found some paperwork reason to keep clearing him for the lab wing, and I've stopped asking how, because I've decided I don't actually want to know how many rules are being quietly bent to keep a driver in a containment facility.
+Wyaine keeps showing up anyway. Officially his shift ended when the tray problem got solved. Unofficially he's found some paperwork reason to keep clearing him for the lab wing, and I've stopped asking how, because I don't actually want to know how many rules are being quietly bent to keep a driver in a containment facility.
 
 "You don't have to keep coming in," I tell him, on Day Six, watching him recalibrate a sensor array with the same unhurried mechanic's patience he brought to the trays.
 
@@ -350,7 +351,123 @@ Wyaine keeps showing up anyway. Officially his shift ended when the tray problem
 
 "Wasn't my job to find the lip on tray fourteen either." He doesn't look up from the sensor. "Turns out I'm good at noticin' when somethin's a little bit wrong. World's endin', might as well be useful with it while I still can."
 
-I don't have a response to that, so I hand him the next component instead, and we keep working.
+I don't have a response to that, so I pass him the next component instead, and we keep working.
+
+---
+
+At four o'clock Y'shari collects me from the lab bench without asking whether I'm busy.
+
+"Demo bay," she says. "Bejors says you should see this, and for once I agree with her."
+
+The demo bay at Port Jiji is the one room in the complex that is clean in a way that feels like a threat. Concrete floor, steel rafters, a smell of hot metal and floor cleaner, and a lot of empty floor where something is clearly supposed to go.
+
+Six people in matching flight team jackets are standing in the middle of it, and Y'shari steps slightly in front of them.
+
+I take a spot at the back with a clipboard I'm not using, because Bejors has already told me to stand where I can see the plate.
+
+"Flight team," Y'shari says, and they turn. "This is Dr. Ethyn Vasek, from the Phengoclept side. He's the reason the cultures in Lab A haven't died this week."
+
+"Wyaine's the reason," I say.
+
+"Dr. Vasek," says Y'shari, "is being modest on purpose."
+
+The Pilot is a lean, tired-eyed man who looks at everything like it might need landing. The Software Engineer is a woman with a laptop she is not going to put down. The Medic gives me a business card without ceremony. The Mechanical Engineer nods once and gives me nothing. The Lead Scientist shakes my paw briskly and is already looking past me at the far end of the bay. The last one is a man with a badge that says SECONDARY SCIENTIST, which is, I realize with a tiny wrong flutter, a job title I could do.
+
+Everyone says their name. I hear the sound of it and lose it, as I always do in a crowd, four names stacked on top of each other and none of them landing.
+
+"Study guide guy," says the Pilot, grinning. "I read it on the long flight over."
+
+"Which edition?"
+
+"The one with the coffee stain on the cover."
+
+"That's all of them."
+
+"Then all of them."
+
+Bejors has found me anyway. Chalk on her paws, a whiteboard that wasn't there ten seconds ago, and the look she gets when an argument is about to go well.
+
+"You filed my paper under MAYBE SOMEDAY," she says, quietly, so only I hear.
+
+"I filed it where I keep the good ones."
+
+"Someday is soon," she says, and goes to find a marker.
+
+---
+
+Kalen is the last one in. A thylacine in a work jacket, slim black square glasses pushed up, safety glasses pushed up over those, a name patch on his chest that says KALEN. He carries a heavy gray box about the size of a loaf of bread, in both paws, like it might wake up.
+
+He walks right past me.
+
+I turn to follow him, and that's when I see it, against the back wall behind all of us, where I would have sworn there was nothing but a stack of crates a minute ago. A steel tube. A test chamber about the size of a phone booth laid on its side, with a thick round door standing open and a small round window set into it. I don't know how I missed it. It's the size of a small shed.
+
+Inside, on the floor of the chamber, sits a solid steel block, a dense, ugly cube about the size of a cooler.
+
+Kalen steps into the tube, sets the gray box down beside the cube, and bolts it to the floor. Then he runs two hoses from the box to ports on the wall of the chamber, one on each side, and a cable as thick as my wrist from the box to a socket by the door. He checks each connection twice, with the patience of someone who has once not checked.
+
+He steps out. He swings the round door shut and spins the wheel. It seals with a heavy, final sound, like a refrigerator the size of a bus.
+
+The rest of us drift toward the little round window.
+
+"This is a Phengomotor," Kalen says, "a small one. On the plate in that box is about as much Phengoclept as would fit on the tip of a claw. Phase one, we attract the cells. Phase two, we expose the plate to space and pulse it. Phase three, we scrape off the dead ones. Today we're skipping phase two."
+
+"Why?" asks the Pilot.
+
+"Because I want you to see what phase two is for."
+
+He flips a switch on the wall. Through the window, a small lamp comes on inside the tube. The front of the box slides open like a shutter, and the cells crowd toward the plate like they've been waiting for it, which, I suppose, they have.
+
+"What happens, uh, if one lands on something solid?" I ask. I'm a Phengoclept guy, not a drive guy. I've never seen this part. "Not the plate. Something else."
+
+"It doesn't land," Kalen says. "It drops. And it dumps everything it's holding. Heat and blast, all at once. Not a laser. People always say laser. It's a bang."
+
+"How big a bang?"
+
+"Depends how many." He pushes his glasses up, a tiny, practical movement, like he's about to correct me before I've said anything. "That's the whole problem. It scales badly."
+
+He looks at the clock on the wall.
+
+"Alarm in four seconds. You'll want to turn your ears down. Three."
+
+I don't know what turning my ears down means. I do it anyway, and so does everyone else.
+
+A thin white line crosses the room, and then the floor jumps. The sound arrives a half-second behind, a dull, flat thud with all the air squeezed out of it, and the little window flares white at the edges. Through it, the steel block is a slumped, glowing shape, sagging at the corners, running down into a puddle of slag that pools where the cube used to be.
+
+Nobody says anything. Somewhere in the group, the Mechanical Engineer says, quietly, "Efficient." I think he's being sarcastic. I'm almost sure.
+
+"That's the cells dumping everything," Kalen says, almost cheerful. "That's what you don't want. A Phengomotor is that same energy, but asked politely. You attract the cells, pulse them in order, and let them leave the plate one at a time, pushing, instead of all at once, pushing the wrong way."
+
+"So the safe version," I say, and I can hear my own voice doing that annoying thing it does when it stops being scared and starts being curious, "is making them want to leave."
+
+"Yes," Kalen says, and smiles for the first time, a small, grateful smile, as if no one's ever said it that cleanly. "That's exactly it."
+
+---
+
+Afterward the others drift off in pairs. I stay at the little window a little longer than I mean to, watching the slag cool from white to orange to something almost red, and I find the Pilot beside me, paws in his pockets.
+
+"You looked like someone doing arithmetic with a bad ending," he says.
+
+"I do the math on everything. It's a condition."
+
+"Does it come out okay?"
+
+"It comes out," I say, "that I'm very glad I don't fly."
+
+He laughs, short and real, and turns his face to the window so I can't see it for a second.
+
+"I'd like to say I was brave," he says. "I'm mostly just not good at standing around. You get a seat on the thing, you take it."
+
+"That's not bravery."
+
+"No," he says. "It's a pretty good imitation, though."
+
+He claps me once on the shoulder, like he expects to see me again, and goes to catch up with the rest.
+
+I stand there a while longer. The slag is the color of an ember now. Bejors is already back at her whiteboard, arguing with it.
+
+I think about asking the Pilot his name again. I'd lost it the first time, in the noise of the introductions, and by now it's late enough that asking would be embarrassing.
+
+I'll ask him tomorrow.
 
 ## Day Seven
 
@@ -386,7 +503,7 @@ The days start blurring into each other the way work does when it's actually goi
 
 "Wyaine."
 
-"Fine." He hands it over, a little sheepish. A dozen items, mostly mundane, a door that doesn't seal quite right, a warning light that flickers when it shouldn't, and then, near the bottom, in the same handwriting as everything else: *tray lip, day 4, fixed.*
+"Fine." He passes it over, a little sheepish. A dozen items, mostly mundane, a door that doesn't seal quite right, a warning light that flickers when it shouldn't, and then, near the bottom, in the same handwriting as everything else: *tray lip, day 4, fixed.*
 
 "You're keeping a log," I say.
 
@@ -426,7 +543,7 @@ The flash comes first. White, total, gone before I register it as light at all, 
 
 Then the ground.
 
-I'm already on the ground, palms in snow, ears doing something, cold suddenly the only fact in the world.
+I'm already on the ground, paws in snow, ears doing something, cold suddenly the only fact in the world.
 
 I look up.
 
@@ -448,7 +565,7 @@ I'm in a conference room.
 
 I don't know how I got here. My paws are clean, first thing I notice. Different clothes, second thing. A table of people looking at me, third.
 
-Y'shari is at the head of it. She looks exactly the way she always looks, which I file away to think about later, because I remember clearly that she was outside with me, and I remember exactly what was behind us.
+Y'shari is at the head of it. She looks exactly the way she always looks, which I'll think about later, because I remember clearly that she was outside with me, and I remember exactly what was behind us.
 
 Bejors is here, three seats down, arms folded, already wearing the look that means she's against this and is just waiting for her moment to say so.
 
@@ -478,13 +595,15 @@ The room stays quiet.
 
 "We have three days until the launch window," she says. "We have almost no crew left. The primary scientists, our main software engineer, our medic, and our pilot. All gone."
 
-People are looking at me. Not everyone. Enough of them, the way you look at a solution to a problem nobody's said out loud yet.
+The pilot. I think of a tired-eyed man at a little round window, paws in his pockets, telling me a seat on the thing was a pretty good imitation of brave. I never asked his name. I said I would ask tomorrow.
+
+People are looking at me. Not everyone. Enough of them, looking at me like a solution to a problem nobody's said out loud yet.
 
 "No," I say.
 
 Y'shari looks at me.
 
-"Nuh uh, NOPE." I say sort of repeating my self. "I am not a mission scien- I'm a, a study guide author who got recruited to write, uh, accessible copy about Phengoclept behavior. All I did was write a book and, and talk to you. I'm not certified for- for anything. I'm not in the right space to go either."
+"Nuh uh, NOPE." I say, sort of repeating myself. "I am not a mission scien- I'm a, a study guide author who got recruited to write, uh, accessible copy about Phengoclept behavior. All I did was write a book and, and talk to you. I'm not certified for- for anything. I'm not in the right space to go either."
 
 "You are, actually." Her voice doesn't change, doesn't warm, doesn't do anything except state the thing like it's already decided. "You've been on every major call for two years. You've heard every containment review, every breeding cycle, every argument Bejors and I have ever had on a conference line. You have a PhD. You have the clearance. On paper, that's enough."
 
@@ -500,11 +619,11 @@ That lands somewhere I wasn't braced for.
 
 "It has a clause."
 
-I look at her. Her gaze doesn't move, steady in the way of someone who has already decided this and is only now getting around to informing the room. Whatever this cost her to arrive at, she arrived at it a while ago, somewhere I wasn't in the meeting for.
+I look at her. Her gaze doesn't move, steady, like someone who has already decided this and is only now getting around to informing the room. Whatever this cost her to arrive at, she arrived at it a while ago, somewhere I wasn't in the meeting for.
 
 "No," I say, one more time, quieter.
 
-"You don't have any parents. Let alone any extended family. You don't even have a stable job," she says. Not cruel. Not soft either. Just an inventory, the kind you run when you've stopped letting yourself feel anything about the running of it. "Sunday. Think about it. Go wherever you need to go. We'll find you."
+"You don't have any parents. Let alone any extended family. You don't even have a stable job," she says. Not cruel. Not soft either. Just an inventory, run by someone who's stopped letting herself feel anything about the running of it. "Sunday. Think about it. Go wherever you need to go. We'll find you."
 
 Bejors stands. Her chair scrapes back hard enough that a few heads turn.
 
@@ -576,7 +695,7 @@ I turn that phrase over a few times, looking for a softer read of it, and there 
 
 "Is that what happened to you," I ask, before I've fully decided I want to ask it. "Finding out the real shape of something too late."
 
-She doesn't answer that. Not with words. Something in her face does something I don't have a name for, and then it's gone, filed away behind whatever door she keeps those things behind, and she stands up before I can try again.
+She doesn't answer that. Not with words. Something in her face does something I don't have a name for, and then it's gone, shut behind whatever door she keeps those things behind, and she stands up before I can try again.
 
 "Three days," she says. "Think about it properly now. You have everything you need to."
 
