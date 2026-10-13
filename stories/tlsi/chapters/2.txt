@@ -23,7 +23,7 @@ I look at Jinzhou, half expecting backup, but he's already moved on. He's scroll
 
 He shrugs, mostly with his ears, with slightly more shoulder than seems structurally necessary.
 
-I turn back to my screen. The dimming number is still sitting there. Sixteen point two percent. I hate it a little more every time I look. It's a splinter I can't dig out, so I do the only thing that helps, which is work, because work at least pretends to go somewhere.
+I turn back to my screen. The dimming number is still sitting there. Sixteen point two percent. I hate it a little more every time I look. It's also the only thing on this ship that has never once been vague with me, and I'm starting to resent the honesty. The number is a splinter I can't dig out, so I do the only thing that helps, which is work, because work at least pretends to go somewhere.
 
 My paw finds the edge of the console without me looking, and I notice, not for the first time but for the first time properly, that the physical switches down here don't match the screens above them. The screens, whatever ARACCSIM is rendering onto them, are consistent, every panel the same unreadable Indonesian I ran into this morning. The switches are a mess by comparison. Some still carry their original stamped plates. Others have a strip of tape pressed over the old lettering, something written across it in permanent marker, in handwriting I don't recognize, in a language I do.
 
@@ -87,6 +87,8 @@ I do the real math out loud because it's easier that way. "That's, uh. That's un
 
 "No," he says. "It is not."
 
+"Crap," I say, mostly to the console.
+
 Neither of us says anything else for a while. The cockpit hums around us, small fans, distant machinery, a room built to keep two people alive somewhere that would very much prefer they weren't.
 
 "ARACCSIM," I say. "Why weren't we told the rate was increasing before departure."
@@ -99,13 +101,15 @@ Neither of us says anything else for a while. The cockpit hums around us, small 
 
 I stare at the ceiling like it personally owes me an explanation and a small apology.
 
+I say a few things to it. They're short, they're quiet, and they're not going in the record.
+
 "There it is again."
 
 "Yes," Jinzhou says.
 
 ---
 
-We keep at it for a while. Fuel curves, trajectory windows, deceleration budget for arrival at Asimov-09D. It feels productive right up until I notice we've been at it for two hours and I still don't know why we're here, only how we got here and how fast the clock is ticking while we figure out the rest.
+We keep at it for a while. Fuel curves, trajectory windows, deceleration budget for arrival at Asimov-09D. It feels productive right up until I notice we've been at it for two hours and I still don't know why we're here, only how we got here and how fast the clock is ticking while we figure out the rest. Two hours, zero answers, one headache. A strong first day.
 
 "ARACCSIM," I say, mostly out of habit at this point. "Run a full system diagnostic. I want to know what's actually working on this ship before I trust another number you give me."
 
@@ -267,7 +271,7 @@ He gives me several seconds anyway, which I appreciate even while complaining ab
 
 I open it.
 
-Not much inside. A folded set of civilian clothes that don't match the ship's utility gray. A small stack of actual paper, handwritten notes in my own cramped scrawl, none of which I remember writing. And, wedged in the back corner like someone snuck it past inspection:
+Not much inside. A folded set of civilian clothes that don't match the ship's utility gray. A small stack of actual paper, handwritten notes in my own cramped scrawl, none of which I remember writing. I appear to be a man of few possessions and questionable penmanship. And, wedged in the back corner like someone snuck it past inspection:
 
 A single, slightly crushed box labeled, in handwriting that is absolutely not mine, in looping cursive:
 
@@ -276,6 +280,8 @@ FOR WHEN YOU FORGET HOW TO HAVE FUN. -P.
 A small heart has been drawn in place of the period after the P, drawn without thinking, muscle memory more than decoration.
 
 Real food. Actual solid food, not tube gravy. A dense, dried fruit bar, six of them, individually wrapped, and I'm staring at this box like it personally solved the Phengoclept crisis.
+
+Six bars. I run the rationing math. The math recommends discipline. I'm ignoring the math.
 
 "What," Jinzhou says.
 
