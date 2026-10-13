@@ -153,6 +153,10 @@ I sit down at the terminal and pull up the approach simulation ARACCSIM has been
 
 The Stephfren line, the minimum safe orbital altitude for this class of vessel, sits at a specific distance from Asimov-09D's cloud ceiling that was calculated for a ship not doing what we're about to do. Below that line the atmospheric drag starts to become a variable. Not immediately lethal. Just present, and growing, and requiring active thrust compensation to counteract, which is fuel we're spending to stay somewhere we're not supposed to be.
 
+What keeps us from cooking down there is the Phengomotors, which is the part of the simulation I keep rereading because it sounds like a joke. Below the line, ARACCSIM runs them slow. Slow enough that they don't push us forward at all, only brake, and each cell leaves the plate, travels a few meters, gives up everything it's carrying, and burns. A wall of tiny controlled bangs just ahead of the hull, soaking up the heat so the hull doesn't have to. A heat shield made out of the thing we came here to understand, dying on schedule.
+
+The simulation gives the misfire rate as one stray cell every ninety minutes or so. Not zero. A cell that doesn't fire right doesn't burn on schedule. It goes past the ship, and anyone who watched Kalen's steel cube turn into slag knows what a cell does when it finally lets go.
+
 The cable adds a complication that ARACCSIM has modeled in four different configurations. In three of them the drag on the cable itself is manageable within the thrust budget. In the fourth, it isn't, and the ship starts to lose altitude at a rate that makes the word manageable stop applying.
 
 I read the fourth configuration twice. ARACCSIM labeled it CONFIG 4, which I would have named something closer to a warning. I write down which variables produce it and log a note next to each one: avoid this, compensate for that, monitor the other thing and call it early.
