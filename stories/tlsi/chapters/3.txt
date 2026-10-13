@@ -1,8 +1,9 @@
+
 The week goes fast when you have enough to keep your paws busy, and slow when you don't, and mostly we had enough.
 
 ARACCSIM handles the deceleration burn by itself. It doesn't ask. It just starts, a low thrum through the floor that I feel before I hear it, and the star on the screen stops getting larger and starts staying still. That's all the announcement we get. The ship decides things are happening and then they happen, and my opinion is apparently not a required input.
 
-Jinzhou and I watch the numbers change on the fuel readout the whole way, since there's nothing to do but let it happen, so we might as well make note of the readouts.
+Jinzhou and I watch the fuel readout the whole way. There's nothing to do but let it happen, so we might as well take notes.
 
 "Asimov orbital insertion in four hours," ARACCSIM says at one point.
 
@@ -34,7 +35,7 @@ It's also very enormous. I stare at it longer than I probably should.
 
 "Yes," Jinzhou says.
 
-"That's the reason we came six point four light years?"
+"That's the reason we, uh, came six point four light years?"
 
 "Presumably."
 
@@ -42,7 +43,7 @@ It's also very enormous. I stare at it longer than I probably should.
 
 "Yeah. It's very blue. So be it."
 
-I pull up everything ARACCSIM has on it. Atmospheric composition. Density readings. Surface temperature on the day side, surface temperature on the night side. A lot of numbers. All of them interesting in the way numbers are interesting when you can't do much with them yet, which is to say they sit there being numbers, and I sit there knowing I'll need them later and file them away for later-Ethyn to deal with. Later-Ethyn is going to have words with me about this system eventually.
+I pull up everything ARACCSIM has on it. Atmospheric composition. Density readings. Surface temperature on the day side, surface temperature on the night side. A lot of numbers. All of them interesting, the way numbers are when you can't do anything with them yet. They sit there being numbers, and I sit there knowing I'll need them later and pass them to later-Ethyn. Later-Ethyn is going to have words with me about this system eventually.
 
 "ARACCSIM," I say. "How long can we hold this orbit before it costs us fuel to maintain."
 
@@ -58,7 +59,7 @@ Probably.
 
 "Good," I say, mostly to myself.
 
-We sit in the cockpit for another hour after that, which is the companionable kind of quiet rather than the other kind, the kind where you're both working through the same problem at different angles and occasionally one of you says a number and the other one nods. At some point Jinzhou produces another of the fruit bars from his pocket and eats it with the same focused energy he brings to everything, including the rest of the bars I gave him earlier, which I notice have been redistributed. Two to his pocket. One back toward me on the armrest.
+We sit in the cockpit for another hour after that. It's a companionable quiet, both of us working the same problem from different angles, one of us occasionally saying a number and the other nodding. At some point Jinzhou produces another of the fruit bars from his pocket and eats it with the same focused energy he brings to everything. I notice the bars I gave him earlier have been redistributed. Two to his pocket. One back toward me on the armrest.
 
 I take it without saying anything. He doesn't acknowledge it. This is, I think, the closest thing to a conversation either of us has had all afternoon.
 
@@ -150,7 +151,7 @@ Civilian clothes. A blue coat, large-framed, cut for a large-framed Canis Lupus.
 
 I go through them slowly.
 
-El'kian in what looks like a field somewhere, tall grass, one arm around someone I can't make out on the edge of the frame, grinning at the camera. Peace sign up. Not posed, the kind you throw up because a camera appeared and it seemed right, because you were happy enough to mean it.
+El'kian in what looks like a field somewhere, tall grass, one arm around someone I can't make out on the edge of the frame, grinning at the camera. Peace sign up. Not posed. The peace sign you throw up because a camera appeared and it seemed right, because you were happy enough to mean it.
 
 El'kian in a cafeteria, mid-laugh, caught with a forkful of something halfway to his mouth, looking at someone off-frame like they said the funniest thing.
 
@@ -174,7 +175,7 @@ Bejors.
 
 The photos take up most of the space. More than anyone else. Bejors and I at what looks like a conference, both of us in formal wear I don't remember owning, her mid-sentence and me with the expression of someone who is barely keeping up and knows it. Bejors at a whiteboard, gesturing at something, and I'm in the corner of the frame taking notes. Bejors laughing at something I apparently said, caught in that specific helpless way where you're laughing before you've decided to, head tipped back, eyes closed.
 
-And one more. Just us two. Some roof somewhere, a city I don't recognize below us, late light, the kind that makes everything look like it means something. She's looking at the camera. I'm looking at her. The kind of photo you don't know was being taken until you see it.
+And one more. Just us two. Some roof somewhere, a city I don't recognize below us, late light, the kind that makes everything look like it means something. She's looking at the camera. I'm looking at her. A photo you don't know was being taken until you see it.
 
 My chest does something complicated that I don't have a name for and don't especially want one for.
 
@@ -198,9 +199,9 @@ We go back up.
 
 We do it together. One at a time.
 
-The airlock is off the corridor above the lab, a small staging area before the outer door, sealed and utilitarian, built for exactly this kind of thing even if nobody wants to think about it when they're designing it. ARACCSIM cycles the pressure for each one without being asked.
+The airlock is off the corridor above the lab, a small staging area before the outer door, sealed and utilitarian, built for exactly this, even if nobody likes thinking about it while designing it. ARACCSIM cycles the pressure for each one without being asked.
 
-El'kian first. He's heavier than I expected, which is something I wasn't prepared to think about. We carry him carefully, the kind of careful that doesn't have a practical reason anymore but matters anyway. We lay him in the airlock with his hands folded and his coat on.
+El'kian first. He's heavier than I expected, which is something I wasn't prepared to think about. We carry him carefully, the kind of careful that doesn't have a practical reason anymore but matters anyway. We lay him in the airlock with his paws folded and his coat on.
 
 "ARACCSIM," I say. "Crew member El'kian. Canis Lupus. Pilot. Status confirmed."
 
@@ -222,13 +223,13 @@ Then we go get Aria.
 
 ---
 
-Aria is lighter than El'kian. We carry her the same way. Hands folded. Her cardigan on, the one from the locker, because it seemed right.
+Aria is lighter than El'kian. We carry her the same way. Paws folded. Her cardigan on, the one from the locker, because it seemed right.
 
 "Crew member Aria," ARACCSIM says. "Feline Serval. Medical Officer. Vital signs absent. Duration: eight hundred and ninety days. Ejection ready on your mark."
 
-I look at her for a long moment. She looks like she's sleeping. She looks like everyone does, which is the cruelest part of all of this, the way the body goes on looking like itself even when it isn't anymore.
+I look at her for a long moment. She looks like she's sleeping. She looks like everyone does, which is the cruelest part of all of this. The body goes on looking like itself even when it isn't anymore.
 
-"Aria," I say. "You were a great friend. I remember a few things, small things, they keep coming and going. You were funny. Not in the way you have to announce, just funny, the kind that catches you off guard when you're thinking about something else. The list says you were a biologist and a doctor and all of that is true. But you were also just someone I was glad to be in the same room as." A breath. "I'm sorry I don't remember more. I'm working on it."
+"Aria," I say. "You were a great friend. I remember a few things, small things, they keep coming and going. You were funny. You never had to announce it. It caught you off guard when you were thinking about something else. The list says you were a biologist and a doctor and all of that is true. But you were also just someone I was glad to be in the same room as." A breath. "I'm sorry I don't remember more. I'm working on it."
 
 I hear something behind me. The very small, very controlled sound of someone breathing carefully, the kind of breathing you do when you've decided not to make noise.
 
@@ -240,13 +241,13 @@ The door opens. Closes. We go get Nelson.
 
 ---
 
-Nelson takes two of us to carry without it being awkward, and it's still a little awkward, which I think he would have had something to say about. He was stocky in the way that means solid, the kind of person who takes up exactly as much space as they're supposed to.
+Nelson takes two of us to carry without it being awkward, and it's still a little awkward, which I think he would have had something to say about. He was stocky, solid, a person who took up exactly as much space as he was supposed to.
 
 "Crew member Nelson," ARACCSIM says. "Canine. Mechanical Engineer. Vital signs absent. Duration: eight hundred and ninety-three days. Ejection ready on your mark."
 
 I reach into my pocket. Take out the tally paper. Look at it one more time.
 
-"Nelson," I say. "We weren't friends as much as I was with everyone else. I think that was on me, not you, and I think I knew it at the time. You were good at your job in the way that meant nobody had to think about whether the job was getting done, and that's harder to pull off than it sounds." I look at the paper. "I owe you sixty marks. I have no idea what I owe you sixty marks for. I'm sorry I didn't pay you back. I'm sorry I don't remember what it was for. I hope it was something worth sixty marks."
+"Nelson," I say. "We weren't friends as much as I was with everyone else. I think that was on me, not you, and I think I knew it at the time. You were good at your job, so nobody had to think about whether it was getting done, and that's harder to pull off than it sounds." I look at the paper. "I owe you sixty marks. I have no idea what I owe you sixty marks for. I'm sorry I didn't pay you back. I'm sorry I don't remember what it was for. I hope it was something worth sixty marks."
 
 I fold the paper back up and put it in the staging area beside him before we close the inner door.
 
@@ -290,7 +291,7 @@ The cockpit is the same as always. Screens, readouts, Asimov-09D taking up the b
 
 I sit in the left seat. Jinzhou sits in the right. For a long moment neither of us does anything.
 
-I don't buckle in. The engines have been leaning on me for a week, one steady heavy hand between the shoulder blades, and somewhere in there I stopped believing the harness was what held me down. The straps hang off either side of the seat. A half-open box of the smuggled fruit bars sits on my knee, because I am an optimist.
+I don't buckle in. The engines have been leaning on me for a week, one steady heavy paw between the shoulder blades, and somewhere in there I stopped believing the harness was what held me down. The straps hang off either side of the seat. A half-open box of the smuggled fruit bars sits on my knee, because I am an optimist.
 
 Then ARACCSIM says something.
 
@@ -308,7 +309,7 @@ The number comes from somewhere else. It's brighter than the sentence around it,
 
 "Is it going to count the whole way? It's a shutdown. It could just shut down."
 
-"Seven," ARACCSIM says, which I decide to take as a yes.
+"Seven," ARACCSIM says, which I take as a yes.
 
 "Harness," Jinzhou says again, in exactly the same voice.
 
@@ -326,7 +327,7 @@ I check the box on my knee. Six bars. Still six.
 
 "Zero."
 
-The engines cut, and the weight goes with them all at once, like a hand pulled out from under me. My stomach, which has not been told, stays exactly where it was, and where it was is now somewhere above my head. The seat lets go. My knee comes up. The box comes up with it, and pops, and the fruit bars lift off in a slow bright spray, and I rise out of the seat with both arms out like a man who has just been informed that the floor is optional.
+The engines cut, and the weight goes with them all at once, like a rug pulled out from under me. My stomach, which has not been told, stays exactly where it was, and where it was is now somewhere above my head. The seat lets go. My knee comes up. The box comes up with it, and pops, and the fruit bars lift off in a slow bright spray, and I rise out of the seat with both arms out like someone who has just been informed that the floor is optional.
 
 I scream.
 
@@ -334,7 +335,7 @@ It isn't a word. It isn't even a good scream. It's the sound of a body filing ev
 
 My foot catches the box. I kick, and it goes off across the cockpit, off the console, off the ceiling, and starts a slow tumble toward the right seat, and I spin the other way, because that's how the physics works, which I knew in theory and am now learning in my spine.
 
-Jinzhou doesn't move. A fruit bar drifts past his face. Without looking at it, he lifts two fingers and takes it out of the air, and holds it out in my general direction.
+Jinzhou doesn't move. A fruit bar drifts past his face. Without looking at it, he lifts a paw and takes it out of the air, and holds it out in my general direction.
 
 "Yours," he says.
 
@@ -388,7 +389,7 @@ We look at each other.
 
 "That's."
 
-"Efficient," he says, effectively ending the conversation right there, the way he ends most conversations, by being correct in a way that leaves nowhere to go.
+"Efficient," he says, which ends the conversation. It's how he ends most of them, by being correct in a way that leaves nowhere to go.
 
 I take my key out. We insert them at the same time, the locks sitting at the same angle, the same distance apart, clearly designed for exactly this. I look at Jinzhou. He nods.
 
@@ -426,13 +427,13 @@ Not gravity. Not yet. Something before gravity, the very beginning of a lean, th
 
 I grab the edge of the nearest mount.
 
-The ship moves. Not fast. Slowly, with enormous intention, the way something very large moves when it's built to. I feel it in my feet first, then my legs, a gentle continuous rotation, the whole shaft tilting by degrees. The equipment that was above me starts becoming equipment that's beside me. A stylus that was wedged against a bolt rolls free and drops, slow, slower than it should, finds the new down and stays there.
+The ship moves. Not fast. Slowly, with enormous intention, like something very large that was built for it. I feel it in my feet first, then my legs, a gentle continuous rotation, the whole shaft tilting by degrees. The equipment that was above me starts becoming equipment that's beside me. A stylus that was wedged against a bolt rolls free and drops, slow, slower than it should, finds the new down and stays there.
 
 I let go.
 
 I float. Just slightly, just enough to feel the absence of it, my feet lifting off the surface, nothing under me but the slow revolution of the ship finding its new geometry. I spread my arms out like an idiot because there's nobody watching and it seems right.
 
-The whiteboard drifts through my field of view as the room realigns around me. The Y'shari diagram, the arc, the annotations. Bejors' handwriting. I watch it complete the turn and settle into place properly upright, vertical, the way whiteboards are supposed to be, in a room where the grate I was standing on a minute ago is now a wall, and everything that was above me is now, finally, beside me where it belongs.
+The whiteboard drifts through my field of view as the room realigns around me. The Y'shari diagram, the arc, the annotations. Bejors' handwriting. I watch it complete the turn and settle into place properly upright, vertical, as whiteboards are supposed to be, in a room where the grate I was standing on a minute ago is now a wall, and everything that was above me is now, finally, beside me where it belongs.
 
 I drift downward with it. Slowly, then less slowly, then my feet touch the floor and stay there, and the floor pushes back, and the push gets stronger, and I stand there in the lab with the equipment all around me finding its new positions and gravity settling back in like something returning from a long trip.
 
@@ -442,13 +443,13 @@ It's strange, feeling what real gravity is supposed to be instead of that one po
 
 I stand there.
 
-Then I sit down on the floor, because the floor is there and it's holding me and I have been awake for a week in gravity slightly too heavy for my liking, it turns out, and I learned today that four of my crewmates have been dead for most of the trip, and I am six point four light years from anyone who knows my name, and I would like to sit on a floor for a minute.
+Then I sit down on the floor, because the floor is there and it's holding me and I have been awake for a week under gravity slightly too heavy for my liking, and I learned today that four of my crewmates have been dead for most of the trip, and I am six point four light years from anyone who knows my name, and I would like to sit on a floor for a minute.
 
 So I do.
 
 I am, it should be noted, very stressed.
 
-Footsteps. Careful and even. Jinzhou comes down from the cockpit and finds me sitting on the lab floor and doesn't say anything about it, just comes and sits across from me the same way he did downstairs. Or to my right. Whichever direction that actually is now. Either way, same distance, same posture.
+Footsteps. Careful and even. Jinzhou comes down from the cockpit and finds me sitting on the lab floor and doesn't say anything about it, just comes and sits across from me like he did downstairs. Or to my right. Whichever direction that actually is now. Either way, same distance, same posture.
 
 Neither of us says anything for a while.
 
@@ -462,8 +463,8 @@ He looks back.
 
 "We've got work to do," he says.
 
-"Yeah," I say. "We do."
+"We do," I say. "One more second of floor first."
 
-I push my glasses up and get to my feet.
+He gives me the second. Then I push my glasses up and get to my feet.
 
 *END OF CHAPTER THREE*
