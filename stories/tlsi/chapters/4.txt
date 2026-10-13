@@ -1,3 +1,4 @@
+
 Day Nine, and the arm doesn't hand me a tube.
 
 I notice before I understand why. It comes down the same way it always does, precise, unbothered, and instead of the familiar squeeze pack it's holding something with actual weight to it. A tray. Sealed lid, condensation on the inside like it's been sitting somewhere warm, which for a ship that's spent the last week feeding me gravy through a straw feels borderline provocative.
@@ -12,7 +13,7 @@ I stare at it. I am aware, distantly, that I am drooling slightly, which is not 
 
 "Correct. Nutritional transition to solid rations begins Day Nine per standard protocol. Digestive readiness confirmed."
 
-I peel the lid back like it might argue with me. It doesn't. Something that I think is rice. Something that resembles a baked potato and fry bread. Something I genuinely don't have a category for, filed under later along with everything else I'm not equipped to process right now, but it looks better than the tube goop by an embarrassingly wide margin, and my stomach makes an executive decision on the matter well before my brain gets a vote.
+I peel the lid back like it might argue with me. It doesn't. Something that I think is rice. Something that resembles a baked potato and fry bread. Something I genuinely don't have a category for, and I'm not equipped to process it right now, but it looks better than the tube goop by an embarrassingly wide margin, and my stomach makes an executive decision on the matter well before my brain gets a vote.
 
 I rip into it.
 
@@ -30,7 +31,7 @@ Jinzhou's already got his open. Genuine smile on him too, which for Jinzhou is r
 
 "It's food, Eat it. Ethyn.."
 
-I eat it. It's good, solid and warm ish, and after eight days of tube paste it might as well be the finest meal prepared by anyone anywhere in the history of anyone preparing anything. I go through it faster than I mean to.
+I eat it. It's good, solid and warm-ish, and after eight days of tube paste it might as well be the finest meal prepared by anyone anywhere in the history of anyone preparing anything. I go through it faster than I mean to.
 
 "Slower," Jinzhou says, not looking up. "Your stomach's been asleep for six years. It doesn't know what speed to eat at yet."
 
@@ -44,9 +45,9 @@ I slow down. Mostly because he's right, which is annoying, and partly because th
 
 "You're going to regardless."
 
-"The fruit bars. Day one. We probably weren't supposed to eat those either, were we."
+"The fruit bars. Day one. We probably, uh, weren't supposed to eat those either, were we."
 
-He considers it for a few moments, the way he considers most things, like he's checking the math before committing to an answer out loud.
+He considers it for a few moments. He considers most things like that, checking the math before committing to an answer out loud.
 
 "First of all: Body's coming out of six years of medically induced stasis. Second of all: Digestive system hasn't processed solid food in that long. We've been eating from gravy tubes. Random unlogged snack, no nutritional profile on file, no idea what preservatives are in it." A pause. "Yeah. Probably should not have eaten that."
 
@@ -84,11 +85,11 @@ Jinzhou looks up from his tray for the first time since the conversation started
 
 Something in my chest loosens before I've even finished the sentence. A year of food. For two people. That's not a countdown, that's breathing room, that's the first genuinely good number I've heard since I woke up not knowing my own name.
 
-"If rationed further," ARACCSIM continues, unprompted, the way it does when it has more to say and no particular interest in whether you wanted it, "stores could be extended significantly beyond that figure. Reduced caloric intake, extended meal spacing, and rationing as though for four crew members rather than two would yield an estimated seven hundred to eight hundred days of supply."
+"If rationed further," ARACCSIM continues, unprompted, as it does when it has more to say and no particular interest in whether you wanted it, "stores could be extended significantly beyond that figure. Reduced caloric intake, extended meal spacing, and rationing as though for four crew members rather than two would yield an estimated seven hundred to eight hundred days of supply."
 
 Nobody says anything for a second.
 
-The relief is still sitting there, half formed, and then it isn't, because I've done the math on the math, and so has Jinzhou, I can tell by the way he's gone very still over his tray.
+The relief is still sitting there, half formed, and then it isn't, because I've done the math on the math, and so has Jinzhou, I can tell because he's gone very still over his tray.
 
 Provisioning was for six. Six people eat six people's worth of food. That's how you get to a year for two of us at the numbers ARACCSIM's giving. Unless the food was never actually split six ways to begin with.
 
@@ -142,7 +143,7 @@ Fair. Extremely fair, actually.
 
 The hatch doesn't have a lock. No ID panel, no dual key, nothing, just a manual latch, same as most of the others, and it gives easily, like it's used to being opened by people who aren't thinking too hard about it.
 
-Behind it: a narrow vertical shaft, shorter than the others, maybe eight feet, servicing rungs bolted into one wall. Cool air comes up out of it, a different temperature than the rest of the ship. Strange, I think, filing it under things to be strange about later.
+Behind it: a narrow vertical shaft, shorter than the others, maybe eight feet, servicing rungs bolted into one wall. Cool air comes up out of it, a different temperature than the rest of the ship. Strange, I think. Later.
 
 "Ladies first," Jinzhou says. He's starting to get a sense of humor. That's nice, actually, genuinely, I'm choosing to be touched by it.
 
@@ -154,7 +155,7 @@ Behind it: a narrow vertical shaft, shorter than the others, maybe eight feet, s
 
 I go first anyway.
 
-The room at the bottom of the shaft is not large. It doesn't need to be. Three walls of it are rack mounted server towers, floor to ceiling, humming with a low, steady tone that I decide to interpret as friendly rather than ominous, mostly because I've had enough ominous for one week. The air is noticeably colder in here, dry enough it makes the fur on my head and paws want to lie flat.
+The room at the bottom of the shaft is not large. It doesn't need to be. Three walls of it are rack mounted server towers, floor to ceiling, humming with a low, steady tone that I'm choosing to hear as friendly rather than ominous, mostly because I've had enough ominous for one week. The air is noticeably colder in here, dry enough it makes the fur on my head and paws want to lie flat.
 
 A small stenciled plate on the nearest rack reads: VANGUARD ARCHIVE / PRIMARY STORAGE / LSI MK1.
 
@@ -194,9 +195,9 @@ I look closer. He's right. It's not a science archive, or not only a science arc
 
 "In case we forgot everything," Jinzhou says. "Not just the fork."
 
-I sit with that for a second. Six people, sent six point four light years from home with no guarantee of ever seeing it again, and someone back at Argon LSI division sat down and thought, what if they wake up and don't remember any of it, and then backed up all of the species onto a hard drive and bolted it into the wall.
+I sit with that for a second. Six people, sent six point four light years from home with no guarantee of ever seeing it again, and someone back at Argon LSI division sat down and thought, what if they wake up and don't remember any of it, and then backed up the whole species onto a hard drive and bolted it into the wall.
 
-That's either the most thoughtful thing I've ever heard of, or the saddest. I haven't decided which yet. Possibly both. Possibly it's allowed to be both, actually, now that I think about it.
+That's either the most thoughtful thing I've ever heard of or the saddest. Possibly both. Possibly it's allowed to be both, now that I think about it.
 
 "PERSONAL_STORAGE," Jinzhou reads. "Six folders."
 
@@ -220,7 +221,7 @@ We back out of PERSONAL_STORAGE and don't discuss it again.
 
 MISSION_DATA is safer ground, or at least it feels that way, right up until it doesn't, which is turning into something of a pattern for this ship.
 
-It's not organized the way I'd organize it, which either means someone else built this archive or past me had genuinely terrible filing habits, a possibility I am not ruling out, given the state of the papers in my own locker. Raw sensor logs. Spectral readings going back years, cross referenced against systems I don't recognize by name yet. A folder just called PHENGOCLEPT_OBS with what has to be thousands of files in it.
+It's not organized like I'd organize it, which means either someone else built this archive or past me had terrible filing habits, a possibility I'm not ruling out, given the state of the papers in my own locker. Raw sensor logs. Spectral readings going back years, cross referenced against systems I don't recognize by name yet. A folder just called PHENGOCLEPT_OBS with what has to be thousands of files in it.
 
 "This is going to take a while," Jinzhou says.
 
@@ -228,7 +229,7 @@ It's not organized the way I'd organize it, which either means someone else buil
 
 "Good thing we have the rest of the trip."
 
-I open one of the files more or less at random. It's a spectral reading, timestamped years before either of us woke up, taken from somewhere that isn't Asimov, isn't Nakuet, isn't anywhere I recognize by name. A wavelength signature. Annotations in a hand I don't recognize either, clinical, precise, nothing like Bejors' whiteboard scrawl.
+I open one of the files more or less at random. It's a spectral reading, timestamped years before either of us woke up, taken from somewhere that isn't Asimov, isn't Nakuet, isn't anywhere I recognize by name. A wavelength signature. Annotations in handwriting I don't recognize either, clinical, precise, nothing like Bejors' whiteboard scrawl.
 
 "This isn't even our data," I say. "This is somebody else's fieldwork. Predates the mission."
 
@@ -264,7 +265,7 @@ I do. The extraction's simple enough, a sealed vial that clicks free of the cham
 
 I sit down at the microscope. It's a beautiful piece of equipment, or it would be, if it turned on.
 
-"It's not reading anything," I say.
+"It's not reading anything," I say. "Shoot."
 
 Jinzhou comes over, looks at the display, which is showing exactly nothing, a dark screen where an image should be.
 
@@ -276,11 +277,11 @@ Jinzhou comes over, looks at the display, which is showing exactly nothing, a da
 
 "That's not a yes."
 
-"It's not a no either." He's already got a panel open on the base of the microscope, small tools appearing from somewhere on his person the way they seem to for him, methodical, unbothered, the same energy I assume the logs from when we woke up was talking about.
+"It's not a no either." He's already got a panel open on the base of the microscope, small tools appearing from somewhere on his person, as they seem to for him, methodical, unbothered, the same energy the logs from when we woke up were presumably talking about.
 
 "Give me a minute."
 
-I get up and walk away, giving him about four minutes alone. More than asked, honestly, but I've decided it's the polite thing to do. He works with the quiet, total focus of someone who genuinely finds this relaxing, which I'm starting to suspect he does, tracing a line, checking a connector, muttering something about a wire being crossed with another. I don't understand most of what he's doing. I don't need to. That's sort of the point.
+I get up and walk away, giving him about four minutes alone. More than asked, honestly, but it's the polite thing to do. He works with the quiet, total focus of someone who genuinely finds this relaxing, which I'm starting to suspect he does, tracing a line, checking a connector, muttering something about a wire being crossed with another. I don't understand most of what he's doing. I don't need to. That's sort of the point.
 
 "There," he says, eventually. "Try it now."
 
@@ -300,7 +301,7 @@ He looks. For a long moment he doesn't say anything, which from him is its own k
 
 "That's not anything I'd call rock."
 
-"Yeah, I wouldn't call this rock either," I say, and I can hear my own voice doing the thing it does when I've stopped being tired and started being someone who cares about a problem, a fairly annoying vocal register I've noticed I have. "I think this is Phengoclept trace material. Actual material, from out here, not a culture grown back home off one lucky probe. I think this is the first sample anyone's ever pulled out of this system."
+"Yeah, I wouldn't call this rock either," I say, and I can hear my voice doing what it does when I stop being tired and start caring about a problem, a fairly annoying register I've noticed I have. "I think this is, uh, Phengoclept trace material. Actual material, from out here, not a culture grown back home off one lucky probe. I think this is the first sample anyone's ever pulled out of this system."
 
 Jinzhou looks at the display. Then at me. Then back at the display.
 
@@ -310,7 +311,7 @@ Jinzhou looks at the display. Then at me. Then back at the display.
 
 "I fixed the microscope. That's the help." He pulls a stool over anyway, sits down next to me, close enough that his shoulder's nearly against mine, and doesn't get up. "Tell me what I'm looking at, though. In order. I want to keep up."
 
-So I do. I start at the beginning, the way I would if I were writing it down for a book nobody's asked me to write yet, and Jinzhou listens the way he does everything, quiet, exact, filing it away somewhere I can't see, and for a little while neither of us thinks about the food, or the folders we didn't open, or the three hundred and ninety days ticking down somewhere above our heads.
+So I do. I start at the beginning, as if I were writing it down for a book nobody's asked me to write yet, and Jinzhou listens like he does everything, quiet, exact, taking all of it in, and for a little while neither of us thinks about the food, or the folders we didn't open, or the three hundred and ninety days ticking down somewhere above our heads.
 
 We work until the lights dim for ship's night, and neither of us notices until they do.
 
