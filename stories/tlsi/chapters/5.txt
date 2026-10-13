@@ -57,13 +57,15 @@ I don't remember putting it there.
 
 ---
 
-Arktos Airport at seven thirty in the evening is loud enough that being nobody is easy. I buy a coffee and drink it too fast. I find my gate. I sit with the envelope in my lap and don't open it.
+Arktos Airport at seven thirty in the evening is loud enough that being nobody is easy. I buy a coffee and drink it too fast. First one I've finished all day. Technically progress. I find my gate. I sit with the envelope in my lap and don't open it.
 
 The ticket is for Port Jiji. I've been once, years back, a conference on Phengoclept dispersal modeling I mostly remember for the bad hotel coffee. A city that never finished being built and is proud of that fact, cranes still stuck on the skyline, permanent fixtures nobody ever bothered to take down.
 
 The other tickets are stapled together, dated in sequence. Four of them. The card has a number in her handwriting. 51-333-27466.
 
 A government number. A type of number I've only ever seen printed in PSAs, warnings about evacuation routes or contaminated water, the numbers a voice reads out fast at the end of a broadcast when something's actually wrong. Not something I'd expect a colleague to just have sitting around, memorized well enough to write down from memory on the back of a boarding pass.
+
+I decide not to read anything into it. I read quite a lot into it.
 
 I fold everything back into the envelope and board the plane.
 
@@ -253,7 +255,9 @@ Wyaine's waiting outside the dorms in the morning with two cups of the technical
 
 "What breeding thing."
 
-"The Phengoclept. You guys keep sayin' you need reliable propagation numbers before the mission timeline actually works, right? Consistent doubling time, no more one batch runs high and the next one runs low. I was thinkin' about it last night."
+"The Phengoclept. You guys keep sayin' you need reliable propagation numbers before the mission timeline actually works, right? Consistent doubling time, no more one batch runs high and the next one runs low. I was thinkin' about it last night. Damn thing wouldn't leave me alone."
+
+Wyaine swears like other people clear their throats. I don't. Swearing in my house wasn't banned, exactly. It was more like wearing a hat to dinner: nobody stopped you, you just got looks.
 
 "You were thinking about xenobiology last night."
 
@@ -434,6 +438,8 @@ I don't know what turning my ears down means. I do it anyway, and so does everyo
 A thin white line crosses the room, and then the floor jumps. The sound arrives a half-second behind, a dull, flat thud with all the air squeezed out of it, and the little window flares white at the edges. Through it, the steel block is a slumped, glowing shape, sagging at the corners, running down into a puddle of slag that pools where the cube used to be.
 
 Nobody says anything. Somewhere in the group, the Mechanical Engineer says, quietly, "Efficient." I think he's being sarcastic. I'm almost sure.
+
+"Oh, hell," I whisper. Nobody gives me a look. Under the circumstances, it's a rounding error.
 
 "That's the cells dumping everything," Kalen says, almost cheerful. "That's what you don't want. A Phengomotor is that same energy, but asked politely. You attract the cells, pulse them in order, and let them leave the plate one at a time, pushing, instead of all at once, pushing the wrong way."
 
