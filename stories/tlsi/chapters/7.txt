@@ -25,7 +25,7 @@ I don't mean to say her name like that, easy, mid-sentence, no weight on it, but
 
 ---
 
-Here's what I know now that I didn't know two weeks ago, back when all I had was a whiteboard diagram and a half-remembered phone call.
+Here's what I know now that I didn't know two weeks ago, back when all I had was a whiteboard diagram and a half-remembered phone call. The short version is "a lot." The long version follows, because I don't have the short version in me.
 
 The Phengoclept feeds on Nakuet. Not literally eating anything, nothing so simple as that, it metabolizes the star's own output, converts high-frequency electromagnetic energy directly into stored mass. A single cell can hold an obscene amount of energy for something you could lose in a puff of dust, close to two thousand joules once it's what the old research notes call "saturated," which works out to more or less its entire mass turned into energy, a thing nothing is supposed to be able to do. I don't know who decided saturated was the right word for a microbe eating a star, but I've read enough of Bejors' annotations at this point to guess it was her, because saturated is exactly the dry, slightly annoyed word choice she'd have insisted on in a meeting full of people who wanted something flashier.
 
@@ -97,7 +97,7 @@ I sit with that for a second.
 
 We spend the middle of the day chasing something that isn't going anywhere, which I only realize about two hours in, once I've already sunk the two hours.
 
-"The population math doesn't work," I say, staring at a model I've rebuilt four different ways and gotten the same wrong answer from each time. "If ASI's line has held steady strength for two years, that means a stable number of Phengoclept are actively feeding on the star at any given moment. Constant input has to equal constant output, or the line brightens or dims over time, and it isn't doing either."
+"The population math doesn't work," I say, staring at a model I've rebuilt four different ways and gotten the same wrong answer from each time, which is consistency, technically. "If ASI's line has held steady strength for two years, that means a stable number of Phengoclept are actively feeding on the star at any given moment. Constant input has to equal constant output, or the line brightens or dims over time, and it isn't doing either."
 
 "So something's capping the population."
 
