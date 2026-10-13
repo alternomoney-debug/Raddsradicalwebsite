@@ -1,0 +1,192 @@
+
+*Written from the perspective of Ethyn Vasek.*
+
+The sample from the collector is still under the microscope where I left it, so Day Twelve starts exactly where Day Eleven ended. That's apparently how science works when you've got nothing but time and no commute.
+
+"Confirmed mass," I say, mostly to hear it out loud. "Point zero two one two seven six five nine four four six eight zero eight five one zero six three eight two nine seven eight seven two nanograms."
+
+Jinzhou doesn't look up from his own screen. "That's a lot of decimal places for something that small."
+
+"It's not my fault. That's the actual number. I checked it four times."
+
+"Four times."
+
+"I wanted to be sure the fourth time agreed with the first three."
+
+"Did it."
+
+"Yes. Which is somehow the most annoying part. A cell smaller than anything I can see without four hundred times magnification, and somebody, somewhere, at some point, cared enough to measure it out to twenty-eight decimal places, and I resent how much I trust that number."
+
+Jinzhou considers this. "You could round it."
+
+"I could. I'm not going to. If Bejors were here she'd never let me hear the end of it."
+
+I don't mean to say her name like that, easy, mid-sentence, no weight on it, but it comes out that way anyway, and neither of us stops to make it a thing. That's new. Progress, maybe. Or just exhaustion wearing the same coat.
+
+---
+
+Here's what I know now that I didn't know two weeks ago, back when all I had was a whiteboard diagram and a half-remembered phone call.
+
+The Phengoclept feeds on Nakuet. Not literally eating anything, nothing so simple as that, it metabolizes the star's own output, converts high-frequency electromagnetic energy directly into stored mass. A single cell can hold an obscene amount of energy for something you could lose in a puff of dust, close to two thousand joules once it's what the old research notes call "saturated," which works out to more or less its entire mass turned into energy, a thing nothing is supposed to be able to do. I don't know who decided saturated was the right word for a microbe eating a star, but I've read enough of Bejors' annotations at this point to guess it was her, because saturated is exactly the dry, slightly annoyed word choice she'd have insisted on in a meeting full of people who wanted something flashier.
+
+Once it's saturated, it can't hold any more. That's when it moves.
+
+It migrates. In spore form, riding its own stored light like a sail, it can cross open space for years without needing to eat again, which is either the most elegant survival mechanic evolution has ever produced or the single worst design decision a living thing has ever made, since as far as I can tell it doesn't seem to plan the trip so much as just point itself outward and go.
+
+At Nakuet, it heads for Aluk'.
+
+I know Aluk'. Like everything else that came back to me piece by piece, it's a fact sitting there fully formed with none of the memory attached, but I know it's close, hot, choked in cloud, and thick with exactly the carbon compounds a saturated Phengoclept apparently can't resist. It breeds there. Parent cell and daughter cell both, and both make the return trip to Nakuet to start the cycle over.
+
+That's the part that's killing Wask-ki. Not the feeding. The breeding. Every generation doubles the population feeding on the star, and nothing at Aluk' is stopping them, so the numbers climb, and the dimming climbs with them, and there's no reason built into the system for it to stop climbing until there's nothing left of Nakuet worth feeding on.
+
+At Asimov, something is different.
+
+I don't know what yet. That's the whole reason we're here.
+
+---
+
+"Say the light thing again," Jinzhou says. He's got his notepad out, the actual paper one, drawing something in the margin that might be a spectral graph or might just be him thinking with his paws.
+
+"The Y'shari-frequency."
+
+"That one."
+
+"Twenty-two point seven zero six microns. Infrared. That's the wavelength it emits when it's actively burning stored mass back into light, which is also what it uses for propulsion." I pull the reading up on the shared screen so he can see the curve instead of just hearing me describe it. "Every Phengoclept line anyone's ever mapped, ours included, shows up in that exact band. It's basically a signature. If you're scanning for it and you're not looking at twenty-two point seven zero six microns, you're not looking for it at all."
+
+"Convenient that it's one number."
+
+"It's not convenient. It's just what the emission spectrum is." I glance at him. "Why, did you want it to be complicated."
+
+"I wanted to know if I could remember it."
+
+"Can you?"
+
+"Twenty-two point seven zero six." He says it back without looking at the notepad. "Yes."
+
+"Show off."
+
+"You did it first with the mass number."
+
+"That's different. Mine has more decimal places. Mine is objectively more impressive."
+
+He doesn't argue with that, which from him counts as a concession, and goes back to his drawing.
+
+---
+
+The Phengomotors are the part that gets me every time I think about it too hard, because it means the exact organism we're six point four light years away from studying is also, at this very moment, strapped to the outside of our hull, quietly dying by the ounce to keep us moving.
+
+Jinzhou explains the mechanism better than I could, because he's the one who actually took the housing apart during the diagnostic sweep in week one and put it back together without needing the manual, which is either deeply reassuring or deeply concerning depending on the day.
+
+"Three phases," he says, ticking them off on one paw. "First, low intensity light, tuned to the frequency, coaxes a coat of live Phengoclept onto one face of the drive plate. Second, you rotate that face out toward open space and hit it with a high intensity pulse at the same frequency. The cells try to do what they always do when they're saturated and exposed, they dump their stored energy back out as light, all at once, all in the same direction, because the drive plate is angled to make sure of it. That push is what moves the ship."
+
+"And the third phase."
+
+"Third phase, you rotate the spent plate back into the housing. The Phengoclept's dead by then, cells can't survive dumping that much mass at once, and you scrape it off, and the plate goes back out for a fresh coat."
+
+I sit with that for a second.
+
+"So the engine works," I say, "because, uh, we're murdering the thing we came all this way to understand, a controlled amount of it, on a schedule, to get here."
+
+"Yes."
+
+"That's a little on the nose."
+
+"It's efficient," Jinzhou says, which is his version of agreeing with me without admitting it out loud.
+
+---
+
+We spend the middle of the day chasing something that isn't going anywhere, which I only realize about two hours in, once I've already sunk the two hours.
+
+"The population math doesn't work," I say, staring at a model I've rebuilt four different ways and gotten the same wrong answer from each time. "If ASI's line has held steady strength for two years, that means a stable number of Phengoclept are actively feeding on the star at any given moment. Constant input has to equal constant output, or the line brightens or dims over time, and it isn't doing either."
+
+"So something's capping the population."
+
+"Something's capping the population." I lean back. "Which either means nothing new is arriving to replace the ones that leave to breed, or."
+
+"Or they're not making it back."
+
+"Or they're not making it back." I look at the number again. It still doesn't move. "If they migrate toward whatever the local equivalent of Aluk' is here and something happens to them before the return trip, you'd get exactly this. Stable input. Stable output. No net growth."
+
+"A predator," Jinzhou says.
+
+"Maybe. Y'shari floated that idea before we ever left. I didn't have a way to, uh, test it then." I look at the trajectory data, at Asimov-09D sitting patient and enormous below us. "I think I might have a way to test it now."
+
+Neither of us says the rest of that sentence out loud. We both already know what testing it means, and neither of us is in a hurry to say the word fishing before we have to.
+
+---
+
+It's Jinzhou who brings up the other thing, later, once we've both stopped pretending the population model needs more attention today than it's already gotten.
+
+"I want to look at the medical logs," he says. "The four of them."
+
+I know exactly which four he means without asking.
+
+"Okay," I say.
+
+We go down to the terminal together.
+
+"ARACCSIM," I say. "Pull the coma vitals logs. Full mission span. All four."
+
+A pause, longer than the request should need, a pause that used to mean withheld pending crew status confirmation, and I brace for it out of habit.
+
+"Retrieving," it says instead. No partial confirm. No conditions attached. Whatever gate used to sit in front of this file, it isn't there anymore, hasn't been since the day we did the burials, and I don't know if that's ARACCSIM being told to stand down or ARACCSIM never having cared about hiding this part in the first place.
+
+The logs are thorough. Vitals tracked every six hours for the entire trip, up until they weren't. Cause of death fields, all four, read the same two words.
+
+UNDETERMINED. CONSISTENT WITH KNOWN RISK FACTORS.
+
+"Known risk factors," I read out loud. "That's not a cause. That's a shrug in a lab coat."
+
+"There's a note," Jinzhou says, scrolling further. "General. Not per crew member."
+
+He reads it. I read it over his shoulder.
+
+Coma-resistant genetic markers correlate with survivability but do not guarantee it. Approximately one in several thousand carriers experience undetected cardiac or neurological complications under extended stasis, indistinguishable postmortem from unrelated natural causes absent live monitoring at time of onset.
+
+"So it could be the coma," I say. "The actual thing that was supposed to keep them alive."
+
+"Could be."
+
+"Or it could be nothing to do with that at all. Could be a heart thing. Could be anything."
+
+"Could be."
+
+I stare at the screen for a while. Four names. Four identical fields that say the same careful, honest nothing.
+
+"I wanted there to be an answer," I say.
+
+"I know," Jinzhou says.
+
+"Even a bad one. I just wanted there to be one."
+
+He doesn't say anything to that. It's an answer too, the one that doesn't pretend a thing is smaller than it is just to make the room feel better.
+
+We close the file. Neither of us deletes it. I don't think either of us could, even if we wanted to, and neither of us wants to.
+
+---
+
+Ship's night comes and I'm still awake, sitting in the lab with the sample slide still under the scope, twenty-eight decimal places of mass sitting on the readout like it's daring me to argue with it.
+
+"ARACCSIM," I say.
+
+"Dr. Vasek."
+
+"How confident are you in the population stability model. The one showing constant Phengoclept density in the Asimov line."
+
+"Model confidence is high, within the limits of two years of continuous observation."
+
+"And if I wanted to test the predator hypothesis directly. Not from orbit. Down there."
+
+A pause. Longer than usual, long enough that I start to wonder if the question fell outside whatever it has a ready answer for.
+
+"That would require atmospheric sample collection from Asimov-09D," it says, the sentence arriving in two pieces that don't quite match, the first half smooth and immediate, the second half slightly delayed, like it had to go looking for a phrase it doesn't keep on hand. "Current mission parameters do not include a defined protocol for that maneuver."
+
+"But it's possible."
+
+"With modification. Yes."
+
+I look at the gas giant on the screen, brown and blue and enormous, patient as it's been since we got here, not going anywhere, not in any hurry, perfectly happy to let us take as long as we need to work up the nerve.
+
+"Good," I say. "Start modifying."
+
+*END OF CHAPTER SEVEN*
