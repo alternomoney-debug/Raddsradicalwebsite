@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<script src="../footer.js"></script>
 <script src="../lite.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Elsewhere (Rad)</title>
@@ -236,26 +237,13 @@
     border: 1px solid #333;
   }
 
-  footer{
-    padding-top: 40px;
-    padding-bottom: 60px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 8px 32px;
-    font-size: 14px;
-    color: var(--muted);
-  }
   @media (prefers-reduced-motion: reduce){ *{ animation: none !important; transition: none !important; } }
 </style>
 </head>
 <body>
 <canvas id="c" aria-hidden="true"></canvas>
 <div class="page">
-  <div class="wrap top">
-    <a class="mark" href="../">rad</a>
-    <a class="back" href="../">Back to the main page</a>
-  </div>
+  <script src="../header.js"></script>
 
   <main class="wrap">
     <h1>Elsewhere</h1>
@@ -418,12 +406,7 @@
     </div>
   </main>
 
-  <footer class="wrap">
-    <span>House on the Bluff Records, an unincorporated partnership of musicians, <span id="yr">2026</span></span>
-    <span>Made by Jayce and R, Budiworo, J.</span>
-    <span>ASCII background by TheMonHub on Discord</span>
-      <span><a href="../credits/">Site credits</a></span>
-  </footer>
+  <footer></footer>
   <script>
     // Real visitor counter using Abacus (https://abacus.jasoncameron.dev), a free counting service.
     // Each browser only adds +1 once per day, so refreshing doesn't inflate it.
@@ -453,7 +436,6 @@
         .catch(function(){ note.textContent = '(counter is napping, try again later)'; });
     })();
   </script>
-  <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </div>
 
 <script>
