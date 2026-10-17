@@ -41,8 +41,7 @@ a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3p
 footer{padding:40px clamp(16px,3vw,48px);color:var(--mute);font-size:14px;display:flex;flex-wrap:wrap;gap:8px 16px}footer a{color:inherit}
 </style></head>
 <body>
-<header class="bar"><a class="mark" href="../">rad</a>
-<nav aria-label="Main"><a class="cur" href="./" aria-current="page">Stories</a><a href="../projects/">Projects</a><a href="../games/">Games</a><a href="../elsewhere/">Elsewhere</a><a class="pill" href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a><span id="acct"></span></nav></header>
+<script src="../header.js"></script>
 <div class="layout">
 <div class="panels">
  <section class="panel" data-cat="stories"><h2>Stories</h2><div class="tiles"></div></section>
@@ -66,7 +65,7 @@ var EMPTY={comics:'The first comic is on its way',stories:'',shows:'Nothing here
 function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x)e.textContent=x;return e}
 var info=document.getElementById('info');
 function show(it){info.innerHTML='';
- if(!it){info.appendChild(el('h1','','Stories'));info.appendChild(el('p','','Things I write, draw, and make. Point at a cover to see what it is, and click it to open.'));
+ if(!it){info.appendChild(el('h1','','Everything I make'));info.appendChild(el('p','','Things I write, draw, and make. Point at a cover to see what it is, and click it to open.'));
   var counts=['comics','stories','shows','films'].map(function(c){return ITEMS.filter(function(i){return i.c===c}).length}).reduce(function(a,b){return a+b},0);
   info.appendChild(el('p','',counts+(counts===1?' thing is':' things are')+' up so far, and more are on the way.'));return}
  info.appendChild(el('span','k',it.k+' \u00B7 '+it.s));info.appendChild(el('h1','',it.n));info.appendChild(el('p','',it.d));

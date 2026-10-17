@@ -16,13 +16,12 @@ a{color:var(--ink)}:focus-visible{outline:2px solid var(--acc);outline-offset:3p
 h1{margin:4vh 0 0;font-size:clamp(52px,10vw,170px);font-weight:800;line-height:.88;letter-spacing:-.05em}
 .sub{margin:18px 0 0;font-size:clamp(19px,2vw,28px);color:var(--mute);max-width:46ch}
 h2{margin:72px 0 20px;font-size:clamp(28px,3.4vw,48px);font-weight:700;line-height:1.05;letter-spacing:-.025em}
-.grid{margin-top:44px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.grid{margin-top:44px;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
 .p{display:flex;flex-direction:column;gap:6px;padding:22px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);text-decoration:none;transition:border-color .12s}
 .p:hover{border-color:var(--acc)}.p b{font-size:26px;letter-spacing:-.02em;line-height:1.1}.p span{color:var(--mute)}.p em{margin-top:auto;padding-top:10px;font-style:normal;font-size:14px;color:var(--acc)}
 footer>span{margin-left:16px}footer{margin-top:auto;padding:60px 0 40px;color:var(--mute);font-size:14px}footer a{color:inherit}
 </style></head>
-<body><div class="wrap">
-<div class="top"><a href="../">rad</a><a class="r" href="../elsewhere/" style="font-weight:500;font-size:17px;letter-spacing:0;color:var(--mute)">About me</a></div>
+<body><script src="../header.js"></script><div class="wrap">
 <h1>Projects</h1><p class="sub">Everything I'm making, in one place.</p>
 <div class="grid" id="grid"></div>
 <footer>Rad, <span id="yr">2026</span> &middot; <a href="../privacy/">Rules and privacy</a> &middot; <a href="../credits/">Credits</a></footer>

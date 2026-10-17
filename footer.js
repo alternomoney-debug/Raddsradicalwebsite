@@ -1,6 +1,5 @@
 /*
   The one footer every page shares. Change the lines below and every page updates.
-  (The main page and Elsewhere have the same footer written out in their own HTML.)
 */
 (function(){
   var src = (document.currentScript && document.currentScript.src) || '', root = src.replace(/footer\.js.*$/, '');
