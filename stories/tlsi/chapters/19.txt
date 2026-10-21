@@ -95,4 +95,91 @@ Maslin unclips and drifts over Petryn's shoulder. On him, hope looks more nervou
 
 Marsh watches. Jinzhou, beside me, says nothing at all. In this room, right now, it's the correct amount of nothing.
 
+---
+
+
+"Okay," Petryn says, and something about how he says it, careful, unhurried even now, tells me before the actual numbers do that this isn't going to be the clean good news any of us were hoping for. "Here's what we got."
+
+He reads it slow. Bad news doesn't land softer if you rush it. He knows that. I'm learning it.
+
+"Ration stores, about sixty percent intact. Rest got compromised in the breach, atmosphere exposure, some of it just straight up vented into space with the hull section it was stored in." He looks up. "Sixty percent of what was packed for nine people, a year or two. Recalculated for three of us stretched out over however long we been out here, that shoulda lasted us a good while longer than it has."
+
+"Should have," I repeat.
+
+"Yeah." He says it plain, no dressing it up. "We been rationin hard. Real hard. Longer than we shoulda had to, if the math had gone like it was supposed to. But four months sealed in a cockpit does somethin to how careful you get about a can of somethin'."
+
+Maslin is quiet for once, arms crossed, watching the numbers scroll on the screen like they might change if he stares hard enough.
+
+"Water reclamation," Petryn continues. "Still functional, mostly. Damaged, not dead. We can pull some of it if we got the tools to do the transfer safely."
+
+"We've got tools," Jinzhou says. "That's not the hard part."
+
+"Medical supplies," Petryn says. "Pretty much untouched. Wasn't stored anywhere near the breach. That's somethin, at least."
+
+"Fuel," I say. "What about your fuel."
+
+The room goes quieter than it already was.
+
+"Fuel's gone," Maslin says, before Petryn can get to it, sharp and fast, the words coming out before he's finished deciding how to say them. "Tanks that didnt blow got contaminated in the reaction, whatever the fuck actually happened in there, and the third one that survived the initial hit- it aint enough. Its nowhere close to enough. This ship aint flyin anywhere ever again, man, thats just the actual truth of it, and Ive known that for months, and it dont get less true no matter how many times I say it out loud."
+
+Contaminated. I keep my face very still. That's a word I've had enough of for one trip.
+
+Nobody says anything for a second.
+
+"So what you're telling me," I say, finally, "is that MK2 has a lot of ship and exactly none of the part that makes it go."
+
+"Correct," ARACCSIM confirms, quiet, from somewhere in the room, present without needing to be seen. "Vessel is not spaceworthy in its current configuration."
+
+---
+
+I do the math out loud, because that's what I do. Saying numbers out loud has always made them feel more manageable than letting them sit silent in my own head.
+
+"Our supplies. Two people, mostly asleep for the rest of the trip home, two years and nine months, give or take, sitting at enough margin to be comfortable. Add three more people." I stop. Start the actual arithmetic. "Add three more people, and even with whatever's salvageable from your stores, we're cutting it a lot closer than comfortably."
+
+"How close," Marsh asks. Quiet. Precise. The first thing she's said since the terminal chimed, and it lands exactly on the question that actually matters.
+
+"I don't know yet," I say, honest. "I need real numbers, not estimates. I need to sit with ARACCSIM and run this properly before I tell anyone it's fine. If it's not fine, I'd rather know now than find out halfway through the dark."
+
+"Smart," Marsh says, and there's relief in it. Somebody respected her caution instead of waving it off. I get the feeling that's rare for her.
+
+Maslin is drifting now, the small side-to-side he does when holding still isn't an option anymore.
+
+"So whats the actual plan here," he says. "Cause I dont love just sittin in a dead ship waitin on a math problem to solve itself, no offense."
+
+"None taken," I say. "The plan, as far as I can tell, is you three come with us. Onto MK1. We combine what's salvageable from here with what we've got, and we make the numbers work, however we have to make them work."
+
+"Just like that," Maslin says.
+
+"Just like that. What's the alternative? You three stay here on a ship with no fuel and dwindling supplies, and we fly home without you? That's not a plan. That's a different, worse version of what's already happening to you."
+
+Maslin doesn't have a fast response to that, which I'm coming to understand doesn't happen to him often.
+
+"Okay," he says, finally, quieter than anything he's said since we opened that bulkhead. "Yeah. Okay. That tracks."
+
+---
+
+Petryn is still looking at the manifest, something thoughtful behind his eyes that hasn't resolved into words yet.
+
+"Six of you started this," he says, slow, working it out as he goes. "Two made it this far. Three of us started somethin else entire, and all three of us made it this far. Five of us total, now, tryin to get home on one workin ship." He shakes his head slightly, not in disagreement, more like he's marveling at the shape of it. "That's, like. That's a lot of loss to still end up with this many people standin in one room."
+
+"It's a good number," I say. "Five. I'd like to keep it."
+
+"I don't know if I believe in luck," he says again, the same thing he said in the cockpit a while back, "but I believe in that."
+
+Marsh has moved closer to the terminal, looking at the raw numbers herself now instead of just listening to Petryn's summary, cross-checking something I can't quite see from here.
+
+"Dr. Vasek," she says. "Ethyn." A small correction, deliberate, and I notice it, and I don't say anything about it, because some things you let people arrive at on their own time. "I'd like to help with the calculations. If that's alright. I understand ship's fuel and trajectory work reasonably well, and a second set of eyes on numbers this important seems prudent."
+
+"That would be a huge help," I say, and I mean it. "I also owe you that long story about the freezer."
+
+"In order," she says.
+
+"In order," I agree.
+
+She nods once, satisfied, like being useful settles her nerves better than any reassurance I could offer.
+
+"Alright," I say, looking around the room at all four of them, at the dead ship around us and the living one waiting outside the hull. "Let's get everyone and everything we can move over to MK1. We've got work to do."
+
+"Bout time somebody said that," Maslin says, and for once, there's nothing rhetorical about it at all.
+
 *END OF CHAPTER NINETEEN*

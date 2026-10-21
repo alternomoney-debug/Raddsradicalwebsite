@@ -1,184 +1,220 @@
 
-Marsh doesn't trust anything that reports in adjectives.
+The middle of a trip like this one isn't part of the story. It's a schedule.
 
-I find this out about nine minutes after she gets a login. The ship's cruise control, LSI-ASM&C, describes everything as "nominal" or "within tolerance," and Marsh has taken it personally. Three weeks into being a five-person ship, she has pulled its raw logs for every tank wall since the handoff and is working through them in Lab A with her feet hooked under the bench rail, one column at a time, with the focus most people save for defusing things.
+Marsh wrote it. It's taped to the wall of Lab A in handwriting that looks typeset, and it tells five people when to be awake, when to be in a berth, and when to eat what's left of the salvaged rations. Two awake, three asleep, the pairs rotating on a cycle I would explain if the explanation were interesting. It isn't. The whole point of the schedule is that nothing happens in it.
 
-I drift in to ask if she wants dinner. I don't get to the question.
+Nothing has been happening for over a year.
 
-"Ethyn," she says, without looking up. "Come and look at this, please. And tell me I'm reading it incorrectly."
+I'm on day eleven of my current stretch. I know because I've been marking them on the edge of Bejors' whiteboard with a pencil nobody else uses, in the bottom corner, small. Under her lines, not on them. Y'SHARI-LINE AND PHENGOCLEPT RECAP is still up there, underlined twice, and I have never once thought about wiping it. Eleven small pencil strokes sit below it like someone counting the days in a very polite jail.
 
-"That's a worrying way to start."
+"Dr. Vasek," ARACCSIM says. "Time to destination, one year, seven months, eleven days."
 
-"I'm aware of that."
+"I didn't ask."
 
-She turns the screen toward me. A graph, flat as a tabletop for nearly its whole width, and then, at the right edge, not flat.
+"You were about to."
 
-"Tank 2-E," she says. "Wall temperature, since the handoff."
+"I was about to look at the clock and pretend I wasn't counting."
 
-"ARACCSIM," I say. "Numbers. Short version, and I'm going to pretend I didn't hear the long one."
+"That is what I assumed."
 
-"Tank 2-E wall temperature has risen four point one degrees over the past eleven days. Current reading, minus fifty point nine degrees Celsius. Rate of rise is increasing."
+It's a very small thing, and it's the first time in months I've caught it being almost kind. I decide not to ask which part of it was the almost.
 
-Minus fifty point nine.
-
-I know that neighborhood. I wrote it in the log myself, the night I found out where the Asicell go to sleep. At minus fifty they stop. At minus forty they're commuters at the end of a long day. At minus thirty-two, one of them twitches, and eighteen minutes later the whole smear is swimming around like nothing happened.
-
-"We're one degree from the line," I say.
-
-"That is my reading as well." She hesitates, which she doesn't do often. "I spent forty minutes hoping to be wrong."
-
-"LSI-ASM&C," I say. "Freeze line status."
-
-"All freeze lines within tolerance." The voice is flat and cheap, like a recording in a train station that knows nobody is listening.
-
-"Define tolerance."
-
-"Plus or minus ten degrees."
-
-"Of minus fifty-five."
-
-"Correct."
-
-"So you'll let me know at minus forty-five."
-
-"Correct."
-
-"And what are the Asicell doing at minus forty-five?"
-
-"Query outside function."
-
-Marsh closes her eyes for exactly one second. "It was built for level one," she says. "At minus eighteen, ten degrees is a tight band. At minus fifty-five it is the entire margin and then some."
-
-"Level two was my idea," I say. "The alarm band was not. I'd like that on the record."
-
-"Noted, Dr. Vasek," ARACCSIM says.
-
-"Thank you, ARACCSIM."
-
-I do the arithmetic in my head, and it's the kind I'd hoped not to need. Three days to minus fifty, when they start to drift. Nineteen to minus thirty-two, when they swim.
-
-"ARACCSIM. Confirm."
-
-"Projection confirmed. Minus fifty in approximately three days. Minus thirty-two in approximately nineteen."
-
-"Shoot," I say, quietly, to the graph.
-
-Then I get on the ship-wide and say "cockpit, please" in the voice of a man who isn't panicking.
+Marsh says the supply margin is forty-one days. Jinzhou says forty-one days. I keep checking in case one of them is wrong in my favor, and neither of them has been wrong about anything since the cold shutdown, which I've decided is rude of them.
 
 ---
 
-The cockpit is full by the time Marsh and I pull ourselves up the hall. Five people orbiting one screen, hooked to rails and seat backs and each other's straps. Five bodies where there used to be two is still not a sensation I've gotten used to.
+My last stretch was with Jinzhou, and it went differently.
 
-Marsh puts the graph up. Nobody says anything for a second. Then Maslin does, because someone has to.
+He didn't cook. He ate whatever the galley arms gave him, at exactly the time the schedule said, and folded the wrapper into a small neat square afterward and clipped it into a pouch with the other small neat squares. I never asked what the squares were for. I think it was the counting. I think he liked having something that got bigger at a steady rate.
 
-"four degrees dont sound like much," he says, already sounding like he doesn't believe his own reassurance. "right thats not- thats not a big number is it"
+What I did, on that stretch, was write a letter.
 
-"It's not a big number," I say. "It's a big trend. Warming in a tank that's supposed to be frozen means something is failing. The question is what."
+Not a log. The logs go to ARACCSIM and from ARACCSIM to whoever at Port Jiji is still reading them. This one was a file on my own tablet, addressed to Dr. Emili Y'shari, and I knew while I was writing it that I might never send it. I wrote it anyway. It was something to do with my paws.
 
-"A freeze line fault," Marsh says, quiet and immediate. "A loss of coolant is the most likely explanation for a progressive rise in wall temperature."
+On day six, Jinzhou floated up behind me and read it over my shoulder. He didn't ask. Jinzhou doesn't ask to read things. He reads them the way he reads code, which is to say all at once, with his eyes moving along a line only he can see.
 
-Petryn has gone very still beside her, which for him is its own kind of alarm.
+"Line four is a lie," he said.
 
-"Which tank," he says, slow and careful, like he already knows and is hoping someone talks him out of it.
+"Which part?"
 
-"2-E."
+"The part where you say you are fine."
 
-He lets out a breath through his nose. "The one that opened."
+"That's a figure of speech."
 
-"The one that opened," I say. "The one with the crowd."
+"It is a figure of speech that is a lie." He pointed, not quite touching the screen. "Line eleven is true. You say you are angry at her and you do not want to be. Keep that one."
 
-"wait the crowd" Maslin says. "the predator things. the ones that eat fuel. theyre in the fuel. again"
+"Thank you. Any other notes?"
 
-"They're in one tank. They're asleep. Cold keeps them asleep."
+"Paragraph three repeats paragraph one. You say you understand why she did it, twice."
 
-"and its getting less cold"
+"Maybe I'm trying to convince myself."
 
-"Yes."
+"Then say it once and mean it, or do not say it." He considered the screen a moment longer. "The end is good."
 
-"cool" Maslin says. "cool cool cool. i left one ship with a fuel problem to get on another ship with a fuel problem. at least this one hasnt exploded"
+The end said: *We made it this far. Five of us. I'd like you to know that, whatever else.*
 
-"Yet," Marsh says. "'Yet' is doing a great deal of work in that sentence."
+"You can keep the end," he said.
 
-"They don't just wait, either," I say. "Last time, the fuel was calling them the whole way. They dug straight through the tank lining to get to it. Like it was a door."
+"I wasn't asking permission."
 
-Maslin considers this.
+"I know. I am giving it anyway."
 
-"thats kind of impressive," he says. "in a way i really dont wanna be impressed by right now"
+I deleted line four. I kept eleven. I took out the second time I said I understood her, and then, after a long time looking at the first one, I took that out too, because I didn't, and Jinzhou was right, and I'd rather send her nothing than send her something that wasn't true.
 
-"We should not admire the thing that is waiting to eat our engines," Marsh says, dry and precise, and it's such an unexpected line from her that I almost laugh despite everything.
+The letter is still on my tablet. It's shorter now. It's better. It still might never go anywhere.
 
-"noted. retractin the impressed. its bad. its very bad. i hate it"
+Jinzhou went into his berth on day nineteen of that stretch. Before the cubby closed, he said, "When you send it, tell her I said line eleven was good."
 
-"It's worse than that," Jinzhou says. He hasn't moved in his seat. Nothing in his voice has either. "The restart plan assumes the tanks stay at minus fifty-five. It was the only number in that plan without a plus or minus."
+"You've never met her."
 
-"And now it has one."
-
-"Yes."
-
-"Four hours of margin, plus or minus six," I say. "I called it a mood."
-
-"It was a mood," Jinzhou says. "This is a forecast."
-
-Petryn is already unclipping.
-
-"I wanna see the line," he says.
+"I have read line eleven," he said, and the berth slid shut.
 
 ---
 
-The tank gallery runs along the outside of the tank bay, a narrow service passage that is almost entirely pipe and, today, almost entirely cold. My breath hangs in front of my face and stays there, because it has nowhere to fall.
+Petryn and I have the same stretch this time. He cooks.
 
-Petryn finds it first. He doesn't say anything. He just stops, and points.
+I want to be clear about what that means. The galley arms heat a tube, or a pouch, or whatever the Argon packaging department decided to call a meal that week. What Petryn does is take the least promising item in the salvaged MK2 stores, hold it up to the light like a man judging a diamond, and say, "Oh, you're gonna like this one."
 
-A hairline seam in the freeze line manifold, barely visible unless you already know to look, and along it, growing out into the air instead of down, a fur of white frost. It doesn't fall. There's no down. It just keeps growing, in small delicate feathers, toward us.
+"I'm not," I say.
 
-"There," Petryn says quietly. "That's where it's weepin'."
+"Green one, man. Try it."
 
-"How long has it been open?" I ask.
+"It's called Garden Medley. There's no garden in it. I've read the label."
 
-"Estimated fault duration, eleven days," ARACCSIM says. "Micro-fracture propagation likely began significantly earlier, potentially months prior, undetected due to gradual onset."
+"Try the green one."
 
-Months.
+I try the green one.
 
-I sit with that the way I sat with the two thousand one hundred days number at the very start of all this. Something has been quietly failing for months, invisible and patient, and none of us noticed, because we were too busy being relieved about the last crisis to go looking for the next one.
+It's good. I'd like that on the record somewhere other than my own head. It's warm and a little bit sharp and there's an undertone of something like lemon that has no business surviving in a tube. I chew with an expression I keep entirely neutral, which is a skill I developed in a school cafeteria and have never lost.
 
-"Why this line?" Marsh asks. "Why here?"
+Petryn watches me over the top of his own pouch.
 
-"Spec on these is minus eighteen," Petryn says. He holds a paw an inch above the seam without touching it. "Somebody took it to minus fifty-five in under six hours. Metal remembers that kind of thing."
+"It's not bad," I say.
 
-"Somebody."
+"Mm-hm."
 
-"Not blamin' anybody, man."
+"It's adequate."
 
-"It was me. I picked level two. It was the right call, and I'd like to be a little upset about it anyway."
+"Your ears came up, man."
 
-"That's allowed," Petryn says.
+I put a paw on one. They had. "That's circulation."
 
-"Can we track them?" Jinzhou asks. "The Asicell. Where they are."
+"Sure it is," Petryn says, and goes back to eating with the expression of a man who is not going to say it, because he doesn't have to.
 
-"Partial tracking available via Y'shari-frequency absorption signatures," ARACCSIM says. "Current concentration is highest in tank 2-E. Secondary concentration, low, in the aft feed line and motor housings. All dormant."
+I'm opening my mouth to defend my ears when it comes back, and it comes back whole, like the rest of my facts. A bar. A table with a wobble. A chipped bowl set down in front of me, and across from it a stocky canine with a book face-down by his elbow and no expression at all.
 
-"All dormant," I repeat. "In the tank and in the engines. Both. Asleep."
+"You'll like it," Nelson says. "You won't say so."
 
-"Correct."
+"I'm not going to like it."
 
-Nobody says anything for a while. Five people hooked to a pipe in a cold gallery, watching a hairline seam grow feathers.
+He waits. He's very good at waiting. He once sat through an entire six-minute argument about a movie just so he could say one word at the end of it.
 
-"We have five people and a problem," Marsh says, steady even now. "That is more than Ethyn and Jinzhou had for the fishing mission, and they solved that."
+I eat. I look at the soup for a second longer than the soup deserves.
 
-"Barely," I say.
+"I liked it."
 
-"Barely still counts." She looks along the manifold, and back. "We should begin by understanding exactly what we are dealing with. How fast the line is failing, whether the damage is confined to 2-E, and what it would take to hold that wall at minus fifty-five until we can repair it properly."
+"I know," Nelson says, and goes back to his book.
 
-Petryn nods slowly, the stillness in him turning into something more active.
+That's the whole memory. It's not even a good one. Soup, a bar, a man who never gloated because gloating takes a kind of effort he'd have charged me extra for. I wait for the rest of it to arrive and the rest of it doesn't. But the feeling underneath it does, all at once, the way a leg falls asleep in reverse, and I put my pouch down, very carefully, in the air in front of me, and hold on to the rail.
 
-"I got some ideas," he says. "Nothin' solid yet. But ideas."
+"Ethyn?" Petryn says.
 
-"i got ideas too" Maslin says. "mine mostly involve panickin but im workin on the second half"
+"Give me a second."
 
-"We'll take whatever we can get," I say, and I mean it.
+"Sure thing."
 
-Nineteen days. I've done the arithmetic four times and it keeps being nineteen. On the other side of this wall, in the dark, a crowd of very patient diners is being kept asleep by a pipe about as wide as my arm.
+The tally paper has been in my jacket pocket since the day we went through the lockers, and I take it out now, a small soft square of paper that has been folded and unfolded more than I'd like to admit. Two columns. His initials and mine at the top. A total, circled twice at the bottom, in his handwriting, which is precise and small and slightly annoyed.
 
-I'd like to keep it that way.
+Sixty marks.
+
+I've spent a long time assuming I owed him sixty marks. Money. A debt I'd forgotten the reason for, which struck me as the kind of thing I'd do. I said it to him out loud, at the airlock, with his body between us, that I had no idea what I owed him sixty marks for, and I was sorry.
+
+It was never a debt.
+
+I look at the two columns again, and I count the little vertical strokes under my initials, and there are sixty of them. One for every time he said *you'll like it* and I said *I won't*, and every time I did. Sixty recommendations. A place to eat, a book, a song with no words, a repair shop that fixed things nobody else would touch. Sixty times I was wrong, and sixty times he marked it down and never mentioned it to anyone, including me.
+
+He wasn't keeping score of what I owed him. He was keeping score of how often he was right, in the quietest way anyone's ever been right, and then letting me think it was money.
+
+"I liked it," I say, to the paper, in a small voice that sounds ridiculous in an empty galley. "All sixty."
+
+"Dr. Vasek," ARACCSIM says. "I did not register a query."
+
+"It wasn't one."
+
+"Understood."
+
+A pause. Then, with the flourish nobody has ever explained: "I will not log it."
+
+"Thank you."
+
+I fold the paper back up and put it in my pocket. Petryn, to his credit, has found something extremely interesting to look at on the far wall.
+
+"The green one was good," I tell him, after a minute. "I'm saying that out loud for the record."
+
+"I know," says Petryn.
+
+It's a coincidence that he says it the same way. I'm almost sure of that.
+
+---
+
+The shift change comes four days later, with Maslin sailing into Lab A as though he's been looking forward to this for some time.
+
+"ok so," he says, before the door has finished closing. "i did the logistics on the restart."
+
+"Please don't," Petryn says.
+
+"and the logistics say that i will probably explode, but in a really organized way. like i have a spreadsheet for it. there are tabs."
+
+"Maslin."
+
+"its color coded"
+
+"That is not funny, man."
+
+"its a little funny," Maslin says, and looks at me for backup.
+
+I think about it with the seriousness it deserves. "It's a little funny," I say. "I'd like to see the tabs."
+
+"the third tab is just you," he says. "its called ethyns face when someone says the number."
+
+"Which number?"
+
+"any of them"
+
+Petryn makes a sound that's half a laugh and half a prayer, and Maslin looks enormously satisfied, and for about a minute the lab is the way it was in the first days, four people who don't entirely know each other, being gentle in the only way they know. Then it passes, the way it does, and Maslin floats up to the whiteboard and reads my little row of pencil strokes. His mouth goes quiet.
+
+"eleven," he says, not really to anyone. "thats a lot of strokes."
+
+"It's the part of the trip where that counts as a lot."
+
+"oh." He considers the board. He considers me. "do you want me to do one for the next ones? i got good handwriting."
+
+"You really don't."
+
+"i got legible handwriting"
+
+"That one I'll accept."
+
+He takes the pencil and draws one small stroke, very straight, at the end of mine. Then he stays there a second, one paw still on the board. Under Bejors' name, under her theory, under the whole careful structure of a woman who could see this far and no farther.
+
+"we're gonna make it," he says. It's not a prediction. It sounds more like something he's trying on to see if it fits.
+
+"We have a margin of forty-one days."
+
+"thats not what i said"
+
+"I know. I'm doing the math on what you said."
+
+"and?"
+
+"It's a lot of math." I look at the pencil. "I'm leaning toward yes."
+
+He smiles at that, a little crooked, and floats off to check the stores with the air of a man who's been given an assignment. I stay with the board for a while. A year and seven months. A very small stroke at the end of my row, in handwriting that isn't mine.
+
+I take a second pencil and write, in the lower corner, small, in a place where Bejors' lines won't have to share:
+
+*47 / 51 ± 6*
+
+It's not an answer. It's a question, written down so I can see how big it is. Later-Ethyn can have the rest.
 
 *END OF CHAPTER TWENTY-THREE*
