@@ -1,7 +1,7 @@
 
 "Okay," Petryn says, and something about how he says it, careful, unhurried even now, tells me before the actual numbers do that this isn't going to be the clean good news any of us were hoping for. "Here's what we got."
 
-He reads it slow. Deliberate. The pace of someone who has decided that rushing bad news doesn't make it land any softer, so you might as well say it right.
+He reads it slow. Bad news doesn't land softer if you rush it. He knows that. I'm learning it.
 
 "Ration stores, about sixty percent intact. Rest got compromised in the breach, atmosphere exposure, some of it just straight up vented into space with the hull section it was stored in." He looks up. "Sixty percent of what was packed for nine people, a year or two. Recalculated for three of us stretched out over however long we been out here, that shoulda lasted us a good while longer than it has."
 
@@ -27,7 +27,7 @@ Contaminated. I keep my face very still. That's a word I've had enough of for on
 
 Nobody says anything for a second.
 
-"Okay," I say, finally. "Okay. So MK2's fuel is a dead end."
+"So what you're telling me," I say, finally, "is that MK2 has a lot of ship and exactly none of the part that makes it go."
 
 "Correct," ARACCSIM confirms, quiet, from somewhere in the room, present without needing to be seen. "Vessel is not spaceworthy in its current configuration."
 
@@ -41,7 +41,7 @@ I do the math out loud, because that's what I do. Saying numbers out loud has al
 
 "I don't know yet," I say, honest. "I need real numbers, not estimates. I need to sit with ARACCSIM and run this properly before I tell anyone it's fine. If it's not fine, I'd rather know now than find out halfway through the dark."
 
-"Smart," Marsh says, and there's something almost like relief in it, the relief of someone who values caution getting to hear caution respected instead of waved off.
+"Smart," Marsh says, and there's relief in it. Somebody respected her caution instead of waving it off. I get the feeling that's rare for her.
 
 Maslin is drifting now, the small side-to-side he does when holding still isn't an option anymore.
 
@@ -63,7 +63,7 @@ Petryn is still looking at the manifest, something thoughtful behind his eyes th
 
 "Six of you started this," he says, slow, working it out as he goes. "Two made it this far. Three of us started somethin else entire, and all three of us made it this far. Five of us total, now, tryin to get home on one workin ship." He shakes his head slightly, not in disagreement, more like he's marveling at the shape of it. "That's, like. That's a lot of loss to still end up with this many people standin in one room."
 
-"Yeah," I say. "It is."
+"It's a good number," I say. "Five. I'd like to keep it."
 
 "I don't know if I believe in luck," he says again, the same thing he said in the cockpit a while back, "but I believe in that."
 

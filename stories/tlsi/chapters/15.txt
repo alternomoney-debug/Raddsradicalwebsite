@@ -45,7 +45,7 @@ Level two. The centrifuge is off, the freezer in the tanks has the power, and I 
 
 "Please remain secured for ninety seconds," the voice says.
 
-I remain secured for approximately eleven, which is long enough to notice the berth beside mine already slid out, already open, already empty, and Jinzhou already out of it, one foot hooked under a rail, floating with the specific stillness of a man whose legs haven't been consulted.
+I remain secured for approximately eleven, which is long enough to notice the berth beside mine already slid out, already open, already empty, and Jinzhou already out of it, one foot hooked under a rail, floating very still, like his legs haven't been consulted yet.
 
 His sleeve has ridden up. Along the inside of his left forearm there's a pale line, thin and straight, like a seam. He sees me looking and pulls the sleeve down.
 
@@ -63,7 +63,7 @@ Neither of us says anything else. There isn't a version of that word that doesn'
 
 A pause. Then the voice I know, the smooth one, coming back from the background like someone setting down a book.
 
-"Dr. Vasek. Mr. Kenzo." Another pause, and I swear it's doing something different than its usual pauses, something closer to bracing. "Sensor contact designated Blip-D detected on approach trajectory. Signature is consistent with a Vanguard-class vessel."
+"Dr. Vasek. Mr. Kenzo." Another pause. It's not one of its usual pauses. If a computer could brace, this is what it would sound like. "Sensor contact designated Blip-D detected on approach trajectory. Signature is consistent with a Vanguard-class vessel."
 
 I stare at the ceiling.
 
@@ -137,7 +137,7 @@ I file the "give or take" under later. Later-Ethyn's drawer doesn't close anymor
 
 "Before anything else," I say. "Tanks."
 
-"Level two engaged. All tank walls at minus fifty-five."
+"Level two engaged. All tank walls at minus fifty-five degrees Celsius."
 
 "Reserve loss rate."
 

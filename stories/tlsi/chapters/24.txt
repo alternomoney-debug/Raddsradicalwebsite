@@ -7,7 +7,7 @@ We spend the next several hours doing the thing that terrifies me most and helps
 
 Marsh does the arithmetic before I've finished reading the number a second time.
 
-"Then we cannot vent 2-E," she says, with the quiet of someone delivering news she wishes she weren't. "It is the obvious move. Remove the tank, remove the crowd, remove the problem. It also leaves us three percent short of braking minimum."
+"Then we cannot vent 2-E," she says, quietly. She doesn't like this sentence either. "It is the obvious move. Remove the tank, remove the crowd, remove the problem. It also leaves us three percent short of braking minimum."
 
 "So we arrive at Wask-ki at full speed."
 
@@ -25,7 +25,7 @@ Petryn is in the payload bay when I find him, clipping the salvaged MK2 equipmen
 
 "What have you got?" I ask.
 
-"Good news first, man." He holds up a length of silver tubing in cold-rated wrap. "Your freeze lines and ours are the same spec. Diameter, fittings, insulation, all of it. Argon don't retool. I got six meters of spare in the salvage. Enough to bypass your seam and then some."
+"Good news first, man." He holds up a length of silver tubing in cold-rated wrap. "Your freeze lines and ours are the same spec. Diameter, fittings, insulation, all of it. Argon don't retool. I got twenty feet of spare in the salvage. Enough to bypass your seam and then some."
 
 "That's the first good news anyone has said out loud today."
 
@@ -35,7 +35,7 @@ Petryn is in the payload bay when I find him, clipping the salvaged MK2 equipmen
 
 "In the meantime I gotta take the loop down to splice it. Five hours, maybe six, with no cold goin' into that wall."
 
-I run the numbers in my head. Five hours with no cooling puts the wall somewhere around minus forty-eight.
+I run the numbers in my head. Five hours with no cooling puts the wall somewhere around minus forty-eight degrees.
 
 "They'll stir," I say. "They won't swim. Swimming starts at minus thirty-two, and we're not going near it."
 
@@ -175,7 +175,7 @@ At hour five and forty minutes, Petryn says, "That's the last clamp." Cold goes 
 
 It takes most of a day to get fully back to cold. Nobody suggests leaving.
 
-"Tank 2-E, minus fifty-five," ARACCSIM says.
+"Tank 2-E, minus fifty-five degrees Celsius," ARACCSIM says.
 
 Marsh has ARACCSIM push a new alarm band to the cruise control, since LSI-ASM&C can't be argued with, only instructed.
 
