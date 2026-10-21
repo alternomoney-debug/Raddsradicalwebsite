@@ -17,7 +17,7 @@ She turns the screen toward me. A graph, flat as a tabletop for nearly its whole
 
 "ARACCSIM," I say. "Numbers. Short version, and I'm going to pretend I didn't hear the long one."
 
-"Tank 2-E wall temperature has risen four point one degrees over the past eleven days. Current reading, minus fifty point nine. Rate of rise is increasing."
+"Tank 2-E wall temperature has risen four point one degrees over the past eleven days. Current reading, minus fifty point nine degrees Celsius. Rate of rise is increasing."
 
 Minus fifty point nine.
 

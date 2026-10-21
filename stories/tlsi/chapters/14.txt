@@ -151,7 +151,7 @@ Nothing. Not one tunnel. Not even a scratch.
 
 That's most of a day. I'll spare you the middle of it.
 
-We eat at some point. Real food, not tube food, the arms delivering meals with the same quiet efficiency they do everything. The cream sauce on today's portion has an undertaste I associate with home. You don't notice it for years, and then you're trillions of miles from it and notice it constantly.
+We eat at some point. Real food, not tube food, the arms delivering meals with the same quiet efficiency they do everything. The cream sauce on today's portion has an undertaste I associate with home. You don't notice it for years, and then you're trillions of kilometers from it and notice it constantly.
 
 I don't say anything about that. I just eat.
 
@@ -183,7 +183,7 @@ I push my glasses up. "I have a, uh, small three."
 
 He stops chewing.
 
-"In the tank, they were slow. I put 'slow' in the log with a question mark. I should've put 'cold.' The tank wall is at minus eighteen, the freeze lines have been on for days, and the loss rate dropped the minute they came on." I look at the slide rack. "Everything slows down when it's cold. That's not science, that's just being a cell. So how cold before it stops?"
+"In the tank, they were slow. I put 'slow' in the log with a question mark. I should've put 'cold.' The tank wall is at minus eighteen degrees, the freeze lines have been on for days, and the loss rate dropped the minute they came on." I look at the slide rack. "Everything slows down when it's cold. That's not science, that's just being a cell. So how cold before it stops?"
 
 "ARACCSIM," I say. "At minute twenty-six, I asked if that was the freeze lines, and you said insufficient data."
 
@@ -437,7 +437,7 @@ The weight goes out the way it came in, a lean, then less of a lean, then none. 
 
 It takes five hours and forty minutes for the last wall to reach minus fifty-five. Neither of us suggests leaving. We take turns reading the numbers out loud, because they feel better said: minus twenty-two, minus thirty, minus forty-one. At minus fifty I stop being able to sit still, so I hang in my harness and watch the number like it owes me something.
 
-"Tank 2-E, minus fifty-five," ARACCSIM says. "All tanks at target."
+"Tank 2-E, minus fifty-five degrees Celsius," ARACCSIM says. "All tanks at target."
 
 "Reserve loss rate."
 
@@ -517,7 +517,7 @@ I think about the SRV, already a dot, heading home ahead of us with everything t
 
 I think about Jinzhou, who went out on a hull he wasn't trained for, flew us up with a piece of the ship through his arm, and has declined to discuss the arm twice.
 
-I push my glasses up one more time. Look over at Jinzhou, who's already in his berth, straps done up, with the composure of someone who's decided the doing is easier than the thinking about the doing.
+I push my glasses up one more time. Look over at Jinzhou, who's already in his berth with his straps done up. He's decided the doing is easier than the thinking about the doing. He's usually right.
 
 "Hey," I say.
 
