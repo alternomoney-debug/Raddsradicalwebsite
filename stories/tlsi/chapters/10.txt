@@ -183,6 +183,8 @@ I log it under both our names.
 
 "Hold position," I say. "We're going to forty-five."
 
+The vibration through the floor has gone from a hum to something with opinions. I put it down to the weight of the probe on the cable. It's a good theory. Its main quality is that it was the first one I thought of.
+
 ---
 
 At forty-three minutes the hull makes a sound.
@@ -287,13 +289,9 @@ I go out on all fours. Standing up on a hull in the dark is a decision for peopl
 
 The junction bracket is aft starboard, where ARACCSIM said. The cable is wrapped twice around it, which is a place cable has no business being, and I don't spend long wondering how. Three hundred meters of anything hung off a ship that's busy burning is going to find something to hold onto.
 
-Both paws, unwinding the loop. The winch strains against it. I take that as encouragement.
+Both paws, unwinding the first loop. The winch strains against it. I take that as encouragement.
 
-The cable counter on my suit display twitches, then starts to move.
-
-"Clear," I say. "Winch it."
-
-That's when I see the line.
+The first loop comes off clean. Then I see the line.
 
 Thin. White. Crossing the dark off my port side, from somewhere aft toward somewhere that isn't the shield. A cell that didn't get the memo. I know what it is before I know that I know, and what I hear is Kalen, from a demo bay that feels like a different life: Alarm in four seconds. You'll want to turn your ears down.
 
@@ -301,17 +299,91 @@ I turn my ears down. Inside the helmet, where nobody can see.
 
 The flash is bigger than the one in the tube. I brace for the floor to jump, for the thud with all the air squeezed out of it.
 
-Nothing comes.
+Nothing comes. The loudest thing I've ever watched happens in complete silence, and I stay crouched there a second too long, braced against a noise that isn't coming.
 
-That's the thing I remember afterward, not during. It didn't sound the way I expected. It didn't sound like anything. The loudest thing I've ever watched happens in complete silence, and I stay crouched there a second too long, braced against a noise that isn't coming.
+I make myself look back at the bracket. The second loop is hooked over the top of it, and the only way to lift it clear is from above, with both paws and some leverage, which means standing.
 
-I make myself look back at the counter on my suit display. The counter is moving. The counter is the job.
+I stand. Earlier I called that a decision for people with more courage and less sense. I'll let later-Ethyn work out which one I'm short on.
 
-So I don't see the locker. I feel it. A jolt up the tether and into my teeth, from my right side, a vibration with almost a voice in it, and then the hull is somewhere it shouldn't be, and the tether is the only thing that agrees with me about which way is up.
+Standing gets me a better view, which is the trouble with a better view.
+
+The cloud tops were supposed to be below us. I watched them for forty minutes on three different screens, copper-colored, flat, and politely underneath. They are not underneath. There's a pale ceiling about a hundred meters over my head, lit from below by our own fireworks, and I'm standing under it like a guest in somebody's lamp.
+
+Okay. Deduction. The layer is above us. We were above the layer. So we've been going down, steadily, for a while, in a ship that was supposed to be holding, and nobody said anything, which means nobody knew. Jinzhou would have said.
+
+"Jinzhou," I say. "What's our altitude?"
+
+"Holding."
+
+"Are we? Because I'm looking at the cloud layer, and it's over me."
+
+A pause. Keys. A longer pause.
+
+"ARACCSIM," Jinzhou says.
+
+"Altitude loss exceeds projected drift by three hundred and ten meters," ARACCSIM says. "Displayed on secondary panel four."
+
+"I have been watching the winch," Jinzhou says.
+
+"I told you to watch the winch."
+
+"That does not make it a good plan."
+
+I look at the orange. It used to be a ceiling a few meters out. It's at arm's length now, and it isn't regular anymore. The pulses are coming ragged, one motor late, another early, and I think I know why. Every cell leaves its plate into thicker air than the timing was built for. A cell that leaves late goes off in the wrong place. The shield is a gap with fire in it, and the fire has stopped keeping time.
+
+"Climb," I say. "Climb as soon as, as soon as..."
+
+"Cable first," Jinzhou says. "If we climb with it fouled, it takes the winch off the wall."
+
+"Cable cut is available," ARACCSIM says.
+
+"No." It comes out faster than I mean it to. "No. Everything we came for is on the end of that cable. I've got it. Give me, uh. Give me one minute."
+
+I get both paws under the second loop and heave.
+
+Something goes off on the rail beside my knee. Not a flash. A crack, small and sharp, with the whole atmosphere behind it, and I understand that the silence earlier was a luxury of thin air and the air is not thin anymore.
+
+That wasn't the shield. That was a cell. A motor dropped it wrong, and instead of going off out ahead of us where it's supposed to, it went off on us.
+
+Another, off my shoulder. A thump through the suit, like a door closing on my arm from the other side. Another on the bracket. Ping. Ping. Ping-ping. The hull sounds like a tin roof in a hailstorm, if the hail were on fire and held a grudge.
+
+The motors are misfiring. Not just six now, all of them. Every ragged pulse sheds a few cells wide, and every cell that goes wide ends up on the hull, going off along the rail in small, bright, personal explosions.
+
+The ship is getting lit up. That's the only way I can put it. Little bright pops all along the rail, tracing the hull, like someone testing a string of lights where every bulb is a mistake.
+
+The loop is heavier than it looks. I lean into it.
+
+"Come on," I say. "Come on, come on, come on..."
+
+It clears the bracket. The counter on my suit display jumps from two hundred and ten to one eighty-eight in one go and keeps falling.
+
+"Clear!" It cracks in the middle. "Clear! Winch it. Winch it now!"
+
+"Winching," Jinzhou says.
+
+That's when the panels go.
+
+They're thermal covers, sheet metal the size of doors, bolted flat over the tank housings aft of me for exactly this part of the trip, and I watch them lift one after another like a deck of cards thumbed from the edge. They flip, catch the orange, and go tumbling past. Tank 2-E's goes first. I know it's 2-E because the label is stenciled on the underside in letters big enough to read from a hull, and I read it. Of course I read it.
+
+"J-Jinzhou. The tank covers. They're coming off. All of them. 2-E is, 2-E is bare."
+
+"Understood," Jinzhou says. His voice has changed. It's still level, but it's level the way a table is level when someone's standing on it. "Ethyn. Come in. Now."
+
+"Coming."
+
+I turn toward the airlock. That's when I see another one.
+
+Low. White. Coming in across the hull from the port side, fast, and it isn't headed for me. It's headed for the locker. The EVA tool locker on the port rail, the one motor six had a go at earlier, the one ARACCSIM called minor.
+
+The cell takes the locker's last bracket. It goes off with a flash and a crack I feel in my teeth, and the locker leaves the rail straight up, like a lid leaving a pot, turning end over end against the orange. Then it comes down on a line that, I notice, includes me.
+
+I have time for exactly one thought.
 
 Amazing, I think.
 
 It's the last word I've got, and it's still the right one.
+
+The locker clips me on its way by.
 
 Then I don't remember anything for a while.
 
