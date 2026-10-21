@@ -1,0 +1,186 @@
+
+"Dr. Vasek," ARACCSIM says. "All crew are now awake. Eleven days to Wask-ki. Restart window opens in two hours."
+
+I'm hanging in the doorway of the sleep bay with a cup of the ship's idea of coffee, which someone has handed me and I have not yet identified. Behind me, four berths are open and the ship is full of the sound of people trying to do the first-wake things politely. Petryn is stretching his arms in a way that suggests he's going to need a minute. Marsh is already dressed. I haven't seen her do it. She just happens to be wearing the correct clothing at all times, like a very small government.
+
+"Thank you," I say. "I'd like to formally protest the timing."
+
+"Noted. The window does not move."
+
+"It never does. That's what makes it a window and not a door."
+
+A very short pause, with the flourish in it. "That is not a distinction I would have drawn."
+
+I drink the coffee. It has been two years and some months since the last time I was awake with everyone, and in that time I've had a lot of opinions about what this morning would feel like. I'd guessed dread. It isn't dread. It's closer to a quiet where the numbers have all been said, and nobody has any left to add.
+
+---
+
+We hold the briefing in Lab A because it's the room with the whiteboard. Nobody says that's why. Marsh floats to the head of the table, if a table with no gravity can be said to have a head, and clips a tablet to the edge, and says, "I will state the plan, and then I will state the problem, and then we will be unpleasant to each other until we have a better plan."
+
+"love it," Maslin says.
+
+"The plan is as follows. Cold restart of the Phengomotor stack. Twenty-two hours of warming. The spin motors run rough for the first six. Burn begins at hour twenty-two and runs for twenty-five. Total, forty-seven hours from the start of the thaw to the end of the burn."
+
+"The problem," Jinzhou says.
+
+"The Asicell in the aft feed line and the motor housings are dormant. They revive on thaw. ARACCSIM's estimate for revival is fifty-one hours after the thaw begins. Plus or minus six."
+
+I do the arithmetic in front of everyone. I don't mean to, but I don't hide it. "Forty-seven against fifty-one. A margin of four hours. At the bad end of the range, the Asicell wake at forty-five."
+
+"And the burn is still running," Petryn says.
+
+"With two hours left," I say. "In a stack with a live organism in the feed line whose entire job is to eat the Phengoclept."
+
+Nobody says anything. It's not the silence from the cold shutdown, the one with the floor missing. It's the one you get when a room full of people has all looked at the same number from different sides and found the same face.
+
+"if it wakes early we lose the burn," Maslin says. "and then its the very fast hello."
+
+"Please don't call it that."
+
+"you called it that"
+
+"I called it that in a different tone."
+
+"Dr. Vasek," ARACCSIM says. "The revival estimate has not changed."
+
+"I'd have been astonished if it had."
+
+Jinzhou has been quiet for about four minutes, which for Jinzhou is not unusual, but he's been quiet in the particular way where his ears are tilted back and his eyes are moving along an invisible line. He raises one paw.
+
+"The thaw does not have to be uniform," he says.
+
+Everyone looks at him.
+
+"LSI-ASM&C starts the warming from the stack as a whole because that was the safest instruction to write. It does not have to." He goes to the whiteboard and takes the pencil and draws the ship, very flat, a long rectangle, with the motors at one end. His line is as clean as everything else about him. "Revival begins when the housing warms. The Asicell are in the aft end. If we thaw the forward manifolds first, and bring the aft end up last, the clock for the Asicell does not start at hour zero. It starts at hour five or six."
+
+"That moves the margin," Marsh says.
+
+"By about five hours. Revival would then be at fifty-six, plus or minus six. At the bad end, fifty. Against forty-seven."
+
+"Three hours in the worst case," I say.
+
+"Nine in the middle."
+
+"The spin motors," Petryn says. He's already leaning in. "Man, that's the part I don't like. Those first six hours, the stack runs rough on a uniform thaw. If we thaw it uneven the stack's gonna be lopsided, one end warm, one end cold. That's gonna shake."
+
+"How much?"
+
+"I don't know yet. I got a feelin' it's gonna sound like a washing machine tryin' to leave the building."
+
+"Can you tune it?"
+
+"I can tune it. I can't promise to tune it fast."
+
+"Then it's a trade," Marsh says. "Five hours on the Asicell. Against a rougher first six, with a risk of damage to the housings if the stack walks itself loose." She looks at the tablet, and then, in a way I'm not ready for, at me. "Dr. Vasek."
+
+I'm holding the coffee. It's cooled off into something even worse.
+
+"Under the Initiative's chain of authority," she says, formally, in the same voice she uses to read wall temperatures, "the primary scientist is deceased. The secondary scientist holds the decision on any matter concerning the Phengoclept or its antagonist. I would like to hear it from you."
+
+I want to say that I'm a study guide author. I want to say it so badly my ears go flat, and it's in my mouth, right there, practiced, ready. *I'm a study guide author, not certified for anything.* It's been a good line. It's gotten me out of a lot of rooms.
+
+But nobody in this room is going to let me out of it, and that isn't cruelty. It's something else. They've each seen the other three versions of me, the one in the cold, the one in the lab, the one on the cable. They're not asking what I am. They're asking what I think.
+
+I think about every time someone decided something for me. Y'shari and her clause. A clause number I memorized for no reason except that it was the only paperwork I ever got. The facility, the launch, a dormitory with a door that opened on me and nobody else. I think about how I never said yes to a single piece of this. Not the mission, not the ship, not the part where I woke up and everyone I'd trained with was dead.
+
+I was never asked.
+
+"Hm," I say. "Give me a second."
+
+I go to the whiteboard. I look at Bejors' lines, and at the pencil strokes under them, and at my little *47 / 51 ± 6*, and at Jinzhou's clean flat rectangle of a ship. Then I do the thing I've been putting off since the first time I stood in this room. I take the eraser, and I don't touch her lines. I erase the corner where my own numbers are, and I write them again, bigger.
+
+*47 / 56 ± 6.*
+
+"Forward first," I say. "Thaw the aft end last. Petryn tunes the stack. If it starts walking, we stop and reassess, and I'll own that call too." My voice doesn't shake, and I'm a little offended by that. "Yes. I'm saying yes. Put it in the log."
+
+"Logged," ARACCSIM says. "Authority registered, Dr. Vasek."
+
+"Say it again for the record," Jinzhou says.
+
+"I said yes."
+
+"I know." The flat voice, the monotone. Under it, for half a second, something that on anyone else I'd call pride. "I wanted it twice."
+
+I'm still holding the eraser. I put it down very carefully, so it doesn't float away, which feels like the most responsible thing I've ever done.
+
+---
+
+There are five stations. We take them without anyone having to assign them.
+
+Marsh flies, which on a ship with nothing to steer is a lot of watching an attitude indicator. Petryn goes aft to the engine gallery, because he's not going to trust a vibration he can't feel with his own feet. Maslin takes the fuel readout, which has one job and no room for him to be funny at it. Jinzhou is at the software bench in the cockpit with a screen of code that looks like a very long apology. I'm in Lab A, in front of the thaw map and the Asicell tracking, because I'm the only one on the ship who knows what a dormant Asicell is supposed to look like when it's about to stop being one.
+
+"Thaw sequence initiated," LSI-ASM&C says, in the voice of a man reading a parking ticket. "Reason code, crew authority."
+
+The forward manifolds start to warm.
+
+For an hour, nothing happens, which is the best news I get all day. The numbers climb the way a number is supposed to. Minus fifty-five degrees Celsius. Minus fifty-two. I stand in front of the board and say them out loud, because they're mine, and Maslin says, over the comm, "you dont have to read the numbers to us," and I say, "I know. I like how they sound."
+
+At hour three, I explain it, mostly for something to say. "Phengomotors work in three phases. Attract, pulse, scrape." I'm doing Kalen's demo in my head, the one that started confusing and ended with a very good safe version. "The cells want to go where the motor tells them. That's the pull. Then the pulse. Then the third part, where the spent cells get scraped off the stack and thrown out the back."
+
+"And if the scrape doesn't work?" Maslin asks.
+
+"Then the cells are still awake." I keep my voice level. "They go looking for the nearest thing that smells like home. Carbon dioxide. That's why we do this out here, eleven days away, and not anywhere within a long way of a planet that's full of it."
+
+"oh," says Maslin. "thats a great reason."
+
+"It's the best one I've got."
+
+At hour five, the stack starts to tick.
+
+It begins as a faint sound through the bulkhead, a rhythm, not quite steady, like a clock that's been told it's late. *Tick.* A pause. *Tick.* Then two together, then one, then something between. The spin motors, running rough, the way I was told they would on a cold start. I'd filed that warning under later in the server room and later has now come to get me.
+
+"That's the rough part," Petryn says, in my ear. His voice is warm and a little breathless. "I'm on it, man. It's just the housing talkin'."
+
+"It sounds like a clock."
+
+"Sounds like a bad clock."
+
+"It sounds like a clock in a hurry."
+
+*Tick. Tick-tick.* The ship is counting. I don't know what it's counting toward, and I know exactly what it's counting toward, and the second knowledge does very little for the first.
+
+At hour five and forty minutes, ARACCSIM says, "Aft housing warming initiated."
+
+"Clock for the Asicell, now," Jinzhou says, flat as ever. "Hour five and forty. Revival estimate, fifty-six, plus or minus six."
+
+I write it on the board anyway, because I need the handwriting. Then I turn to the tracking panel, and watch a row of dormant dots in the motor housings, and do the only job I've got. I look at them very hard, in case that helps.
+
+It doesn't. But it's something to do with my eyes.
+
+---
+
+Hours six through twenty are the longest and shortest of my life.
+
+The ticking settles, and then slowly eases into a hum, and the hum gets smoother, and Petryn stops sounding like a man bailing out a boat. Marsh reads the stack temperature every ten minutes. Maslin refills a tube of something and sets it beside me without a word. I eat it without looking at the label, and it's not the green one, and I'm a little sad about that.
+
+At hour twenty, Jinzhou floats into Lab A and holds on to the rail beside me and says nothing for a while. Then: "The arm is fine."
+
+"I didn't ask."
+
+"You were thinking it."
+
+"I was thinking about the stack."
+
+"You were thinking about the arm, and then the stack, in that order." He looks at the whiteboard. "I am telling you before you ask, so you do not have to."
+
+I take that, and I fold it up, and I put it somewhere I'll be able to find it.
+
+"Thank you," I say.
+
+"It was not a favor."
+
+"I'm going to treat it like one."
+
+He doesn't say anything to that, which is how I know I'm right.
+
+At hour twenty-two, ARACCSIM says, "Phengomotor stack at operating temperature. All housings within tolerance. Burn may begin at crew authority."
+
+Marsh's voice, formal and very slightly unsteady: "Dr. Vasek."
+
+I look at the board. Bejors' lines. My pencil strokes. Maslin's one straight stroke, near the end of the row. My own *47 / 56 ± 6* in letters bigger than I'd have dared a week ago.
+
+I've said it once already. It turns out I can say it twice.
+
+"Light them," I say.
+
+*END OF CHAPTER TWENTY-SIX*
