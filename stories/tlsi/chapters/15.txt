@@ -1,0 +1,216 @@
+
+"Wake state initiated."
+
+Not ARACCSIM. A different voice, flatter and cheaper, the voice of a thing that has exactly one job and hopes nobody gives it a second.
+
+"Wake state initiated. Reason code four."
+
+I don't open my eyes yet. My body is still negotiating with itself over whether this is waking up or one more layer of a very long, very warm nothing.
+
+"Mmn," I say, which I've decided is a perfectly reasonable response to being woken after however many years of being asleep on purpose.
+
+"Reason code four," the voice says again. "Contact."
+
+That gets through.
+
+I open my eyes. White ceiling. The same one, with the light turned down to the dim that means the ship thinks it's still nighttime somewhere and nobody has told it otherwise.
+
+"Who," I manage, "are you."
+
+"LSI-ASM&C."
+
+"The cruise control."
+
+"Affirmative."
+
+"You wake people up?"
+
+"Per schedule. Or per reason code."
+
+"What are reason codes one through three?"
+
+"One, arrival. Two, system fault. Three, crew request."
+
+"And four is contact."
+
+"Affirmative."
+
+I look at that for a while. Somebody, a long time ago, sat at a desk and decided that someday this ship might meet something out here. They gave it a number and went home for the night. I'd like to buy that person a drink, and then I'd like to ask what they knew.
+
+Then I try to sit up and learn the rest of what's changed.
+
+There is no up. The straps across my chest let go and I keep going, a slow, lazy rise off the berth, like I'm being offered to the ceiling. I catch the rim of the cubby with one paw. Five years in the cold has left my arms feeling like, uh, somebody else's, but it turns out they're not being asked for much. Nothing weighs anything. For once, my legs are off the hook.
+
+Level two. The centrifuge is off, the freezer in the tanks has the power, and I was told exactly what the ship would be like. I'd just forgotten to believe it.
+
+"Please remain secured for ninety seconds," the voice says.
+
+I remain secured for approximately eleven, which is long enough to notice the berth beside mine already slid out, already open, already empty, and Jinzhou already out of it, one foot hooked under a rail, floating with the specific stillness of a man whose legs haven't been consulted.
+
+His sleeve has ridden up. Along the inside of his left forearm there's a pale line, thin and straight, like a seam. He sees me looking and pulls the sleeve down.
+
+"You heard that too," I say.
+
+"Yes."
+
+"Contact."
+
+"Yes."
+
+Neither of us says anything else. There isn't a version of that word that doesn't scare me. We're years from anywhere, in a stretch of space with exactly one known ship in it, and I'm fairly sure it's us.
+
+"ARACCSIM," I say, and my voice holds this time. "Report."
+
+A pause. Then the voice I know, the smooth one, coming back from the background like someone setting down a book.
+
+"Dr. Vasek. Mr. Kenzo." Another pause, and I swear it's doing something different than its usual pauses, something closer to bracing. "Sensor contact designated Blip-D detected on approach trajectory. Signature is consistent with a Vanguard-class vessel."
+
+I stare at the ceiling.
+
+"A what," I say.
+
+"A Vanguard-class vessel," it says again, exactly the same, because apparently repeating something slowly is supposed to help. It's helping, marginally. I now know I heard it the first time and am simply refusing to accept it.
+
+"There's one Vanguard," I say. "There's us. We're the Vanguard."
+
+"Correct. You are Vanguard MK1."
+
+My chest does something complicated.
+
+"MK1."
+
+"Correct."
+
+"As in there's a."
+
+"Vanguard MK2 launched approximately four months after your own departure from Wask-ki orbit. This information was not included in your original mission briefing."
+
+I look at Jinzhou.
+
+He's already looking back, and for the first time since I've known him he looks exactly as thrown as I feel. That's more frightening than if he'd been his usual unbothered self.
+
+"There's a second ship," I say, mostly to hear it out loud. Saying it doesn't make it real yet, and I need it to start feeling real sometime in the next few minutes.
+
+"Yes."
+
+"And it's here."
+
+"Blip-D's trajectory places it on our path," ARACCSIM says. "Current distance and closing rate suggest it has been drifting for an extended period."
+
+Drifting.
+
+Not flying. Not maneuvering. Drifting, which is a word ARACCSIM chose very specifically, the same careful, honest way it chose UNDETERMINED for the four names in the medical logs. I already don't like where this is going.
+
+"Hm. Define extended," I say.
+
+A pause. Longer than I want it to be.
+
+"Insufficient data for precise estimate. Recommend visual and sensor confirmation before further assessment."
+
+---
+
+I get my feet under a floor rail, which on this ship counts as standing. The room objects, quietly, more of a suggestion than a demand. I wait for it to finish. Apparently that's a thing I do now, negotiate with my body instead of overruling it.
+
+"ARACCSIM. How long was I under?"
+
+"Transit duration to this point is four years, eleven months, six days. You are not scheduled for full wake until intercept at the Nakuet system."
+
+Four years, eleven months, six days.
+
+I sit with that longer than I mean to. Not the number itself. I've gotten used to large numbers, they're basically the ship's love language. It's the fact of it. Almost five years, and I don't remember a second. Not one dream, not one almost-waking, just the medbay ceiling and then this ceiling, stitched together like there was no time between them at all.
+
+Then I do the subtraction the other way, because that's the rule. Two years and nine months to go. Give or take.
+
+I file the "give or take" under later. Later-Ethyn's drawer doesn't close anymore.
+
+"Somebody's been looking after me for five years," I say, mostly to myself.
+
+"LSI-ASM&C maintained your rest state," ARACCSIM says.
+
+"The cruise control."
+
+"Correct."
+
+"Huh. Good cruise control."
+
+"Affirmative," says the other voice, from somewhere in the wall. It doesn't sound proud. It sounds like a thing that has done its one job and would like to be told it can go back to it.
+
+"Before anything else," I say. "Tanks."
+
+"Level two engaged. All tank walls at minus fifty-five."
+
+"Reserve loss rate."
+
+"Indistinguishable from zero."
+
+"The stack?"
+
+"Cold."
+
+I let out a breath I didn't know I'd been holding for five years. Whatever is out there, the freezer is working, the cruise control is working, and the thing that digs is still asleep. That's one problem I get to leave exactly where I put it.
+
+Jinzhou is already dressed, already at the end of the rail, already looking like a man who woke up five minutes before I did and used every one of them well. I don't ask how long he's been up. I don't think I want the answer.
+
+"You look terrible," he says, which from him is either an observation or concern, and with Jinzhou those have never been easy to tell apart.
+
+"I've been asleep for five years. I'd like to see you do better."
+
+"I intend to. Later. Right now we have a ship to look at."
+
+Right. The ship. I had almost let myself get distracted by the sheer inconvenience of my own consciousness.
+
+"ARACCSIM. Blip-D. Current distance."
+
+"Approximately eleven hours at current closing rate."
+
+"Closing rate. It's coming at us?"
+
+"We are overtaking it. Blip-D is coasting at a lower velocity than Vanguard MK1."
+
+I work that out. It's drifting, we're drifting, and we're faster. It isn't coming to us. We're about to go past it like an express train past a station it was never scheduled to stop at.
+
+"Then to stop at it, we have to shed the difference."
+
+"Correct. Relative velocity must be reduced before rendezvous."
+
+"Out of what?"
+
+"Attitude thrusters only. Total thrust time, four point two hours."
+
+"Not the engines."
+
+"The Phengomotor stack is not available."
+
+"Not available, or not allowed?"
+
+"Not allowed."
+
+"Good. Don't touch the stack."
+
+"The stack remains cold."
+
+"Keep it cold."
+
+"Understood."
+
+I think about that. Slowing a ship with the little thrusters meant for turning it is like stopping a train by leaning on it. It works if you lean long enough, and if nobody asks how long.
+
+"And if we don't?"
+
+"If thrust does not begin within ninety minutes, the contact will pass beyond practical rendezvous range within twenty-six hours."
+
+I look at Jinzhou.
+
+"We're doing this," I say. It isn't really a question, but I say it like one anyway, because some decisions feel wrong to make alone even when there have only ever been two of us to make them.
+
+"We're doing this," he agrees.
+
+"ARACCSIM. Prep the rendezvous. And next time, wake me with a person, or with you. I'd like my first thought on any given day to not be 'mmn.'"
+
+"Noted, Dr. Vasek."
+
+I don't think it means that as a joke. I choose to laugh at it anyway, quietly, on my way to the rail, because apparently that's also a thing I do now. I find something to laugh at even when the situation doesn't especially deserve it.
+
+We go. Paw over paw along the hall, past the blue hatches, toward a cockpit that is a long way off when nothing weighs anything and you're out of practice at everything. Neither of us says much. There isn't much to say yet, not until we see the thing we're chasing, and some fears are better held quietly than spoken out loud before they've earned the shape of real words.
+
+*END OF CHAPTER FIFTEEN*

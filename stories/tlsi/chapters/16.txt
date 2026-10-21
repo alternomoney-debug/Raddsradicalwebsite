@@ -1,0 +1,154 @@
+
+Attitude thrusters don't push. They tap.
+
+Every few seconds there's a small, polite knock through the seat, and a little more of the difference between us and Blip-D is gone. It's like stopping a train by leaning on it, and the train has noticed. I check the stack every twenty minutes. It stays cold. I check again, because I'm Ethyn.
+
+Blip-D resolves on the main screen about two hours in. The first thing I feel is relief, because at least it's a ship, and not some other, worse category of thing my brain had been quietly preparing for.
+
+The second thing arrives about four seconds later, once I look at it properly.
+
+"That's damage," Jinzhou says. Flat. Certain.
+
+"Yeah."
+
+Two of the external fuel tanks are gone. Not jettisoned clean. Torn away, with jagged edges where smooth housing should be. A third tank, the top one, is still there but scorched, a long dark stain running down the hull from it like something bled out and dried.
+
+No lights. No visible running systems. No rotation, either. A dead ship should keep whatever spin it had, and this one isn't keeping any. Either its centrifuge never started or something stopped it, which is its own kind of information.
+
+"ARACCSIM," I say. "Life signs."
+
+"Unable to determine remotely. Vessel's external sensor array appears non-functional or offline."
+
+"Comms."
+
+"No response on any hailed frequency."
+
+I look at Jinzhou. He looks back, and for once neither of us has anything clever to say about it.
+
+"We're going over," I say.
+
+"Yes," he says. "We are."
+
+---
+
+Docking takes longer than it should. Blip-D isn't holding still the polite way a ship is supposed to. It's drifting slow and uneven, with a tumble you could miss if you weren't looking, and Jinzhou has to match it by feel. ARACCSIM has no procedure stored for this. Apparently nobody at Argon's LSI division planned for us doing it.
+
+My job is to read out distances. I do it in a calm, slow voice, because it's the one part of this I'm sure I can do right.
+
+We get a hard seal eventually. The airlock cycles.
+
+The hatch opens into a hallway that is, immediately, wrong. I don't have to be a doctor or an engineer to feel it in my chest before my brain catches up and gives it a name.
+
+It's dark. Not dim. Dark, the total kind, our helmet lamps the only light in the corridor, and the readout on my wrist confirms what the dark is already saying.
+
+No pressure.
+
+"Depressurized," I say, mostly for the recording, mostly because saying it out loud makes it slightly less enormous. "Whole hallway."
+
+"Confirmed on my end too," Jinzhou says.
+
+We pull ourselves along the rail, slowly. The lamps cut narrow cones through the black and catch debris here and there, small stuff, drifting, nothing anchored. The ordinary leftovers of a ship that stopped being maintained a while ago.
+
+"Hm. Suits," I say.
+
+"What."
+
+"There's no suit cache along this hallway. There should be one. Every hallway on ours has an emergency cache somewhere."
+
+We find where it should be, an open panel with empty racking inside. It isn't the emptiness of something that never held anything. It's the emptiness of something that did, and doesn't now.
+
+"They took them," Jinzhou says.
+
+"Or used them. Or." I don't finish that sentence, because none of the ways it finishes are good, and I'd rather keep moving than sit here building worse and worse versions of what happened to whoever used to walk this hallway.
+
+---
+
+Deeper in, the passage ends at a bulkhead that doesn't want to open.
+
+It has a manual wheel, the kind you'd expect on a much older ship than this one, and it doesn't budge when I brace a foot on the rail and put my back into it. It isn't locked, exactly. Something is pushing back from the other side, which means something on the far side of this bulkhead still has air in it.
+
+"We need to, uh, equalize," I say. "Bleed some of ours across."
+
+Back at the collar, Jinzhou opens the valve on our side and lets MK1's air into MK2's hallway. Once isn't enough. We do it twice. ARACCSIM reports the cost in air, which I didn't ask for, and which is more than I'd like. The second time, I hear it even through the suit, a rush, the hallway finally agreeing to be a hallway with something in it besides vacuum.
+
+The wheel turns. The bulkhead opens.
+
+---
+
+Where the lab should be, going by our own ship's layout, there's a large open storage area. Dim, but not dark. Breathable, by the readout on my wrist. I pull my helmet off before I've fully thought it through, because I trust the number more than I trust my own patience right now.
+
+The air is stale. Cold. But it's air.
+
+There's furniture in here that doesn't belong in a lab. An actual chair, bolted down. A low table, and on the table, in what little light there is, a row of small pots.
+
+Plants.
+
+Alive. Green, or green enough, leaning toward the one emergency light still working overhead the way anything green leans toward whatever light it can find.
+
+Each pot is strapped to the table and capped with a little membrane, and from each one a wick runs to a bag of water clipped underneath. Somebody figured out how to water a plant in a ship with no down. Somebody cared enough to figure it out.
+
+Someone's been tending these. Recently, if the leaves are any indication, which means someone was alive in here recently enough to care whether something small and green kept growing.
+
+I don't say anything for a second. Neither does Jinzhou.
+
+We take a few ration packs from a nearby shelf, just in case. I'd feel better about it if I knew what the case was.
+
+---
+
+The dorms are worse, in a different way than I expected worse to look.
+
+Not damage. Not the hallway's kind of worse. This is garbage and salvaged junk netted down in bundles against every wall, blankets and stripped panel components and empty ration wrappers. It's the particular chaos of people living somewhere they were never meant to live this long, in a space that kept shrinking as things broke and nobody could fix them. Nothing gets thrown away when you don't know how long you'll need it.
+
+The berths are here. Three of them, set into the wall in their cubbies, oval, the same design as ours. Where the other three would be on our ship, there are desks instead, each with a terminal built into the surface, screens dark, nobody at any of them.
+
+"Three crew," I say. "Not six."
+
+"Smaller mission," Jinzhou says. "Makes sense. Leaner ship, leaner crew."
+
+All three berths are empty.
+
+Not the good kind of empty, the kind that means someone's up and about somewhere else on the ship. The kind that means nobody has used them in a long time. There's a skin of dust on every surface, the kind that takes years to cling. A few packs of folded clothing are shoved into two of the cubbies, like the berths turned into storage once whatever they were built for stopped being needed.
+
+"Jinzhou."
+
+"I see it."
+
+Neither of us says the actual thing out loud, the same way neither of us said it about our own crew at the very start of this. Some sentences don't need saying to be understood by both people in the room.
+
+We keep going.
+
+---
+
+Back through the storage room, back through the dark hallway, we come at last to a second bulkhead. It's smaller than the first, set into what has to be the base of this ship's cockpit module.
+
+"This one's clean," I say, running a glove along the seam. No dust, none of the grime that's collected everywhere else. Somebody has been maintaining this specific bulkhead, or at least touching it often enough that nothing gets the chance to cling.
+
+This one is sealed properly. Not pressure-locked like the first. This one was shut from the inside, deliberately, by somebody's decision, and nothing since has changed their mind about it.
+
+I knock.
+
+Nothing.
+
+I knock again, harder, three solid strikes with the flat of my paw against metal that doesn't want to give me anything back.
+
+"Hello," I say, which feels absurd the second it leaves my mouth. Calling hello into a dead ship is like calling into an empty house, except this house has plants somebody is still watering and berths somebody clearly stopped using on purpose.
+
+Still nothing.
+
+We pound together, both of us, a rhythm instead of a single knock, loud enough that if anyone is alive on the other side of that bulkhead, there's no version of this they could sleep through.
+
+I put my ear against the seam, which is a stupid thing to do with a suit collar in the way and does nothing at all, and I do it anyway. Some instincts don't care what's practical.
+
+There.
+
+A sound.
+
+Small. Metallic. Deliberate. Not the random settling of a dead ship shifting under its own weight. A *response*, someone on the other side doing the exact thing we just did back at them.
+
+Knock.
+
+Knock.
+
+Knock.
+
+*END OF CHAPTER SIXTEEN*

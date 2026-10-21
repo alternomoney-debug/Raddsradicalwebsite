@@ -1,0 +1,204 @@
+
+The knock comes back three times, evenly spaced, the same rhythm we gave it. Either whoever's on the other side has a sense of humor about this, or they've run out of better ideas too.
+
+"Somebody's alive in there," I say, to nobody, to the bulkhead, to the enormous fact of a second heartbeat out here besides mine and Jinzhou's. "First thing out here that's ever knocked back."
+
+"Confirmed," Jinzhou says. It's possibly the least necessary confirmation he's ever given me, since I heard it too, but I appreciate it. Said out loud, it's a thing that happened to both of us, and not something I imagined out of five years of wanting it to be true.
+
+I don't try the wheel again. Not yet. Whoever's in there sealed this thing on purpose. Pounding on it and demanding entry is exactly the wrong way to convince someone who has spent an unknown amount of time locked away from the rest of their own ship that opening the door to two strangers in EVA suits is a good idea.
+
+"ARACCSIM," I say instead, backing off from the bulkhead. "Talk to me. What do we actually know about this ship?"
+
+"Processing."
+
+I hate that word right now. It's out of proportion, I know. It's a computer telling me to wait. But waiting is the one thing I have no patience left for, outside a sealed door with a stranger's heartbeat on the other side of it, and no way to close the distance any faster than the distance is willing to close itself.
+
+"How long is processing?"
+
+"Unspecified. Data recovery from a passive burst is not instantaneous."
+
+"That's not an answer. That's a shrug wearing a badge."
+
+"Noted, Dr. Vasek."
+
+I don't think it's capable of sarcasm, and yet.
+
+---
+
+We drift back to the storage room while ARACCSIM works. Hanging in a dark hallway staring at a sealed door isn't a productive use of the next several minutes, and I need somewhere to hook a foot that isn't directly in front of the thing terrifying me.
+
+The plants are still there. Still green. I look at them longer than I need to, because it's easier than looking at anything else in this room. Easier than the empty berths through the doorway behind us. Easier than Jinzhou, who is holding very still, holding something in.
+
+"You okay?" I ask, because it seems like the thing to ask, even if I don't expect a real answer.
+
+"Define okay."
+
+"Fair. Rephrasing. Are you functional for the next ten minutes?"
+
+He unclips one of the pots and turns it slightly, like he's checking the soil, or checking something else entirely and using the soil as an excuse to give his paws a task. He runs a finger along the wick, then the membrane, then the water bag underneath.
+
+"Capillary feed," he says. "No pump, no gravity. It's good work." He's quiet for a moment. "Somebody kept these alive. Whatever else happened here. Somebody decided this mattered enough to keep doing."
+
+"Somebody who's still watering on a schedule," I say. "I couldn't manage that in a good year."
+
+"That's a person who hasn't given up. Whoever it is."
+
+I look at him.
+
+"You're doing the thing," I say, "where you say something that sounds like it's about the plants and it's actually about something else."
+
+"I don't know what you mean."
+
+"Sure you don't."
+
+He clips the pot back exactly where it was, careful, precise, the same care he uses for everything, and doesn't say anything else about it. I've decided that's its own kind of answer.
+
+"ARACCSIM," I say. "Transponder data. Lead with anything that isn't bad news."
+
+"Vessel designation confirmed via hull transponder data, recovered from short-range telemetry burst upon docking. Vanguard MK2. Launch date approximately four months following Vanguard MK1 departure from Wask-ki orbit."
+
+"Four months. So it's younger than us. Barely."
+
+"Correct, in terms of construction date. Vessel classification: cargo and resupply configuration. Crew complement: three."
+
+"Cargo," Jinzhou says. "Not a science mission."
+
+"Correct. Original mission parameters listed in transponder data indicate a resupply and support role for Vanguard MK1, with extended-duration capability."
+
+I sit with that for a second. Metaphorically. Nobody is sitting.
+
+"They were coming to help us," I say. "That's what this was. Not a second attempt at the same mission. A supply run. For us."
+
+"Available data is consistent with that interpretation."
+
+"How much can you tell me about what happened to them? Current status."
+
+A pause. Longer than I want.
+
+"Limited. The transponder burst contains only vessel registration and launch-configuration data. Original crew manifest, cargo listing, mission parameters as designed. This data is static. It reflects the vessel's condition and intent at launch, not its current state."
+
+"So you're telling me what this ship was supposed to be. Not what it is now."
+
+"Correct."
+
+"That's the difference between a résumé and a person," I say, mostly to myself. "You can read someone's résumé all day and still have no idea what kind of morning they're having."
+
+"I do not have a frame of reference for that comparison."
+
+"You're not missing much."
+
+"Comms," I say, pushing on. "Real comms. Can we talk to whoever's on the other side of that bulkhead?"
+
+"Negative. No functioning communication array detected aboard Blip-D. The transponder is a passive registration beacon, not a communication system. It broadcasts static identification data regardless of the vessel's operational status. There is no channel available for direct exchange."
+
+I let that land.
+
+"So we've got a number in the yellow pages," I say, "and the number goes to a disconnect line."
+
+"That is a reasonably accurate characterization," Jinzhou says, with an odd little burst of something almost like enthusiasm, gone again as fast as it showed up. He does that sometimes. Short flashes of feeling, there and gone before I can react to them.
+
+I don't say anything about it. I've learned not to.
+
+"Crew names," I say instead. "Does the manifest give us that much?"
+
+"Manifest data available. Corwin, M. Quartermaster. Okonjo, M. Pilot. Draven, P. Engineer."
+
+I say them out loud, slowly, like names I already know are going to matter.
+
+"Corwin. Okonjo. Draven."
+
+Three people. Launched four months after us, on a ship built to help us, that ended up out here torn open and dark and drifting, with exactly one of its rooms still sealed and defended from the inside.
+
+I think about the room where "Ethyn Vasek, Secondary Scientist" was a name I didn't know how to answer to yet. Waking up on our own ship with no idea what I was, only what the label said, only what the arms decided to feed me before I'd earned the right to ask questions. Three more people went through some version of that same blind arrival out here, except theirs came with whatever tore those tanks off instead of a coma-fog. I don't know yet which was crueler.
+
+"They didn't know about us," I say, working it out loud. "I mean, they knew we existed. They knew they were coming to resupply the Vanguard MK1. But they don't know what happened to us. They don't know four of our six are dead. They don't know it's just been me and Jinzhou this whole time."
+
+"Unknown," ARACCSIM says, correctly. It can't confirm what three strangers behind a bulkhead do or don't know, and I appreciate that it doesn't pretend otherwise.
+
+"And we don't know what happened to them," Jinzhou says. "Three crew launched. We don't know if three crew are still alive in there."
+
+"No," I say. "We don't."
+
+---
+
+We go back to the bulkhead.
+
+I hang in front of it for a while before doing anything. There's a version of the next few minutes where this goes well, and a version where it doesn't, and I haven't figured out which one I'm braced for.
+
+"I'm going to try the wheel," I say. "Slow. Give them time to see it moving, if they're watching."
+
+"Go," Jinzhou says.
+
+I brace a foot on the rail and put both paws on it. It's stiff, the stiffness of something that hasn't been turned in longer than it should have been, but it isn't locked. Not pressure-sealed like the first bulkhead. This one just needs convincing.
+
+I turn it. A quarter turn. I stop. Wait.
+
+Nothing pushes back from the other side.
+
+Another quarter turn.
+
+"Anybody in there?" I call out, loud enough to carry through the metal. "We're not, uh. We're not hostile. We're the Vanguard MK1. We've been out here five years. We just want to talk."
+
+Nothing for a second.
+
+Then, muffled, distant, definitely a voice, definitely a person. Words I can't make out through the bulkhead, but the *shape* of speech. Someone saying something back, urgent, fast.
+
+I turn the wheel the rest of the way.
+
+The bulkhead gives with a groan that sounds less mechanical and more like the ship exhaling something it has been holding for a very long time.
+
+It swings inward.
+
+The first thing I see, past the edge of the door, past the dim emergency lighting inside, is a shape kicking away from us fast, curled tight, defensive. The posture of someone who has spent a long time being ready for the worst version of this exact moment.
+
+"Whoa. Hey. Hey, easy," I say, paws up, which feels absurd inside an EVA suit but is apparently just what my body does. "We're not, we're friendly, we're."
+
+"You're MK1," the shape says. A voice. Rough from disuse, but sharp underneath it, quick, a voice that talks faster than it thinks and doesn't much care.
+
+"Yeah, MK1," I say. "Vanguard, if you want the long version. I wouldn't recommend the long version."
+
+A long pause. The shape hasn't moved any closer, but it hasn't retreated further either, which I've decided to count as progress.
+
+"How many of you," the voice asks.
+
+"Two," I say. "Just two. There's, uh. It's a long story. Two of us made it."
+
+"There were six of you," the voice says. Not quite a question.
+
+"Six," I say. "I was asleep for most of the subtracting."
+
+"And now theres two"
+
+"And now there's two," I agree. "It's a number I'd like to stop saying out loud."
+
+A pause. Longer this time, somebody on the other side of it deciding something important.
+
+"How do i know youre actually who you say you are-" the voice asks, then stops, restarts. "instead of, i dunno, instead of whatever else couldve been wearin a suit like that"
+
+It's a stupid question. I don't have a good answer prepared for it. It never occurred to me that being believed was going to be the hard part of any of this, and something in me, tired and worn down and five years deep, just snaps.
+
+"WHO ELSE WOULD HAVE THESE SUITS?" I yell, and I hear my own voice doing it and can't stop it. "ARGON ONLY S-SENT UP MK ONE AND, I GUESS, TWO! I'VE GOT A SHIP PARKED OUTSIDE YOUR HULL WITH OUR NAMES ON THE TRANSPONDER! WE HAVE THEE JINZHOU!"
+
+Silence.
+
+I'm breathing hard. I did not mean to do that. I don't think I've raised my voice like that since I woke up not knowing my own name. I hang there in the doorway, stupid and furious and completely unable to take any of it back.
+
+Jinzhou, beside me, doesn't say anything, which under the circumstances feels like the correct response.
+
+Then, from inside, a laugh.
+
+Short. Startled. Genuine.
+
+"Ok-" the voice says, "okay yeah fair enough- nobody fakes an accent like that"
+
+"I don't have an accent," I say, still too loud, still coming down off whatever that was.
+
+"everybodys got an accent to somebody" the voice says. "you can"
+
+And stops there, like the sentence ran out before it decided what it was actually offering.
+
+You can come in. You can trust us. You can put your paws down.
+
+I don't know which one it means. I don't think, from the way it trails off, that they know either.
+
+*END OF CHAPTER SEVENTEEN*

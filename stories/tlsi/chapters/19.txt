@@ -1,0 +1,98 @@
+
+Nobody actually decides to start working. It just happens, the way it always does with me and Jinzhou. The emotional part of a thing runs its course, the practical part quietly takes over, and somebody has to be the somebody, because standing around isn't accomplishing anything.
+
+"ARACCSIM," I say, once we're all still crowded into the cockpit but the air in the room has shifted into something closer to a meeting than a standoff. "I need you patched into whatever you can reach on this ship. Structural status. Anything."
+
+"Attempting connection now. Blip-D's systems are largely non-responsive. I am able to establish limited contact with residual power systems only."
+
+"Limited is better than nothing."
+
+"Agreed."
+
+Maslin is watching the exchange with an expression I can't place, somewhere between fascination and suspicion, like he's not used to hearing a ship's computer sound like it has opinions.
+
+"That thing's got a personality," he says. "Thats like- thats a weird flex for a spaceship but okay"
+
+"You have no idea," I say.
+
+---
+
+"Okay," I say, once ARACCSIM has confirmed what it can and can't reach. "Let's figure out what we're working with. Structural. Supplies. What's salvageable, what isn't. I don't want to decide anything about what happens next until I understand the shape of the problem."
+
+Maslin snorts.
+
+"Shape of the problem," he repeats. "Man you sound like every briefin i ever sat through before all this- i love that for you, truly, never change"
+
+"I'm trying to be organized about a crisis. Sue me."
+
+"Im not sayin its bad, im sayin its funny, theres a difference." He hooks himself into the seat that's apparently also his bed, arms folded, still radiating the restless energy of someone who hasn't fully decided we're not a threat, even if he's stopped actively treating us like one. "Go ahead, do your little assessment thing, ill just be over here, existin"
+
+Petryn is already drifting toward one of the dead terminals, unhurried, running a paw along its edge like he's greeting an old friend who may not recognize him anymore.
+
+"This one might still have somethin' in it," he says. "Local cache, even if the network's shot. Won't know till I try, though, and I don't wanna get anybody's hopes up before I know for sure. That's a bad habit. Gettin' folks hopeful before you got a reason to."
+
+"Take your time," I say.
+
+"Oh, I intend to," he says, almost amused, like the idea of rushing this particular task never occurred to him. "Rushin' a dead system just breaks it worse. Learned that the hard way, more than once."
+
+Marsh hasn't said much since her one question earlier. She's anchored beside what I now realize is a secondary console, smaller, tucked into the corner, the kind of station you'd only recognize as a flight interface if you already knew what you were looking for.
+
+"Dr. Vasek," she says, with a careful formality neither of the other two has bothered with. They dropped straight into first names. "May I ask what your ship's current fuel status is. I understand if that isn't information you're prepared to share with strangers."
+
+The question catches me slightly off guard. Not because it's a bad question. It's the correct question. It's how carefully she asked it, like she rehearsed the politest possible version in her head before letting it out.
+
+"You can ask," I say. "I don't mind sharing. We've got enough to get home. Barely. The barely comes with conditions, and most of them are cold. It's a, uh, long story, and I'd like to tell it in order. We weren't budgeting for extra passengers."
+
+"Cold," she says.
+
+"In order," I say. "I promise."
+
+"I understand." She nods once, precise. "I don't want to presume anything about what's possible. I only wanted to understand the constraints before anyone starts discussing solutions that might not be feasible."
+
+"That's fair."
+
+"Marsh does the math before she does the feelins," Maslin says, from his seat, not unkindly. "Its her whole thing, very responsible, very correct, kind of a buzzkill sometimes, no offense Marsh"
+
+"None taken," Marsh says, in a tone that makes it entirely unclear whether she means it or is simply too polite to say otherwise.
+
+---
+
+Jinzhou has been quiet through most of this, which isn't unusual. But I can tell from the specific quality of his quiet that he's three steps ahead, the way he gets when he's found something worth saying and is deciding how to say it.
+
+"The math doesn't work," he says, finally. "Not with five people on our current supply projection. We'd need to know what's actually salvageable from this ship before we can say whether it's survivable."
+
+"That's what I was gettin' at," Marsh says, and for the first time there's a flicker of something warmer in her voice, the relief of someone whose caution just got validated instead of brushed past. "I didn't want to be the one who brought it up first. It felt presumptuous."
+
+"It's not presumptuous," I say. "It's the actual question. You're allowed to ask the actual question."
+
+She looks at me for a second like she's deciding whether to believe that.
+
+"Noted," she says. "Thank you, Dr. Vasek."
+
+"You can call me Ethyn."
+
+"I'll consider it," she says, which from her, I'm starting to understand, is roughly the equivalent of Jinzhou almost smiling.
+
+---
+
+Petryn gets the terminal working about twenty minutes later, a soft chime that makes all of us turn at once.
+
+"There we go," he says, quiet, pleased, the satisfaction of someone whose patience just paid off exactly the way he trusted it would. "Local cache survived. Not much, but it's somethin'. Cargo manifest, mostly. What we launched with, what we've used, what's left."
+
+"Read it out," I say.
+
+"Gimme a sec, man. Let me actually look at it first 'fore I start promisin' anybody numbers I ain't confirmed."
+
+Maslin has unclipped and drifted over Petryn's shoulder, all the restless energy from before channeled into something closer to genuine hope. Somehow it reads as more anxious than the suspicion did.
+
+"Cmon cmon," he says, half to him, half to the screen. "Whatve we got- gimme somethin good"
+
+"Gimme a second, Maslin. I'm workin' on it. You know rushin' don't help."
+
+"I know, I know, I just-" He stops himself. Runs a paw through his fur. "I just want it to be somethin, you know? after all this, i want it to actually be somethin"
+
+"I know," Petryn says, gentler now, not looking away from the screen but clearly not just talking to the screen anymore either. "I know, homie. Give me a sec. Let's find out together."
+
+Marsh has gone quiet again, watching the exchange with the same careful attention she watches everything with. Jinzhou, beside me, says nothing at all, which in this particular room, at this particular moment, feels like exactly the right amount of nothing to say.
+
+*END OF CHAPTER NINETEEN*

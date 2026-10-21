@@ -1,0 +1,194 @@
+
+We spend the next several hours doing the thing that terrifies me most and helps me most in roughly equal measure, which is finding out exactly how bad something is, instead of knowing, in a general way, that it's bad.
+
+"ARACCSIM," I say, back in Lab A with Marsh beside me and a spreadsheet between us that is quickly becoming the most important document on the ship. "The reserve. Where does it stand against braking minimum?"
+
+"Current usable Phengoclept reserve stands at eleven percent above braking minimum. Loss rate at present wall temperatures is indistinguishable from zero. Tank 2-E holds fourteen percent of the reserve."
+
+Marsh does the arithmetic before I've finished reading the number a second time.
+
+"Then we cannot vent 2-E," she says, with the quiet of someone delivering news she wishes she weren't. "It is the obvious move. Remove the tank, remove the crowd, remove the problem. It also leaves us three percent short of braking minimum."
+
+"So we arrive at Wask-ki at full speed."
+
+"Briefly."
+
+"That's still a very fast hello."
+
+"Yes. It is the same one." She taps the bench once. "The tank stays, and the wall stays cold. Which means the line must be repaired in fewer than nineteen days, and preferably well before the eighteenth."
+
+"Preferably," I agree, "on a day when none of us is already tired."
+
+---
+
+Petryn is in the payload bay when I find him, clipping the salvaged MK2 equipment in a line along the bench rail, one tool at a time, with the same unhurried precision he brings to everything. Except now there's an edge under the calm that wasn't there yesterday.
+
+"What have you got?" I ask.
+
+"Good news first, man." He holds up a length of silver tubing in cold-rated wrap. "Your freeze lines and ours are the same spec. Diameter, fittings, insulation, all of it. Argon don't retool. I got six meters of spare in the salvage. Enough to bypass your seam and then some."
+
+"That's the first good news anyone has said out loud today."
+
+"I know. Savor it." He clips the tubing to the rail. "Bad news is it's the same spec, so it's got the same weakness. You slam it down to minus fifty-five and it's gonna weep just like your seam did. So I bring it down slow. Most of a day. Metal that's cooled easy don't remember nothin'."
+
+"And in the meantime?"
+
+"In the meantime I gotta take the loop down to splice it. Five hours, maybe six, with no cold goin' into that wall."
+
+I run the numbers in my head. Five hours with no cooling puts the wall somewhere around minus forty-eight.
+
+"They'll stir," I say. "They won't swim. Swimming starts at minus thirty-two, and we're not going near it."
+
+"You sure?"
+
+"No. I'm hopeful in a way that's been peer reviewed by one slide."
+
+He laughs, short and warm, and then it fades, and he doesn't go back to the tools.
+
+"Ethyn. Can I show you somethin'? Not about your freeze line."
+
+He pulls a data pad off the rail and turns it toward me. A graph, mostly flat, with tiny spikes along the bottom edge, like a pulse on a monitor that's trying not to be noticed.
+
+"MK2's tank logs," he says. "I told you I been through the cache twice. Third time, I looked at somethin' I'd been callin' sensor noise."
+
+"What is it?"
+
+"Excitation events. Cells lightin' off with no lure pulse. Little ones, weeks before the first tank went."
+
+"Lighting off for no reason," I say. "That's not a cause. That's a symptom."
+
+"They had a reason. I think it was just a bad one." He scrolls. "Whatever that ship breathes out, or burns, or runs through a pipe, some of it looks a little like Venus if you squint. Good cells don't squint. A few of ours did."
+
+I look at the spikes for a while.
+
+"Bad cells," I say.
+
+"A few. Bred wrong, loaded in from day one, sittin' in every tank like they belonged there. They don't wait for the lure. They see anythin' close enough and they scramble."
+
+"And scrambling cells get excited."
+
+"And excited cells get hot," Petryn says. "And hot cells get more excited."
+
+"And at the bottom of every runaway is the word bang."
+
+"Never heard it said like that." He nods slowly. "Accurate."
+
+"So the explosion did not break your fuel," Marsh says, from the hatch. I didn't hear her arrive. She has a way of arriving. "The fuel broke your ship."
+
+"Fuel was always gonna. Took it a while to get a bad day." He puts the pad down. "I told you it was already in there. I just didn't know what it was."
+
+"Mine too?" I don't want to ask it. "Is mine like that?"
+
+"Ran your side's logs through the same filter. Not one early flash. Different batch, looks like." He lets me keep that for a second. "It's logs, not a sample. I'll keep watchin'."
+
+"Please do. ARACCSIM. Asicell concentration outside 2-E."
+
+"Low and dormant in the aft feed line and motor housings. None detected in any other tank. Sample ampoules in cold storage, no Asicell presence, containment at one hundred percent."
+
+I put a paw on the bench rail, because the relief is so sudden and so physical that I need something to hold.
+
+"The samples are safe," I say. "They're staying put."
+
+"For now," Petryn says, not unkindly. "Contained things stay contained till they don't. We both know that better than anybody on this ship."
+
+---
+
+Maslin finds all of us eventually, drawn by the general gravity of a crisis in progress, and he's brought Jinzhou with him. The two of them apparently crossed paths in the central hall and decided the same thing everyone else decided, that this is where the problem is happening.
+
+"give it to me straight" Maslin says. "nineteen days. thats what i heard secondhand and i wanna hear it for real"
+
+"Nineteen days until that wall reaches minus thirty-two," I say. "If the rate keeps climbing. But we have a fix. It takes five or six hours and a lot of luck, and it uses your ship's tubing."
+
+"my ships tubing" Maslin says. "ok. good. it did one nice thing"
+
+"Maslin," Petryn says. "Hang on to somethin', man. I gotta tell you what I found."
+
+"i dont sit anymore theres no down"
+
+"Then hang on."
+
+Petryn tells him. It takes about two sentences. A few cells in the fuel were bred wrong. They went off at nothing, and that is what blew the tanks.
+
+Maslin doesn't say anything for long enough that I notice.
+
+"a few" he says. "out of how many"
+
+"Billions."
+
+"billions" Maslin says. "and a few" He hangs there, one boot hooked on the rail, looking at nothing. "four months in that cockpit i thought it was something i did. something i signed for. the loadout i should have checked-"
+
+"Man," Petryn says. "You couldn't have checked a cell. Nobody could."
+
+"i know that. i do know that. its just- its a lot better than something i did"
+
+"There's no step for it," Jinzhou says.
+
+Maslin looks at him.
+
+"I checked the loadout procedure." Jinzhou's voice has not changed in any way. "There is no step for checking the cells. It was never your job to check them."
+
+"you checked"
+
+"Yes."
+
+"when"
+
+"Last week."
+
+Maslin opens his mouth, and then closes it.
+
+"thanks," he says, quietly, and I decide I didn't hear it, so that he can have it all to himself.
+
+"The other lines had the same drop," Jinzhou says, back to flat.
+
+Petryn looks at him. "They did."
+
+"Then they have the same history. We found one seam. We should find the rest before they tell us."
+
+"I'll go over every manifold after," Petryn says. "Borescope and a lot of lookin'. This one just lost the coin flip."
+
+"Thank you," Marsh says. "A survey would be prudent."
+
+"It also does not fix the restart," Jinzhou adds. "Forty-seven hours against fifty-one, plus or minus six."
+
+"I know. It's still there. It's just later."
+
+"Later is two years and nine months."
+
+"Then I have time."
+
+---
+
+The repair takes two days, if you count the setup, and I'll spare you most of the middle.
+
+Petryn runs it from the gallery with a cutting tool and a patience that is almost frightening. Jinzhou holds the torch in his good paw and braces the other arm against a pipe. I ask whether this is wise. He declines to discuss the arm for the third time. Marsh reads the wall temperature out loud every ten minutes, in a voice she has clearly decided is neutral. Maslin volunteers for the job nobody else wants, which is floating beside the tubing holding the light.
+
+"It's the most important job on the ship," I tell him.
+
+"you dont have to say that"
+
+"I know. I'm saying it anyway."
+
+The loop comes down at hour zero. The wall starts to climb. Minus fifty. Minus forty-nine. I stop being able to sit still, so I hang from the rail and watch the number like it owes me money. Minus forty-eight point nine at hour four, and I don't blink for most of it.
+
+At hour five and forty minutes, Petryn says, "That's the last clamp." Cold goes back into the line, a little at a time, on his schedule and not ours. The wall stops climbing and hangs there, undecided. Then, a tenth of a degree at a time, it starts to fall.
+
+It takes most of a day to get fully back to cold. Nobody suggests leaving.
+
+"Tank 2-E, minus fifty-five," ARACCSIM says.
+
+Marsh has ARACCSIM push a new alarm band to the cruise control, since LSI-ASM&C can't be argued with, only instructed.
+
+"Freeze line tolerance, plus or minus one degree," LSI-ASM&C says, in the same flat voice it uses for everything.
+
+"Define one degree."
+
+"One degree."
+
+"Thank you," I say, and Maslin immediately names it the snitch.
+
+The wall is flat as a tabletop again. The cruise control can finally tell a cold tank from a warm one. And somewhere about two years and nine months from now there is a number with a plus or minus six on it, waiting patiently for somebody to need it.
+
+Later-Ethyn has been saving up a lot of complaints. I hope he's rested.
+
+*END OF CHAPTER TWENTY-FOUR*
