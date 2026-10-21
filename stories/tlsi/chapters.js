@@ -35,5 +35,8 @@ window.TLSI_CHAPTERS = [
   { n: 22, title: "Welcome to Society" },
   { n: 23, title: "Four Percent Don’t Sound Like Much" },
   { n: 24, title: "Nineteen Days" },
-  { n: 25, title: "Have Hope for the Long Shot" },
+  { n: 25, title: "Sixty Marks" },
+  { n: 26, title: "Four Hours of Margin" },
+  { n: 27, title: "Spend Six" },
+  { n: 28, title: "Have Hope for the Long Shot" },
 ];
