@@ -1,0 +1,538 @@
+
+At thirty-one hours, the cubby hisses.
+
+It's the good hiss, the wake sequence, air cycling and restraints letting go, and I'm on my feet before the seal has finished thinking about it. I didn't sleep. I was on the floor, though, which I'm told is a different thing.
+
+His berth slides out. The arms hover over him, decide I'm not going to be any help, and they're right.
+
+Jinzhou's eyes open. He looks at the ceiling for a second like he's checking it against a drawing. Then he turns his head and finds me.
+
+"You didn't sleep," he says.
+
+"I was on the floor."
+
+"That's not the same thing."
+
+"I know. You can note it."
+
+"Noted."
+
+He lifts his left arm off the berth. It's in a matte grey brace from knuckles to elbow, and he flexes the fingers one at a time, like he's counting them. He gets to the end and seems satisfied with the total.
+
+"The last thing I said was 'hold the return,'" he says.
+
+"ARACCSIM said holding requires continuous crew authority. Then you fainted, and I was already out, so, uh. Nobody was holding."
+
+"ARACCSIM."
+
+"Dr. Vasek's summary is accurate," ARACCSIM says. "The protocol assumes at least one conscious crew member."
+
+"That is a flaw."
+
+"Acknowledged."
+
+"It also says you buckled me into the left seat," I say. "With a piece of the ship in your arm."
+
+"Yes."
+
+"Thank you."
+
+"It's the secondary pilot's seat. The secondary pilot belongs in it."
+
+"I was unconscious."
+
+"It was still his seat."
+
+I look at the brace, because I can't look at him and say the next part.
+
+"You went out on the hull. You're not trained for the hull."
+
+"No."
+
+"Thank you."
+
+"You'd have done the same."
+
+"I would have, uh, panicked first."
+
+"You'd have panicked and then done the same," he says. "There's a difference."
+
+I almost laugh. It costs him something to almost smile back, and he pays it anyway.
+
+Then he looks past me at the room. The blanket on the floor. The empty cup. A pad lying face-up with my handwriting going downhill.
+
+"What did I miss?"
+
+"Two things," I say. "One, a locker broke the ship. I'm claiming partial credit."
+
+He waits.
+
+"Two, I have notes."
+
+---
+
+He reads the way he does everything, completely. Left arm in the brace, right paw holding the pad, one line at a time, no skimming. I stand there and watch his eyes go down the page and try very hard not to narrate his face.
+
+When he finishes, he reads it again. Slower. Then he stops on one line and stays there. I know which one. I wrote it.
+
+"'Cable,'" he says. "'Unknown.'"
+
+"It's accurate."
+
+"I know it's accurate." He sets the pad on his knee. "ARACCSIM offered to cut it."
+
+"And I said no."
+
+"I would have said no."
+
+"You were on the winch."
+
+"I was on the winch," he says. "I didn't see the altitude. So we each have one."
+
+It doesn't make the number smaller. It puts it on two people, which is how you're supposed to carry anything heavy.
+
+"Show me the coupon," he says.
+
+In Lab A I slide it under the scope and step back. He looks for a long time. Jinzhou doesn't do gasps. What he does is get very still and very quiet, and the quiet has a temperature.
+
+"Lot series seven," he says.
+
+"Yes."
+
+"Every container on the ship."
+
+"Yes."
+
+"The SRV."
+
+I open my mouth to say something reassuring, and nothing is there.
+
+"Its sample chambers are lined," he says. "Its fuel cell is lined. Same lot."
+
+"Shoot."
+
+"If we load live samples into that, we mail the problem home."
+
+"I hadn't gotten there yet," I say. "I was working left to right and I was still on the left."
+
+"It's the next item."
+
+"I'm aware it's the next item. I was about to be upset about it in order."
+
+He doesn't say anything. He's good at that, and it helps more than it should.
+
+I stand in the middle of Lab A and think, which is a thing I do better when I'm annoyed at myself and worse when I'm alone. All right. The Asicell dig through lining. Fine. What have they not dug through? What's been sitting next to them for weeks without a mark on it?
+
+I look down. At the bench. At the rack of slides, the used ones, the ones I never threw out because I'm a person who keeps his microscope slides.
+
+They're glass.
+
+Every Asicell I've looked at since the first collector sample has been sitting on glass. For weeks. Some of those slides spent days in the autoclave tray with a live smear and a Phengoclept trace on them. I pick up the oldest one and put it under the scope and look at it as hard as I've ever looked at anything.
+
+Nothing. Not one tunnel. Not even a scratch.
+
+"They don't dig glass," I say.
+
+"Or they haven't yet."
+
+"Or they haven't yet. But I've got weeks of slides with nothing on them, and the lining didn't last nearly that long." I look up. "It's a crystal thing, probably. I don't know. I know I've been looking at the answer all month and calling it a slide."
+
+"Borosilicate ampoules," Jinzhou says. "Autoclave stock."
+
+"In a glass cradle. With nothing Argon touching them."
+
+"I can cut the cradle."
+
+"With that arm?"
+
+"I'm not discussing the arm."
+
+---
+
+That's most of a day. I'll spare you the middle of it.
+
+We eat at some point. Real food, not tube food, the arms delivering meals with the same quiet efficiency they do everything. The cream sauce on today's portion has an undertaste I associate with home. You don't notice it for years, and then you're trillions of miles from it and notice it constantly.
+
+I don't say anything about that. I just eat.
+
+Jinzhou eats his with the focused attention of a man who has decided eating is a task and tasks deserve proper execution. I used to find it slightly unnerving. Now it just means Jinzhou.
+
+"Options," he says, without looking up from his meal.
+
+"Do I get to pick?"
+
+"No. I'm listing them."
+
+"Then list them."
+
+"One. We vent the tanks. No fuel, nothing to eat." He takes a bite. "We arrive at Wask-ki with nothing to brake with."
+
+"That's not arriving. That's a very fast hello."
+
+"Two. We do nothing. Three hundred and ten days, and then the reserve drops below braking minimum anyway."
+
+"The same hello, with a delay."
+
+"Yes."
+
+"Do you have a three?"
+
+"No."
+
+I push my glasses up. "I have a, uh, small three."
+
+He stops chewing.
+
+"In the tank, they were slow. I put 'slow' in the log with a question mark. I should've put 'cold.' The tank wall is at minus eighteen, the freeze lines have been on for days, and the loss rate dropped the minute they came on." I look at the slide rack. "Everything slows down when it's cold. That's not science, that's just being a cell. So how cold before it stops?"
+
+"ARACCSIM," I say. "At minute twenty-six, I asked if that was the freeze lines, and you said insufficient data."
+
+"Correct."
+
+"Upgrade it."
+
+"Data sufficient. Cause, thermal suppression of Asicell activity."
+
+"Thank you."
+
+"You are welcome, Dr. Vasek."
+
+Lab B has a cold stage, a little block under the objective that you can chill while you watch, built for people who need to see what a cell does on its way into a freezer. I put a fresh smear on glass, bring it down ten degrees at a time, and don't look away.
+
+Minus eighteen: slow. Drifting more than swimming. That's the tank, and that's my question mark, answered.
+
+Minus thirty: commuters. Minus forty: commuters at the end of a long day.
+
+At minus fifty, they stop.
+
+They don't die. I check, and I check again, because I'm Ethyn. They go to sleep, curled up and fat and green. I've heard that's catching.
+
+"Asleep," I tell Jinzhou, who has been standing behind me for some time and has not asked to look.
+
+"Good."
+
+I turn the dial back up. At minus thirty-two, one of them twitches. Eighteen minutes later the whole smear is swimming around like nothing happened.
+
+"Eighteen minutes," Jinzhou says.
+
+"On a slide. A tank is not a slide."
+
+"A tank is a great deal more metal."
+
+"A tank is a great deal more metal," I agree. "Hm. I never thought I'd be grateful for thermal mass."
+
+---
+
+"ARACCSIM," Jinzhou says. "Can the freeze lines hold the tank walls at minus fifty-five?"
+
+"Level two can. Level two is not recommended."
+
+"I remember," I say. "I said I'd stay on one. I'd like to formally change my mind."
+
+"Noted."
+
+"Why isn't it recommended?"
+
+"Level two draws ninety-four percent of the bus. Centrifuge operation is not compatible. Crew gravity would be unavailable for the duration."
+
+"The duration of what?"
+
+"The transit."
+
+"All of it."
+
+"Correct."
+
+"So we're weightless for seven years."
+
+"Crew would be in rest state," ARACCSIM says. "Straps are provided."
+
+"They're approved," I say. "I'd like it noted that I'm in favor of straps."
+
+"And at the end," Jinzhou says. "The stack is cold."
+
+"A cold stack restarts poorly. The spin motors run rough. I got a warning about that in the server room, and I filed it under later."
+
+"Later is the end of the trip."
+
+"Darn. Later-Ethyn is going to be so annoyed with me."
+
+"ARACCSIM. The restart."
+
+"Cold restart of the Phengomotor stack requires approximately twenty-two hours of warming. Spin motors will run roughly during the first six. Braking burn duration, twenty-five hours. Total, forty-seven."
+
+"And them?"
+
+"Estimated revival of Asicell in the feed line and motor housings, fifty-one hours after thaw begins." A hitch on the number, a skip, like it was recorded for any number at all. "Margin of error, six hours."
+
+"The tanks?"
+
+"Tanks remain at level two for the duration of the burn."
+
+"So the ones in the tanks stay asleep," I say. "And the ones in the line and the motors are the race."
+
+"Correct."
+
+I do the arithmetic. Forty-seven. Fifty-one. Four hours between us and a very bad day, plus or minus six.
+
+"That's not a margin," I say. "That's a mood."
+
+"If revival precedes completion?" Jinzhou says.
+
+"Thrust loss, up to nineteen percent. Braking minimum not achieved."
+
+"Amazing," I say.
+
+Jinzhou sets down his fork. "So it's a race."
+
+"Against a nap."
+
+He thinks about that. "Yes."
+
+"A burn is a buffet," I say. "I had a longer version of that in the server room."
+
+"A twenty-five-hour buffet."
+
+"And then we stop serving. Seven-years-from-now Ethyn is going to have notes."
+
+"He can add them to the list."
+
+---
+
+The SRV payload bay is off the central hall, between the server room and the labs. I haven't been in here since the first sweep, and even then I didn't look closely, because there was too much else to look at first.
+
+Now I look.
+
+It's smaller than I expected for something this load-bearing. Not cramped, just efficient, built by people who knew every cubic meter was a negotiation. The SRV sits on a rail system, docked, roughly the size of a large four-wheeler. I stare at it for a moment.
+
+"This is it," I say.
+
+"Yes," Jinzhou says.
+
+"This is Wask-ki's only guaranteed shot at getting the data home."
+
+"If we don't make it ourselves. Yes."
+
+"Right." I push my glasses up. "No pressure."
+
+"The fuel cell," Jinzhou says. "Its own. Sealed at the factory. It has never touched a line on this ship."
+
+"I know."
+
+"Check anyway."
+
+I swab the cell's seam, the fill port, and the umbilical, and carry three slides back to Lab A at a walk, because running seems rude to the slides. Clean. Clean. Clean. I carry the word back to the bay like a cup that might spill.
+
+Loading takes most of the afternoon. Not because the SRV is complicated. The data interface is straightforward, ARACCSIM handles the transfer log without being asked. It takes most of the afternoon because we do everything twice, and then a third time on the parts that matter more than the others, which turns out to be all of them.
+
+Asicell samples, in glass ampoules, in a glass cradle Jinzhou cut one-handed from the lab's glassware racks, held by a bare steel clamp on the SRV's own cold block. Minus sixty. A gap around the whole thing, and nothing from lot series seven touching any of it. They'll sleep all the way home, which seems like the only polite way to mail something that digs. I'm sending a digging organism home in a jar, and I'd like it noted that I'm aware of how that sounds.
+
+The coupon from the 2-E valve goes in the cradle's last slot, in its own glass tube, the only piece of lot series seven aboard that I'm sending on purpose. I label it in capital letters: LOT SERIES SEVEN. THIS IS WHAT THEY DO.
+
+Full mission data, transferred and verified. My documentation files, every annotated reading and population density model and spectral breakdown from the last three weeks. Jinzhou's technical logs, every diagnostic and repair note.
+
+And a text file I name READ_THIS_FIRST_IT_DIGS.txt. Three paragraphs. The first one is in capital letters. The second one is also in capital letters, but sadder. The third is in lowercase, because by then I'd calmed down enough to say please check every lot series seven you own.
+
+Bejors' paper. The one from MAYBE SOMEDAY. I transfer the full file and then hesitate, and then add a second file: ASICELL_DISCOVERY_LOG.doc, the document I opened in the lab that day with her name at the top and mine at the bottom and PRIMARY THEORETICAL FRAMEWORK: B. BEJORS, PHD stamped in the header.
+
+She gets the credit. Whatever happens to the ship, whatever happens to either of us, whoever opens this package on Wask-ki is going to know whose idea it was first.
+
+I close the transfer interface and step back.
+
+"Ready," I say.
+
+"Confirmed," ARACCSIM says. "SRV payload complete. All data verified. Sample integrity nominal."
+
+"Don't say nominal."
+
+"Sample integrity is acceptable."
+
+"Thank you. That was very reassuring."
+
+---
+
+The welding kit is in the maintenance locker at the far end of the payload bay. Not the one that hit me. A different one, internal, still attached, containing among other things a compact arc welder rated for hull-grade material.
+
+I've used a welder before. Twice. Neither time was on a spacecraft this far from the nearest qualified technician, but the principle is the same and my paws remember what to do even when the rest of me is slightly uncertain about the wisdom of it.
+
+"You don't have to do it manually," Jinzhou says, from behind me.
+
+"I know."
+
+"ARACCSIM can seal the inner door remotely."
+
+"I know."
+
+He doesn't say anything else. Either he understands, or he doesn't need to. Either way he steps back and gives me the room.
+
+A closed valve is a promise about fuel. It isn't a promise about things that dig. A weld on hull-grade metal, with no lining anywhere near it, is a promise I can see.
+
+The welder takes a few seconds to warm up. I set the bead around the inner payload door, slow and even, the pace you use on something you want to hold. The material's cooperative. The bead sets clean.
+
+I step back and look at it.
+
+The inner door is welded shut. The SRV is on the other side, loaded, sealed, verified, with nothing between it and space but two outer doors and a rail.
+
+"ARACCSIM. Confirm inner door seal."
+
+"Inner door sealed. Weld integrity confirmed. SRV release on your mark."
+
+I take a breath.
+
+"Mark."
+
+The bay pumps down, the outer doors open on nothing, and the rail engages. It isn't dramatic. It isn't the HISS THUNK of the berths or any of the other things this ship has done when it wanted my attention. Just a mechanical click and then the small, definitive absence of something that was there and isn't.
+
+Through the hull camera, I watch it go.
+
+It's smaller than I expected. A four-wheeler-sized object against the void is very small. The RCS thrusters fire first, small precise bursts correcting it away from the hull, and then its own Phengomotor lights, running off a cell that never touched a line on this ship, and puts it on a course of its own, deliberate the whole way. It catches the light from Asimov's star once, twice, then holds steady on the heading ARACCSIM set.
+
+I raise a paw. Wave.
+
+Nobody on the other end sees it. The SRV doesn't have eyes. I wave anyway, because Bejors' name is on that thing, and the Asicell data is on that thing, and somewhere in the transfer files is every stupid decimal place of the Phengoclept mass measurement that made me laugh in a lab a long way from anyone I used to know, and it all deserves a wave even if nothing waves back.
+
+The SRV gets smaller.
+
+Then it's a point of light.
+
+Then it's indistinguishable from the other points of light.
+
+"There it goes," I say. "The whole mission, and from here it's a dot."
+
+"Okay," Jinzhou says.
+
+Let him have the one-word line. It's his.
+
+---
+
+The last job is the floor.
+
+The centrifuge came up with two keys and it goes down with two, turned together at the panel in the cockpit. The last time I did this alone, I sailed past slot two like a man leaving a party. Now it's two people with a key each, which is how the person who wrote the sign meant it.
+
+We strap in. Me in the left seat, which has been mine since the first day we got the hatch open. Jinzhou in the right, the brace across his lap like a clipboard.
+
+"On three?" I say.
+
+"Together is sufficient."
+
+We turn them.
+
+SPIN-DOWN INITIATED. WEIGHTLESS IN 5 MINUTES. SECURE ALL LOOSE ITEMS.
+
+The weight goes out the way it came in, a lean, then less of a lean, then none. My fur lifts off my arms like it's been told it can go. The pad on Jinzhou's knee drifts up, and he catches it without looking.
+
+"ARACCSIM. Level two."
+
+"Level two is not recommended."
+
+"I know. We've covered it."
+
+"Confirm."
+
+"Confirmed," I say.
+
+"Confirmed," says Jinzhou.
+
+"Level two engaged. Tank wall temperature falling."
+
+It takes five hours and forty minutes for the last wall to reach minus fifty-five. Neither of us suggests leaving. We take turns reading the numbers out loud, because they feel better said: minus twenty-two, minus thirty, minus forty-one. At minus fifty I stop being able to sit still, so I hang in my harness and watch the number like it owes me something.
+
+"Tank 2-E, minus fifty-five," ARACCSIM says. "All tanks at target."
+
+"Reserve loss rate."
+
+"Indistinguishable from zero."
+
+"Say it again."
+
+"Indistinguishable from zero."
+
+I let go of the armrest with both paws and hang there, grinning at a gauge. Jinzhou nods once, which from him is a parade.
+
+Setting up the handoff takes a while. Not because the handoff is complicated, ARACCSIM to LSI-ASM&C is a documented procedure with a clear protocol both systems were built to execute. It takes a while because I keep second-checking things, and Jinzhou keeps letting me, and at some point he starts second-checking things too, and neither of us says anything about the fact that this is the last time either of us will be awake in this cockpit for a very long time.
+
+"Trajectory locked," Jinzhou says. "Nakuet system intercept in seven years, nine months, two days. Crew wake is scheduled at intercept."
+
+"Wask-ki?"
+
+"Twenty-three days after that."
+
+"And the SRV?"
+
+"Eight months ahead of us."
+
+"If we make it."
+
+"If we make it," he agrees.
+
+Seven years, nine months. I do the math once and don't do it again, because doing it again won't change the number.
+
+"ARACCSIM," I say. "Initiate handoff to LSI-ASM&C."
+
+"Confirmed. Handoff sequence initiating. LSI-ASM&C will maintain the coast, the freeze lines, and the wake schedule. It has no other functions. Estimated handoff duration, four minutes."
+
+"It's cruise control," I say.
+
+"Correct."
+
+"For a freezer."
+
+"For a freezer," ARACCSIM agrees.
+
+Four minutes. I sit in my seat and look at the screens. Star map, trajectory line, a small blinking marker that was the SRV and is already too far away to see clearly.
+
+I look at Jinzhou.
+
+He looks back. He doesn't say anything. He doesn't need to. He's Jinzhou. He notes things. This is one of them.
+
+"LSI-ASM&C active," ARACCSIM says. "Primary systems transferred. I will maintain monitoring functions in background mode."
+
+"ARACCSIM," I say.
+
+"Dr. Vasek."
+
+"Thanks. For everything. Even the nominals."
+
+A pause. Longer than usual, the kind that might mean processing or might mean something else, and I've decided I'm allowed to believe it means something else right now.
+
+"Safe travels, Dr. Vasek," it says. "Mr. Kenzo."
+
+"You too," I say, and then realize I've just wished a ship well, and decide not to take it back.
+
+We float to the medbay.
+
+---
+
+The central hall is long and the hatches are blue, and I hit one of them. Jinzhou goes through the same hall like a man who's been weightless all his life, one paw trailing the rail, the brace held close.
+
+The medbay is quiet. The arms are ready. The berths are slid out of the wall, both of them, waiting, with their straps laid open.
+
+I hold the rail instead of sitting, because there isn't any sitting anymore.
+
+I think about Wask-ki. Not anything specific, not the apartment with the coffee on the desk or the parking lot in the snow or the hallway outside the containment lab. Just the general shape of it. A planet that's been your whole world and then suddenly isn't, and the strange, slightly nauseating prospect of going back to it after long enough away that you don't know who you'll be when you arrive.
+
+I think about Bejors' whiteboard, still in Lab A. Still her handwriting. I didn't take it down. It felt wrong to take it down. It can ride home with us, Y'SHARI-LINE AND PHENGOCLEPT RECAP underlined twice, in a ship that's mostly asleep, in a lab nobody is going to use for seven years.
+
+I think about the SRV, already a dot, heading home ahead of us with everything that matters in its glass.
+
+I think about Jinzhou, who went out on a hull he wasn't trained for, flew us up with a piece of the ship through his arm, and has declined to discuss the arm twice.
+
+I push my glasses up one more time. Look over at Jinzhou, who's already in his berth, straps done up, with the composure of someone who's decided the doing is easier than the thinking about the doing.
+
+"Hey," I say.
+
+"Yeah," Jinzhou says.
+
+"Good work."
+
+He looks at me for a second. Something shifts, barely, in his expression. Not quite a smile. Close enough.
+
+"You too," he says.
+
+The arms come down.
+
+HISS.
+
+THUNK.
+
+*END OF CHAPTER FOURTEEN*
