@@ -107,7 +107,7 @@ I'm still holding the eraser. I put it down very carefully, so it doesn't float 
 
 There are five stations. We take them without anyone having to assign them.
 
-Marsh flies, which on a ship with nothing to steer is a lot of watching an attitude indicator. Petryn goes aft, through the medbay and into the tank crawlway, because he's not going to trust a vibration he can't feel with his own feet. Maslin takes the fuel readout, which has one job and no room for him to be funny at it. Jinzhou is at the software bench in the cockpit with a screen of code that looks like a very long apology. I'm in Lab A, in front of the thaw map and the Asicell tracking, because I'm the only one on the ship who knows what a dormant Asicell is supposed to look like when it's about to stop being one.
+Marsh flies, which on a ship with nothing to steer is a lot of watching an attitude indicator. Petryn takes the medbay, the room closest to the engines, with his back flat against the aft wall, because he's not going to trust a vibration he can't feel through his own spine. Maslin takes the fuel readout, which has one job and no room for him to be funny at it. Jinzhou is at the software bench in the cockpit with a screen of code that looks like a very long apology. I'm in Lab A, in front of the thaw map and the Asicell tracking, because I'm the only one on the ship who knows what a dormant Asicell is supposed to look like when it's about to stop being one.
 
 "Thaw sequence initiated," LSI-ASM&C says, in the voice of a man reading a parking ticket. "Reason code, crew authority."
 
