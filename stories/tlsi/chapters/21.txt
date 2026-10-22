@@ -173,7 +173,7 @@ Petryn is already unclipping.
 
 He gets as far as the cockpit hatch before he remembers, and stops with one paw on the frame.
 
-Nobody on this ship can see the line. Not with their own eyes. The tanks are outside the hull, strapped along the engine end, and there's no way to them from in here. No hatch, no crawlspace, no duct you could fit a paw down. Somebody at Argon put a wall between the crew and the fuel on purpose, and today I can't decide whether to thank them or file a complaint.
+Nobody on this ship can see the line. Not with their own eyes. The fuel is in three big tanks that run the length of the ship on the outside, with us in the middle of them, and there's no way into them from in here. No hatch, no crawlspace, no duct you could fit a paw down. Somebody at Argon put a wall between the crew and the fuel on purpose, and today I can't decide whether to thank them or file a complaint.
 
 What we do have is a camera. ARACCSIM puts the hull inspection feed up on the main screen and walks it back along the tank cluster, slow, one frame at a time, five of us crowded around the cockpit like it's a fireplace.
 
