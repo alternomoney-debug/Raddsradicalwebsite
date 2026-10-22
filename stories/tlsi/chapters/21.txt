@@ -171,11 +171,15 @@ Petryn is already unclipping.
 
 ---
 
-The tank crawlway starts at a service hatch low in the medbay's aft wall and runs back along the tanks toward the engines, a narrow passage that is almost entirely pipe and, today, almost entirely cold. My breath hangs in front of my face and stays there, because it has nowhere to fall.
+He gets as far as the cockpit hatch before he remembers, and stops with one paw on the frame.
 
-Petryn finds it first. He doesn't say anything. He just stops, and points.
+Nobody on this ship can see the line. Not with their own eyes. The tanks are outside the hull, strapped along the engine end, and there's no way to them from in here. No hatch, no crawlspace, no duct you could fit a paw down. Somebody at Argon put a wall between the crew and the fuel on purpose, and today I can't decide whether to thank them or file a complaint.
 
-A hairline seam in the freeze line manifold, barely visible unless you already know to look, and along it, growing out into the air instead of down, a fur of white frost. It doesn't fall. There's no down. It just keeps growing, in small delicate feathers, toward us.
+What we do have is a camera. ARACCSIM puts the hull inspection feed up on the main screen and walks it back along the tank cluster, slow, one frame at a time, five of us crowded around the cockpit like it's a fireplace.
+
+Petryn finds it first. He doesn't say anything. He just leans past Marsh and puts a claw on the glass.
+
+A hairline seam in the freeze line manifold, barely visible unless you already know to look, and along it, growing straight out into the dark, a fur of white frost. Coolant, weeping through the crack and freezing the second it meets nothing. It doesn't fall. There's no down. It just keeps growing, in small delicate feathers, toward the lens.
 
 "There," Petryn says quietly. "That's where it's weepin'."
 
@@ -189,7 +193,7 @@ I sit with that the way I sat with the two thousand one hundred days number at t
 
 "Why this line?" Marsh asks. "Why here?"
 
-"Spec on these is minus eighteen," Petryn says. He holds a paw an inch above the seam without touching it. "Somebody took it to minus fifty-five in under six hours. Metal remembers that kind of thing."
+"Spec on these is minus eighteen," Petryn says. He taps the screen beside the seam, not on it, like it might feel it. "Somebody took it to minus fifty-five in under six hours. Metal remembers that kind of thing."
 
 "Somebody."
 
@@ -207,7 +211,7 @@ I sit with that the way I sat with the two thousand one hundred days number at t
 
 "Correct."
 
-Nobody says anything for a while. Five people hooked to a pipe in a cold crawlway, watching a hairline seam grow feathers.
+Nobody says anything for a while. Five people crowded around one screen, watching a hairline seam grow feathers.
 
 "We have five people and a problem," Marsh says, steady even now. "That is more than Ethyn and Jinzhou had for the fishing mission, and they solved that."
 
