@@ -15,7 +15,7 @@ I drink the coffee. It has been two years and some months since the last time I 
 
 ---
 
-We hold the briefing in Lab A because it's the room with the whiteboard. Nobody says that's why. Marsh floats to the head of the table, if a table with no gravity can be said to have a head, and clips a tablet to the edge, and says, "I will state the plan, and then I will state the problem, and then we will be unpleasant to each other until we have a better plan."
+We hold the briefing in Lab B, because it's the only lab that's open and because it's the room with the whiteboard. Nobody says the second part. Marsh floats to the head of the table, if a table with no gravity can be said to have a head, and clips a tablet to the edge, and says, "I will state the plan, and then I will state the problem, and then we will be unpleasant to each other until we have a better plan."
 
 "love it," Maslin says.
 
@@ -87,7 +87,7 @@ I was never asked.
 
 "Hm," I say. "Give me a second."
 
-I go to the whiteboard. I look at Bejors' lines, and at the pencil strokes under them, and at my little *47 / 51 ± 6*, and at Jinzhou's clean flat rectangle of a ship. Then I do the thing I've been putting off since the first time I stood in this room. I take the eraser, and I don't touch her lines. I erase the corner where my own numbers are, and I write them again, bigger.
+I go to the whiteboard. I look at Bejors' header, and at the pencil strokes under it, and at my little *47 / 51 ± 6*, and at Jinzhou's clean flat rectangle of a ship. Then I do the thing I've been putting off since the first time I stood in this room. I take the eraser, and I don't touch her header. I erase the corner where my own numbers are, and I write them again, bigger.
 
 *47 / 56 ± 6.*
 
@@ -103,11 +103,40 @@ I go to the whiteboard. I look at Bejors' lines, and at the pencil strokes under
 
 I'm still holding the eraser. I put it down very carefully, so it doesn't float away, which feels like the most responsible thing I've ever done.
 
+
+---
+
+There's one thing I do before the thaw, and I do it alone.
+
+I go to the medbay, which is empty now, all six berths pushed back into their cubbies, and I take out my tablet, and I open the letter.
+
+It's shorter than it was. Line four is gone. The second time I said I understood her is gone, and so is the first. What's left is mostly true, which is more than I can say for most of what I've written in my life, including a study guide that sold rather well.
+
+"ARACCSIM. Queue a message for Port Jiji. Attention Dr. Emili Y'shari. Hold it until we're in range."
+
+"Queued. Would you like to attach a subject line?"
+
+I think about it.
+
+"No," I say. "She'll know what it is."
+
+I read it one more time before I let it go. I don't read all of it. I read line eleven, the one where I tell her I'm angry with her and I don't want to be. It's still true. I've had a year and a half to make it untrue and it's refused.
+
+Then I scroll to the bottom, and I add one line under the end.
+
+*Jinzhou says line eleven is good. He's never met you. He says he doesn't have to.*
+
+"Queued," ARACCSIM says again, when I tell it I'm done. And then, after a pause that doesn't have the flourish in it, just a pause: "Dr. Vasek. If the restart does not proceed as planned, this message will still be transmitted."
+
+"I know," I say. "That's why I'm sending it now."
+
+I put the tablet away and float there for a minute, in a room full of empty berths, with the ship humming around me. Then I go back to Lab B, where four people are waiting to be told it's time.
+
 ---
 
 There are five stations. We take them without anyone having to assign them.
 
-Marsh flies, which on a ship with nothing to steer is a lot of watching an attitude indicator. Petryn takes the medbay, the room closest to the engines, with his back flat against the aft wall, because he's not going to trust a vibration he can't feel through his own spine. Maslin takes the fuel readout, which has one job and no room for him to be funny at it. Jinzhou is at the software bench in the cockpit with a screen of code that looks like a very long apology. I'm in Lab A, in front of the thaw map and the Asicell tracking, because I'm the only one on the ship who knows what a dormant Asicell is supposed to look like when it's about to stop being one.
+Marsh flies, which on a ship with nothing to steer is a lot of watching an attitude indicator. Petryn takes the medbay, the room closest to the engines, with his back flat against the aft wall, because he's not going to trust a vibration he can't feel through his own spine. Maslin takes the fuel readout, which has one job and no room for him to be funny at it. Jinzhou is at the software bench in the cockpit with a screen of code that looks like a very long apology. I'm in Lab B, in front of the thaw map and the Asicell tracking, because I'm the only one on the ship who knows what a dormant Asicell is supposed to look like when it's about to stop being one.
 
 "Thaw sequence initiated," LSI-ASM&C says, in the voice of a man reading a parking ticket. "Reason code, crew authority."
 
@@ -153,7 +182,7 @@ Hours six through twenty are the longest and shortest of my life.
 
 The ticking settles, and then slowly eases into a hum, and the hum gets smoother, and Petryn stops sounding like a man bailing out a boat. Marsh reads the stack temperature every ten minutes. Maslin refills a tube of something and sets it beside me without a word. I eat it without looking at the label, and it's not the green one, and I'm a little sad about that.
 
-At hour twenty, Jinzhou floats into Lab A and holds on to the rail beside me and says nothing for a while. Then: "The arm is fine."
+At hour twenty, Jinzhou floats into Lab B and holds on to the rail beside me and says nothing for a while. Then: "The arm is fine."
 
 "I didn't ask."
 
@@ -177,7 +206,7 @@ At hour twenty-two, ARACCSIM says, "Phengomotor stack at operating temperature. 
 
 Marsh's voice, formal and very slightly unsteady: "Dr. Vasek."
 
-I look at the board. Bejors' lines. My pencil strokes. Maslin's one straight stroke, near the end of the row. My own *47 / 56 ± 6* in letters bigger than I'd have dared a week ago.
+I look at the board. Bejors' header, in my handwriting. My pencil strokes. Maslin's one straight stroke, near the end of the row. My own *47 / 56 ± 6* in letters bigger than I'd have dared a week ago.
 
 I've said it once already. It turns out I can say it twice.
 

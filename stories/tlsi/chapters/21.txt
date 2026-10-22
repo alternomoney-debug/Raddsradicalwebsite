@@ -1,6 +1,6 @@
 Maslin has found my book.
 
-I don't know how. I didn't bring a copy, I would never bring a copy, and the ship's library is three hundred technical manuals and one very long document about the correct way to fold a sleeping bag. But on the morning of day sixteen as a five-person ship, he floats into Lab A holding a tablet in both paws with the expression of a man who has found a photo of his teacher at a nightclub.
+I don't know how. I didn't bring a copy, I would never bring a copy, and the ship's library is three hundred technical manuals and one very long document about the correct way to fold a sleeping bag. But on the morning of day sixteen as a five-person ship, he floats into Lab B holding a tablet in both paws with the expression of a man who has found a photo of his teacher at a nightclub.
 
 "is this you," he says.
 
@@ -47,7 +47,7 @@ I'd like to argue. I find I can't.
 
 Marsh doesn't trust anything that reports in adjectives.
 
-I find this out about nine minutes after she gets a login. The ship's cruise control, LSI-ASM&C, describes everything as "nominal" or "within tolerance," and Marsh has taken it personally. Three weeks into being a five-person ship, she has pulled its raw logs for every tank wall since the handoff and is working through them in Lab A with her feet hooked under the bench rail, one column at a time, with the focus most people save for defusing things.
+I find this out about nine minutes after she gets a login. The ship's cruise control, LSI-ASM&C, describes everything as "nominal" or "within tolerance," and Marsh has taken it personally. Three weeks into being a five-person ship, she has pulled its raw logs for every tank wall since the handoff and is working through them in Lab B with her feet hooked under the bench rail, one column at a time, with the focus most people save for defusing things.
 
 I drift in to ask if she wants dinner. I don't get to the question.
 
@@ -217,7 +217,7 @@ Nobody says anything for a while. Five people crowded around one screen, watchin
 
 "Barely," I say.
 
-"Barely still counts." She looks along the manifold, and back. "We should begin by understanding exactly what we are dealing with. How fast the line is failing, whether the damage is confined to 2-E, and what it would take to hold that wall at minus fifty-five until we can repair it properly."
+"Barely still counts." She looks at the seam on the screen, and back at us. "We should begin by understanding exactly what we are dealing with. How fast the line is failing, whether the damage is confined to 2-E, and what it would take to hold that wall at minus fifty-five until we can repair it properly."
 
 Petryn nods slowly, the stillness in him turning into something more active.
 
@@ -227,8 +227,56 @@ Petryn nods slowly, the stillness in him turning into something more active.
 
 "We'll take whatever we can get," I say, and I mean it.
 
-Nineteen days. I've done the arithmetic four times and it keeps being nineteen. On the other side of this wall, in the dark, a crowd of very patient diners is being kept asleep by a pipe about as wide as my arm.
+Nineteen days. I've done the arithmetic four times and it keeps being nineteen. Out past the hull, in the dark, a crowd of very patient diners is being kept asleep by a pipe about as wide as my arm.
 
 I'd like to keep it that way.
+
+---
+
+I can't sleep, so I don't try.
+
+It's the middle of the night cycle when I drift back into Lab B, and Marsh is already there, feet hooked under the bench rail, a column of raw numbers scrolling slowly past her face. She doesn't look up. She doesn't look surprised either.
+
+"You should be asleep," she says.
+
+"So should you."
+
+"I am checking the other tanks."
+
+"Are they warming?"
+
+"No." She scrolls. "Not that I can see. I would like to keep not seeing it for a while longer before I believe it."
+
+I hook a foot beside hers and watch the numbers go by. Wall temperatures, every tank, every hour, since the day we went cold. Most of them are a flat line of minus fifty-five that goes on forever, like a ruler.
+
+"Can I ask you something?" I say.
+
+"You may."
+
+"Why don't you trust the summaries? The cruise control said everything was within tolerance. Most people would have taken its word."
+
+She's quiet long enough that I think she's going to decline. Then she stops the scroll.
+
+"On MK2," she says, "I read the summaries. Every morning. Tank status, nominal. Fuel, nominal. Systems, nominal. It was a very reassuring way to start a day." She looks at the screen, not at me. "Then one morning the summary said nominal, and by that afternoon we had one tank left, and it was scorched. Petryn has been through our logs twice since and has not found why. I have started to suspect the reason was there the whole time, under the word nominal, and that none of us looked under the word."
+
+"Marsh. If it was there, nobody would have caught it. Petryn hasn't, and he's the engineer."
+
+"I know that," she says. "I have been told that. I agree with it. It does not change what I do now." She starts the scroll again. "I will not read a summary again. Not on this ship. I would rather read every number myself and be tired than be rested and wrong."
+
+I think about my own first week on this ship, when ARACCSIM gave me the short version of everything and I was grateful for it. I think about how many short versions I've asked for since.
+
+"For what it's worth," I say, "you were right. Tonight. The adjective was lying."
+
+"Adjectives usually are," Marsh says. "Numbers only lie when someone has chosen the wrong ones."
+
+I stay until she finishes the last tank. It's flat. They're all flat, except one. She closes the file, and for the first time since I came in, she looks at me.
+
+"Thank you for staying," she says. "It was not necessary."
+
+"I know. I wanted to."
+
+"Then thank you for wanting to." She unhooks her feet. "Goodnight, Ethyn."
+
+It's the second time she's used my name. I notice I'm keeping count.
 
 *END OF CHAPTER TWENTY-ONE*

@@ -1,7 +1,7 @@
 
 The burn starts so quietly I'm not sure it has.
 
-I'm in Lab A with my paws flat on the bench and my eyes on a screen, and nothing moves. There's no shove and no roar. For the first minute the ship is still weightless, and the only evidence that something enormous has begun is a number on ARACCSIM's readout that has stopped being zero.
+I'm in Lab B with my paws flat on the bench and my eyes on a screen, and nothing moves. There's no shove and no roar. For the first minute the ship is still weightless, and the only evidence that something enormous has begun is a number on ARACCSIM's readout that has stopped being zero.
 
 "Phengomotor burn in progress," ARACCSIM says. "Deceleration, point zero zero four of a G."
 
@@ -15,7 +15,7 @@ I'm in Lab A with my paws flat on the bench and my eyes on a screen, and nothing
 
 "I know. That's why I like you, for about ninety seconds a day."
 
-It accumulates. Over the next half hour, down comes back, and it doesn't come back where I left it. It comes in from the engine end, the way it did on the first day I woke up, and the whole room turns ninety degrees around me without anything actually moving. The wall behind the bench becomes the floor. The grate slides shut under my boots, and I'm standing on it, in a shaft, with the bench at my hip and the whiteboard running sideways again, the way this ship was built to be lived in under thrust. Around me, the microscope, the sample fridge and the oven swing round on their gimbals to meet the new down, slow and level, like they've been waiting for it. Down in the medbay the berths will be doing the same, and in the cockpit Marsh's seat has already turned under her.
+It accumulates. Over the next half hour, down comes back, and it doesn't come back where I left it. It comes in from the engine end, the way it did on the first day I woke up, and the whole room turns ninety degrees around me without anything actually moving. The wall behind the bench becomes the floor. The grate slides shut under my boots, and I'm standing on it, in a shaft, with the bench at my hip and the whiteboard running sideways again, the way this ship was built to be lived in under thrust. Around me, the cold stage and the instrument racks swing round on their gimbals to meet the new down, slow and level, like they've been waiting for it. Down in the medbay the berths will be doing the same, and in the cockpit Marsh's seat has already turned under her.
 
 Somewhere below me, a tube I forgot to clip down makes the trip all the way to the medbay. Petryn reports it over the comm like a weather event.
 
@@ -137,7 +137,7 @@ It's the shortest sentence I've said in two days. It lands in the room like a st
 
 The ship starts to shake.
 
-It isn't violent. It's a deep, sideways rattle that comes up through the bulkheads and into the teeth. The tick from the first six hours is back, louder, and it's not a clock any more. It's a hundred clocks. Dust shakes loose from every surface in Lab A and sifts down through the grate in the lights, thousands of motes, falling toward the engines like it's late for something.
+It isn't violent. It's a deep, sideways rattle that comes up through the bulkheads and into the teeth. The tick from the first six hours is back, louder, and it's not a clock any more. It's a hundred clocks. Dust shakes loose from every surface in Lab B and sifts down through the grate in the lights, thousands of motes, falling toward the engines like it's late for something.
 
 "Aft housing four," ARACCSIM says. "Asicell concentration rising. Housing three, motion detected."
 
@@ -263,7 +263,7 @@ I think I'll remember that for a long time.
 
 ---
 
-Nobody moves for a while. Then we do, one at a time, drifting down the long hall toward Lab A like people who've heard someone say the party's still going.
+Nobody moves for a while. Then we do, one at a time, drifting down the long hall toward Lab B like people who've heard someone say the party's still going.
 
 Petryn comes up the hallway from the medbay with sweat in his fur and the kind of grin that takes up most of a face. Marsh comes out of the cockpit and doesn't straighten her jacket, which is the loudest thing she's ever done. Maslin arrives upside down, which is the way he arrives at everything, and hangs in the air with both arms around his knees, and doesn't say anything at all.
 
@@ -283,7 +283,7 @@ Jinzhou arrives last. He holds the rail beside me, a little too long. Then he le
 
 He nods, once. I'm absolutely not going to say anything about his ears.
 
-I pick up the pencil. Under *47 / 56 ± 6*, under Maslin's one straight stroke, I write the last line of the row, small, in the corner where Bejors' lines don't have to share.
+I pick up the pencil. Under *47 / 56 ± 6*, under Maslin's one straight stroke, I write the last line of the row, small, in the corner where her header doesn't have to share.
 
 *Done at 45:25. Yes.*
 
@@ -292,6 +292,34 @@ I look at it for a long time.
 Then I put the pencil down, and tell the ship, very sincerely, "Thank you."
 
 "You are welcome, Dr. Vasek," ARACCSIM says.
+
+---
+
+Six hours later, Marsh lights the chemical thrusters.
+
+It's nothing like the burn. No shaking, no clocks. A soft push from somewhere behind us, and then another, and then the long, patient quiet of a ship coasting the rest of the way on manners. The Phengomotors brought us down from most of the speed of light. The rest is a much smaller job, done by much simpler engines, and Marsh does it with the expression of a woman parallel parking.
+
+"Correction burn complete," she says. "We are inbound."
+
+I go to the cockpit to look.
+
+The forward camera is up on the main screen, and the first thing I notice is that I don't notice anything. That's the strange part. Almost three years ago, on a different stretch of this trip, I looked out the medbay window and the stars were wrong, thinned out and red behind us and crowded together somewhere up ahead where I couldn't see. Now they're just stars. Spread out across the screen, white and ordinary, every one of them where a sky is supposed to put it.
+
+We're slow enough again that the universe has stopped bending around us.
+
+"The stars are right," I say.
+
+"They were always right," Jinzhou says, from the right seat. "We were fast."
+
+"Same thing, from in here."
+
+And in the middle of the screen, a little brighter than anything around it, there's a point of light that isn't white. It's orange. Dim, and not as warm as I remember it, and a little smaller than the picture of it I carry around in my head.
+
+Nakuet.
+
+I don't say anything. Nobody does. Jinzhou doesn't look at me, which is how I know he's looking at the same thing. Somewhere near it, too small to see yet, is a planet that's been getting colder for as long as I've been gone, and in a box at the front of a little courier ship, somewhere ahead of us, is the thing that's going to stop it.
+
+I look at it for a long time. I let it be a light.
 
 Later-Ethyn can have the drawer. I'm keeping this one.
 

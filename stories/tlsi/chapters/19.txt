@@ -120,7 +120,7 @@ Maslin is quiet for once, arms crossed, watching the numbers scroll on the scree
 
 The room goes quieter than it already was.
 
-"Fuel's gone," Maslin says, before Petryn can get to it, sharp and fast, the words coming out before he's finished deciding how to say them. "Tanks that didnt blow got contaminated in the reaction, whatever the fuck actually happened in there, and the third one that survived the initial hit- it aint enough. Its nowhere close to enough. This ship aint flyin anywhere ever again, man, thats just the actual truth of it, and Ive known that for months, and it dont get less true no matter how many times I say it out loud."
+"Fuel's gone," Maslin says, before Petryn can get to it, sharp and fast, the words coming out before he's finished deciding how to say them. "Tanks that didnt blow got contaminated in the reaction, whatever the fuck actually happened in there, and the third one that survived the initial hit- it aint enough. Its nowhere close to enough. This ship aint flyin anywhere ever again, man, thats just the actual truth of it, and ive known that for months, and it dont get less true no matter how many times i say it out loud."
 
 Contaminated. I keep my face very still. That's a word I've had enough of for one trip.
 
@@ -144,7 +144,7 @@ I do the math out loud, because that's what I do. Saying numbers out loud has al
 
 Maslin is drifting now, the small side-to-side he does when holding still isn't an option anymore.
 
-"So whats the actual plan here," he says. "Cause I dont love just sittin in a dead ship waitin on a math problem to solve itself, no offense."
+"So whats the actual plan here," he says. "cause i dont love just sittin in a dead ship waitin on a math problem to solve itself, no offense."
 
 "None taken," I say. "The plan, as far as I can tell, is you three come with us. Onto MK1. We combine what's salvageable from here with what we've got, and we make the numbers work, however we have to make them work."
 
@@ -155,6 +155,76 @@ Maslin is drifting now, the small side-to-side he does when holding still isn't 
 Maslin doesn't have a fast response to that, which I'm coming to understand doesn't happen to him often.
 
 "Okay," he says, finally, quieter than anything he's said since we opened that bulkhead. "Yeah. Okay. That tracks."
+
+---
+
+"In order," Marsh says. "You promised."
+
+So I tell it in order. It's the first time I've told the whole thing out loud, start to finish, to people who weren't there for any of it, and it turns out to be a strange experience, like reading your own diary to a jury.
+
+"We went to Asimov to bring back an organism called Asicell," I say. "It kills Phengoclept. That's the whole mission, in one sentence. We found it. It's real. It works."
+
+"thats good news," Maslin says, cautiously, like he's already heard the tone of the next part.
+
+"It's great news. Then some of it got into our fuel."
+
+The cockpit goes very quiet.
+
+"Not on purpose," I add. "We had to take the ship down into the top of Asimov's atmosphere to collect it, and while we were down there, one of our tanks got breached. It was open for four seconds before it sealed itself. Four seconds is plenty, it turns out. Wild Asicell got in, and then they started digging toward the rest. The details are long, so I'll skip to the part that matters. The Asicell is asleep in our tanks right now. Cold keeps it asleep. So we made the tanks very cold. Colder than they were ever meant to be. Minus fifty-five degrees Celsius. That's what I meant by cold."
+
+"How cold were they meant to be," Marsh asks.
+
+"Minus eighteen."
+
+She closes her eyes for a second. Just one. I'm beginning to understand that's how Marsh swears.
+
+"And keeping them that cold takes most of our power," I go on. "Ninety-four percent of the bus. So no spin, no gravity, the centrifuge is off, and two of our three labs are sealed behind their grates until we get home. Everything else on the ship runs on what's left over."
+
+"you put the thing that eats fuel," Maslin says slowly, "in the fuel"
+
+"I'd like it noted that it put itself there."
+
+"and youre flyin home on it"
+
+"Very carefully."
+
+"Thats the worst sentence ive ever heard," he says, with something almost like admiration. "and ive been livin in a cockpit for four months"
+
+"There's a second worst sentence," Jinzhou says. "When we get home, the engines have to restart. Warming them takes twenty-two hours, and the braking burn takes twenty-five. Forty-seven hours from the moment we start warming the tanks."
+
+"And the Asicell?" Marsh says.
+
+"Wake up at about fifty-one," I say. "Plus or minus six."
+
+Nobody says anything for a long moment. Petryn is the one who breaks it, slow and thoughtful, still half looking at his manifest.
+
+"So you got four hours, man."
+
+"On paper."
+
+"And the plus or minus is six."
+
+"Yes."
+
+"Huh," Petryn says. He doesn't sound frightened. He sounds like a man who has just been handed an engine with a strange noise in it and is already listening for where the noise lives. "That's a real interestin' problem."
+
+"I was hoping someone would say that," I say, and I mean it more than I can explain. "Everybody else has called it a disaster."
+
+"Oh, it's a disaster," Petryn says. "It's also interestin'. Things can be two things."
+
+Marsh opens her eyes.
+
+"Then we have time," she says. "Two years and nine months, give or take. That is a long time to work on a four-hour problem."
+
+"That's what I keep telling Later-Ethyn."
+
+"Who is Later-Ethyn," Maslin asks.
+
+"Me, in the future. I give him all my problems."
+
+Maslin looks at Jinzhou. "is he always like this"
+
+"Yes," Jinzhou says. "You get used to it. Or you don't, and it does not matter, because he continues."
 
 ---
 

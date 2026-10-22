@@ -9,7 +9,7 @@ The three of them keep sleeping in the cockpit until the move is done, strapped 
 
 Medical supplies go first. They matter most and take up the least room, so that's an easy call.
 
-"This crate goes to Lab A," I say, marking it. "Storage's tight in there, but it's the driest room we've got and half of this needs to stay cool."
+"This crate goes to Lab B," I say, marking it. "Storage's tight in there, but it's the driest room we've got and half of this needs to stay cool."
 
 "Copy," Petryn says. He sends the crate down the hall ahead of him with one easy push and follows it, unhurried, a paw trailing the rail, nudging it back on course whenever it drifts, like he's done this his whole life. For all I know he has. "You always this particular about storage, or is this a special occasion?"
 
@@ -17,7 +17,7 @@ Medical supplies go first. They matter most and take up the least room, so that'
 
 "Respect," he says.
 
-Lab A takes the crate. While he clips it down, I ask the thing I've been not asking for four days.
+Lab B takes the crate. While he clips it down, I ask the thing I've been not asking for four days.
 
 "Can I ask about your fuel? Not the numbers. What happened to it."
 
@@ -57,7 +57,7 @@ Maslin insists on carrying his own personal effects himself, which turns out to 
 
 "You good?" I ask, catching him halfway through the collar, just floating there for a second, looking back the way we came.
 
-"Yeah, im good, just-" He stops. Starts again. "Just weird, you know? Leavin a ship behind. Even a dead one. Even one that near killed us." He pulls the bag in against his chest. "Spent four months thinkin about nothin but gettin off that thing and now Im actually doin it and it dont feel like I thought itd feel."
+"Yeah, im good, just-" He stops. Starts again. "Just weird, you know? Leavin a ship behind. Even a dead one. Even one that near killed us." He pulls the bag in against his chest. "spent four months thinkin about nothin but gettin off that thing and now im actually doin it and it dont feel like I thought itd feel."
 
 "How'd you think it'd feel."
 
@@ -75,7 +75,7 @@ The plants come over last, on the afternoon of the fourth day.
 
 Jinzhou carries them. Nobody asks him to, and nobody offers to take them from him. He holds the little table out in front of him with both paws the whole way through the collar, like a cake at a surprise party, and clips it to the wall of the hallway under the brightest lamp we have. He adjusts the angle twice.
 
-Three people each carefully don't look at the pots. I have a theory about whose they are. I put it in the drawer for Later-Ethyn. He has a lot to look forward to.
+Marsh watches him do it and doesn't say a word, which from Marsh is practically a speech. When he's done, she reaches past him and turns the lamp a quarter inch. Then she thanks him. He says it was not a favor. She says she knows.
 
 ---
 
@@ -93,7 +93,7 @@ That's a real question, and I realize I haven't thought it through. Four days on
 
 I don't mention why four of them are open. I know the names that go with the other four, and I decide that tonight they're just beds.
 
-"Small mercies," Maslin repeats, and there's something almost disbelieving in it, like he stopped expecting the universe to hand him anything that fit this neatly a long time ago. "Man. Okay. Yeah. Ill take it." He glances down at the duffel. "so the duffel gets its own berth"
+"Small mercies," Maslin repeats, and there's something almost disbelieving in it, like he stopped expecting the universe to hand him anything that fit this neatly a long time ago. "man. okay. yeah. ill take it." He glances down at the duffel. "so the duffel gets its own berth"
 
 Nobody says no.
 
@@ -132,7 +132,7 @@ Maslin's turn comes. He turns the tube over, reads the label, and frowns at it.
 
 ---
 
-My own tube comes out last, stamped VASEK, and I carry it to Lab A, where Marsh has been up for an hour and has eaten hers with a napkin clipped under it, for reasons she hasn't shared. I don't ask.
+My own tube comes out last, stamped VASEK, and I carry it to Lab B, where Marsh has been up for an hour and has eaten hers with a napkin clipped under it, for reasons she hasn't shared. I don't ask.
 
 "ARACCSIM," I say. "Updated supply math. Short version, and I'm going to pretend I didn't hear the long one."
 
@@ -162,11 +162,29 @@ She almost smiles. Actually almost, the corner of her mouth trying something it 
 
 ---
 
-By midmorning the labs are a mess. Five people working in rooms built for two, and in weightlessness a crowd is three-dimensional. Marsh has taken the wall station next to Jinzhou in Lab A and is working upside down relative to him, and neither of them has brought it up. It should feel chaotic in a bad way. Somehow it doesn't.
+By midmorning Lab B is a mess. It's the only lab the ship will let us into with the spin off. A and C sit sealed behind their grates until there's a floor again, and B stays open because it's the way down to the payload bay. So five people are working in a room built for two, and in weightlessness a crowd is three-dimensional. Marsh has taken the wall station next to Jinzhou and is working upside down relative to him, and neither of them has brought it up. It should feel chaotic in a bad way. Somehow it doesn't.
 
-Petryn has found a corner of Lab C and colonized it with quiet competence, running diagnostics on the salvaged water reclamation parts with the same patience he brought to that dead terminal on MK2, humming something I don't recognize and don't ask about.
+Petryn has gone down the hatch into the room under the lab and colonized it with quiet competence, running diagnostics on the salvaged water reclamation parts with the same patience he brought to that dead terminal on MK2, humming something I don't recognize and don't ask about.
 
 Marsh and Jinzhou are cross-referencing fuel curves in a silence that isn't awkward so much as companionable, two people who communicate mostly through shared spreadsheets and the occasional precise correction. Marsh has a second spreadsheet open that, as far as I can tell, exists to check the first.
+
+Lab B has a whiteboard too. It's smaller than the one in Lab A, and somebody on the build crew used it to write PAYLOAD HATCH: KEEP CLEAR with an arrow, and then never wiped it. I wipe it. Then I take a marker and write across the top, in my own handwriting, as close to hers as I can get it:
+
+Y'SHARI-LINE AND PHENGOCLEPT RECAP
+
+I underline it twice. The original is behind a sealed grate in Lab A, where it's going to stay until we have a floor again, and I'd rather not go seven years without looking at it.
+
+Maslin drifts past on his way to somewhere and reads it upside down.
+
+"whos that"
+
+"The woman whose theory this ship is running on."
+
+"is she here"
+
+"No," I say. "But she'd want to be in the room."
+
+He looks at it a moment longer, nods like that makes sense to him, and leaves it alone. Nobody writes on the top part of that board after that. I never ask anyone not to.
 
 Maslin is underfoot everywhere, which I'm coming to understand is just who he is, restless energy that needs somewhere to go. Today it's going into the supply cabinet. He spent four months rationing scraps and is having real trouble believing in a cabinet that isn't empty.
 
