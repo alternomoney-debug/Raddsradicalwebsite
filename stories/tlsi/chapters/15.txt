@@ -7,7 +7,7 @@ Not ARACCSIM. A different voice, flatter and cheaper, the voice of a thing that 
 
 I don't open my eyes yet. My body is still negotiating with itself over whether this is waking up or one more layer of a very long, very warm nothing.
 
-"Mmn," I say, which I've decided is a perfectly reasonable response to being woken after however many years of being asleep on purpose.
+"Mmn," I say, which I've decided is a perfectly reasonable response to being woken after however long I've been asleep on purpose.
 
 "Reason code four," the voice says again. "Contact."
 
@@ -39,7 +39,7 @@ I look at that for a while. Somebody, a long time ago, sat at a desk and decided
 
 Then I try to sit up and learn the rest of what's changed.
 
-There is no up. The straps across my chest let go and I keep going, a slow, lazy rise off the berth, like I'm being offered to the ceiling. I catch the rim of the cubby with one paw. Five years in the cold has left my arms feeling like, uh, somebody else's, but it turns out they're not being asked for much. Nothing weighs anything. For once, my legs are off the hook.
+There is no up. The straps across my chest let go and I keep going, a slow, lazy rise off the berth, like I'm being offered to the ceiling. I catch the rim of the cubby with one paw. Months in the cold have left my arms feeling like, uh, somebody else's, but it turns out they're not being asked for much. Nothing weighs anything. For once, my legs are off the hook.
 
 Level two. The centrifuge is off, the freezer in the tanks has the power, and I was told exactly what the ship would be like. I'd just forgotten to believe it.
 
@@ -57,7 +57,7 @@ His sleeve has ridden up. Along the inside of his left forearm there's a pale li
 
 "Yes."
 
-Neither of us says anything else. There isn't a version of that word that doesn't scare me. We're years from anywhere, in a stretch of space with exactly one known ship in it, and I'm fairly sure it's us.
+Neither of us says anything else. There isn't a version of that word that doesn't scare me. We're six light years from anyone, drifting in a system with exactly one known ship in it, and I'm fairly sure it's us.
 
 "ARACCSIM," I say, and my voice holds this time. "Report."
 
@@ -113,17 +113,17 @@ I get my feet under a floor rail, which on this ship counts as standing. The roo
 
 "ARACCSIM. How long was I under?"
 
-"Transit duration to this point is four years, eleven months, six days. You are not scheduled for full wake until intercept at the Nakuet system."
+"Rest state duration, five months, nine days. Scheduled wake was in twenty-one days."
 
-Four years, eleven months, six days.
+Five months, nine days.
 
-I sit with that longer than I mean to. Not the number itself. I've gotten used to large numbers, they're basically the ship's love language. It's the fact of it. Almost five years, and I don't remember a second. Not one dream, not one almost-waking, just the medbay ceiling and then this ceiling, stitched together like there was no time between them at all.
+I sit with that longer than I mean to. Not the number itself. I've gotten used to large numbers, they're basically the ship's love language. It's the fact of it. Almost half a year, and I don't remember a second. Not one dream, not one almost-waking, just the medbay ceiling and then this ceiling, stitched together like there was no time between them at all.
 
-Then I do the subtraction the other way, because that's the rule. Two years and nine months to go. Give or take.
+Then I do the subtraction the other way, because that's the rule. Twenty-one days early. Something out there didn't want to wait.
 
-I file the "give or take" under later. Later-Ethyn's drawer doesn't close anymore.
+The problem I went to sleep with is exactly where I left it. We still can't go home. I check the drawer for Later-Ethyn's answer, and it's empty. He slept too.
 
-"Somebody's been looking after me for five years," I say, mostly to myself.
+"Somebody's been looking after me for five months," I say, mostly to myself.
 
 "LSI-ASM&C maintained your rest state," ARACCSIM says.
 
@@ -147,7 +147,7 @@ I file the "give or take" under later. Later-Ethyn's drawer doesn't close anymor
 
 "Cold."
 
-I let out a breath, and it feels about five years long. Whatever is out there, the freezer is working, the cruise control is working, and the thing that digs is still asleep. That's one problem I get to leave exactly where I put it.
+I let out a breath, and it feels about five months long. Whatever is out there, the freezer is working, the cruise control is working, and the thing that digs is still asleep. That's one problem I get to leave exactly where I put it.
 
 My glasses are not on my face.
 
@@ -167,37 +167,37 @@ The arm folds back into the ceiling without comment. The arms have never once ac
 
 The window is across from me.
 
-It's the same round porthole I put a paw on the first day I woke up, when I didn't know my own name and counted two dozen stars to give my brain something to do. I pull myself over to it along the berth rail, because I want to see what five years looks like.
+It's the same round porthole I put a paw on the first day I woke up, when I didn't know my own name and counted two dozen stars to give my brain something to do. I pull myself over to it along the berth rail, because I want to see what five months looks like.
 
-The stars are wrong.
+Asimov-09D is in it.
 
-Not wrong like a bad memory. Wrong like a bad measurement. There are fewer of them than there should be, and the ones that are left are dim and faintly red, like coals in a fire somebody stopped feeding. The middle of the window is almost empty.
+It's smaller than I remember. That's the first thing. The last time I looked at this planet it filled the cockpit screens, a thick hazy ball the color of weak tea, with the line of its atmosphere drawn across it like a pencil mark. Now it fits inside the window with room to spare. About the size of a coin held at arm's length.
 
-I look at that for a long time. Then I do the thing I'm actually good at, which is assume the universe is behaving and I'm the one who's confused.
+I look at that for a while. Then I do the thing I'm actually good at, which is assume the universe is behaving and I'm the one who's confused.
 
-This window faces the engine end. Backward. We're looking at where we came from, and we're leaving it at most of the speed of light. Light coming from behind us has to chase us to get in, and it arrives tired, stretched out, redder than it left. And the faster you go, the more the stars ahead of you crowd forward into a little bright patch, and the more the ones behind you thin out, like the whole sky is being swept toward the nose of the ship.
+A planet doesn't shrink. We left. Not far, and not fast, but for five months, with nothing pushing and nothing stopping us, and the last little bit of speed the burn gave us has been carrying us outward the whole time, the way a ball keeps rolling after you stop kicking it.
 
-So the sky behind us is getting emptier because we're fast. Very fast.
+"ARACCSIM. Distance to Asimov-09D."
 
-"ARACCSIM. Current velocity, as a fraction of light."
+"Four point one million kilometers."
 
-"Point eight seven."
+"And our speed, relative to it?"
 
-"That's what I thought." I didn't think it, exactly. I thought "a lot," and then I thought "red," and the two of them met somewhere in the middle. "If I went to the cockpit and looked forward, what would I see?"
+"Point three kilometers per second. Outbound."
 
-"The forward sky is compressed and shifted toward blue. Brightness is elevated."
-
-"A crowd," I say. "Everything we're heading toward, packed into the front window like people at a door."
+"Point three." I do it in my head. "A little over a thousand kilometers an hour. Fast for a car. For a spaceship that was supposed to go home, it's a stroll."
 
 "That is not a term I would use."
 
 "It's a study guide term. I'm allowed."
 
-Somewhere behind all that red is Wask-ki, and Nakuet, and a dimming I spent years writing about for people who didn't like math. I can't see either of them. I don't try. The window's job right now is to tell me how fast I'm going, and it's told me, and I'd like to let it stop.
+Somewhere out past all of this is Wask-ki, and Nakuet, and a dimming I spent years writing about for people who didn't like math. At this speed we'd get there in about six million years. I did that one in my head too. I'm choosing not to check it.
+
+I look at the little planet for one more second. Then I let the window stop being my problem.
 
 "ARACCSIM," I say, quieter, with my back to the window. "Mr. Kenzo's arm."
 
-"Fracture fixation was completed during transit. Day two hundred and eleven. Recovery is complete within expected parameters."
+"Fracture fixation was completed during the rest state. Day thirty-one. Recovery is complete within expected parameters."
 
 "While he was asleep."
 
@@ -215,7 +215,7 @@ Jinzhou is already dressed, already at the end of the rail, already looking like
 
 "You look terrible," he says, which from him is either an observation or concern, and with Jinzhou those have never been easy to tell apart.
 
-"I've been asleep for five years. I'd like to see you do better."
+"I've been asleep for five months. I'd like to see you do better."
 
 "I intend to. Later. Right now we have a ship to look at."
 
@@ -319,13 +319,17 @@ She didn't tell me about this door.
 
 "He's patient."
 
-Jinzhou is looking at the pixel too. "Four months after us," he says. "If it left four months after us, it should be four months behind us. It should never be in front of us at all."
+Jinzhou is looking at the pixel too. "Four months after us," he says. "If it left four months after us, it arrived here four months after us."
 
-"Unless it was faster, and then it stopped being faster."
+"While we were in orbit. We'd have seen it."
+
+"Unless it arrived and did not stop."
+
+"Or stopped and stopped answering."
 
 "Yes."
 
-"Which means it's been drifting for a long time."
+"Which means it's been drifting for a while."
 
 "Yes."
 
@@ -335,9 +339,9 @@ Jinzhou is looking at the pixel too. "Four months after us," he says. "If it lef
 
 "I didn't want it to say a number either."
 
-"I know. That is why I am saying it to you instead." He doesn't look away from the screen. "Years, Ethyn. It has been out there for years."
+"I know. That is why I am saying it to you instead." He doesn't look away from the screen. "Months, Ethyn. It has been out there for months."
 
-I think about what years would mean for a crew. Then I stop, on purpose, before my brain can finish the thought, because I'm not going to do that math on people I've never met.
+I think about what months would mean for a crew. Then I stop, on purpose, before my brain can finish the thought, because I'm not going to do that math on people I've never met.
 
 Jinzhou unclips a tube from the console and hands it to me without looking.
 
@@ -345,7 +349,7 @@ Jinzhou unclips a tube from the console and hands it to me without looking.
 
 "I'm not hungry."
 
-"You have been asleep for five years. You are hungry. Your body has not been told yet."
+"You have been asleep for five months. You are hungry. Your body has not been told yet."
 
 I eat it. It's the beige flavor, which is the flavor of all the other flavors after you take the flavor out. I finish it anyway, because he watches me until I do, and then he goes back to watching the pixel, satisfied in the way only Jinzhou can be satisfied, which is invisibly.
 

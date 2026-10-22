@@ -44,239 +44,190 @@ I'd like to argue. I find I can't.
 
 ---
 
+Petryn finds me in Lab B that afternoon with a data pad and the look of a man who has been up too long with a question.
 
-Marsh doesn't trust anything that reports in adjectives.
+"Ethyn. Can I show you somethin'?"
 
-I find this out about nine minutes after she gets a login. The ship's cruise control, LSI-ASM&C, describes everything as "nominal" or "within tolerance," and Marsh has taken it personally. Three weeks into being a five-person ship, she has pulled its raw logs for every tank wall since the handoff and is working through them in Lab B with her feet hooked under the bench rail, one column at a time, with the focus most people save for defusing things.
+He turns the pad toward me. A graph, mostly flat, with tiny spikes along the bottom edge, like a pulse on a monitor that's trying not to be noticed.
 
-I drift in to ask if she wants dinner. I don't get to the question.
+"MK2's tank logs," he says. "I been through the cache twice since you got here. Third time, I looked at somethin' I'd been callin' sensor noise."
 
-"Ethyn," she says, without looking up. "Come and look at this, please. And tell me I'm reading it incorrectly."
+"What is it?"
 
-"That's a worrying way to start."
+"Excitation events. Cells lightin' off with no lure pulse. Little ones, weeks before the first tank went."
 
-"I'm aware of that."
+"Lighting off for no reason," I say. "That's not a cause. That's a symptom."
 
-She turns the screen toward me. A graph, flat as a tabletop for nearly its whole width, and then, at the right edge, not flat.
+"They had a reason. I think it was just a bad one." He scrolls. "Whatever that ship breathes out, or burns, or runs through a pipe, some of it looks a little like Venus if you squint. Good cells don't squint. A few of ours did. And then we got here, to a planet whose whole sky is the thing they were squintin' at."
 
-"Tank 2-E," she says. "Wall temperature, since the handoff."
+I look at the spikes for a while.
 
-"ARACCSIM," I say. "Numbers. Short version, and I'm going to pretend I didn't hear the long one."
+"Bad cells," I say.
 
-"Tank 2-E wall temperature has risen four point one degrees over the past eleven days. Current reading, minus fifty point nine degrees Celsius. Rate of rise is increasing."
+"A few. Bred wrong, loaded in from day one, sittin' in the tanks like they belonged there. They don't wait for the lure. They see anythin' close enough and they scramble."
 
-Minus fifty point nine.
+"And scrambling cells get excited."
 
-I know that neighborhood. I wrote it in the log myself, the night I found out where the Asicell go to sleep. At minus fifty they stop. At minus forty they're commuters at the end of a long day. At minus thirty-two, one of them twitches, and eighteen minutes later the whole smear is swimming around like nothing happened.
+"And excited cells get hot," Petryn says. "And hot cells get more excited."
 
-"We're one degree from the line," I say.
+"And at the bottom of every runaway is the word bang."
 
-"That is my reading as well." She hesitates, which she doesn't do often. "I spent forty minutes hoping to be wrong."
+"Never heard it said like that." He nods slowly. "Accurate."
 
-"LSI-ASM&C," I say. "Freeze line status."
+"So the explosion did not break your fuel," Marsh says, from the doorway. I didn't hear her arrive. She has a way of arriving. "The fuel broke your ship."
 
-"All freeze lines within tolerance." The voice is flat and cheap, like a recording in a train station that knows nobody is listening.
+"Fuel was always gonna. Took it a while to get a bad day." He scrolls again, slower. "But here's the thing I come to show you. Two tanks. The two that went. The flashes are all in those two. The third one, the top one, the one that got cooked on the outside and didn't go?" He taps it. "Flat. Not one flash. Not in the whole log."
 
-"Define tolerance."
+I stop breathing for a second. Not dramatically. Just long enough to notice.
 
-"Plus or minus ten degrees."
+"Different batch," I say.
 
-"Of minus fifty-five."
+"Looks like. Two tanks loaded from one breeding run, one from another. And the third one's still sittin' out there, sealed, with most of its load in it."
 
-"Correct."
+"Logs aren't a sample."
 
-"So you'll let me know at minus forty-five."
-
-"Correct."
-
-"And what are the Asicell doing at minus forty-five?"
-
-"Query outside function."
-
-Marsh closes her eyes for exactly one second. "It was built for level one," she says. "At minus eighteen, ten degrees is a tight band. At minus fifty-five it is the entire margin and then some."
-
-"Level two was my idea," I say. "The alarm band was not. I'd like that on the record."
-
-"Noted, Dr. Vasek," ARACCSIM says.
-
-"Thank you, ARACCSIM."
-
-I do the arithmetic in my head, and it's the kind I'd hoped not to need. Three days to minus fifty, when they start to drift. Nineteen to minus thirty-two, when they swim.
-
-"ARACCSIM. Confirm."
-
-"Projection confirmed. Minus fifty in approximately three days. Minus thirty-two in approximately nineteen."
-
-"Shoot," I say, quietly, to the graph.
-
-Then I get on the ship-wide and say "cockpit, please" in the voice of a man who isn't panicking.
+"No," Petryn says. "That's why I come to you."
 
 ---
 
-The cockpit is full by the time Marsh and I pull ourselves up the hall. Five people orbiting one screen, hooked to rails and seat backs and each other's straps. Five bodies where there used to be two is still not a sensation I've gotten used to.
+Getting a sample takes most of the next day.
 
-Marsh puts the graph up. Nobody says anything for a second. Then Maslin does, because someone has to.
+MK2's fuel taps still answer to Petryn, the way old machines answer to whoever has been patient with them the longest. He draws a vial from the third tank through the engineering panel in the dead cockpit, walks it back through the collar in a cold box, and hands it to me like he's handing over a pet that might bite.
 
-"four degrees dont sound like much," he says, already sounding like he doesn't believe his own reassurance. "right thats not- thats not a big number is it"
+I put a drop on the cold stage and look.
 
-"It's not a big number," I say. "It's a big trend. Warming in a tank that's supposed to be frozen means something is failing. The question is what."
+Phengoclept. Small bright emitters at twenty-two point seven zero six, exactly where they should be, exactly as many as a fuel sample ought to show. No smear. No crowd. No little blue-membraned diners. Just fuel, being fuel, which is the most beautiful thing I've seen under glass since the day I found the Asicell.
 
-"A freeze line fault," Marsh says, quiet and immediate. "A loss of coolant is the most likely explanation for a progressive rise in wall temperature."
+"Clean of Asicell," I say. "That's one."
 
-Petryn has gone very still beside her, which for him is its own kind of alarm.
+"What's two?"
 
-"Which tank," he says, slow and careful, like he already knows and is hoping someone talks him out of it.
+"Two is whether any of them squint."
 
-"2-E."
+I don't have a Venus. I have the next best thing, which is the ship's own breath. Jinzhou rigs a line off the scrubber outlet, a thread of the carbon dioxide we've been storing so carefully away from the tanks, and I bleed the smallest breath of it across the slide.
 
-He lets out a breath through his nose. "The one that opened."
+Good cells ignore it. That's the whole point of them. They wait for the lure and do nothing else.
 
-"The one that opened," I say. "The one with the crowd."
+I watch for ten minutes. Then twenty. Nothing scrambles. Nothing flashes. Not one cell so much as turns around to look.
 
-"wait the crowd" Maslin says. "the predator things. the ones that eat fuel. theyre in the fuel. again"
+"Not one," I say.
 
-"They're in one tank. They're asleep. Cold keeps them asleep."
+Petryn lets out a breath he's clearly been holding for most of a day. Maslin, who has been hanging upside down in the doorway pretending not to care, says "is that good. thats good right. somebody say its good"
 
-"and its getting less cold"
+"It's good," I say. "It's very good. It's the first good thing that's happened to anybody's fuel on either of these ships."
+
+---
+
+Maslin wants the rest of it, so Petryn tells him, and it takes about two sentences. A few cells in MK2's fuel were bred wrong. They went off at nothing, and that is what blew the tanks.
+
+Maslin doesn't say anything for long enough that I notice.
+
+"a few" he says. "out of how many"
+
+"Billions."
+
+"billions" Maslin says. "and a few" He hangs there, one boot hooked on the rail, looking at nothing. "four months in that cockpit i thought it was something i did. something i signed for. the loadout i should have checked-"
+
+"Man," Petryn says. "You couldn't have checked a cell. Nobody could."
+
+"i know that. i do know that. its just- its a lot better than something i did"
+
+"There's no step for it," Jinzhou says.
+
+Maslin looks at him.
+
+"I checked the loadout procedure." Jinzhou's voice has not changed in any way. "There is no step for checking the cells. It was never your job to check them."
+
+"you checked"
 
 "Yes."
 
-"cool" Maslin says. "cool cool cool. i left one ship with a fuel problem to get on another ship with a fuel problem. at least this one hasnt exploded"
+"when"
 
-"Yet," Marsh says. "'Yet' is doing a great deal of work in that sentence."
+"Last week."
 
-"They don't just wait, either," I say. "Last time, the fuel was calling them the whole way. They dug straight through the tank lining to get to it. Like it was a door."
+Maslin opens his mouth, and then closes it.
 
-Maslin considers this.
-
-"thats kind of impressive," he says. "in a way i really dont wanna be impressed by right now"
-
-"We should not admire the thing that is waiting to eat our engines," Marsh says, dry and precise, and it's such an unexpected line from her that I almost laugh despite everything.
-
-"noted. retractin the impressed. its bad. its very bad. i hate it"
-
-"It's worse than that," Jinzhou says. He hasn't moved in his seat. Nothing in his voice has either. "The restart plan assumes the tanks stay at minus fifty-five. It was the only number in that plan without a plus or minus."
-
-"And now it has one."
-
-"Yes."
-
-"Four hours of margin, plus or minus six," I say. "I called it a mood."
-
-"It was a mood," Jinzhou says. "This is a forecast."
-
-Petryn is already unclipping.
-
-"I wanna see the line," he says.
+"thanks," he says, quietly, and I decide I didn't hear it, so that he can have it all to himself.
 
 ---
 
-He gets as far as the cockpit hatch before he remembers, and stops with one paw on the frame.
+We hold the meeting in Lab B, because it's the only lab that's open and because it's the room with the whiteboard. Nobody says the second part.
 
-Nobody on this ship can see the line. Not with their own eyes. The fuel is in three big tanks that run the length of the ship on the outside, with us in the middle of them, and there's no way into them from in here. No hatch, no crawlspace, no duct you could fit a paw down. Somebody at Argon put a wall between the crew and the fuel on purpose, and today I can't decide whether to thank them or file a complaint.
+Marsh does the numbers. She's been doing them since the vial came back clean, and she lays them out on the board under Bejors' header in handwriting that looks typeset.
 
-What we do have is a camera. ARACCSIM puts the hull inspection feed up on the main screen and walks it back along the tank cluster, slow, one frame at a time, five of us crowded around the cockpit like it's a fireplace.
+"Our reserve, after what the Asicell ate on the way out of orbit, is below what it takes to get home and stop," she says. "Tank 2-E holds fourteen percent of it, and 2-E is full of Asicell. We cannot burn it. We cannot keep it. Every day it sits in our tanks, we are one bad thermostat away from losing the rest."
 
-Petryn finds it first. He doesn't say anything. He just leans past Marsh and puts a claw on the glass.
+"So we vent it," Maslin says.
 
-A hairline seam in the freeze line manifold, barely visible unless you already know to look, and along it, growing straight out into the dark, a fur of white frost. Coolant, weeping through the crack and freezing the second it meets nothing. It doesn't fall. There's no down. It just keeps growing, in small delicate feathers, toward the lens.
+"So we vent it. That leaves us further short." She draws a line, and then another under it. "MK2's third tank holds a little over a fifth of a full load. Clean, by Ethyn's slide. If we move it across, we replace 2-E and then some. We arrive home with margin."
 
-"There," Petryn says quietly. "That's where it's weepin'."
+"And the ones in the lines," Jinzhou says. "The feed line. The motor housings."
 
-"How long has it been open?" I ask.
+"Are not solved by this," Marsh agrees. "This removes the crowd. It does not remove the stragglers."
 
-"Estimated fault duration, eleven days," ARACCSIM says. "Micro-fracture propagation likely began significantly earlier, potentially months prior, undetected due to gradual onset."
+"One problem at a time," I say. "The crowd's the one that can sink us."
 
-Months.
+"Then it's a trade," Marsh says. "We give up a tank of our own fuel and gamble on a tank of theirs. If Ethyn's slide is wrong, we have swapped a known problem for an unknown one." She looks at the board, and then, in a way I'm not ready for, at me. "Dr. Vasek."
 
-I sit with that the way I sat with the two thousand one hundred days number at the very start of all this. Something has been quietly failing for months, invisible and patient, and none of us noticed, because we were too busy being relieved about the last crisis to go looking for the next one.
+I'm holding a marker. I don't remember picking it up.
 
-"Why this line?" Marsh asks. "Why here?"
+"Under the Initiative's chain of authority," she says, formally, in the same voice she uses to read wall temperatures, "the primary scientist is deceased. The secondary scientist holds the decision on any matter concerning the Phengoclept or its antagonist. I would like to hear it from you."
 
-"Spec on these is minus eighteen," Petryn says. He taps the screen beside the seam, not on it, like it might feel it. "Somebody took it to minus fifty-five in under six hours. Metal remembers that kind of thing."
+I want to say that I'm a study guide author. I want to say it so badly my ears go flat, and it's in my mouth, right there, practiced, ready. *I'm a study guide author, not certified for anything.* It's been a good line. It's gotten me out of a lot of rooms.
 
-"Somebody."
+But nobody in this room is going to let me out of it, and that isn't cruelty. It's something else. Two of them have seen me in the cold and on the cable. Three of them have seen me scream through a door about a suit. They're not asking what I am. They're asking what I think.
 
-"Not blamin' anybody, man."
+I think about every time someone decided something for me. Y'shari and her clause. A clause number I memorized for no reason except that it was the only paperwork I ever got. The facility, the launch, a dormitory with a door that opened on me and nobody else. I think about how I never said yes to a single piece of this. Not the mission, not the ship, not the part where I woke up and everyone I'd trained with was dead.
 
-"It was me. I picked level two. It was the right call, and I'd like to be a little upset about it anyway."
+I was never asked.
 
-"That's allowed," Petryn says.
+"Hm," I say. "Give me a second."
 
-"Can we track them?" Jinzhou asks. "The Asicell. Where they are."
+I look at the board. At Bejors' header, in my copy of her handwriting. At Marsh's two lines. At the slide, still on the cold stage behind me, with its clean bright fuel that doesn't squint.
 
-"Partial tracking available via Y'shari-frequency absorption signatures," ARACCSIM says. "Current concentration is highest in tank 2-E. Secondary concentration, low, in the aft feed line and motor housings. All dormant."
+"Vent it," I say. "Vent 2-E. We take MK2's tank." My voice doesn't shake, and I'm a little offended by that. "Yes. I'm saying yes. Put it in the log."
 
-"All dormant," I repeat. "In the tank and in the engines. Both. Asleep."
+"Logged," ARACCSIM says. "Authority registered, Dr. Vasek."
 
-"Correct."
+"Say it again for the record," Jinzhou says.
 
-Nobody says anything for a while. Five people crowded around one screen, watching a hairline seam grow feathers.
+"I said yes."
 
-"We have five people and a problem," Marsh says, steady even now. "That is more than Ethyn and Jinzhou had for the fishing mission, and they solved that."
-
-"Barely," I say.
-
-"Barely still counts." She looks at the seam on the screen, and back at us. "We should begin by understanding exactly what we are dealing with. How fast the line is failing, whether the damage is confined to 2-E, and what it would take to hold that wall at minus fifty-five until we can repair it properly."
-
-Petryn nods slowly, the stillness in him turning into something more active.
-
-"I got some ideas," he says. "Nothin' solid yet. But ideas."
-
-"i got ideas too" Maslin says. "mine mostly involve panickin but im workin on the second half"
-
-"We'll take whatever we can get," I say, and I mean it.
-
-Nineteen days. I've done the arithmetic four times and it keeps being nineteen. Out past the hull, in the dark, a crowd of very patient diners is being kept asleep by a pipe about as wide as my arm.
-
-I'd like to keep it that way.
+"I know." The flat voice, the monotone. Under it, for half a second, something that on anyone else I'd call pride. "I wanted it twice."
 
 ---
 
-I can't sleep, so I don't try.
+We vent it the next morning, from the cockpit, all five of us crowded around the hull camera like it's a fireplace.
 
-It's the middle of the night cycle when I drift back into Lab B, and Marsh is already there, feet hooked under the bench rail, a column of raw numbers scrolling slowly past her face. She doesn't look up. She doesn't look surprised either.
+"Before we do this," Marsh says, "I would like someone to tell me where it goes."
 
-"You should be asleep," she says.
+"Out," I say. "And then down." I point past the camera's edge, at the hazy little coin of Asimov-09D. "Anything that comes out of that tank and goes looking for a planet only has one planet to find. And that planet is where the Asicell come from. Its whole atmosphere is the thing that eats Phengoclept."
 
-"So should you."
+"So if any of the fuel goes lookin' for home," Petryn says slowly, "it finds the one place that kills it."
 
-"I am checking the other tanks."
+"And the Asicell go home with it."
 
-"Are they warming?"
+Maslin thinks about this. "thats kind of nice actually," he says. "in a gross way"
 
-"No." She scrolls. "Not that I can see. I would like to keep not seeing it for a while longer before I believe it."
+"Most of my job is nice in a gross way."
 
-I hook a foot beside hers and watch the numbers go by. Wall temperatures, every tank, every hour, since the day we went cold. Most of them are a flat line of minus fifty-five that goes on forever, like a ruler.
+"ARACCSIM," Marsh says. "Tank 2-E. Vent on crew authority."
 
-"Can I ask you something?" I say.
+"Venting."
 
-"You may."
+It doesn't make a sound. Nothing out here does. On the screen, a valve on the outside of tank two opens, and a plume comes out of it, white and glittering, a long slow breath of frozen fuel turning over in the light. It spreads. It catches the far sun and holds it for a second, like frost on a window, and then it keeps going, thinning out into the dark in the direction of the little hazy planet that started all of this.
 
-"Why don't you trust the summaries? The cruise control said everything was within tolerance. Most people would have taken its word."
+Somewhere in that cloud is a crowd of very patient diners, going back where they were born.
 
-She's quiet long enough that I think she's going to decline. Then she stops the scroll.
+"Goodbye," I say to them, very quietly. I mean it more than I expected to.
 
-"On MK2," she says, "I read the summaries. Every morning. Tank status, nominal. Fuel, nominal. Systems, nominal. It was a very reassuring way to start a day." She looks at the screen, not at me. "Then one morning the summary said nominal, and by that afternoon we had one tank left, and it was scorched. Petryn has been through our logs twice since and has not found why. I have started to suspect the reason was there the whole time, under the word nominal, and that none of us looked under the word."
+"Tank 2-E, empty," ARACCSIM says. "Remaining tanks, wall temperature minus fifty-five degrees Celsius. No Asicell detected in tanks one or three."
 
-"Marsh. If it was there, nobody would have caught it. Petryn hasn't, and he's the engineer."
+"Say it again."
 
-"I know that," she says. "I have been told that. I agree with it. It does not change what I do now." She starts the scroll again. "I will not read a summary again. Not on this ship. I would rather read every number myself and be tired than be rested and wrong."
+"No Asicell detected in tanks one or three."
 
-I think about my own first week on this ship, when ARACCSIM gave me the short version of everything and I was grateful for it. I think about how many short versions I've asked for since.
-
-"For what it's worth," I say, "you were right. Tonight. The adjective was lying."
-
-"Adjectives usually are," Marsh says. "Numbers only lie when someone has chosen the wrong ones."
-
-I stay until she finishes the last tank. It's flat. They're all flat, except one. She closes the file, and for the first time since I came in, she looks at me.
-
-"Thank you for staying," she says. "It was not necessary."
-
-"I know. I wanted to."
-
-"Then thank you for wanting to." She unhooks her feet. "Goodnight, Ethyn."
-
-It's the second time she's used my name. I notice I'm keeping count.
+I let go of the rail with both paws and hang there, grinning at a gauge. Maslin whoops. Marsh writes something on her tablet and underlines it twice. Jinzhou says nothing at all and drifts a little closer to the screen, which from him is applause.
 
 *END OF CHAPTER TWENTY-ONE*
