@@ -32,11 +32,11 @@ I take a moment with that. Somebody at the program office, who knew about a seco
 
 He looks at me over the top of the tablet. "did it work. the list thing. for you."
 
-I think about the sleep bay, the four empty cubbies, the fishing cable, the cold shutdown. Lists, every time. Numbers on a whiteboard. Things I could control, written down so I could see how small they were.
+I think about the medbay, the four empty cubbies, the fishing cable, the cold shutdown. Lists, every time. Numbers on a whiteboard. Things I could control, written down so I could see how small they were.
 
 "It worked," I say. "It worked badly. But it worked."
 
-"same," Maslin says, and that's apparently all he needed, because he floats off toward the galley with the tablet under his arm, and I hear him say to Petryn in the hall, "its him. its really him. he says it worked badly."
+"same," Maslin says, and that's apparently all he needed, because he floats off toward the medbay with the tablet under his arm, and I hear him say to Petryn in the hall, "its him. its really him. he says it worked badly."
 
 "That's the best review you ever gonna get, man," Petryn says.
 
@@ -171,7 +171,7 @@ Petryn is already unclipping.
 
 ---
 
-The tank gallery runs along the outside of the tank bay, a narrow service passage that is almost entirely pipe and, today, almost entirely cold. My breath hangs in front of my face and stays there, because it has nowhere to fall.
+The tank crawlway starts at a service hatch low in the medbay's aft wall and runs back along the tanks toward the engines, a narrow passage that is almost entirely pipe and, today, almost entirely cold. My breath hangs in front of my face and stays there, because it has nowhere to fall.
 
 Petryn finds it first. He doesn't say anything. He just stops, and points.
 
@@ -207,7 +207,7 @@ I sit with that the way I sat with the two thousand one hundred days number at t
 
 "Correct."
 
-Nobody says anything for a while. Five people hooked to a pipe in a cold gallery, watching a hairline seam grow feathers.
+Nobody says anything for a while. Five people hooked to a pipe in a cold crawlway, watching a hairline seam grow feathers.
 
 "We have five people and a problem," Marsh says, steady even now. "That is more than Ethyn and Jinzhou had for the fishing mission, and they solved that."
 
