@@ -1,7 +1,7 @@
 
 The burn starts so quietly I'm not sure it has.
 
-I'm in Lab A with my paws flat on the table and my eyes on a screen, and nothing moves. There's no shove and no roar. The ship is weightless and stays weightless, and the only evidence that something enormous has begun is a number on ARACCSIM's readout that has stopped being zero.
+I'm in Lab A with my paws flat on the bench and my eyes on a screen, and nothing moves. There's no shove and no roar. For the first minute the ship is still weightless, and the only evidence that something enormous has begun is a number on ARACCSIM's readout that has stopped being zero.
 
 "Phengomotor burn in progress," ARACCSIM says. "Deceleration, point zero zero four of a G."
 
@@ -15,7 +15,11 @@ I'm in Lab A with my paws flat on the table and my eyes on a screen, and nothing
 
 "I know. That's why I like you, for about ninety seconds a day."
 
-Somewhere in the aft end of the ship, three enormous motors are doing what Kalen drew for us a long time ago. Attract. Pulse. Scrape. Cells drawn forward, cells fired, cells thrown out the back with their work finished, dead, harmless, looking at nothing. I can't hear it. Petryn can feel it through the medbay wall, and he says it feels like leaning on a very large refrigerator that's decided to purr.
+It accumulates. Over the next half hour, down comes back, and it doesn't come back where I left it. It comes in from the engine end, the way it did on the first day I woke up, and the whole room turns ninety degrees around me without anything actually moving. The wall behind the bench becomes the floor. The grate slides shut under my boots, and I'm standing on it, in a shaft, with the bench at my hip and the whiteboard running sideways again, the way this ship was built to be lived in under thrust.
+
+Somewhere below me, a tube I forgot to clip down makes the trip all the way to the medbay. Petryn reports it over the comm like a weather event.
+
+Somewhere in the aft end of the ship, three enormous motors are doing what Kalen drew for us a long time ago. Attract. Pulse. Scrape. Cells drawn forward, cells fired, cells thrown out the back with their work finished, dead, harmless, looking at nothing. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall he had his back against, and he says it feels like leaning on a very large refrigerator that's decided to purr.
 
 "How's the stack?" I ask him.
 
@@ -133,7 +137,7 @@ It's the shortest sentence I've said in two days. It lands in the room like a st
 
 The ship starts to shake.
 
-It isn't violent. It's a deep, sideways rattle that comes up through the bulkheads and into the teeth. The tick from the first six hours is back, louder, and it's not a clock any more. It's a hundred clocks. Dust lifts off every surface in Lab A and floats in the lights, thousands of motes, tumbling slowly, caught between a hundred different ideas about which way was down.
+It isn't violent. It's a deep, sideways rattle that comes up through the bulkheads and into the teeth. The tick from the first six hours is back, louder, and it's not a clock any more. It's a hundred clocks. Dust shakes loose from every surface in Lab A and sifts down through the grate in the lights, thousands of motes, falling toward the engines like it's late for something.
 
 "Aft housing four," ARACCSIM says. "Asicell concentration rising. Housing three, motion detected."
 
@@ -159,7 +163,7 @@ The clock on the wall says forty-five hours and fourteen minutes. I am standing 
 
 Eleven against nineteen. I know how to do that one. I wish I didn't.
 
-The ship shudders. A tube of something floats off a shelf and drifts the length of the room, serene, unbothered, and nobody reaches for it. Jinzhou says, "Pulse rate holding." Petryn says, a long way off, "She's walkin' but she's still walkin' *straight*, man, she's still straight, keep it comin'." Marsh says a sentence I've never heard her say, with a word in it that she's clearly saved up for a lot of years. Maslin is saying something quietly, over and over, and when I listen I realize he's counting backward from a hundred.
+The ship shudders. A tube of something walks itself off a shelf, drops, bounces once on the grate, and rolls into a corner, and nobody reaches for it. Jinzhou says, "Pulse rate holding." Petryn says, a long way off, "She's walkin' but she's still walkin' *straight*, man, she's still straight, keep it comin'." Marsh says a sentence I've never heard her say, with a word in it that she's clearly saved up for a lot of years. Maslin is saying something quietly, over and over, and when I listen I realize he's counting backward from a hundred.
 
 "Revised," ARACCSIM says. "Housing temperatures are rising with pulse rate. The Asicell advance has accelerated. Feed line contact in nine minutes."
 
@@ -187,7 +191,7 @@ That's not a margin. That's a coin balanced on its edge, and the coin is us.
 
 "Yours," I say. "Mine. Whoever's. Do it."
 
-The shaking changes pitch. The hundred clocks lean forward. Somewhere below the floor, a very large machine is doing a very large thing very quickly, and I find that I've got both paws on the edge of the table, and my ears are all the way down, and I couldn't tell you when that started.
+The shaking changes pitch. The hundred clocks lean forward. Somewhere below the floor, a very large machine is doing a very large thing very quickly, and I find that I've got both paws on the edge of the bench, and my ears are all the way down, and I couldn't tell you when that started.
 
 "Burn, five minutes," ARACCSIM says. "Feed line contact, six."
 
@@ -225,7 +229,7 @@ And the clocks stop.
 
 The silence is enormous.
 
-It's not like the cold shutdown, when the ship fell quiet because something had been taken away. This one has an edge on it, like a held breath finally let go. Dust settles very slowly in the lights. The tube of whatever it was bumps softly into the far wall and stops. I put my paw down on the table, and it's shaking, and I leave it there.
+It's not like the cold shutdown, when the ship fell quiet because something had been taken away. This one has an edge on it, like a held breath finally let go. The weight goes out of the room like someone unplugged it. Dust lifts off the grate and hangs in the lights. The tube of whatever it was rises out of its corner and drifts, serene, unbothered, toward what is about to be the ceiling again. I put my paw down on the bench, and it's shaking, and I leave it there.
 
 "Stack status," Marsh says, in a voice that's almost her own.
 
