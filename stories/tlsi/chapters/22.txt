@@ -1,7 +1,7 @@
 
 We spend the next several hours doing the thing that terrifies me most and helps me most in roughly equal measure, which is finding out exactly how bad something is, instead of knowing, in a general way, that it's bad.
 
-"ARACCSIM," I say, back in Lab A with Marsh beside me and a spreadsheet between us that is quickly becoming the most important document on the ship. "The reserve. Where does it stand against braking minimum?"
+"ARACCSIM," I say, back in Lab B with Marsh beside me and a spreadsheet between us that is quickly becoming the most important document on the ship. "The reserve. Where does it stand against braking minimum?"
 
 "Current usable Phengoclept reserve stands at eleven percent above braking minimum. Loss rate at present wall temperatures is indistinguishable from zero. Tank 2-E holds fourteen percent of the reserve."
 
@@ -159,6 +159,46 @@ Petryn looks at him. "They did."
 
 ---
 
+Nobody asks me to go outside. I notice that.
+
+I bring it up anyway, at the airlock, on the morning of the repair, while Petryn is checking the coil of tubing for the fourth time and Jinzhou is pulling on a suit with one good arm and an expression that dares anyone to mention the other one.
+
+"I can go," I say. "I've done an EVA. I'm practically a veteran."
+
+"You were hit by a locker," Jinzhou says, without looking up.
+
+"Once."
+
+"You were hit by a locker once, and then you were unconscious, and then I had to carry you."
+
+"That's an unfair summary of an extremely brave afternoon."
+
+"It is an accurate summary." He gets the second glove on and flexes the fingers, slowly, the left paw a little slower than the right. "You are the only one on this ship who can tell us what the Asicell are doing while the wall warms up. If you are outside, nobody is watching them. You are more useful in here."
+
+I'd like to argue with that, and I can't, which is the most annoying kind of argument there is.
+
+"Fine," I say. "Then I'm checking your seal."
+
+He stops. Looks at me. Then he tips his head back and lets me.
+
+The helmet goes on the way mine did, lower piece up from under the chin, upper piece down to meet it, the seam settling across the middle of his face like a horizon. The gaskets find each other. *Tsss.* I run a glove along the seam, both sides, the whole way around. Then I go back to the start and do it again.
+
+"You are doing the thing where you check twice," Jinzhou says, through the suit speaker, flat and a little tinny.
+
+"Yes."
+
+A pause. Long enough that I think that's the end of it.
+
+"Do not stop," he says.
+
+I tap the top of his helmet twice, the way he did to mine, and I don't say anything else, because if I do, it'll come out wrong.
+
+Petryn, beside us, has been watching all of this with his usual slow almost-smile.
+
+"Y'all are somethin' else," he says, and lowers his own helmet, and the airlock takes them both.
+
+---
+
 The repair takes two days, if you count the setup, and I'll spare you most of the middle.
 
 It happens outside. There's no other way to the tanks. Petryn goes out the airlock with the tubing coiled across his chest and a cutting tool clipped to his hip, and walks himself out along the strut to tank two, rail by rail, and back along it to the manifold. He does the cutting with a patience that is almost frightening. Jinzhou goes with him, because somebody has to hold the torch and Jinzhou has decided that somebody is him. He holds it in his good paw and braces the other arm against a tank strut. I ask over the comm whether this is wise. He declines to discuss the arm for the third time. Marsh reads the wall temperature out loud every ten minutes, in a voice she has clearly decided is neutral. Maslin volunteers for the job nobody else wants, which is sitting in the cockpit steering the hull floodlight so it stays on Petryn's paws.
@@ -170,6 +210,28 @@ It happens outside. There's no other way to the tanks. Petryn goes out the airlo
 "I know. I'm saying it anyway."
 
 The loop comes down at hour zero. The wall starts to climb. Minus fifty. Minus forty-nine. I stop being able to sit still, so I hang from the rail and watch the number like it owes me money. Their suits are good for six hours and forty minutes, and I watch that number too. Minus forty-eight point nine at hour four, and I don't blink for most of it.
+
+At hour four and twenty minutes, the floodlight drifts.
+
+It's not much. A degree, maybe two. The beam slides off Petryn's paws and onto the strut beside him, and on the screen his work goes from bright to a gray blur, and over the comm I hear him say, very calmly, "Little help, man."
+
+Maslin is already on it. He's in the cockpit with both paws on the floodlight controls, and he's been there for four hours and twenty minutes without once letting go, and when it drifts he brings it back in about a second and a half. Then he locks it, and then he keeps holding it anyway.
+
+"sorry," he says. "sorry. its back. its back petryn"
+
+"I see it, man. You're good. You're doin' good."
+
+"i had it the whole time i just- the mount slipped- its not me its the mount"
+
+"I know it's the mount."
+
+Maslin doesn't let go of the controls for the rest of the repair. When it's over, I find him still in the seat with his paws on them, and when I tell him he can stop, he looks down at his paws like he'd forgotten they were his.
+
+"i didnt let go," he says.
+
+"I know. I was watching."
+
+"good," he says. "somebody should know."
 
 At hour five and forty minutes, Petryn says, "That's the last clamp." Cold goes back into the line, a little at a time, on his schedule and not ours. The wall stops climbing and hangs there, undecided. Then, a tenth of a degree at a time, it starts to fall.
 

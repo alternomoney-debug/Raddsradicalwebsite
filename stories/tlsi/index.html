@@ -105,6 +105,8 @@
   .shot img{ display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; background: rgba(255,255,255,0.03); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; }
   .shot span{ display: block; margin-top: 8px; font-size: 14px; color: var(--muted); }
   .shot:hover img{ border-color: var(--accent); }
+  .shot.ship{ display: block; width: 100%; }
+  .shot.ship img{ aspect-ratio: auto; padding: 0; background: none; }
 
   #lightbox{ max-width: min(92vw, 1400px); max-height: 92vh; padding: 0; border: 0; background: transparent; color: var(--ink); }
   #lightbox::backdrop{ background: rgba(5,6,8,0.88); }
@@ -197,6 +199,11 @@
     <section class="block" id="world-block" hidden>
       <h2>The world</h2>
       <div class="cards" id="world"></div>
+    </section>
+
+    <section class="block" id="ship-block">
+      <h2>The ship</h2>
+      <button type="button" class="shot ship" id="ship-plan"><img src="assets/mk1-floorplan.png" alt="Floor plan of the Vanguard MK1 in centrifuge mode: medbay and dorm, hallway, storage, WC, labs A, B and C, payload, servers, corridor, airlock and cockpit" width="3480" height="1120" loading="lazy"><span>Vanguard MK1, centrifuge layout. Under thrust the ship stands up and everything turns 90 degrees. Tap to enlarge.</span></button>
     </section>
 
     <section class="block" id="pron-block" hidden>
@@ -582,6 +589,20 @@ var TLSI = {
   init();
   updateScroll();
   start();
+})();
+</script>
+<script>
+(function(){
+  var b = document.getElementById('ship-plan'), lb = document.getElementById('lightbox');
+  if (!b || !lb) return;
+  var im = b.querySelector('img');
+  im.addEventListener('error', function(){ document.getElementById('ship-block').hidden = true; });
+  b.addEventListener('click', function(){
+    document.getElementById('lb-img').src = im.src;
+    document.getElementById('lb-img').alt = im.alt;
+    document.getElementById('lb-cap').textContent = 'Vanguard MK1, centrifuge layout';
+    lb.showModal();
+  });
 })();
 </script>
 <script src="../../config.js"></script><script src="../../auth.js"></script>
