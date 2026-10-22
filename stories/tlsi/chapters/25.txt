@@ -1,301 +1,134 @@
+Seven years, nine months is a long time to be most of the way somewhere.
 
-The burn starts so quietly I'm not sure it has.
+Then, all at once, it isn't. ARACCSIM wakes all five of us on the same morning for the first time since the flush, and the medbay fills up with the sound of people being polite to each other at half speed. Petryn stretches like a man who's going to need a minute. Marsh is already dressed. Maslin sits up, looks at the four of us, counts us under his breath, and lies back down, satisfied.
 
-I'm in Lab B with my paws flat on the bench and my eyes on a screen, and nothing moves. There's no shove and no roar. For the first minute the ship is still weightless, and the only evidence that something enormous has begun is a number on ARACCSIM's readout that has stopped being zero.
+"Dr. Vasek," ARACCSIM says. "Braking burn in thirty-one hours."
 
-"Phengomotor burn in progress," ARACCSIM says. "Deceleration, point zero zero four of a G."
+"Thank you. I'd like to formally protest the timing."
 
-"That's it?"
+"Noted. The burn does not move."
 
-"That is the first minute, Dr. Vasek. It accumulates."
+"It never does. That's what makes it a burn and not a suggestion."
 
-"Thank you. I'd have panicked if you'd said it was exciting."
+A very short pause, with the flourish in it. "That is not a distinction I would have drawn."
 
-"I would not say that."
+Before it does, Petryn insists on one more dinner with a floor.
 
-"I know. That's why I like you, for about ninety seconds a day."
+He sets up the folding table in the middle of the medbay, the same one, a little more scratched than it was eight years ago, and puts five tubes on it in a row. Nobody says it's tubes. We've all learned.
 
-It accumulates. Over the next half hour, down comes back, and it doesn't come back where I left it. It comes in from the engine end, the way it did on the first day I woke up, and the whole room turns ninety degrees around me without anything actually moving. The wall behind the bench becomes the floor. The grate slides shut under my boots, and I'm standing on it, in a shaft, with the bench at my hip and the whiteboard running sideways again, the way this ship was built to be lived in under thrust. Around me, the cold stage and the instrument racks swing round on their gimbals to meet the new down, slow and level, like they've been waiting for it. Down in the medbay the berths will be doing the same, and in the cockpit Marsh's seat has already turned under her.
+Marsh is the last to sit down. She's carrying something, and she sets it on the table very carefully, and steps back, and doesn't say anything.
 
-Somewhere below me, a tube I forgot to clip down makes the trip all the way to the medbay. Petryn reports it over the comm like a weather event.
+It's one of the pots. The plants came over from MK2 a long time ago and have lived in the medbay under the brightest lamp we have ever since, and I've walked past them every night of every stretch and stopped noticing them, the way you stop noticing anything you've decided is safe. This one has grown. It's twice the size it was, and at the top of it, small and pale and folded open like it isn't sure yet whether it's allowed, there's a flower.
 
-Somewhere in the aft end of the ship, three enormous motors are doing what Kalen drew for us a long time ago. Attract. Pulse. Scrape. Cells drawn forward, cells fired, cells thrown out the back with their work finished, dead, harmless, looking at nothing. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall he had his back against, and he says it feels like leaning on a very large refrigerator that's decided to purr.
+"It flowered," I say.
 
-"How's the stack?" I ask him.
+"Last month," Marsh says. "I did not want to make a speech about it."
 
-"Steady, man. Real steady. She's lopsided in a way I can live with."
+"You can make a speech about it."
 
-"Can you live with it for twenty-five hours?"
+"I would prefer not to." She sits down, and straightens her napkin, and looks at the flower, and then, very quietly, she says, "It is very hard to give up on a day that has a shape."
 
-"Ask me at hour twenty-four."
+Nobody says anything. Maslin reaches over, slowly, like the flower might startle, and moves it an inch closer to the middle of the table, where everybody can see it.
+
+We eat. It's tubes. It's the best meal I've had in eight years.
+
+The spin comes down with two keys. The cables reel in. The crew section climbs back down to the tanks and engines, and the latches close with the thunk I feel in my teeth every time, and the ship goes back to being tall, for what I hope is the last time.
 
 ---
 
-Hour thirty-one. Hour thirty-six. I stop saying the times out loud, because Maslin has asked me to, and because the sound of them is starting to do things to the room.
+There's one thing I do before the braking burn, and I do it alone.
 
-I eat when someone hands me a tube. Marsh reads the stack temperature every ten minutes in a voice she has clearly decided is neutral and which is not. Maslin refills the fuel readout and says, "ninety-one percent of the way to a boring day," and then, quietly, to nobody, "please be boring."
+I go to the medbay, which is empty now, all six berths pushed back into their cubbies, and I take out my tablet, and I open the letter.
 
-The tracking panel in front of me shows a row of dots in the aft housings. They've been green and still since the thaw started. Dormant. Waiting, in the dark, the way they've waited for years, with all the patience of something that's never had to learn what a deadline is.
+It's shorter than it was. Line four is gone. The second time I said I understood her is gone, and so is the first. What's left is mostly true, which is more than I can say for most of what I've written in my life, including a study guide that sold rather well.
 
-At hour forty-three and ten minutes, one of the dots turns amber.
+"ARACCSIM. Queue a message for Port Jiji. Attention Dr. Emili Y'shari. Hold it until we're in range."
 
-I don't say anything at first. I think there's something wrong with the display, which is how you know I've been at this too long. I look at it. The amber dot looks at me.
+"Queued. Would you like to attach a subject line?"
 
-"ARACCSIM," I say.
+I think about it.
 
-"Asicell motion detected in aft housing four." The hitch in its voice is bad this time, a skip like a record someone's bumped. "Activity is above the model estimate. Revival has begun."
+"No," I say. "She'll know what it is."
 
-Everything goes very quiet.
+I read it one more time before I let it go. I don't read all of it. I read line eleven, the one where I tell her I'm angry with her and I don't want to be. It's still true. I've had years to make it untrue and it's refused.
 
-"Hour forty-three," Jinzhou says, in my ear, flat as a table. "The estimate was fifty-six. The bad end was fifty."
+Then I scroll to the bottom, and I add one line under the end.
 
-"I know."
+*Jinzhou says line eleven is good. He's never met you. He says he doesn't have to.*
 
-"It is seven hours early."
+"Queued," ARACCSIM says again, when I tell it I'm done. And then, after a pause that doesn't have the flourish in it, just a pause: "Dr. Vasek. If the braking burn does not proceed as planned, this message will still be transmitted."
 
-"I know, Jinzhou."
+"I know," I say. "That's why I'm sending it now."
 
-"The burn has four hours remaining," Marsh says. She sounds very far away and very precise. "Dr. Vasek, how long until they are in the feed line?"
-
-I'm already looking at it. I have to look at it because I don't know, and I have to know. The dot in housing four moves a little, and then a little more. It's not swimming. It's drifting, the way they drift at minus forty, toward the warm side of something. They've gone looking for the one thing they were made to find. It's not that they've woken up early. It's that the stack is hotter than the model, because the burn's been running harder than the thaw plan expected, and the housings are warming faster than anything on a cold-start chart.
-
-"ARACCSIM. When do they reach live fuel?"
-
-"At present rate, approximately two hours and thirty minutes."
-
-"And the burn is four hours."
-
-"Three hours and fifty-one minutes."
-
-"That's a gap of well over an hour."
-
-"One hour and twenty-one minutes," ARACCSIM corrects, because it cannot help itself.
-
-I put both paws over my face for exactly one second. It is the only luxury I allow myself. Then I take them off, and I look at the whiteboard on the wall, and the pencil strokes in the corner, and a stray thought arrives, whole, clean, the way the good ones do.
-
-*Eleven percent.*
-
-"Ethyn," Jinzhou says. "I have the same thought. Do you want me to say it first?"
-
-"Say it."
-
-"The reserve is eleven percent above braking minimum." No hesitation, no color. "We went to a great deal of trouble to keep it. We can spend it."
-
-"How fast can we burn?"
-
-"The stack is rated for a higher pulse rate than we are running. It was held back to keep the housings cool." A pause. "It will also waste cells. The faster the pulse, the more cells leave the stack before they finish. Efficiency falls."
-
-"By how much?"
-
-"I would estimate six percent of the reserve."
-
-"Six."
-
-"At the pulse rate needed to finish before the feed line, yes. Six."
-
-I do the arithmetic, which takes me less than a second and feels like most of a day. Eleven minus six is five. Five percent above braking minimum. Not zero. Not three short, like when we'd have vented 2-E. Five, with nothing left over for anything we haven't thought of yet.
-
-"Petryn," I say. "Can the stack take it?"
-
-"Man." Petryn's voice comes over the comm from the medbay, and I can hear his teeth in it. "I just got her sounding nice."
-
-"I know."
-
-"She's gonna walk."
-
-"Can you hold it?"
-
-"I can hold it for two hours if I don't blink and if Jinzhou keeps the software from fightin' me."
-
-"The software will not fight you," Jinzhou says.
-
-"Say it again."
-
-"The software will not fight you."
-
-"That's the sweetest thing I ever heard from a man with no inflection," Petryn says. "All right. Do it."
-
-I look at Marsh. She's very still in the cockpit, both paws on the controls, and she has the face of a woman who's been waiting a long time for a decision to be made by somebody else and has just realized she wouldn't have it any other way.
-
-"Dr. Vasek," she says. "Your authority."
-
-"Spend six," I say.
-
-It's the shortest sentence I've said in two days. It lands in the room like a stone dropped in still water, and the ripples go all the way out.
-
-"Logged," ARACCSIM says. "Pulse rate increasing. Efficiency declining. Estimated burn completion, two hours and ten minutes."
-
-"That's the same time as the Asicell," Marsh says.
-
-"Not exactly the same," I say. "It's twenty minutes before. We have a twenty-minute margin."
-
-"A twenty-minute margin is not a margin."
-
-"It's a gap with a good attitude."
+I put the tablet away and float there for a minute, in a room full of empty berths, with the ship humming around me. Then I go to the cockpit, where four people are waiting to be told it's time.
 
 ---
 
-The ship starts to shake.
+The braking burn is twenty-five hours long, and nothing goes wrong in it.
 
-It isn't violent. It's a deep, sideways rattle that comes up through the bulkheads and into the teeth. The tick from the first six hours is back, louder, and it's not a clock any more. It's a hundred clocks. Dust shakes loose from every surface in Lab B and sifts down through the grate in the lights, thousands of motes, falling toward the engines like it's late for something.
+I'd like to say more about it than that. I'd like to tell you about the moment it nearly went sideways, the alarm, the clock. There isn't one. The fuel is clean. The motors are warm. The stack runs smooth from the first pulse, and the weight comes in from the engine end, and the gimbals turn everything to meet it, and then it just keeps coming, steady, hour after hour, the most boring twenty-five hours of my life.
 
-"Aft housing four," ARACCSIM says. "Asicell concentration rising. Housing three, motion detected."
+I've never been so grateful to be bored.
 
-"They're coming," Maslin says, in a small flat voice that's the least like him I've ever heard.
+Maslin watches the fuel readout the whole time anyway. Every hour he reads the reserve out loud, and every hour it's a little smaller, and every hour it's exactly where Marsh said it would be.
 
-"They're not coming," I say. "They're drifting toward something warm. That's different."
+"three percent over," he says, at hour one.
 
-"is it different"
+"two percent over," at hour twelve.
 
-"It's different in the part where we get to be a little smug about it."
+"one point two," at hour twenty-four, and then he stops reading it out, and just watches it, and his ears go very still.
 
-I'm not sure anyone laughs. I'm sure somebody breathes out.
+"Phengomotor braking complete," ARACCSIM says, at hour twenty-five. "Handoff velocity achieved. Reserve remaining, one point one percent."
 
-The clock on the wall says forty-five hours and fourteen minutes. I am standing in front of a row of dots that have stopped being green, and I'm talking to them. I'm not proud of this.
+The weight goes out of the room like somebody unplugged it. Maslin lets go of the readout. He looks at his own paws for a second, then at me.
 
-"Please," I say. "Please be slow. I wrote a book about your cousins. I said very nice things."
+"i didnt explode," he says.
 
-"Dr. Vasek," ARACCSIM says. "Asicell in housing four have reached the feed line junction. Feed line contact with live fuel in nineteen minutes."
+"You didn't."
 
-"Burn completion in?"
+"i had a whole tab for it"
 
-"Eleven minutes."
+"I know. You can delete the tab."
 
-Eleven against nineteen. I know how to do that one. I wish I didn't.
+"im gonna keep the tab," he says. "as a souvenir"
 
-The ship shudders. A tube of something walks itself off a shelf, drops, bounces once on the grate, and rolls into a corner, and nobody reaches for it. Jinzhou says, "Pulse rate holding." Petryn says, a long way off, "She's walkin' but she's still walkin' *straight*, man, she's still straight, keep it comin'." Marsh says a sentence I've never heard her say, with a word in it that she's clearly saved up for a lot of years. Maslin is saying something quietly, over and over, and when I listen I realize he's counting backward from a hundred.
-
-"Revised," ARACCSIM says. "Housing temperatures are rising with pulse rate. The Asicell advance has accelerated. Feed line contact in nine minutes."
-
-"Burn?"
-
-"Eight."
-
-That's not a margin. That's a coin balanced on its edge, and the coin is us.
-
-"Jinzhou."
-
-"I have it."
-
-"Can we shave a minute?"
-
-"I can push the pulse rate one more step. It will cost a little more of the six."
-
-"How much?"
-
-"Under half a percent."
-
-"Do it."
-
-"Authority."
-
-"Yours," I say. "Mine. Whoever's. Do it."
-
-The shaking changes pitch. The hundred clocks lean forward. Somewhere below the floor, a very large machine is doing a very large thing very quickly, and I find that I've got both paws on the edge of the bench, and my ears are all the way down, and I couldn't tell you when that started.
-
-"Burn, five minutes," ARACCSIM says. "Feed line contact, six."
-
-Nobody says anything. I don't breathe. It's not a figure of speech. I notice, around minute two, that I've stopped, and I let the air out and take another one, and the only number that matters is five against six.
-
-"Four minutes. Contact, four."
-
-"Asicell at the junction," Marsh says.
-
-"Three. Contact, three."
-
-The dots in front of me go from amber to a color I don't have a name for, and then, one by one, the dots in housing three go dark, as if someone were turning them off.
-
-"Two."
-
-"They are in the lines," Jinzhou says. "They are not at the stack."
-
-"One. Contact, one."
-
-"Pulse nominal."
-
-"Thirty seconds."
-
-I find out something about myself in those thirty seconds. I find out that I'm not afraid of dying. It's an entirely different thing. It's that I've spent a very long time rehearsing every outcome, and I'm not ready for the one where it works.
-
-"Ten," ARACCSIM says. "Nine. Eight."
-
-Maslin's counting finishes. "...three. two. one," he says, a full half-second off.
-
-"Phengomotor burn complete," ARACCSIM says. "Handoff velocity achieved."
-
-And the clocks stop.
+Petryn laughs, low and easy, from the medbay. Marsh writes something on her tablet and underlines it. Jinzhou says, "One point one," very quietly, like a man putting a number somewhere he'll be able to find it.
 
 ---
 
-The silence is enormous.
+That night, Jinzhou and I end up in the cockpit, the way we always do, without either of us deciding to.
 
-It's not like the cold shutdown, when the ship fell quiet because something had been taken away. This one has an edge on it, like a held breath finally let go. The weight goes out of the room like someone unplugged it. Dust lifts off the grate and hangs in the lights. The tube of whatever it was rises out of its corner and drifts, serene, unbothered, toward what is about to be the ceiling again. I put my paw down on the bench, and it's shaking, and I leave it there.
+"What are you going to do," I ask him, "when we land?"
 
-"Stack status," Marsh says, in a voice that's almost her own.
+He thinks about it. Jinzhou always thinks about it. He's the only person I've ever met who treats a casual question like it's going to be graded.
 
-"Phengomotors shut down," says LSI-ASM&C, flat as a stone. "Reason code, complete."
+"Count," he says.
 
-"Spent cells?"
+"Count what?"
 
-"Scrape phase complete," Petryn says. His voice is cracked and warm, and he's laughing, I think, or something near it. "All of 'em. Every last one went out the back lookin' at nothin'. Nothin' at all, man."
+"The people who meet us." He looks at the screen, at a star that's going to be a sun in a few days. "I want to know how many there are."
 
-"Asicell?"
+"And then?"
 
-"In the feed lines," I say. I look at the board. The dots in the aft end have come together in a dark smear around the stack, the way ants gather around something sweet. They've found what they came for. It's a few drops of leftover fuel, in a stack that no longer has anywhere to be. "They're eating what's left. They can have it."
+"Then sleep. In a bed that does not slide out of a wall."
 
-"Dr. Vasek," ARACCSIM says. "Remaining Phengoclept reserve stands at five percent above braking minimum."
+"That's a good plan."
 
-"Thank you."
+"It is a short plan."
 
-"Chemical thruster stage is ready. Ship is on handoff velocity, with a trajectory into the home system."
+"Short plans are good," I say. "I've had a lot of long ones."
 
-"Is it a good trajectory?"
+He's quiet for a while. Then: "And you?"
 
-"It is the trajectory we planned."
+I think about it. I think about a desk with a coffee cup on it and a stack of papers I'd been meaning to sort, and a phone on speaker, and a woman's voice telling me what was and wasn't for a study guide. I think about a letter sitting in a queue, waiting for range.
 
-"That wasn't what I asked."
+"I'm going to go find out if anybody read chapter nine," I say.
 
-A pause. A flourish.
-
-"Yes," ARACCSIM says. "It is a good one."
-
-I think I'll remember that for a long time.
+Jinzhou makes a sound that on anyone else would be a laugh.
 
 ---
 
-Nobody moves for a while. Then we do, one at a time, drifting down the long hall toward Lab B like people who've heard someone say the party's still going.
-
-Petryn comes up the hallway from the medbay with sweat in his fur and the kind of grin that takes up most of a face. Marsh comes out of the cockpit and doesn't straighten her jacket, which is the loudest thing she's ever done. Maslin arrives upside down, which is the way he arrives at everything, and hangs in the air with both arms around his knees, and doesn't say anything at all.
-
-Jinzhou arrives last. He holds the rail beside me, a little too long. Then he lets go with one paw and puts it, flat, on the whiteboard, near the corner where my numbers are.
-
-"Five," he says.
-
-"Five what?"
-
-"Five of us." He's not looking at me. He's looking at the board. "I counted. I get five every time. It is a very consistent number."
-
-"It's a good number."
-
-"It is not a large number."
-
-"It's the one we have."
-
-He nods, once. I'm absolutely not going to say anything about his ears.
-
-I pick up the pencil. Under *47 / 56 ± 6*, under Maslin's one straight stroke, I write the last line of the row, small, in the corner where her header doesn't have to share.
-
-*Done at 45:25. Yes.*
-
-I look at it for a long time.
-
-Then I put the pencil down, and tell the ship, very sincerely, "Thank you."
-
-"You are welcome, Dr. Vasek," ARACCSIM says.
-
----
-
-Six hours later, Marsh lights the chemical thrusters.
+A day later, Marsh lights the chemical thrusters.
 
 It's nothing like the burn. No shaking, no clocks. A soft push from somewhere behind us, and then another, and then the long, patient quiet of a ship coasting the rest of the way on manners. The Phengomotors brought us down from most of the speed of light. The rest is a much smaller job, done by much simpler engines, and Marsh does it with the expression of a woman parallel parking.
 
@@ -303,7 +136,7 @@ It's nothing like the burn. No shaking, no clocks. A soft push from somewhere be
 
 I go to the cockpit to look.
 
-The forward camera is up on the main screen, and the first thing I notice is that I don't notice anything. That's the strange part. Almost three years ago, on a different stretch of this trip, I looked out the medbay window and the stars were wrong, thinned out and red behind us and crowded together somewhere up ahead where I couldn't see. Now they're just stars. Spread out across the screen, white and ordinary, every one of them where a sky is supposed to put it.
+The forward camera is up on the main screen, and the first thing I notice is that I don't notice anything. That's the strange part. Four years ago, on a different stretch of this trip, I looked out the medbay window and the stars were wrong, thinned out and red behind us and crowded together somewhere up ahead where I couldn't see. Now they're just stars. Spread out across the screen, white and ordinary, every one of them where a sky is supposed to put it.
 
 We're slow enough again that the universe has stopped bending around us.
 
@@ -317,7 +150,7 @@ And in the middle of the screen, a little brighter than anything around it, ther
 
 Nakuet.
 
-I don't say anything. Nobody does. Jinzhou doesn't look at me, which is how I know he's looking at the same thing. Somewhere near it, too small to see yet, is a planet that's been getting colder for as long as I've been gone, and in a box at the front of a little courier ship, somewhere ahead of us, is the thing that's going to stop it.
+I don't say anything. Nobody does. Jinzhou doesn't look at me, which is how I know he's looking at the same thing. Somewhere near it, too small to see yet, is a planet that's been getting colder for as long as I've been gone. And somewhere down there, if it made it, is a little courier ship that landed years ago with a box of Asicell in its glass and a file called READ_THIS_FIRST_IT_DIGS. I'm about to find out if anybody read it.
 
 I look at it for a long time. I let it be a light.
 
