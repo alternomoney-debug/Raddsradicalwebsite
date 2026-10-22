@@ -509,17 +509,21 @@ Then I lift my head, because the Asicell aren't going to stop eating while I fee
 
 Stopping the delivery doesn't stop the eating. They're in the tanks. But the tanks are frost now, and the loss rate dropped when the freeze lines came on, which is the only good number I have. Lower is a long way from zero. So I ask the question I don't want the answer to.
 
-"Projected time until the reserve falls below the minimum needed to brake at Wask-ki, at the present loss rate."
+"Projected time until the reserve falls below the minimum needed to get us home, at the present loss rate."
 
 "Three hundred and ten days. Margin of error, large."
 
 "And the trip home?"
 
-"At current velocity, more than six years."
+"Vanguard MK1 is no longer under acceleration. Current velocity is sufficient for maneuvering within this system only. At current velocity, Wask-ki is not reachable."
 
-I do the subtraction. Then I do it again, because that's the rule.
+"Not reachable in what, years?"
 
-The fuel runs out about five years before the trip does. Said out loud to a lab with nobody in it, it still sounds like a number from somebody else's ship.
+"Not reachable."
+
+I try to do the subtraction anyway, because that's the rule, and there's nothing to subtract from. That's the part that takes me a minute. The burn I just killed was the burn that takes us home. It was two days into a job that needed months. We're not on our way home at a slower speed. We're barely on our way anywhere. We're just a little to one side of where we started.
+
+Said out loud to a lab with nobody in it, it still sounds like a number from somebody else's ship. It isn't a number at all. That's worse.
 
 I want Jinzhou awake. Not to run the shutdown. I've done the shutdown. The next question is a hard one, and he's the one who's good at hard ones.
 

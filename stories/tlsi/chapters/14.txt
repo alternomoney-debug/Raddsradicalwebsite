@@ -237,65 +237,59 @@ I turn the dial back up. At minus thirty-two, one of them twitches. Eighteen min
 
 "The duration of what?"
 
-"The transit."
+"Until the tanks no longer require level two."
 
-"All of it."
+"And when is that?"
 
-"Correct."
+"Undetermined."
 
-"So we're weightless for seven years."
+"So we're weightless until further notice."
 
 "Crew would be in rest state," ARACCSIM says. "Straps are provided."
 
 "They're approved," I say. "I'd like it noted that I'm in favor of straps."
 
-"And at the end," Jinzhou says. "The stack is cold."
+"And the engines," Jinzhou says. "The stack is cold."
 
 "A cold stack restarts poorly. The spin motors run rough. I got a warning about that in the server room, and I filed it under later."
 
-"Later is the end of the trip."
+"ARACCSIM. The restart. If we tried to go home."
 
-"Darn. Later-Ethyn is going to be so annoyed with me."
-
-"ARACCSIM. The restart."
-
-"Cold restart of the Phengomotor stack requires approximately twenty-two hours of warming. Spin motors will run roughly during the first six. Braking burn duration, twenty-five hours. Total, forty-seven."
+"Cold restart of the Phengomotor stack requires approximately twenty-two hours of warming. Spin motors will run roughly during the first six. The departure profile to Wask-ki requires sustained thrust for approximately five months."
 
 "And them?"
 
 "Estimated revival of Asicell in the feed line and motor housings, fifty-one hours after thaw begins." A hitch on the number, a skip, like it was recorded for any number at all. "Margin of error, six hours."
 
-"The tanks?"
+I do the arithmetic, and it's the shortest arithmetic I've ever done. Twenty-two hours of warming. Five months of burn. Fifty-one hours until the diners wake up in the one place on the ship where all the food goes past.
 
-"Tanks remain at level two for the duration of the burn."
-
-"So the ones in the tanks stay asleep," I say. "And the ones in the line and the motors are the race."
+"So we'd have them awake in the line two days into a five-month burn," I say. "Again."
 
 "Correct."
 
-I do the arithmetic. Forty-seven. Fifty-one. Four hours between us and a very bad day, plus or minus six.
+"That's not a margin," I say. "That's a rerun."
 
-"That's not a margin," I say. "That's a mood."
+"If revival precedes completion?" Jinzhou says, though he knows.
 
-"If revival precedes completion?" Jinzhou says.
-
-"Thrust loss, up to nineteen percent. Braking minimum not achieved."
+"The reserve is consumed before the departure profile completes. Vanguard MK1 does not reach Wask-ki."
 
 "Amazing," I say.
 
-Jinzhou sets down his fork. "So it's a race."
+Jinzhou sets down his fork. "So we cannot go home on this fuel."
 
-"Against a nap."
+"Not while they're in it."
 
-He thinks about that. "Yes."
+"And we cannot get them out of it."
 
-"A burn is a buffet," I say. "I had a longer version of that in the server room."
+"Not with anything I've got." I look at the slide on the cold stage, at the smear that stopped swimming at minus fifty and is waiting, very patiently, for somebody to make a mistake with the thermostat. "A burn is a buffet. I had a longer version of that in the server room."
 
-"A twenty-five-hour buffet."
+"Then we do not burn."
 
-"And then we stop serving. Seven-years-from-now Ethyn is going to have notes."
+"Then we don't burn. We freeze them, we stop the bleeding, and we think." I hear how that sounds. "I'd like it on the record that 'we think' is a real plan. It's been my only plan for a while and it's mostly worked."
 
-"He can add them to the list."
+"Later-Ethyn can have it," Jinzhou says.
+
+"He's going to be so annoyed with me."
 
 ---
 
@@ -421,7 +415,7 @@ SPIN-DOWN INITIATED. WEIGHTLESS IN 5 MINUTES. SECURE ALL LOOSE ITEMS.
 
 The weight goes out the way it came in, a lean, then less of a lean, then none. My fur lifts off my arms like it's been told it can go. The pad on Jinzhou's knee drifts up, and he catches it without looking.
 
-Then the cables start reeling in. It takes a long time. The crew section has been hanging out at the end of them for weeks, the two halves of the ship swinging around each other like a pair of skaters holding paws, and now we climb back down them to where we started, slow and careful, until the latches close with a thunk I feel in my teeth. The ship is one piece again. The grates drop back into place, and the whole thing goes back to being tall.
+Then the cables start reeling in. It takes a long time. The crew section has been hanging out at the end of them for days, the two halves of the ship swinging around each other like a pair of skaters holding paws, and now we climb back down them to where we started, slow and careful, until the latches close with a thunk I feel in my teeth. The ship is one piece again. The grates drop back into place, and the whole thing goes back to being tall.
 
 "ARACCSIM. Level two."
 
@@ -453,25 +447,25 @@ I let go of the armrest with both paws and hang there, grinning at a gauge. Jinz
 
 Setting up the handoff takes a while. Not because the handoff is complicated, ARACCSIM to LSI-ASM&C is a documented procedure with a clear protocol both systems were built to execute. It takes a while because I keep second-checking things, and Jinzhou keeps letting me, and at some point he starts second-checking things too, and neither of us says anything about the fact that this is the last time either of us will be awake in this cockpit for a very long time.
 
-"Trajectory locked," Jinzhou says. "Nakuet system intercept in seven years, nine months, two days. Crew wake is scheduled at intercept."
+"Station set," Jinzhou says. "We hold here. Crew wake is scheduled in one hundred and eighty days, unless something wakes us sooner."
 
-"Wask-ki?"
+"Something like what?"
 
-"Twenty-three days after that."
+"A fault. Or a reason we have not thought of."
 
 "And the SRV?"
 
-"Eight months ahead of us."
+"Home in a few years. Whether we are or not."
 
-"If we make it."
+"That's the point of it," I say.
 
-"If we make it," he agrees.
+"Yes."
 
-Seven years, nine months. I do the math once and don't do it again, because doing it again won't change the number.
+Six months. I do the math once and don't do it again. Six months asleep, drifting in a system that wants nothing from us, while the food lasts longer and the diners stay cold and nobody, anywhere, is coming. Later-Ethyn gets the whole problem, all at once, rested. I hope he appreciates the nap.
 
 "ARACCSIM," I say. "Initiate handoff to LSI-ASM&C."
 
-"Confirmed. Handoff sequence initiating. LSI-ASM&C will maintain the coast, the freeze lines, and the wake schedule. It has no other functions. Estimated handoff duration, four minutes."
+"Confirmed. Handoff sequence initiating. LSI-ASM&C will maintain station, the freeze lines, and the wake schedule. It has no other functions. Estimated handoff duration, four minutes."
 
 "It's cruise control," I say.
 
@@ -499,7 +493,11 @@ A pause. Longer than usual, the kind that might mean processing or might mean so
 
 "Safe travels, Dr. Vasek," it says. "Mr. Kenzo."
 
-"You too," I say, and then realize I've just wished a ship well, and decide not to take it back.
+"We're not traveling," I say.
+
+A pause. "Then rest well."
+
+"You too," I say, and then realize I've just wished a ship a good night's sleep, and decide not to take it back.
 
 We float to the medbay.
 
@@ -513,9 +511,9 @@ I hold the rail instead of sitting, because there isn't any sitting anymore.
 
 I think about Wask-ki. Not anything specific, not the apartment with the coffee on the desk or the parking lot in the snow or the hallway outside the containment lab. Just the general shape of it. A planet that's been your whole world and then suddenly isn't, and the strange, slightly nauseating prospect of going back to it after long enough away that you don't know who you'll be when you arrive.
 
-I think about Bejors' whiteboard, still in Lab A. Still her handwriting. I didn't take it down. It felt wrong to take it down. It can ride home with us, Y'SHARI-LINE AND PHENGOCLEPT RECAP underlined twice, in a ship that's mostly asleep, in a lab nobody is going to use for seven years.
+I think about Bejors' whiteboard, still in Lab A. Still her handwriting. I didn't take it down. It felt wrong to take it down. It can wait with us, Y'SHARI-LINE AND PHENGOCLEPT RECAP underlined twice, in a ship that's mostly asleep, in a lab nobody is going to open until there's a floor again.
 
-I think about the SRV, already a dot, heading home ahead of us with everything that matters in its glass.
+I think about the SRV, already a dot, heading home without us with everything that matters in its glass.
 
 I think about Jinzhou, who went out on a hull he wasn't trained for, flew us up with a piece of the ship through his arm, and has declined to discuss the arm twice.
 
