@@ -1,7 +1,7 @@
 
 Day twenty-three, and the ship smells different.
 
-Not bad. Just different. The smell of two people who have been working on the same problem long enough that the problem has started to smell like them. Lab chemicals and recycled air and whatever the food processor does when it heats things, all of it settling into a background note I stopped noticing around day fifteen and only notice now because I walked in from the central hall and caught it fresh.
+Not bad. Just different. The smell of two people who have been working on the same problem long enough that the problem has started to smell like them. Lab chemicals and recycled air and whatever the food processor does when it heats things, all of it settling into a background note I stopped noticing around day fifteen and only notice now because I walked in from the hallway and caught it fresh.
 
 I put my tray down next to the microscope. Lab A, same as always. The sample from batch two is still logged and filed, already the most documented microbe in the history of a species that has been documenting microbes for several hundred years, and I'm about to add more documentation to it because there is nothing else to do while we wait for tomorrow except prepare, and preparing means knowing everything I can know before we drop below the Stephfren line and find out what we missed.
 
@@ -31,7 +31,7 @@ I push my glasses up and keep going.
 
 ---
 
-The EVA suits are in the storage room off the central hall, between the labs storage and the airlock, hung in a row on a rack that makes them look like they're waiting for something. Which they are. Have been, for going on seven years.
+The EVA suits are in the airlock, off the corridor at the cockpit end, hung in a row on a rack that makes them look like they're waiting for something. Which they are. Have been, for going on seven years.
 
 I pull the first one down at roughly midmorning. It's heavier than I remember EVA suits being, which either means I've lost more muscle mass than I thought in six years of stasis or this is a different class of suit than the ones I trained in briefly, pre-mission, in a two-week crash course I remember only in fragments. Probably both. I'm choosing to blame the suit.
 
@@ -167,7 +167,7 @@ Then I close the simulation and go get dinner, because looking at it a third tim
 
 The food is better than it was in week one. Not good, exactly, but better. Whatever the processor does to the later-rotation meals has more variety to it, fewer things that taste aggressively beige. I eat at the Lab A bench because I always eat at the Lab A bench and it would feel wrong to eat anywhere else now, which is either a sign of comfort or a sign that I've developed shipboard habits precise enough to concern a psychologist, and I've decided not to examine which one.
 
-Jinzhou eats in the cockpit, which I know because I can hear his tray being set down on the co-pilot armrest from the central hall. He does this sometimes. Runs the readouts while he eats, like some people read while they eat, because sitting still without something to look at apparently isn't a thing he does by choice.
+Jinzhou eats in the cockpit, which I know because I can hear his tray being set down on the co-pilot armrest from the hallway. He does this sometimes. Runs the readouts while he eats, like some people read while they eat, because sitting still without something to look at apparently isn't a thing he does by choice.
 
 I think about the Asicell tracking behavior while I eat. I think about the retrieval winch running hot. I think about configuration four in the approach simulation and the variables that produce it and what happens in the gap between calling it early and calling it too late.
 
