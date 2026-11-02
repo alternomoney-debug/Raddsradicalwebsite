@@ -64,11 +64,11 @@ Marsh flies, which on a ship that hasn't gone anywhere in months is a lot of wat
 
 The forward manifolds start to warm.
 
-For an hour, nothing happens, which is the best news I get all day. The numbers climb the way a number is supposed to. Minus fifty-five degrees Celsius. Minus fifty-two. I stand in front of the board and say them out loud, because they're mine, and Maslin says, over the comm, "you dont have to read the numbers to us," and I say, "I know. I like how they sound."
+For an hour, nothing happens, which is the best news I get all day. The numbers climb the way a number is supposed to. Minus fifty-five degrees Celsius. Minus fifty-two degrees. I stand in front of the board and say them out loud, because they're mine, and Maslin says, over the comm, "you dont have to read the numbers to us," and I say, "I know. I like how they sound."
 
 At hour three, I explain it, mostly for something to say. "Phengomotors work in three phases. Attract, pulse, scrape." I'm doing Kalen's demo in my head, the one that started confusing and ended with a very good safe version. "The cells want to go where the motor tells them. That's the pull. Then the pulse. Then the third part, where the spent cells get scraped off the stack and thrown out the back."
 
-"And if the scrape doesn't work?" Maslin asks.
+"and if the scrape doesnt work?" Maslin asks.
 
 "Then the cells are still awake." I keep my voice level. "They go looking for the nearest thing that smells like home. Carbon dioxide. Out here, the only planet close enough for them to find is the one whose sky eats them. It's the safest place in the universe to get this wrong."
 
@@ -157,7 +157,7 @@ It accumulates. Over the next half hour, down comes back, and it doesn't come ba
 
 Somewhere below me, a tube I forgot to clip down makes the trip all the way to the medbay. Petryn reports it over the comm like a weather event.
 
-Somewhere in the aft end of the ship, three enormous motors are doing what Kalen drew for us a long time ago, as hard as they're allowed to. Attract. Pulse. Scrape. Cells drawn forward, cells fired, cells thrown out the back with their work finished, dead, harmless, looking at nothing. And with them, if this works, everything that came down the line in the fuel, through a motor running hot enough to boil water, which is a place nothing small and alive should ever want to go. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall he had his back against, and he says it feels like leaning on a very large refrigerator that's decided to purr.
+Somewhere in the aft end of the ship, a thousand and nine motors are doing what Kalen showed us a long time ago, as hard as they're allowed to. Attract. Pulse. Scrape. Cells drawn forward, cells fired, cells thrown out the back with their work finished, dead, harmless, looking at nothing. And with them, if this works, everything that came down the line in the fuel, through a motor running hot enough to boil water, which is a place nothing small and alive should ever want to go. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall he had his back against, and he says it feels like leaning on a very large refrigerator that's decided to purr.
 
 "How's the stack?" I ask him.
 
@@ -195,7 +195,7 @@ Everything goes very quiet.
 
 "The flush has nearly six hours remaining," Marsh says. She sounds very far away and very precise. "Dr. Vasek, what are they doing?"
 
-I'm already looking at it. I have to look at it because I don't know, and I have to know. The dot in housing four moves a little, and then a little more. It's not swimming. It's drifting, the way they drift at minus forty, and it's drifting the wrong way. Not down the line with the flow, into the motors. Up it. Against the current, toward the tanks, toward the biggest meal on the ship. It's not that they've woken up early for no reason. It's MK2's fuel. It went into our tanks at level one, warmer than ours ever was, and it's been warming the line from the inside since the moment we lit the motors. The housings are hotter than anything on a cold-start chart, because nobody ever wrote a chart for this.
+I'm already looking at it. I have to look at it because I don't know, and I have to know. The dot in housing four moves a little, and then a little more. It's not swimming. It's drifting, the way they drift at minus forty degrees, and it's drifting the wrong way. Not down the line with the flow, into the motors. Up it. Against the current, toward the tanks, toward the biggest meal on the ship. It's not that they've woken up early for no reason. It's MK2's fuel. It went into our tanks at level one, warmer than ours ever was, and it's been warming the line from the inside since the moment we lit the motors. The housings are hotter than anything on a cold-start chart, because nobody ever wrote a chart for this.
 
 "ARACCSIM. When do they reach the tank one isolation valve?"
 
@@ -281,7 +281,7 @@ It isn't violent. It's a deep, sideways rattle that comes up through the bulkhea
 
 "Aft housing four," ARACCSIM says. "Asicell concentration rising. Housing three, motion detected."
 
-"They're coming," Maslin says, in a small flat voice that's the least like him I've ever heard.
+"theyre coming," Maslin says, in a small flat voice that's the least like him I've ever heard.
 
 "They're not coming," I say. "They're drifting toward something they want. That's different."
 
@@ -391,7 +391,7 @@ I look at the board. There's nothing on it. Not a dot. Not a smear. The feed lin
 
 They went through the motors. Every last one, swept down a line they'd been trying to climb, into a place that runs at the boiling point of water and doesn't stop to ask anybody's name. I feel something about that I wasn't expecting, which is sorry. They didn't do anything wrong. They did exactly what they were made for, in the wrong ship. I've got a box of their cousins on a courier heading home, doing the same thing in the right one.
 
-"Dr. Vasek," ARACCSIM says. "Remaining Phengoclept reserve stands at three percent above the departure and arrival profile."
+"Dr. Vasek," ARACCSIM says. "Remaining Phengoclept reserve stands at two point five percent above the departure and arrival profile."
 
 "Thank you."
 
