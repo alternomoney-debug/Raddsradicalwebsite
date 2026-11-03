@@ -11,7 +11,7 @@ Nobody decides to start working. It just happens. The feelings run out of road, 
 
 Maslin watches this like he's never heard a ship's computer agree with anyone.
 
-"That thing's got a personality," he says. "Thats like- thats a weird flex for a spaceship but okay"
+"that things got a personality," he says. "thats like- thats a weird flex for a spaceship but okay"
 
 "You have no idea," I say.
 
@@ -21,11 +21,11 @@ Maslin watches this like he's never heard a ship's computer agree with anyone.
 
 Maslin snorts.
 
-"Shape of the problem," he repeats. "Man you sound like every briefin i ever sat through before all this- i love that for you, truly, never change"
+"shape of the problem," he repeats. "man you sound like every briefin i ever sat through before all this- i love that for you, truly, never change"
 
 "I'm trying to be organized about a crisis. It's the only hobby I brought."
 
-"Im not sayin its bad, im sayin its funny, theres a difference." He hooks himself into the seat that's apparently also his bed and folds his arms. He's stopped treating us like a threat. He hasn't stopped checking. "Go ahead, do your little assessment thing, ill just be over here, existin"
+"im not sayin its bad, im sayin its funny, theres a difference." He hooks himself into the seat that's apparently also his bed and folds his arms. He's stopped treating us like a threat. He hasn't stopped checking. "Go ahead, do your little assessment thing, ill just be over here, existin"
 
 Petryn is already drifting toward one of the dead terminals, unhurried, running a paw along its edge like he's saying hello to it.
 
@@ -51,13 +51,13 @@ It's the correct question. What gets me is how carefully she asks it. She's sand
 
 "That's fair."
 
-"Marsh does the math before she does the feelins," Maslin says, from his seat, not unkindly. "Its her whole thing, very responsible, very correct, kind of a buzzkill sometimes, no offense Marsh"
+"marsh does the math before she does the feelins," Maslin says, from his seat, not unkindly. "its her whole thing, very responsible, very correct, kind of a buzzkill sometimes, no offense marsh"
 
 "None taken," Marsh says, in a tone that makes it entirely unclear whether she means it or is simply too polite to say otherwise.
 
 ---
 
-Jinzhou has been quiet, which is normal. But it's his three-steps-ahead quiet, not his regular quiet. I've learned to tell them apart. It took nine months and a coma.
+Jinzhou has been quiet, which is normal. But it's his three-steps-ahead quiet, not his regular quiet. I've learned to tell them apart. It took six months and a coma.
 
 "The math doesn't work," he says, finally. "Not with five people on our current supply projection. We'd need to know what's actually salvageable from this ship before we can say whether it's survivable."
 
@@ -85,11 +85,11 @@ Petryn gets the terminal working about twenty minutes later, a soft chime that m
 
 Maslin unclips and drifts over Petryn's shoulder. On him, hope looks more nervous than suspicion did.
 
-"Cmon cmon," he says, half to him, half to the screen. "Whatve we got- gimme somethin good"
+"cmon cmon," he says, half to him, half to the screen. "whatve we got- gimme somethin good"
 
 "Gimme a second, Maslin. I'm workin' on it. You know rushin' don't help."
 
-"I know, I know, I just-" He stops himself. Runs a paw through his fur. "I just want it to be somethin, you know? after all this, i want it to actually be somethin"
+"i know, i know, i just-" He stops himself. Runs a paw through his fur. "i just want it to be somethin, you know? after all this, i want it to actually be somethin"
 
 "I know," Petryn says, gentler, still looking at the screen and not talking to it. "I know, homie. Give me a sec. Let's find out together."
 
@@ -120,7 +120,7 @@ Maslin is quiet for once, arms crossed, watching the numbers scroll on the scree
 
 The room goes quieter than it already was.
 
-"Fuel's gone," Maslin says, before Petryn can get to it, sharp and fast, the words coming out before he's finished deciding how to say them. "Two tanks blew, whatever the fuck actually happened in there, and the third one got cooked on the outside, and whats left in it- it aint enough. Its nowhere close to enough. This ship aint flyin anywhere ever again, man, thats just the actual truth of it, and ive known that for months, and it dont get less true no matter how many times i say it out loud."
+"fuels gone," Maslin says, before Petryn can get to it, sharp and fast, the words coming out before he's finished deciding how to say them. "two tanks blew, whatever the fuck actually happened in there, and the third one got cooked on the outside, and whats left in it- it aint enough. its nowhere close to enough. this ship aint flyin anywhere ever again, man, thats just the actual truth of it, and ive known that for months, and it dont get less true no matter how many times i say it out loud."
 
 Whatever happened in there. I keep my face very still. I know what it's like to not know what your own fuel is doing.
 
@@ -144,17 +144,17 @@ I do the math out loud, because that's what I do. Saying numbers out loud has al
 
 Maslin is drifting now, the small side-to-side he does when holding still isn't an option anymore.
 
-"So whats the actual plan here," he says. "cause i dont love just sittin in a dead ship waitin on a math problem to solve itself, no offense."
+"so whats the actual plan here," he says. "cause i dont love just sittin in a dead ship waitin on a math problem to solve itself, no offense."
 
 "None taken," I say. "The plan, as far as I can tell, is you three come with us. Onto MK1. We combine what's salvageable from here with what we've got, and we make the numbers work, however we have to make them work."
 
-"Just like that," Maslin says.
+"just like that," Maslin says.
 
 "Just like that. What's the alternative? You three stay here on a ship with no fuel and dwindling supplies, and we fly home without you? That's not a plan. That's a different, worse version of what's already happening to you."
 
 Maslin doesn't have a fast response to that, which I'm coming to understand doesn't happen to him often.
 
-"Okay," he says, finally, quieter than anything he's said since we opened that bulkhead. "Yeah. Okay. That tracks."
+"okay," he says, finally, quieter than anything he's said since we opened that bulkhead. "yeah. okay. that tracks."
 
 ---
 
@@ -188,7 +188,7 @@ She closes her eyes for a second. Just one. I'm beginning to understand that's h
 
 "Not yet. That's the problem."
 
-"Thats the worst sentence ive ever heard," he says, with something almost like admiration. "and ive been livin in a cockpit for four months"
+"thats the worst sentence ive ever heard," he says, with something almost like admiration. "and ive been livin in a cockpit for four months"
 
 "There's a second worst sentence," Jinzhou says. "To leave, the engines have to restart. Warming them takes twenty-two hours. The burn home takes five months."
 
@@ -218,7 +218,7 @@ Marsh opens her eyes.
 
 "That's what I keep telling Later-Ethyn."
 
-"Who is Later-Ethyn," Maslin asks.
+"who is later-ethyn," Maslin asks.
 
 "Me, in the future. I give him all my problems."
 
@@ -234,7 +234,7 @@ Petryn is still looking at the manifest, something thoughtful behind his eyes th
 
 "It's a good number," I say. "Five. I'd like to keep it."
 
-"I don't know if I believe in luck," he says again, the same thing he said in the cockpit a while back, "but I believe in that."
+"I don't know if I believe in luck," he says again, the same thing he said when we first opened the door, "but I believe in that."
 
 Marsh has moved closer to the terminal, looking at the raw numbers herself now instead of just listening to Petryn's summary, cross-checking something I can't quite see from here.
 
@@ -250,6 +250,6 @@ She nods once, satisfied, like being useful settles her nerves better than any r
 
 "Alright," I say, looking around the room at all four of them, at the dead ship around us and the living one waiting outside the hull. "Let's get everyone and everything we can move over to MK1. We've got work to do."
 
-"Bout time somebody said that," Maslin says, and for once, there's nothing rhetorical about it at all.
+"bout time somebody said that," Maslin says, and for once, there's nothing rhetorical about it at all.
 
 *END OF CHAPTER NINETEEN*

@@ -183,7 +183,7 @@ I push my glasses up. "I have a, uh, small three."
 
 He stops chewing.
 
-"In the tank, they were slow. I put 'slow' in the log with a question mark. I should've put 'cold.' The tank wall is at minus eighteen degrees, the freeze lines have been on for days, and the loss rate dropped the minute they came on." I look at the slide rack. "Everything slows down when it's cold. That's not science, that's just being a cell. So how cold before it stops?"
+"In the tank, they were slow. I put 'slow' in the log with a question mark. I should've put 'cold.' The tank wall is at minus eighteen degrees Celsius, the freeze lines have been on for days, and the loss rate dropped the minute they came on." I look at the slide rack. "Everything slows down when it's cold. That's not science, that's just being a cell. So how cold before it stops?"
 
 "ARACCSIM," I say. "At minute twenty-six, I asked if that was the freeze lines, and you said insufficient data."
 
@@ -199,11 +199,11 @@ He stops chewing.
 
 Lab B has a cold stage, a little block under the objective that you can chill while you watch, built for people who need to see what a cell does on its way into a freezer. I put a fresh smear on glass, bring it down ten degrees at a time, and don't look away.
 
-Minus eighteen: slow. Drifting more than swimming. That's the tank, and that's my question mark, answered.
+Minus eighteen degrees: slow. Drifting more than swimming. That's the tank, and that's my question mark, answered.
 
-Minus thirty: commuters. Minus forty: commuters at the end of a long day.
+Minus thirty degrees: commuters. Minus forty degrees: commuters at the end of a long day.
 
-At minus fifty, they stop.
+At minus fifty degrees, they stop.
 
 They don't die. I check, and I check again, because I'm Ethyn. They go to sleep, curled up and fat and green. I've heard that's catching.
 
@@ -211,7 +211,7 @@ They don't die. I check, and I check again, because I'm Ethyn. They go to sleep,
 
 "Good."
 
-I turn the dial back up. At minus thirty-two, one of them twitches. Eighteen minutes later the whole smear is swimming around like nothing happened.
+I turn the dial back up. At minus thirty-two degrees, one of them twitches. Eighteen minutes later the whole smear is swimming around like nothing happened.
 
 "Eighteen minutes," Jinzhou says.
 
@@ -223,7 +223,7 @@ I turn the dial back up. At minus thirty-two, one of them twitches. Eighteen min
 
 ---
 
-"ARACCSIM," Jinzhou says. "Can the freeze lines hold the tank walls at minus fifty-five?"
+"ARACCSIM," Jinzhou says. "Can the freeze lines hold the tank walls at minus fifty-five degrees Celsius?"
 
 "Level two can. Level two is not recommended."
 
@@ -281,7 +281,7 @@ Jinzhou sets down his fork. "So we cannot go home on this fuel."
 
 "And we cannot get them out of it."
 
-"Not with anything I've got." I look at the slide on the cold stage, at the smear that stopped swimming at minus fifty and is waiting, very patiently, for somebody to make a mistake with the thermostat. "A burn is a buffet. I had a longer version of that in the server room."
+"Not with anything I've got." I look at the slide on the cold stage, at the smear that stopped swimming at minus fifty degrees and is waiting, very patiently, for somebody to make a mistake with the thermostat. "A burn is a buffet. I had a longer version of that in the server room."
 
 "Then we do not burn."
 
@@ -319,7 +319,7 @@ I swab the cell's seam, the fill port, and the umbilical, and carry three slides
 
 Loading takes most of the afternoon. Not because the SRV is complicated. The data interface is straightforward, ARACCSIM handles the transfer log without being asked. It takes most of the afternoon because we do everything twice, and then a third time on the parts that matter more than the others, which turns out to be all of them.
 
-Asicell samples, in glass ampoules, in a glass cradle Jinzhou cut one-handed from the lab's glassware racks, held by a bare steel clamp on the SRV's own cold block. Minus sixty. A gap around the whole thing, and nothing from lot series seven touching any of it. They'll sleep all the way home, which seems like the only polite way to mail something that digs. I'm sending a digging organism home in a jar, and I'd like it noted that I'm aware of how that sounds.
+Asicell samples, in glass ampoules, in a glass cradle Jinzhou cut one-handed from the lab's glassware racks, held by a bare steel clamp on the SRV's own cold block. Minus sixty degrees Celsius. A gap around the whole thing, and nothing from lot series seven touching any of it. They'll sleep all the way home, which seems like the only polite way to mail something that digs. I'm sending a digging organism home in a jar, and I'd like it noted that I'm aware of how that sounds.
 
 The coupon from the 2-E valve goes in the cradle's last slot, in its own glass tube, the only piece of lot series seven aboard that I'm sending on purpose. I label it in capital letters: LOT SERIES SEVEN. THIS IS WHAT THEY DO.
 
@@ -431,7 +431,7 @@ Then the cables start reeling in. It takes a long time. The crew section has bee
 
 "Level two engaged. Tank wall temperature falling."
 
-It takes five hours and forty minutes for the last wall to reach minus fifty-five. Neither of us suggests leaving. We take turns reading the numbers out loud, because they feel better said: minus twenty-two, minus thirty, minus forty-one. At minus fifty I stop being able to sit still, so I hang in my harness and watch the number like it owes me something.
+It takes five hours and forty minutes for the last wall to reach minus fifty-five degrees Celsius. Neither of us suggests leaving. We take turns reading the numbers out loud, because they feel better said: minus twenty-two degrees, minus thirty, minus forty-one. At minus fifty degrees I stop being able to sit still, so I hang in my harness and watch the number like it owes me something.
 
 "Tank 2-E, minus fifty-five degrees Celsius," ARACCSIM says. "All tanks at target."
 

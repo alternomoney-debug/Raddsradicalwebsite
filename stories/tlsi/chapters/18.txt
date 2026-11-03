@@ -11,11 +11,11 @@ All three are hooked onto rails and loops against the far wall, in a loose clust
 
 The one who was talking to us, I can tell before he opens his mouth again. He's the one in front, the one who put himself between us and the other two without seeming to think about it, drifting half a meter side to side with one foot hooked on a rail, like holding still isn't an option for him right now.
 
-"Thats far enough," he says. "Yo seriously- just chill for a sec, alright- paws where i can see em"
+"thats far enough," he says. "yo seriously- just chill for a sec, alright- paws where i can see em"
 
 "Hi," I say, paws still up. "Far enough. We can do far enough."
 
-"Who are you," he says. "For real this time, not the yellin version"
+"who are you," he says. "for real this time, not the yellin version"
 
 "Ethyn Vasek. Secondary Scientist, Vanguard MK1. This is Jinzhou Kenzo, Software Engineer, same ship." I keep my voice level, or as level as I can manage, which right now is not especially level. "We picked up your transponder burst on approach. We didn't, uh, know MK2 existed until about eight hours ago."
 
@@ -25,13 +25,13 @@ That gets a reaction from the other two, a look passed between them that I can't
 
 "No."
 
-"Nobody told you a second ship was comin? for real? seriously?"
+"nobody told you a second ship was comin? for real? seriously?"
 
 "No."
 
 He laughs. It isn't a happy sound. Short and sharp. He suspected it, and he hates being right.
 
-"Course they fuckin didnt," he says, mostly to the other two, not really to us. "Course! wow! cool! great! love that for us! am i wrong- tell me im wrong"
+"course they fuckin didnt," he says, mostly to the other two, not really to us. "course! wow! cool! great! love that for us! am i wrong- tell me im wrong"
 
 Nobody tells him he's wrong.
 
@@ -49,17 +49,17 @@ There's a pause after his name, like he's giving the room a second to receive it
 
 "Man," Petryn says, looking at us properly now, at the suits, at the ship somewhere out past the hull that neither of them can see but both know is there. "You two came a long way to find us lookin' like this. Sorry about the mess. We weren't really expectin' company."
 
-"Petryn." The blunt one, sharp, like Petryn said something wrong by being calm about it. "We dont know these guys"
+"petryn." The blunt one, sharp, like Petryn said something wrong by being calm about it. "we dont know these guys"
 
 "I know we don't know 'em, Maslin," he says, easy, unbothered, the words coming out slow and rounded at the edges like he's got all the time left in the universe to say them. "That's kinda the whole thing about meetin' people. You don't know 'em yet."
 
 Maslin doesn't have a response to that right away, which I get the sense doesn't happen to him often.
 
-"Maslin Corwin," he says eventually, to us, still watching like he's deciding whether what I've told him changes how this conversation is supposed to go. "Quartermaster, or was, not sure the title means shit anymore given theres nothin left to quarter out"
+"maslin corwin," he says eventually, to us, still watching like he's deciding whether what I've told him changes how this conversation is supposed to go. "quartermaster, or was, not sure the title means shit anymore given theres nothin left to quarter out"
 
 "There's some," Petryn says. Not correcting him, exactly. Just adding to it, gently. "Not much. Some."
 
-"Sure man whatever-" Maslin says, "-this is some reaalll robust supply chain we got goin, world fuckin class."
+"sure man whatever-" Maslin says, "-this is some reaalll robust supply chain we got goin, world fuckin class."
 
 I look between the three of them. Marsh is still in a careful way, like she's been rationing energy along with everything else. Petryn is still in a loose way. He decided a while back that panic wasn't helping and just stopped doing it. I'd like to know how. I'd like a pamphlet.
 
@@ -67,7 +67,7 @@ Maslin is the one still closest to us. Still the one most ready to move if he ne
 
 "How long," I ask, "have you three been in here?"
 
-"Define in here," Maslin says. "This specific room, or like, in general, trapped on a ship goin nowhere fast"
+"define in here," Maslin says. "this specific room, or like, in general, trapped on a ship goin nowhere fast"
 
 "Either. Both."
 
@@ -79,17 +79,17 @@ He looks at Marsh. Marsh looks back, and something passes between them, the shor
 
 Maslin's jaw does something tight.
 
-"Fuel reaction," he says, fast now, the words tumbling. "Somethin in the transfer system went sideways- blew two tanks, cooked a third, hull breach right through the crew section." He gestures vaguely at the door behind us, at the dark hallway beyond it. "We got lucky- relatively- all three of us made it out. Ship didnt."
+"fuel reaction," he says, fast now, the words tumbling. "somethin in the transfer system went sideways- blew two tanks, cooked a third, hull breach right through the crew section." He gestures vaguely at the door behind us, at the dark hallway beyond it. "we got lucky- relatively- all three of us made it out. Ship didnt."
 
 "Relatively," I repeat.
 
-"You want me to say unlucky instead?! fine! unlucky! we got real reaalll unlucky and then a little bit of lucky that the fuckedup part didnt just straight up kill us and- uhm- weve been runnin that shit math ever since tryin to find the actual thing between those two and, uh, spoiler alert buddy, it is not a fun awnser"
+"you want me to say unlucky instead?! fine! unlucky! we got real reaalll unlucky and then a little bit of lucky that the fuckedup part didnt just straight up kill us and- uhm- weve been runnin that shit math ever since tryin to find the actual thing between those two and, uh, spoiler alert buddy, it is not a fun awnser"
 
 Petryn puts a paw on his shoulder. Just that. Doesn't say anything about it, doesn't make it a whole thing, just a paw, steady, there.
 
 "He does that," he says to me, easy, like he's letting me in on something rather than explaining an inconvenience. "Talks it all the way out till there's nothin' left in the tank. It's how he gets through it. I don't mind it none."
 
-"I dont need you narratin me, Petryn," Maslin says, but there's no real heat in it, and he doesn't shrug the paw off either.
+"i dont need you narratin me, petryn," Maslin says, but there's no real heat in it, and he doesn't shrug the paw off either.
 
 "I know you don't need it," he says. "I'm doin' it anyway. That's kinda my whole thing."
 
@@ -101,13 +101,13 @@ I don't have a response to any of that that doesn't feel inadequate, so I don't 
 
 "Resupply," I say. "ARACCSIM, our ship's system, it pulled that much off your transponder data. You were meant to reach us. Support our mission. Extended duration capability."
 
-"Extended duration," Maslin says, and laughs again, that same short unhappy sound. "Thats a real cute way of puttin it. You know what we got told when we launched- nine people, a year or two of supplies, three of us, a decade if we went into extended sleep for most of it. Were the safe gig, allegedly! the easy one- well uh, i guess, past tense, none of that shits true anymore now is it?" He gestures at the room around us, at the blanket folded into a bed, the lashed-down gear, the four months of living in a sealed box that used to be a cockpit. "This was, uhm- this was thee safe assignment. This right here."
+"extended duration," Maslin says, and laughs again, that same short unhappy sound. "thats a real cute way of puttin it. you know what we got told when we launched- nine people, a year or two of supplies, three of us, a decade if we went into extended sleep for most of it. were the safe gig, allegedly! the easy one- well uh, i guess, past tense, none of that shits true anymore now is it?" He gestures at the room around us, at the blanket folded into a bed, the lashed-down gear, the four months of living in a sealed box that used to be a cockpit. "this was, uhm- this was thee safe assignment. this right here."
 
 "I'm sorry," I say, because it's the only thing I have, and it feels small next to everything he just said, and I say it anyway because small is still something.
 
 Maslin looks at me for a long moment.
 
-"Yeah," he says, finally, some of the edge going out of his voice, not gone, just set down for a second. "Yeah. Me too man. Me too."
+"yeah," he says, finally, some of the edge going out of his voice, not gone, just set down for a second. "yeah. me too man. me too."
 
 Petryn tilts his head slightly, looking at the two of us with something that isn't quite a smile but is heading in that direction.
 
@@ -121,7 +121,7 @@ Nobody has an answer for that either, and this time the quiet that follows doesn
 
 Nobody says anything to that for a while. It's a silence that doesn't need filling, five of us hooked onto rails in a cramped, dying ship's cockpit, doing the same quiet arithmetic in our heads about how much worse this could have been and how much it already is regardless.
 
-"Well," Maslin says eventually, and there's something almost like an attempt at levity in it, worn thin but trying. "Guess between the five of us we make one halfway decent crew, frankensteined together outta spare parts, not pretty but hey, its somethin"
+"well," Maslin says eventually, and there's something almost like an attempt at levity in it, worn thin but trying. "guess between the five of us we make one halfway decent crew, frankensteined together outta spare parts, not pretty but hey, its somethin"
 
 Jinzhou, from the doorway, says nothing, which is exactly what I expect from him.
 
@@ -129,11 +129,11 @@ Then, quiet, almost to himself, he adds, "Six, if you count ARACCSIM."
 
 Maslin looks at him like he wasn't expecting the flat one to make a joke, and honestly, neither was I.
 
-"Ha! okay, him i like already," Maslin says, jerking his chin at Jinzhou. "You, im still workin on, youre the one who screamed at me through a door about a suit for like a full minute straight"
+"ha! okay, him i like already," Maslin says, jerking his chin at Jinzhou. "you, im still workin on, youre the one who screamed at me through a door about a suit for like a full minute straight"
 
 "I have a lot of feelings and very little control over the volume of them," I say. "It's a whole thing."
 
-"No shit," Maslin says.
+"no shit," Maslin says.
 
 Petryn laughs, low and easy, with a little exhale on the end, like a piece of the last four months just got out.
 
