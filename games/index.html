@@ -4,8 +4,8 @@
 <script src="../lite.js"></script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Games (Rad)</title>
-<meta name="description" content="Online Battleship games to play with friends, or against a bot. Free, and guests can play.">
-<meta name="theme-color" content="#0b0d11"><meta property="og:type" content="website"><meta property="og:title" content="Games (Rad)"><meta property="og:description" content="Online Battleship games to play with friends, or against a bot. Free, and guests can play."><meta property="og:url" content="https://raddwastaken.art/games/"><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
+<meta name="description" content="Online Battleship games and Drift, a card game, to play with friends or against a bot. Free, and guests can play.">
+<meta name="theme-color" content="#0b0d11"><meta property="og:type" content="website"><meta property="og:title" content="Games (Rad)"><meta property="og:description" content="Online Battleship games and Drift, a card game, to play with friends or against a bot. Free, and guests can play."><meta property="og:url" content="https://raddwastaken.art/games/"><meta property="og:image" content="https://raddwastaken.art/og.png"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d11'/%3E%3Cpath%20transform='translate%28-3%203%29'%20fill='%235b9be6'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3Cpath%20fill='%23f1f3f5'%20fill-rule='evenodd'%20d='M18%2014H38C47%2014%2052%2019%2052%2026.5C52%2032%2049%2036%2043.5%2037.8L53%2050H41L33%2039H28V50H18ZM28%2022V31H37C40.5%2031%2042%2029.5%2042%2026.5C42%2023.5%2040.5%2022%2037%2022Z'/%3E%3C/svg%3E">
 <style>
 :root{color-scheme:dark;--bg:#0b0d11;--bg2:#14171c;--ink:#f1f3f5;--mute:#a7b0ba;--line:#252a31;--acc:#5b9be6;--f:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif}
@@ -24,7 +24,7 @@ footer>span{margin-left:16px}footer{margin-top:auto;padding:60px 0 40px;color:va
 .note{margin:40px 0 0;color:var(--mute)}
 </style></head>
 <body><script src="../header.js"></script><div class="wrap">
-<h1>Games</h1><p class="sub">Battleship, two ways. Play a friend online or take on the bot. Guests can play without signing up.</p>
+<h1>Games</h1><p class="sub">Battleship, two ways, and a card game from a book. Play a friend or take on the bot. Guests can play without signing up.</p>
 <div class="grid" id="grid"></div>
 <p class="note">Want a game that is not here? Tell me on <a href="https://discord.gg/j6ZrNMdA63" target="_blank" rel="noopener">Discord</a>.</p>
 <footer></footer>
@@ -33,7 +33,8 @@ footer>span{margin-left:16px}footer{margin-top:auto;padding:60px 0 40px;color:va
 // EDIT THIS LIST to change the page. One line per game.
 var GAMES=[
  {n:'Fleet War',a:'FW',d:'Up to 8 players on one ocean. Armored ships, weapons, decoys, and a shop.',t:['Online','Up to 8 players','Strategy'],u:'../fleet/'},
- {n:'Classic Battleship',a:'B-5',d:'The regular game, against a bot or a friend.',t:['Online','2 players','Bot'],u:'../battleship/'}
+ {n:'Classic Battleship',a:'B-5',d:'The regular game, against a bot or a friend.',t:['Online','2 players','Bot'],u:'../battleship/'},
+ {n:'Drift',a:'D',d:"Petryn's card game from The Long Shot Initiative. Line up the orbit, take it home.",t:['Card game','2 players','Bot'],u:'../drift/'}
 ];
 function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x)e.textContent=x;return e}
 var g=document.getElementById('grid');GAMES.forEach(function(p){var a=el('a','p');a.href=p.u;a.appendChild(el('div','art',p.a));a.appendChild(el('b','',p.n));a.appendChild(el('span','',p.d));var t=el('div','tags');p.t.forEach(function(x){t.appendChild(el('i','',x))});a.appendChild(t);g.appendChild(a)});
