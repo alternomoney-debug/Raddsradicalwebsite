@@ -153,143 +153,167 @@ I keep my eyes on the readout for as long as I can. It isn't very long.
 
 ## Chapter Eleven, continued: JINZHOU T. KENZO
 
-The altitude was on panel four.
+Altitude was on panel four.
 
-I note this first, because it's the kind of fact that matters later, when someone writes the report, and I intend to be the someone. Panel four. Secondary display. Three hundred and ten meters of drift that I didn't see because I was watching the winch, because Ethyn asked me to watch the winch, because the winch was the problem. All of that is true. None of it is useful.
+Secondary display. Three hundred and ten meters of drift. Didn't see it. I was watching the winch, because Ethyn asked me to watch the winch, because the winch was the problem.
 
-I take the winch load off my main screen and put the altitude where I can see it. It is worse than three hundred and ten now.
+All true. None of it useful.
 
-On the external camera, the tank covers are leaving. Not falling. Leaving, one after another, lifting off the housings like they've been called somewhere. Tank 2-E is bare. I watch Ethyn turn toward the airlock.
+Winch load off the main screen. Altitude on. Worse than three hundred and ten now.
 
-I watch the locker go.
+External camera. The tank covers are coming off. One, then the next, then the next. Not falling. Lifting off the housings and going. Tank 2-E is bare.
 
-I don't have a clean way to say what the next two seconds are. The locker leaves the rail. Ethyn is turning. The locker comes down. He folds and doesn't unfold, and the tether takes him, and he swings out and hangs at the end of it, aft starboard, hot side, facing down toward Bejors and the cloud we came here for.
+Ethyn turns toward the airlock.
 
-His vitals are still on my screen. Heart rate steady. I look at that for exactly one second, which is the only reason I don't do something stupid in the second after it.
+The locker goes.
 
-"ARACCSIM," I say. "Full climb. All motors. Now."
+Two seconds. Locker leaves the rail. Ethyn is still turning. Locker comes down on him. He folds. Doesn't unfold. The tether takes him and he swings out and hangs at the end of it. Aft starboard. Hot side. Facing down at Bejors and the cloud we came here for.
+
+"Ethyn."
+
+Comm is open. A hiss. His breathing, slow. Sleeping breath.
+
+"Ethyn. *Ethyn.* Answer me. Answer me right now, you, Ethyn, *answer*-"
+
+My voice goes up. Then it breaks in the middle, like a cable taking a load it isn't rated for, and what comes out the other side isn't a word.
+
+"Damn it," I say. Empty cockpit. "Damn it. Damn it, Ethyn."
+
+Never said that word out loud before. I'll note it later. Not now.
+
+Vitals still on my screen. Heart rate steady. I look at it for one second. Exactly one. That second is the only reason I don't do something stupid in the one after.
+
+"ARACCSIM. Full climb. All motors. Now."
 
 "Full climb with crew on the external hull exceeds recommended limits."
 
 "I know what it exceeds."
 
-A pause. Brief.
+Short pause.
 
 "Full climb engaged."
 
-The ship takes a breath and leans. Weight arrives. Not the centrifuge's easy 1G. This is the engines' heavy paw, one point seven times what I'm used to, settling across my shoulders and staying there. Down is aft now. The hull has a direction again.
+Weight. Not the centrifuge's 1G. Engines. One point seven. It sits on my shoulders and stays. Down is aft now.
 
 Ethyn is down.
 
-The winch will finish without me. The probe will be in the bay in ninety seconds, and ARACCSIM can have that one. I'm already on the ladder.
+Winch finishes on its own. Probe in the bay in ninety seconds. ARACCSIM can have that one.
+
+I'm on the ladder.
 
 ---
 
-I note the following, in order, as I suit up.
+Suit-up. In order.
 
-The suit goes on in four minutes twenty seconds, which is forty seconds slower than the checklist minimum, and I don't care. At one point seven gravities it is closer to a wrestling match, and the suit wins the first two rounds.
+Suit on in four minutes twenty. Checklist minimum is three forty. Forty seconds slow. Fine. At one point seven every piece weighs more than it did in training.
 
-The tether is rated for two. I clip a second line to the primary before I cycle the airlock.
+Tether rated for two. Second line clipped to the primary before I cycle.
 
-Ethyn is still on the cameras. Not moving. The suit is intact, no breach indicators. He's just unconscious and hanging and cooking slowly, and none of that is acceptable. I check the thermal rating on his telemetry. Fourteen minutes at current external temperature before his core temperature becomes a medical emergency.
+Ethyn on the cameras. Not moving. Suit intact. No breach indicators. Unconscious, hanging, heating up. Thermal rating on his telemetry: fourteen minutes at current external temperature. After that, his core temperature is a medical emergency.
 
-I don't think about what the outside temperature is doing to my own suit. Thinking about it doesn't change it.
+Fourteen.
 
-The airlock opens.
+My suit is out in the same heat his is. I don't run that number. Running it doesn't change it.
+
+Airlock opens.
 
 ---
 
-The hull is different in person than on a camera.
+Two weeks of this hull on screens. On a screen it's geometry. Distances. Angles.
 
-I've looked at this hull on screens for almost two weeks. From the external cameras it's a surface. A geometry. A set of distances and angles.
+Out here it's a rail. Under thrust it runs straight down the side of the ship toward the engines. I go down it. Paw. Paw. Clip. Paw.
 
-In person it's a ladder. Under thrust the rail runs straight down the side of the ship toward the engines, and I go down it paw over paw while the cloud comes up around me. We're climbing into the layer. The orange goes pale. Visibility drops to the length of my arm, and then to the length of my other arm, and the tether is the only fact that matters.
+We're climbing into the layer. The orange goes pale. Visibility drops to one arm. Then less. The tether is the only reference I have.
 
-Cells hit me. The motors are misfiring, and whatever they drop wide ends up on the hull, small, hard, and frequent. I note that they hit me. I decline to count.
+Cells hit me. The motors are misfiring and whatever goes wide lands on the hull. Small. Hard. Often. I could count them. I don't.
 
-Debris is coming down the hull alongside me, the way rain would if rain fell the other direction. A bracket. A length of strut. A cover panel the size of a door goes past, and I turn my shoulder to it, and it takes the outer layer of my suit and the paint off the rail on its way down. I keep going.
+Debris coming down the hull past me. Bracket. Strut. A cover panel, door-sized. I turn my shoulder. It takes the outer layer of my suit and the paint off the rail and keeps going. So do I.
 
-"Tank 2-E, breach," ARACCSIM says in my ear. "Auto-seal engaged."
+"Tank 2-E, breach," ARACCSIM says. "Auto-seal engaged."
 
-I keep going.
+Keep going.
 
 "Seal complete. Ingress interval, four point one seconds. Ambient cloud density at breach, high."
 
-I know what's in the cloud. It's the reason we came. It is now also, I note, in a fuel tank, for four point one seconds, which is long enough.
+I know what's in the cloud. It's why we came. Now it's in a fuel tank. Four point one seconds is long enough.
 
-There's nothing to be done about a tank from the outside of a ship with someone at the end of my tether. I put it in the pile. The pile is large. It has a lot of company.
+Nothing I can do about a tank from out here with Ethyn on the other end of a tether. It goes on the list. The list is long.
 
 Ethyn is where the tether says he is.
 
-Hanging at the end of his line. Suit intact. Visor fogged slightly on the inside, which means he's breathing, which matters more than the tether.
+Hanging. Suit intact. Inside of his visor fogged a little. Fog means breathing. Breathing matters more than the tether.
 
-I clip my second line to his suit anchor before I do anything else. Then I work his primary tether free from where it's caught under what's left of the locker mounting, clip that to myself too, and start back up.
+Second line to his suit anchor first. Then his primary, caught under what's left of the locker mount. Work it free. Clip it to me. Start up.
 
-He's not light.
+He's heavy.
 
-I note that without complaint, because there's nobody to complain to and no time for it. He's not light, and at one point seven gravities he is the heaviest fact I've ever carried, and I'm dragging him up the side of a ship one grip at a time with the cloud pressing at my visor and the rail ringing under every impact.
+At one point seven, heavier. Not a complaint. A number. His mass times one point seven, one grip at a time, cloud on my visor, the rail ringing every time something hits it.
+
+Thermal clock on his telemetry. Thirteen. Twelve.
 
 Something hits my left arm.
 
-I would call it a slap, if a slap came from a door. The suit says something short and unhappy in my ear, and then, a second later, stops saying it. The arm is heavier. I note that the arm is heavier. The note doesn't go anywhere.
+Hard. The suit makes a short noise in my ear. Then it stops making it. The arm is heavier. I note that. The note doesn't go anywhere.
 
 If my existence was trivial before, it means everything now.
 
-I don't know when I started thinking this. Somewhere on the rail, maybe. One paw over the other with Ethyn's weight below me and the cloud around me and the thermal clock on his telemetry going from fourteen to thirteen to twelve. It doesn't matter when. It's true. I keep climbing.
+Don't know when I started thinking that. Somewhere on the rail. Doesn't matter when. It's true. Keep climbing.
 
 ---
 
-The airlock hatch is above me, then level with me, then a thing I am shoving Ethyn through headfirst, which is not how the manual does it. The manual has very little to say about how it's done at one point seven gravities with an arm that won't close. Something catches on the frame as I follow him in. I pull. It comes.
+Airlock hatch above me. Then level. Then I'm pushing Ethyn through it headfirst. Not how the manual does it. The manual doesn't cover one point seven with an arm that won't close.
 
-I don't look at what.
+Something catches on the frame when I follow him in. I pull. It comes.
 
-The hatch cycles. Through the small window I can see the hull falling aft past the glass, panels and strut and bracket sliding down the side of the ship like a drawer being emptied. Pressure equalizes. The inner door opens.
+Don't look at what.
 
-The cockpit is one ladder up.
+Hatch cycles. Through the window, the hull is coming apart past the glass. Panel. Strut. Bracket. All of it going aft. Pressure equalizes. Inner door opens.
 
-I don't remember the ladder. What I remember is the left seat, with Ethyn in it, the harness clicked across his chest, and the thought that the secondary pilot belongs in the secondary pilot's seat. I assume I did the ladder. I note the gap in the record. I'll deal with the gap later.
+Cockpit is one ladder up.
 
-My seat. The harness. The stick.
+I don't remember the ladder. I remember the left seat with Ethyn in it, harness across his chest, and thinking: secondary pilot goes in the secondary pilot's seat. So I did the ladder. Gap in the record. Deal with it later.
+
+My seat. Harness. Stick.
 
 "ARACCSIM. Status."
 
 "Climb path degraded. Pulse timing irregular on all motors, worst on motor six. Shield envelope absent. Autopilot assumes a complete hull. Manual insertion recommended."
 
-"We have most of one," I say, and take the stick.
+"We have most of one," I say. I take the stick.
 
-The last ninety seconds are the longest of my life, and I mean that precisely: ninety seconds, measured. The ship wants to pull left. Motor six is running ragged, a cough at the edge of every pulse, and I correct for it, and correct for the correction, and correct again. The cloud thins. Dark comes in around the windscreen, and the last of the orange goes with it. Something loud hits the hull and is gone.
+Ninety seconds. Measured. The ship wants to pull left. Motor six coughs at the end of every pulse. Correct. Correct the correction. Again. Again.
+
+Cloud thins. Dark at the edges of the windscreen. The orange goes. Something loud hits the hull and is gone.
 
 "Insertion burn," ARACCSIM says. "Ten seconds."
 
-I hold it.
+Hold.
 
-The last cell fires clean.
+Last cell fires clean.
 
-The engines cut. The floor lets go. The weight leaves my shoulders and the harness takes the slack, and everything that was down is simply a direction I used to know.
+Engines cut. Weight goes. The harness takes the slack. Down stops being a direction.
 
-"Orbit achieved," ARACCSIM says.
+"Orbit achieved."
 
-I let myself have that for about four seconds.
+Four seconds. I give myself four seconds.
 
 "Orbit altitude is below the Stephfren line," it continues. "Shield envelope absent. Decay projected within six days. Contingency return is available. It does not require the transfer window. It adds seven months to the transit. It will initiate in sixty minutes unless crew authority is registered."
 
-Ethyn's vitals are on the board. Heart rate steady. Breathing even. Whatever the locker did to him, it's still doing it quietly.
+Ethyn's vitals on the board. Heart rate steady. Breathing even. Whatever the locker did, it's doing it quietly.
 
-I look at my left arm, because it's the last item on a list I didn't know I was keeping.
+Left arm. Last item.
 
-There is a length of ship through my forearm. Entry, exit, tidy. The suit has closed around it on both sides, which is the nicest thing the suit has done all day. It has been there since the rail. I know this because the arm has been telling me for twenty minutes, and I haven't been listening.
+There's a piece of the ship through my forearm. Entry. Exit. Clean. The suit has sealed around it on both sides. It's been there since the rail. The arm has been reporting it for twenty minutes. I wasn't reading the reports.
 
 "Mr. Kenzo," ARACCSIM says. "Suit thermal layer, left forearm, compromised since impact. Exposure exceeded rating by six minutes. Recommend immediate treatment."
 
 "I know."
 
-That's when the adrenaline leaves.
+Then the adrenaline goes. All at once. The pain comes in order. Left arm first. Then the rest.
 
-Not gradually. All at once, like a door that's been held open for a long time and finally let go. The pain arrives in the order it's owed. Left arm first. Then everything else.
+Transfer window: two hundred and eighty-two days. I know the number. I put it where I put things.
 
-The transfer window is two hundred and eighty-two days out. I know the number. I put it where I put things.
-
-"ARACCSIM," I say. "Hold the return."
+"ARACCSIM. Hold the return."
 
 "Holding requires continuous crew authority."
 
