@@ -1,248 +1,246 @@
 
-The knock comes back three times, evenly spaced, the same rhythm we gave it. Either whoever's on the other side has a sense of humor about this, or they've run out of better ideas too.
+Attitude thrusters don't push. They tap.
 
-"Somebody's alive in there," I say, to nobody, to the bulkhead, to the enormous fact of a second heartbeat out here besides mine and Jinzhou's. "First thing out here that's ever knocked back."
+Every few seconds there's a small, polite knock through the seat, and a little more of the difference between us and Blip-D is gone. It's like stopping a train by leaning on it, and the train has noticed. I check the stack every twenty minutes. It stays cold. I check again, because I'm Ethyn.
 
-"Confirmed," Jinzhou says. It's possibly the least necessary confirmation he's ever given me, since I heard it too, but I appreciate it. Said out loud, it's a thing that happened to both of us, and not something I imagined out of five months of wanting it to be true.
+Blip-D resolves on the main screen about two hours in. The first thing I feel is relief, because at least it's a ship, and not some other, worse category of thing my brain had been quietly preparing for.
 
-I don't try the wheel again. Not yet. Whoever's in there sealed this thing on purpose. If I were locked in a dead ship and two strangers in suits started pounding on my door, I wouldn't open it either. I'd write a will.
+The second thing arrives about four seconds later, once I look at it properly.
 
-"ARACCSIM," I say instead, backing off from the bulkhead. "Talk to me. What do we actually know about this ship?"
+"That's damage," Jinzhou says. Flat. Certain.
 
-"Processing."
+"Yeah."
 
-I hate that word right now. It's out of proportion, I know. It's a computer telling me to wait. But waiting is the one thing I have no patience left for, outside a sealed door with a stranger's heartbeat on the other side of it, and no way to close the distance any faster than the distance is willing to close itself.
+Two of the external fuel tanks are gone. Not jettisoned clean. Torn away, with jagged edges where smooth housing should be. A third tank, the top one, is still there but scorched, a long dark stain running down the hull from it like something bled out and dried.
 
-"How long is processing?"
+No lights. No visible running systems. No rotation, either. A dead ship should keep whatever spin it had, and this one isn't keeping any. Either its centrifuge never started or something stopped it, which is its own kind of information.
 
-"Unspecified. Data recovery from a passive burst is not instantaneous."
+"ARACCSIM," I say. "Life signs."
 
-"That's not an answer. That's a shrug wearing a badge."
+"Unable to determine remotely. Vessel's external sensor array appears non-functional or offline."
 
-"Noted, Dr. Vasek."
+"Comms."
 
-I don't think it's capable of sarcasm, and yet.
+"No response on any hailed frequency."
+
+I look at Jinzhou. He looks back, and for once neither of us has anything clever to say about it.
+
+"We're going over," I say.
+
+"Yes," he says. "We are."
 
 ---
 
-We drift back to the storage room while ARACCSIM works. Hanging in a dark hallway staring at a sealed door isn't a productive use of the next several minutes, and I need somewhere to hook a foot that isn't directly in front of the thing terrifying me.
+Docking takes longer than it should. Blip-D isn't holding still the polite way a ship is supposed to. It's drifting slow and uneven, with a tumble you could miss if you weren't looking, and Jinzhou has to match it by feel. ARACCSIM has no procedure stored for this. Apparently nobody at Argon's LSI division planned for us doing it.
 
-The plants are still there. Still green. I look at them longer than I need to, because it's easier than looking at anything else in this room. Easier than the empty berths through the doorway behind us. Easier than Jinzhou, who is holding very still, holding something in.
+My job is to read out distances. I do it in a calm, slow voice, because it's the one part of this I'm sure I can do right.
 
-"You okay?" I ask, because it seems like the thing to ask, even if I don't expect a real answer.
-
-"Define okay."
-
-"Fair. Rephrasing. Are you functional for the next ten minutes?"
-
-He unclips one of the pots and turns it slightly, like he's checking the soil, or checking something else entirely and using the soil as an excuse to give his paws a task. He runs a finger along the wick, then the membrane, then the water bag underneath.
-
-"Capillary feed," he says. "No pump, no gravity. It's good work." He's quiet for a moment. "Somebody kept these alive. Whatever else happened here. Somebody decided this mattered enough to keep doing."
-
-"Somebody who's still watering on a schedule," I say. "I couldn't manage that in a good year."
-
-"That's a person who hasn't given up. Whoever it is."
-
-I look at him.
-
-"You're doing the thing," I say, "where you say something that sounds like it's about the plants and it's actually about something else."
-
-"I don't know what you mean."
-
-"Sure you don't."
-
-He clips the pot back exactly where it was, careful, precise, the same care he uses for everything, and doesn't say anything else about it. I've decided that's its own kind of answer.
-
-"ARACCSIM," I say. "Transponder data. Lead with anything that isn't bad news."
-
-"Vessel designation confirmed via hull transponder data, recovered from short-range telemetry burst upon docking. Vanguard MK2. Launch date approximately four months following Vanguard MK1 departure from Wask-ki orbit."
-
-"Four months. So it's younger than us. Barely."
-
-"Correct, in terms of construction date. Vessel classification: cargo and resupply configuration. Crew complement: three."
-
-"Cargo," Jinzhou says. "Not a science mission."
-
-"Correct. Original mission parameters listed in transponder data indicate a resupply and support role for Vanguard MK1, with extended-duration capability."
-
-I sit with that for a second. Metaphorically. Nobody is sitting.
-
-"They were coming to help us," I say. "That's what this was. Not a second attempt at the same mission. A supply run. For us."
-
-"Available data is consistent with that interpretation."
-
-I don't move on. I can't. There's a number I've been carrying around since my first week awake, and it's just stood up in the back of my head and cleared its throat.
-
-"ARACCSIM. Our original provisioning. Say it again."
-
-"Vanguard MK1 was provisioned for six crew across a projected ninety-day mission window, plus fifteen percent contingency reserve."
-
-"Ninety days."
-
-"Correct."
-
-"For a trip that was always going to take years each way."
-
-"The crew was to spend the transit in rest state. Provisioning applied to waking periods only."
-
-"Ninety days of waking." I look at Jinzhou. "Six people. Ninety days in orbit at Asimov, plus a little extra in case someone dropped a tube. That was the plan. That was the whole plan for food."
-
-"It was a short plan," Jinzhou says.
-
-"It was a short plan for a long mission. I noticed it on day one and decided it was somebody else's problem, because I was busy finding out my own name." I'm working it out as I say it, which is the only way I've ever worked anything out. "Ninety days is enough if everything goes right. Wake up, collect, go home. But nothing about this mission was ever going to go right, and somebody at Argon knew that, and instead of packing more food on our ship, they built a second one."
-
-"A supply ship," Jinzhou says.
-
-"A supply ship, launched four months behind us, to meet us out there with everything we'd run out of. The pantry was always going to arrive later." I let go of the rail without meaning to and have to grab it again. "That's not a backup plan. That's the plan. They planned for us to need it. And they didn't tell us."
-
-"They may have told Bejors."
-
-"Maybe." I think about the server room, and the archive, and the folder with her name on it that I've never opened. "Maybe they told the people who were supposed to wake up first. And the people who were supposed to wake up first didn't."
-
-Jinzhou doesn't answer that. He doesn't have to.
-
-I count, because it's the only thing that helps. Four of us died in the beds. Their food sat on the shelves and fed the two of us instead, which is the only reason we've lasted this long. And somewhere on this ship, behind a door that knocks back, are three people whose whole job was to bring us more of it.
-
-"If they hadn't come," I say slowly, "and if four of us hadn't died, the six of us would have run out of food at Asimov in about three months."
-
-"Approximately," ARACCSIM says. "Yes."
-
-"I hate that," I tell it. "I'd like you to know that I hate that, specifically, and I'd like it in a log."
-
-"Logged, Dr. Vasek."
-
-"Thank you."
-
-It doesn't help. But it's on record, which is more than Argon gave us.
-
-"How much can you tell me about what happened to them? Current status."
-
-A pause. Longer than I want.
-
-"Limited. The transponder burst contains only vessel registration and launch-configuration data. Original crew manifest, cargo listing, mission parameters as designed. This data is static. It reflects the vessel's condition and intent at launch, not its current state."
-
-"So you're telling me what this ship was supposed to be. Not what it is now."
-
-"Correct."
-
-"That's the difference between a résumé and a person," I say, mostly to myself. "You can read someone's résumé all day and still have no idea what kind of morning they're having."
-
-"I do not have a frame of reference for that comparison."
-
-"You're not missing much."
-
-"Comms," I say, pushing on. "Real comms. Can we talk to whoever's on the other side of that bulkhead?"
-
-"Negative. No functioning communication array detected aboard Blip-D. The transponder is a passive registration beacon, not a communication system. It broadcasts static identification data regardless of the vessel's operational status. There is no channel available for direct exchange."
-
-I let that land.
-
-"So we've got a number in the yellow pages," I say, "and the number goes to a disconnect line."
-
-"That is a reasonably accurate characterization," Jinzhou says, with an odd little burst of something almost like enthusiasm, gone again as fast as it showed up. He does that sometimes. Short flashes of feeling, there and gone before I can react to them.
-
-I don't say anything about it. I've learned not to.
-
-"Crew names," I say instead. "Does the manifest give us that much?"
-
-"Manifest data available. Corwin, M. Quartermaster. Okonjo, M. Pilot. Draven, P. Engineer."
-
-I say them out loud, slowly, like names I already know are going to matter.
-
-"Corwin. Okonjo. Draven."
-
-Three people. Launched four months after us, on a ship built to help us, that ended up out here torn open and dark and drifting, with exactly one of its rooms still sealed and defended from the inside.
-
-I think about the room where "Ethyn Vasek, Secondary Scientist" was a name I didn't know how to answer to yet. Waking up on our own ship with no idea what I was, only what the label said, only what the arms decided to feed me before I'd earned the right to ask questions. Three more people went through some version of that same blind arrival out here, except theirs came with whatever tore those tanks off instead of a coma-fog. I don't know yet which was crueler.
-
-"They didn't know about us," I say, working it out loud. "I mean, they knew we existed. They knew they were coming to resupply the Vanguard MK1. But they don't know what happened to us. They don't know four of our six are dead. They don't know it's just been me and Jinzhou this whole time."
-
-"Unknown," ARACCSIM says, correctly. It can't confirm what three strangers behind a bulkhead do or don't know, and I appreciate that it doesn't pretend otherwise.
-
-"And we don't know what happened to them," Jinzhou says. "Three crew launched. We don't know if three crew are still alive in there."
-
-"No," I say. "We don't."
+We get a hard seal eventually.
 
 ---
 
-We go back to the bulkhead.
+The suits live in a locker by the airlock, and they are not impressive. They're maintenance suits. Somebody at Argon looked at the budget for this mission and decided that the people who'd be going outside it would mostly be fixing things, which, to be fair to that person, is exactly what we've been doing.
 
-I hang in front of it for a while before doing anything. There's a version of the next few minutes where this goes well, and a version where it doesn't, and I haven't figured out which one I'm braced for.
+I climb into mine the way you climb into a sleeping bag in a tent, which is to say badly, and with commentary.
 
-"I'm going to try the wheel," I say. "Slow. Give them time to see it moving, if they're watching."
+"Your leg is in the arm," Jinzhou says.
 
-"Go," Jinzhou says.
+"My leg is exploring its options."
 
-I brace a foot on the rail and put both paws on it. It's stiff, the stiffness of something that hasn't been turned in longer than it should have been, but it isn't locked. Not pressure-sealed like the first bulkhead. This one just needs convincing.
+The helmet is the part I hate. It's big and round, with a bulge out front for my snout, and the visor comes in two pieces that both hinge at the cheek. I pull it on. My ears get there first and immediately object, so I fold them down inside with one paw, flat against my skull, where they'll stay for as long as I'm in here. They feel like two socks stuffed into one shoe.
 
-I turn it. A quarter turn. I stop. Wait.
+Lower piece first. It swings up from under my chin. Then the upper piece, which swings down from the top and stops about halfway, and the two meet at the level of my nose, a seam across the middle of the view like a horizon.
 
-Nothing pushes back from the other side.
+The gaskets find each other.
 
-Another quarter turn.
+*Tsss.*
 
-"Anybody in there?" I call out, loud enough to carry through the metal. "We're not, uh. We're not hostile. We're the Vanguard MK1. We've been stuck out here as long as you have, probably. We just want to talk."
+That sound is the suit telling me I'm sealed. It's the most reassuring sound on the ship, and it's also the sound of a very small room closing around my face. I'd like to have one feeling about it and I have both.
 
-Nothing for a second.
+Jinzhou gets into his suit faster than I got into my socks this morning. He does his helmet one-pawed, the left arm held close and doing as little as possible. I don't mention the arm. Then he floats over and checks my seal. He runs a glove along the seam, both sides, and then he goes back to the start and checks it again.
 
-Then, muffled, distant, definitely a voice, definitely a person. Words I can't make out through the bulkhead, but the *shape* of speech. Someone saying something back, urgent, fast.
+"You're doing the thing where you check twice," I say.
 
-I turn the wheel the rest of the way.
+"Yes."
 
-The bulkhead gives with a groan that sounds less mechanical and more like the ship exhaling something it has been holding for a very long time.
+"Don't stop. I like it."
 
-It swings inward.
+He doesn't answer. He checks the neck ring, the ribbed accordion part that lets me turn my head, and then he taps the top of my helmet twice, which I decide means *good* in whatever language Jinzhou thinks in.
 
-The first thing I see, past the edge of the door, past the dim emergency lighting inside, is a shape kicking away from us fast, curled tight, defensive. Whoever it is has been rehearsing the worst version of this for a long time.
+"ARACCSIM," I say. "Suit oxygen."
 
-"Whoa. Hey. Hey, easy," I say, paws up, which feels absurd inside an EVA suit but is apparently just what my body does. "We're not, we're friendly, we're."
+"Six hours, forty minutes, Dr. Vasek."
 
-"youre MK1," the shape says. A voice. Rough from disuse, but sharp underneath it, quick, a voice that talks faster than it thinks and doesn't much care.
+"And how long do you think we'll be over there?"
 
-"Yeah, MK1," I say. "Vanguard, if you want the long version. I wouldn't recommend the long version."
+"Insufficient data."
 
-A long pause. The shape hasn't moved any closer, but it hasn't retreated further either, which I've decided to count as progress.
+"That's what I was afraid of."
 
-"how many of you," the voice asks.
+I look at the airlock. I look at the seam in my visor, which cuts the hatch neatly in half. Somewhere on the other side of both of them is a ship with no lights and no answer, and a crew we were never told about.
 
-"Two," I say. "Just two. There's, uh. It's a long story. Two of us made it."
+The airlock cycles.
 
-"there were six of you," the voice says. Not quite a question.
+The hatch opens into a hallway that is, immediately, wrong. I don't have to be a doctor or an engineer to feel it in my chest before my brain catches up and gives it a name.
 
-"Six," I say. "I was asleep for most of the subtracting."
+It's dark. Not dim. Dark, the total kind, our helmet lamps the only light in the corridor, and the readout on my wrist confirms what the dark is already saying.
 
-"and now theres two"
+No pressure.
 
-"And now there's two," I agree. "It's a number I'd like to stop saying out loud."
+"Depressurized," I say, mostly for the recording, mostly because saying it out loud makes it slightly less enormous. "Whole hallway."
 
-A pause. Longer this time, somebody on the other side of it deciding something important.
+"Confirmed on my end too," Jinzhou says.
 
-"how do i know youre actually who you say you are-" the voice asks, then stops, restarts. "instead of, i dunno, instead of whatever else couldve been wearin a suit like that"
+We pull ourselves along the rail, slowly. The lamps cut narrow cones through the black and catch debris here and there, small stuff, drifting, nothing anchored. The ordinary leftovers of a ship that stopped being maintained a while ago.
 
-It's a stupid question. I don't have a good answer prepared for it. It never occurred to me that being believed was going to be the hard part of any of this, and something in me, tired and worn down and a long way down, just snaps.
+"Hm. Suits," I say.
 
-"WHO ELSE WOULD HAVE THESE SUITS?" I yell, and I hear my own voice doing it and can't stop it. "ARGON ONLY SEN- ONLY SENT UP MK ONE AND, I GUESS, TWO! I'VE GOT A SHIP PARKED OUTSIDE YOUR HULL WITH OUR NAMES ON THE TRANSPONDER! WE HAVE THEE JINZHOU!"
+"What."
 
-Silence.
+"There's no suit cache along this hallway. There should be one. Every hallway on ours has an emergency cache somewhere."
 
-I'm breathing hard. I did not mean to do that. I don't think I've raised my voice like that since I woke up not knowing my own name. I hang there in the doorway, stupid and furious and completely unable to take any of it back.
+We find where it should be, an open panel with empty racking inside. It isn't the emptiness of something that never held anything. It's the emptiness of something that did, and doesn't now.
 
-Jinzhou, beside me, doesn't say anything, which under the circumstances feels like the correct response.
+"They took them," Jinzhou says.
 
-Then, from inside, a laugh.
+"Or used them. Or." I don't finish that sentence, because none of the ways it finishes are good, and I'd rather keep moving than sit here building worse and worse versions of what happened to whoever used to walk this hallway.
 
-Short. Startled. Genuine.
+---
 
-"ok-" the voice says, "okay yeah fair enough- nobody fakes an accent like that"
+Deeper in, the passage ends at a bulkhead that doesn't want to open.
 
-"I don't have an accent," I say, still too loud, still coming down off whatever that was.
+It has a manual wheel, the kind you'd expect on a much older ship than this one, and it doesn't budge when I brace a foot on the rail and put my back into it. It isn't locked, exactly. Something is pushing back from the other side, which means something on the far side of this bulkhead still has air in it.
 
-"everybodys got an accent to somebody" the voice says. "you can"
+"We need to, uh, equalize," I say. "Bleed some of ours across."
 
-And stops there, like the sentence ran out before it decided what it was actually offering.
+Back at the collar, Jinzhou opens the valve on our side and lets MK1's air into MK2's hallway. Once isn't enough. We do it twice. ARACCSIM reports the cost in air, which I didn't ask for, and which is more than I'd like. The second time, I hear it even through the suit, a rush, the hallway finally agreeing to be a hallway with something in it besides vacuum.
 
-You can come in. You can trust us. You can put your paws down.
+The wheel turns. The bulkhead opens.
 
-I don't know which one it means. I don't think, from the way it trails off, that they know either.
+---
+
+Where the lab should be, going by our own ship's layout, there's a large open storage area. Dim, but not dark. Breathable, by the readout on my wrist. I pull my helmet off before I've fully thought it through, because I trust the number more than I trust my own patience right now.
+
+The air is stale. Cold. But it's air.
+
+There's furniture in here that doesn't belong in a lab. An actual chair, bolted down. A low table, and on the table, in what little light there is, a row of small pots.
+
+Plants.
+
+Alive. Green, or green enough, leaning toward the one emergency light still working overhead the way anything green leans toward whatever light it can find.
+
+Each pot is strapped to the table and capped with a little membrane, and from each one a wick runs to a bag of water clipped underneath. Somebody figured out how to water a plant in a ship with no down. Somebody cared enough to figure it out.
+
+Someone's been tending these. Recently, if the leaves are any indication, which means someone was alive in here recently enough to care whether something small and green kept growing.
+
+I don't say anything for a second. Neither does Jinzhou.
+
+Then I do what I'd do with any sample, which is stop feeling things at it and start measuring.
+
+"How recently," I say, mostly to myself, and pull myself down to the table.
+
+The water bags first. Each one is clear plastic with printed lines up the side, the kind meant for medical fluids, and someone has written on them in marker. Dates, I think, or numbers that do the job of dates. The bag under the first pot is two lines down from the last mark. The second, two and a half. The third pot's bag is nearly full, and its wick is new, still white at the top where the others have gone brown.
+
+"Somebody refilled this one," I say. "And swapped the wick."
+
+"How long ago."
+
+"Hm. Give me a second." I turn the first bag in the lamp. "If a pot this size drinks what a pot this size should, two lines is a few days. Maybe a week, if they rationed it, and if they're keeping plants alive in here, they ration everything."
+
+Then the leaves. The oldest ones are pale and a little papery, the way things go when they've been grown under one bad bulb for a long time. But at the tip of every stem there's a new one, small and folded and a different green, the green of something that hasn't had time to get tired yet.
+
+"New growth on all of them," I say. "Somebody's been here inside of a week. Probably less."
+
+"And the hallway has been in vacuum for longer than that."
+
+"The hallway's got dust on dust. This room doesn't." I run a glove along the table edge and hold it up. Clean. "So whoever it is comes in here a lot."
+
+Jinzhou looks back toward the dark hallway. Then at the plants. He doesn't say anything, but I can see him writing it down somewhere behind his eyes, in the column where he keeps things that are true.
+
+"They are watering plants," he says finally.
+
+"They're watering plants."
+
+"On a ship with no lights and no air in the hallway."
+
+"I know." I look at the little new leaves, folded up like they're not sure yet whether it's worth opening. "That's either the saddest thing I've ever seen or the most stubborn. I'm leaning stubborn."
+
+We take a few ration packs from a nearby shelf, just in case. I'd feel better about it if I knew what the case was.
+
+---
+
+The dorms are worse, in a different way than I expected worse to look.
+
+Not damage. Not the hallway's kind of worse. This is garbage and salvaged junk netted down in bundles against every wall, blankets and stripped panel components and empty ration wrappers. It's the particular chaos of people living somewhere they were never meant to live this long, in a space that kept shrinking as things broke and nobody could fix them. Nothing gets thrown away when you don't know how long you'll need it.
+
+The berths are here. Three of them, set into the wall in their cubbies, oval, the same design as ours. Where the other three would be on our ship, there are desks instead, each with a terminal built into the surface, screens dark, nobody at any of them.
+
+"Three crew," I say. "Not six."
+
+"Smaller mission," Jinzhou says. "Makes sense. Leaner ship, leaner crew."
+
+All three berths are empty.
+
+Not the good kind of empty, the kind that means someone's up and about somewhere else on the ship. The kind that means nobody has used them in a long time. There's a skin of dust on every surface, the kind that takes months of nobody touching anything. A few packs of folded clothing are shoved into two of the cubbies, like the berths turned into storage once whatever they were built for stopped being needed.
+
+"Jinzhou."
+
+"I see it."
+
+Neither of us says the actual thing out loud, the same way neither of us said it about our own crew at the very start of this. Some sentences don't need saying to be understood by both people in the room.
+
+We keep going.
+
+---
+
+Back through the storage room, back through the dark hallway, we come at last to a second bulkhead. It's smaller than the first, set into what has to be the base of this ship's cockpit module.
+
+"This one's clean," I say, running a glove along the seam. No dust, none of the grime that's collected everywhere else. Somebody has been maintaining this specific bulkhead, or at least touching it often enough that nothing gets the chance to cling.
+
+This one is sealed properly. Not pressure-locked like the first. This one was shut from the inside, deliberately, by somebody's decision, and nothing since has changed their mind about it.
+
+Beside the frame, at about the height of a paw resting on the wall, there are marks scratched into the paint.
+
+Little vertical lines, in groups of five with a stroke across each group, the way people have counted for as long as people have counted. Rows of them. Some neat, some shaky, a few gouged deep enough to reach bare metal, like whoever did those ones was having a bad day and the wall was the only thing that would hold still.
+
+I count. I can't help it. It's what I do with a number that's standing right in front of me.
+
+"A hundred and twenty-two," I say.
+
+"Days," Jinzhou says.
+
+"Probably days." I touch the last group with the tip of my glove. It's only got three strokes in it, and the third one is fresh, the paint around it still bright. "And somebody did this one recently."
+
+Scratched from this side. Out here, in the dark, where there's no air. Somebody has been coming out in a suit, past this spot, and stopping to mark it on the way.
+
+Four months, give or take, of somebody counting.
+
+I think about the plants. I think about the bags with the marker lines on them. Somebody on the other side of this bulkhead has been keeping very careful track of time, in every way they have, for a very long time, and I'd like very much for them to still be doing it.
+
+I knock.
+
+Nothing.
+
+I knock again, harder, three solid strikes with the flat of my paw against metal that doesn't want to give me anything back.
+
+"Hello," I say, which feels absurd the second it leaves my mouth. Calling hello into a dead ship is like calling into an empty house, except this house has plants somebody is still watering and berths somebody clearly stopped using on purpose.
+
+Still nothing.
+
+We pound together, both of us, a rhythm instead of a single knock, loud enough that if anyone is alive on the other side of that bulkhead, there's no version of this they could sleep through.
+
+I put my ear against the seam, which is a stupid thing to do with a suit collar in the way and does nothing at all, and I do it anyway. Some instincts don't care what's practical.
+
+There.
+
+A sound.
+
+Small. Metallic. Deliberate. Not the random settling of a dead ship shifting under its own weight. A *response*, someone on the other side doing the exact thing we just did back at them.
+
+Knock.
+
+Knock.
+
+Knock.
 
 *END OF CHAPTER SEVENTEEN*
