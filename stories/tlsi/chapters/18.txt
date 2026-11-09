@@ -1,222 +1,248 @@
 
-I step through first.
+The knock comes back three times, evenly spaced, the same rhythm we gave it. Either whoever's on the other side has a sense of humor about this, or they've run out of better ideas too.
 
-Not because I'm brave about it. Jinzhou made it clear without a word that he'll be the one covering the doorway if this goes sideways, and I've decided the least I can do is be the one who walks into the room that might go sideways.
+"Somebody's alive in there," I say, to nobody, to the bulkhead, to the enormous fact of a second heartbeat out here besides mine and Jinzhou's. "First thing out here that's ever knocked back."
 
-The cockpit module is small. Smaller than ours. Everything in here has the compressed, over-organized look of a space three people have lived in for a lot longer than three people are supposed to live in a room this size. Gear is lashed to every surface. A blanket is folded with military precision and strapped to what used to be a seat and is now, apparently, also a bed.
+"Confirmed," Jinzhou says. It's possibly the least necessary confirmation he's ever given me, since I heard it too, but I appreciate it. Said out loud, it's a thing that happened to both of us, and not something I imagined out of five months of wanting it to be true.
 
-And there are three of them.
+I don't try the wheel again. Not yet. Whoever's in there sealed this thing on purpose. If I were locked in a dead ship and two strangers in suits started pounding on my door, I wouldn't open it either. I'd write a will.
 
-All three are hooked onto rails and loops against the far wall, in a loose cluster. Not a formation. It's what you look like after months of not knowing if the next thing through the door is help or the end.
+"ARACCSIM," I say instead, backing off from the bulkhead. "Talk to me. What do we actually know about this ship?"
 
-The one who was talking to us, I can tell before he opens his mouth again. He's the one in front, the one who put himself between us and the other two without seeming to think about it, drifting half a meter side to side with one foot hooked on a rail, like holding still isn't an option for him right now.
+"Processing."
 
-"thats far enough," he says. "yo seriously- just chill for a sec, alright- paws where i can see em"
+I hate that word right now. It's out of proportion, I know. It's a computer telling me to wait. But waiting is the one thing I have no patience left for, outside a sealed door with a stranger's heartbeat on the other side of it, and no way to close the distance any faster than the distance is willing to close itself.
 
-"Hi," I say, paws still up. "Far enough. We can do far enough."
+"How long is processing?"
 
-"who are you," he says. "for real this time, not the yellin version"
+"Unspecified. Data recovery from a passive burst is not instantaneous."
 
-"Ethyn Vasek. Secondary Scientist, Vanguard MK1. This is Jinzhou Kenzo, Software Engineer, same ship." I keep my voice level, or as level as I can manage, which right now is not especially level. "We picked up your transponder burst on approach. We didn't, uh, know MK2 existed until about eight hours ago."
+"That's not an answer. That's a shrug wearing a badge."
 
-That gets a reaction from the other two, a look passed between them that I can't fully read. Something between confirmation and disappointment, like a theory just got proven right that they'd been hoping would turn out wrong.
+"Noted, Dr. Vasek."
 
-"You didn't know we existed," the blunt one repeats.
-
-"No."
-
-"nobody told you a second ship was comin? for real? seriously?"
-
-"No."
-
-He laughs. It isn't a happy sound. Short and sharp. He suspected it, and he hates being right.
-
-"course they fuckin didnt," he says, mostly to the other two, not really to us. "course! wow! cool! great! love that for us! am i wrong- tell me im wrong"
-
-Nobody tells him he's wrong.
+I don't think it's capable of sarcasm, and yet.
 
 ---
 
-The one on the left drifts forward slightly, not aggressive, just present.
+We drift back to the storage room while ARACCSIM works. Hanging in a dark hallway staring at a sealed door isn't a productive use of the next several minutes, and I need somewhere to hook a foot that isn't directly in front of the thing terrifying me.
 
-"Marsh Okonjo," she says. "Pilot."
+The plants are still there. Still green. I look at them longer than I need to, because it's easier than looking at anything else in this room. Easier than the empty berths through the doorway behind us. Easier than Jinzhou, who is holding very still, holding something in.
 
-Then, from further back, slower, unhurried, someone pushes off the wall like leaving it is a decision he's thought all the way through first.
+"You okay?" I ask, because it seems like the thing to ask, even if I don't expect a real answer.
 
-"Petryn Draven," he says. Not loud. Not needing to be. "Engineer."
+"Define okay."
 
-There's a pause after his name, like he's giving the room a second to receive it before he keeps going. It's a very different thing from how the blunt one talks, where every sentence seems to be racing the next one out of his mouth.
+"Fair. Rephrasing. Are you functional for the next ten minutes?"
 
-"Man," Petryn says, looking at us properly now, at the suits, at the ship somewhere out past the hull that neither of them can see but both know is there. "You two came a long way to find us lookin' like this. Sorry about the mess. We weren't really expectin' company."
+He unclips one of the pots and turns it slightly, like he's checking the soil, or checking something else entirely and using the soil as an excuse to give his paws a task. He runs a finger along the wick, then the membrane, then the water bag underneath.
 
-"petryn." The blunt one, sharp, like Petryn said something wrong by being calm about it. "we dont know these guys"
+"Capillary feed," he says. "No pump, no gravity. It's good work." He's quiet for a moment. "Somebody kept these alive. Whatever else happened here. Somebody decided this mattered enough to keep doing."
 
-"I know we don't know 'em, Maslin," he says, easy, unbothered, the words coming out slow and rounded at the edges like he's got all the time left in the universe to say them. "That's kinda the whole thing about meetin' people. You don't know 'em yet."
+"Somebody who's still watering on a schedule," I say. "I couldn't manage that in a good year."
 
-Maslin doesn't have a response to that right away, which I get the sense doesn't happen to him often.
+"That's a person who hasn't given up. Whoever it is."
 
-"maslin corwin," he says eventually, to us, still watching like he's deciding whether what I've told him changes how this conversation is supposed to go. "quartermaster, or was, not sure the title means shit anymore given theres nothin left to quarter out"
+I look at him.
 
-"There's some," Petryn says. Not correcting him, exactly. Just adding to it, gently. "Not much. Some."
+"You're doing the thing," I say, "where you say something that sounds like it's about the plants and it's actually about something else."
 
-"sure man whatever-" Maslin says, "-this is some reaalll robust supply chain we got goin, world fuckin class."
+"I don't know what you mean."
 
-I look between the three of them. Marsh is still in a careful way, like she's been rationing energy along with everything else. Petryn is still in a loose way. He decided a while back that panic wasn't helping and just stopped doing it. I'd like to know how. I'd like a pamphlet.
+"Sure you don't."
 
-Maslin is the one still closest to us. Still the one most ready to move if he needs to.
+He clips the pot back exactly where it was, careful, precise, the same care he uses for everything, and doesn't say anything else about it. I've decided that's its own kind of answer.
 
-"How long," I ask, "have you three been in here?"
+"ARACCSIM," I say. "Transponder data. Lead with anything that isn't bad news."
 
-"define in here," Maslin says. "this specific room, or like, in general, trapped on a ship goin nowhere fast"
+"Vessel designation confirmed via hull transponder data, recovered from short-range telemetry burst upon docking. Vanguard MK2. Launch date approximately four months following Vanguard MK1 departure from Wask-ki orbit."
 
-"Either. Both."
+"Four months. So it's younger than us. Barely."
 
-He looks at Marsh. Marsh looks back, and something passes between them, the shorthand of people who've had this exact conversation enough times that they no longer need most of the words.
+"Correct, in terms of construction date. Vessel classification: cargo and resupply configuration. Crew complement: three."
 
-"Cockpit specifically," Petryn says, when neither of the other two seems inclined to answer first, unhurried, like he's telling a story rather than reporting a fact. "About four months, man. We were livin' in the rest of the ship before that. Storage room, mostly, some of the crew section. Sealed ourselves in here once the last of the hull breaches got bad enough we couldn't trust the pressure out there no more."
+"Cargo," Jinzhou says. "Not a science mission."
 
-"And before that," I ask. "The explosion. What happened?"
+"Correct. Original mission parameters listed in transponder data indicate a resupply and support role for Vanguard MK1, with extended-duration capability."
 
-Maslin's jaw does something tight.
+I sit with that for a second. Metaphorically. Nobody is sitting.
 
-"fuel reaction," he says, fast now, the words tumbling. "somethin in the transfer system went sideways- blew two tanks, cooked a third, hull breach right through the crew section." He gestures vaguely at the door behind us, at the dark hallway beyond it. "we got lucky- relatively- all three of us made it out. Ship didnt."
+"They were coming to help us," I say. "That's what this was. Not a second attempt at the same mission. A supply run. For us."
 
-"Relatively," I repeat.
+"Available data is consistent with that interpretation."
 
-"you want me to say unlucky instead?! fine! unlucky! we got real reaalll unlucky and then a little bit of lucky that the fuckedup part didnt just straight up kill us and- uhm- weve been runnin that shit math ever since tryin to find the actual thing between those two and, uh, spoiler alert buddy, it is not a fun awnser"
+I don't move on. I can't. There's a number I've been carrying around since my first week awake, and it's just stood up in the back of my head and cleared its throat.
 
-Petryn puts a paw on his shoulder. Just that. Doesn't say anything about it, doesn't make it a whole thing, just a paw, steady, there.
+"ARACCSIM. Our original provisioning. Say it again."
 
-"He does that," he says to me, easy, like he's letting me in on something rather than explaining an inconvenience. "Talks it all the way out till there's nothin' left in the tank. It's how he gets through it. I don't mind it none."
+"Vanguard MK1 was provisioned for six crew across a projected ninety-day mission window, plus fifteen percent contingency reserve."
 
-"i dont need you narratin me, petryn," Maslin says, but there's no real heat in it, and he doesn't shrug the paw off either.
+"Ninety days."
 
-"I know you don't need it," he says. "I'm doin' it anyway. That's kinda my whole thing."
+"Correct."
 
-I don't have a response to any of that that doesn't feel inadequate, so I don't try to give one.
+"For a trip that was always going to take years each way."
+
+"The crew was to spend the transit in rest state. Provisioning applied to waking periods only."
+
+"Ninety days of waking." I look at Jinzhou. "Six people. Ninety days in orbit at Asimov, plus a little extra in case someone dropped a tube. That was the plan. That was the whole plan for food."
+
+"It was a short plan," Jinzhou says.
+
+"It was a short plan for a long mission. I noticed it on day one and decided it was somebody else's problem, because I was busy finding out my own name." I'm working it out as I say it, which is the only way I've ever worked anything out. "Ninety days is enough if everything goes right. Wake up, collect, go home. But nothing about this mission was ever going to go right, and somebody at Argon knew that, and instead of packing more food on our ship, they built a second one."
+
+"A supply ship," Jinzhou says.
+
+"A supply ship, launched four months behind us, to meet us out there with everything we'd run out of. The pantry was always going to arrive later." I let go of the rail without meaning to and have to grab it again. "That's not a backup plan. That's the plan. They planned for us to need it. And they didn't tell us."
+
+"They may have told Bejors."
+
+"Maybe." I think about the server room, and the archive, and the folder with her name on it that I've never opened. "Maybe they told the people who were supposed to wake up first. And the people who were supposed to wake up first didn't."
+
+Jinzhou doesn't answer that. He doesn't have to.
+
+I count, because it's the only thing that helps. Four of us died in the beds. Their food sat on the shelves and fed the two of us instead, which is the only reason we've lasted this long. And somewhere on this ship, behind a door that knocks back, are three people whose whole job was to bring us more of it.
+
+"If they hadn't come," I say slowly, "and if four of us hadn't died, the six of us would have run out of food at Asimov in about three months."
+
+"Approximately," ARACCSIM says. "Yes."
+
+"I hate that," I tell it. "I'd like you to know that I hate that, specifically, and I'd like it in a log."
+
+"Logged, Dr. Vasek."
+
+"Thank you."
+
+It doesn't help. But it's on record, which is more than Argon gave us.
+
+"How much can you tell me about what happened to them? Current status."
+
+A pause. Longer than I want.
+
+"Limited. The transponder burst contains only vessel registration and launch-configuration data. Original crew manifest, cargo listing, mission parameters as designed. This data is static. It reflects the vessel's condition and intent at launch, not its current state."
+
+"So you're telling me what this ship was supposed to be. Not what it is now."
+
+"Correct."
+
+"That's the difference between a résumé and a person," I say, mostly to myself. "You can read someone's résumé all day and still have no idea what kind of morning they're having."
+
+"I do not have a frame of reference for that comparison."
+
+"You're not missing much."
+
+"Comms," I say, pushing on. "Real comms. Can we talk to whoever's on the other side of that bulkhead?"
+
+"Negative. No functioning communication array detected aboard Blip-D. The transponder is a passive registration beacon, not a communication system. It broadcasts static identification data regardless of the vessel's operational status. There is no channel available for direct exchange."
+
+I let that land.
+
+"So we've got a number in the yellow pages," I say, "and the number goes to a disconnect line."
+
+"That is a reasonably accurate characterization," Jinzhou says, with an odd little burst of something almost like enthusiasm, gone again as fast as it showed up. He does that sometimes. Short flashes of feeling, there and gone before I can react to them.
+
+I don't say anything about it. I've learned not to.
+
+"Crew names," I say instead. "Does the manifest give us that much?"
+
+"Manifest data available. Corwin, M. Quartermaster. Okonjo, M. Pilot. Draven, P. Engineer."
+
+I say them out loud, slowly, like names I already know are going to matter.
+
+"Corwin. Okonjo. Draven."
+
+Three people. Launched four months after us, on a ship built to help us, that ended up out here torn open and dark and drifting, with exactly one of its rooms still sealed and defended from the inside.
+
+I think about the room where "Ethyn Vasek, Secondary Scientist" was a name I didn't know how to answer to yet. Waking up on our own ship with no idea what I was, only what the label said, only what the arms decided to feed me before I'd earned the right to ask questions. Three more people went through some version of that same blind arrival out here, except theirs came with whatever tore those tanks off instead of a coma-fog. I don't know yet which was crueler.
+
+"They didn't know about us," I say, working it out loud. "I mean, they knew we existed. They knew they were coming to resupply the Vanguard MK1. But they don't know what happened to us. They don't know four of our six are dead. They don't know it's just been me and Jinzhou this whole time."
+
+"Unknown," ARACCSIM says, correctly. It can't confirm what three strangers behind a bulkhead do or don't know, and I appreciate that it doesn't pretend otherwise.
+
+"And we don't know what happened to them," Jinzhou says. "Three crew launched. We don't know if three crew are still alive in there."
+
+"No," I say. "We don't."
 
 ---
 
-"You said you didn't know about us," Marsh says, into the quiet that follows, her first full sentence since her name. "But you know the mission. You know why we were coming."
+We go back to the bulkhead.
 
-"Resupply," I say. "ARACCSIM, our ship's system, it pulled that much off your transponder data. You were meant to reach us. Support our mission. Extended duration capability."
+I hang in front of it for a while before doing anything. There's a version of the next few minutes where this goes well, and a version where it doesn't, and I haven't figured out which one I'm braced for.
 
-"extended duration," Maslin says, and laughs again, that same short unhappy sound. "thats a real cute way of puttin it. you know what we got told when we launched- nine people, a year or two of supplies, three of us, a decade if we went into extended sleep for most of it. were the safe gig, allegedly! the easy one- well uh, i guess, past tense, none of that shits true anymore now is it?" He gestures at the room around us, at the blanket folded into a bed, the lashed-down gear, the four months of living in a sealed box that used to be a cockpit. "this was, uhm- this was thee safe assignment. this right here."
+"I'm going to try the wheel," I say. "Slow. Give them time to see it moving, if they're watching."
 
-"I'm sorry," I say, because it's the only thing I have, and it feels small next to everything he just said, and I say it anyway because small is still something.
+"Go," Jinzhou says.
 
-Maslin looks at me for a long moment.
+I brace a foot on the rail and put both paws on it. It's stiff, the stiffness of something that hasn't been turned in longer than it should have been, but it isn't locked. Not pressure-sealed like the first bulkhead. This one just needs convincing.
 
-"yeah," he says, finally, some of the edge going out of his voice, not gone, just set down for a second. "yeah. me too man. me too."
+I turn it. A quarter turn. I stop. Wait.
 
-Petryn tilts his head slightly, looking at the two of us with something that isn't quite a smile but is heading in that direction.
+Nothing pushes back from the other side.
 
-"Crazy, though," he says, slow, thoughtful, like he's turning the thought over before letting it out. "Two ships, launched months apart, endin' up in the same little pocket of the whole universe at the same time. That's, like. That's a lot of somethin' had to line up for that to happen, you know? I don't know if I believe in luck exactly. But I believe in that."
+Another quarter turn.
 
-Nobody has an answer for that either, and this time the quiet that follows doesn't feel bad. It feels like a room full of people letting something settle.
+"Anybody in there?" I call out, loud enough to carry through the metal. "We're not, uh. We're not hostile. We're the Vanguard MK1. We've been stuck out here as long as you have, probably. We just want to talk."
 
-"How many of you made it," Marsh finally asks, direct, no padding around it. "You said two. Out of."
+Nothing for a second.
 
-"Six," I say. "Out of six."
+Then, muffled, distant, definitely a voice, definitely a person. Words I can't make out through the bulkhead, but the *shape* of speech. Someone saying something back, urgent, fast.
 
-Nobody says anything to that for a while. It's a silence that doesn't need filling, five of us hooked onto rails in a cramped, dying ship's cockpit, doing the same quiet arithmetic in our heads about how much worse this could have been and how much it already is regardless.
+I turn the wheel the rest of the way.
 
-"well," Maslin says eventually, and there's something almost like an attempt at levity in it, worn thin but trying. "guess between the five of us we make one halfway decent crew, frankensteined together outta spare parts, not pretty but hey, its somethin"
+The bulkhead gives with a groan that sounds less mechanical and more like the ship exhaling something it has been holding for a very long time.
 
-Jinzhou, from the doorway, says nothing, which is exactly what I expect from him.
+It swings inward.
 
-Then, quiet, almost to himself, he adds, "Six, if you count ARACCSIM."
+The first thing I see, past the edge of the door, past the dim emergency lighting inside, is a shape kicking away from us fast, curled tight, defensive. Whoever it is has been rehearsing the worst version of this for a long time.
 
-Maslin looks at him like he wasn't expecting the flat one to make a joke, and honestly, neither was I.
+"Whoa. Hey. Hey, easy," I say, paws up, which feels absurd inside an EVA suit but is apparently just what my body does. "We're not, we're friendly, we're."
 
-"ha! okay, him i like already," Maslin says, jerking his chin at Jinzhou. "you, im still workin on, youre the one who screamed at me through a door about a suit for like a full minute straight"
+"youre MK1," the shape says. A voice. Rough from disuse, but sharp underneath it, quick, a voice that talks faster than it thinks and doesn't much care.
 
-"I have a lot of feelings and very little control over the volume of them," I say. "It's a whole thing."
+"Yeah, MK1," I say. "Vanguard, if you want the long version. I wouldn't recommend the long version."
 
-"no shit," Maslin says.
+A long pause. The shape hasn't moved any closer, but it hasn't retreated further either, which I've decided to count as progress.
 
-Petryn laughs, low and easy, with a little exhale on the end, like a piece of the last four months just got out.
+"how many of you," the voice asks.
 
-"I like these two," he says, to nobody in particular, to the room, to whatever's left of the crew he's got. "This is good, man. This is real good."
+"Two," I say. "Just two. There's, uh. It's a long story. Two of us made it."
 
-And for a second, just a second, something in the room loosens that wasn't loose a minute ago.
+"there were six of you," the voice says. Not quite a question.
 
----
+"Six," I say. "I was asleep for most of the subtracting."
 
-I'm the one who brings up the plants. I don't plan to. It just comes out, the way the important questions always seem to come out of me sideways.
+"and now theres two"
 
-"The plants," I say. "In the storage room. Somebody's been watering them."
+"And now there's two," I agree. "It's a number I'd like to stop saying out loud."
 
-Marsh's ears move. It's a very small motion, and she corrects it almost as soon as it happens, but I see it.
+A pause. Longer this time, somebody on the other side of it deciding something important.
 
-"Those are mine," she says.
+"how do i know youre actually who you say you are-" the voice asks, then stops, restarts. "instead of, i dunno, instead of whatever else couldve been wearin a suit like that"
 
-"They're doing well. Considering."
+It's a stupid question. I don't have a good answer prepared for it. It never occurred to me that being believed was going to be the hard part of any of this, and something in me, tired and worn down and a long way down, just snaps.
 
-"They are doing adequately." She says it the way she says everything, careful, every word weighed before it's spent. "They were cargo. Seed stock, for a garden module on your ship that I now understand you do not have. When the tanks went, the cargo hold went with them. Those six pots were in the storage room for a germination check. They are what is left."
+"WHO ELSE WOULD HAVE THESE SUITS?" I yell, and I hear my own voice doing it and can't stop it. "ARGON ONLY SEN- ONLY SENT UP MK ONE AND, I GUESS, TWO! I'VE GOT A SHIP PARKED OUTSIDE YOUR HULL WITH OUR NAMES ON THE TRANSPONDER! WE HAVE THEE JINZHOU!"
 
-"So you kept them alive."
+Silence.
 
-"Somebody had to." A pause. "It gave the day a shape. Water at the start of the cycle, check the wicks, adjust the lamp. It is very hard to give up on a day that has a shape."
+I'm breathing hard. I did not mean to do that. I don't think I've raised my voice like that since I woke up not knowing my own name. I hang there in the doorway, stupid and furious and completely unable to take any of it back.
 
-I think about the berth I woke up in, and the whiteboard, and every list I've made since. I don't say anything. I don't have to. She sees me not saying it, and I think she understands it better than if I had.
+Jinzhou, beside me, doesn't say anything, which under the circumstances feels like the correct response.
 
-"And the marks," I say. "By the door. On the outside."
+Then, from inside, a laugh.
 
-Maslin, who has been doing his best impression of a man not listening, makes a noise.
+Short. Startled. Genuine.
 
-"thats me," he says. "marsh cant suit up and seal the hatch behind her at the same time, so somebody had to go out with her, so i went out with her, every time. and every time i went past the door i did a line"
+"ok-" the voice says, "okay yeah fair enough- nobody fakes an accent like that"
 
-"A hundred and twenty-two."
+"I don't have an accent," I say, still too loud, still coming down off whatever that was.
 
-He blinks at me. "you counted em"
+"everybodys got an accent to somebody" the voice says. "you can"
 
-"I count things. It's a condition."
+And stops there, like the sentence ran out before it decided what it was actually offering.
 
-"huh." He looks at me a little differently. Not much. A notch. "i was gonna stop at a hundred and fifty. i figured if nobody came by a hundred and fifty i was gonna, uh. i dunno. i didnt get that far in the plan"
+You can come in. You can trust us. You can put your paws down.
 
-"You don't have to finish the plan," Petryn says, quiet.
-
-"i know i dont have to finish it, im sayin i didnt"
-
-"I know, man. I'm sayin you don't have to."
-
-Some of the deep ones, the gouges that went down to bare metal, I think I understand now. I don't ask which days those were. Some numbers are a person's own business.
-
-"Then the count stops at a hundred and twenty-two," I say. "That's a good number. I like it. It's got a two at the end, which means it's even, which means it's done."
-
-"thats not how numbers work"
-
-"It's how they work today."
-
-Maslin looks at me for a long second, and then he laughs, actually laughs, a short surprised bark that seems to catch him off guard as much as anyone.
-
-"youre so weird," he says.
-
-"I've been told."
-
----
-
-"The hallway holds pressure now," Jinzhou says from the doorway, because somebody has to say the next practical thing and it's never going to be me while I'm busy having feelings about tally marks. "You can cross without suits."
-
-Maslin stares at him. "for real"
-
-"We filled it."
-
-"The air you put in that hallway," Marsh says. "You bled your own ship to open our door."
-
-"Twice."
-
-"That is not nothing."
-
-"It's what it cost," I say. "It was the cheapest thing on the list."
-
-Petryn looks at me with that slow almost-smile again, the one that seems to take its time arriving.
-
-"See, I told you," he says to Maslin. "Good people."
-
-"you said that about the guy who sold us the water filters"
-
-"And I was wrong about him, man. I'm allowed to be wrong once."
+I don't know which one it means. I don't think, from the way it trails off, that they know either.
 
 *END OF CHAPTER EIGHTEEN*

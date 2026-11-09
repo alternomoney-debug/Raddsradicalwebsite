@@ -1,318 +1,484 @@
 
-Day Nine, and the arm doesn't bring me a tube.
+The week goes fast when you have enough to keep your paws busy, and slow when you don't, and mostly we had enough.
 
-I notice before I understand why. It comes down the same way it always does, precise, unbothered, and instead of the familiar squeeze pack it's holding something with actual weight to it. A tray. Sealed lid, condensation on the inside like it's been sitting somewhere warm, which for a ship that's spent the last week feeding me gravy through a straw feels borderline provocative.
+ARACCSIM handles the deceleration burn by itself. It doesn't ask. It just starts, a low thrum through the floor that I feel before I hear it, and the star on the screen stops getting larger and starts staying still. That's all the announcement we get. The ship decides things are happening and then they happen, and my opinion is apparently not a required input.
 
-I stare at it. I am aware, distantly, that I am drooling slightly, which is not a dignified thing to notice about yourself but here we are.
+Jinzhou and I watch the fuel readout the whole way. There's nothing to do but let it happen, so we might as well take notes.
 
-"ARACCSIM," I say. "Is this a joke."
+"Asimov orbital insertion in four hours," ARACCSIM says at one point.
 
-"No."
+"Thank you," I say.
 
-"This isn't a tube."
+Jinzhou looks at me.
 
-"Correct. Nutritional transition to solid rations begins Day Nine per standard protocol. Digestive readiness confirmed."
+"What," I say.
 
-I peel the lid back like it might argue with me. It doesn't. Something that I think is rice. Something that resembles a baked potato and fry bread. Something I genuinely don't have a category for, and I'm not equipped to process it right now, but it looks better than the tube goop by an embarrassingly wide margin, and my stomach makes an executive decision on the matter well before my brain gets a vote.
+"You thanked it."
 
-I rip into it.
+"It told us something useful."
 
-Jinzhou's already got his open. Genuine smile on him too, which for Jinzhou is roughly the emotional equivalent of a parade, and he picks up the little collapsible fork like a man who's decided I'm eating a bit too feral for the occasion and would prefer not to be associated with it.
+"It's going to keep telling us things whether or not we thank it."
 
-"You're not going to comment," I say, mouth mostly full.
+"Noted." I look back at the screen, not listening to that chump. "Thank you, ARACCSIM."
 
-"On the food?"
+Jinzhou makes a sound that is not quite a sigh and goes back to watching our ship slowly come into orbit of Asimov-09D.
 
-"On the fact that we've been drinking gravy through a straw for eight days and now there's rice, and you're just, what, eating it. Calmly. Like a person."
+The orbit insertion itself is four minutes of noise and vibration, and then the engines settle into a lower, steadier push while ARACCSIM trims the orbit. A different hum than before. I can't explain why it feels different. It just does, and I've learned to stop arguing with the parts of my brain that notice things before the rest of me catches up.
 
-"I noticed." He chews. Unhurried. "I'm choosing not to make it a thing. I don't waste breath on useless comments."
+Asimov-09D fills the lower half of the main screen. Brown and, uh, blue?
 
-"That's a very you way to handle this, I suppose."
+Okay. I'll think about that later.
 
-"It's food, Eat it. Ethyn.."
+It's also very enormous. I stare at it longer than I probably should.
 
-I eat it. It's good, solid and warm-ish, and after eight days of tube paste it might as well be the finest meal prepared by anyone anywhere in the history of anyone preparing anything. I go through it faster than I mean to.
+"That's it," I say.
 
-"Slower," Jinzhou says, not looking up. "Your stomach's been asleep for six years. It doesn't know what speed to eat at yet."
+"Yes," Jinzhou says.
 
-"You're one to talk. You're on your second bite in four seconds."
+"That's the reason we, uh, came six point four light years?"
 
-"I'm pacing myself. You're inhaling."
+"Presumably."
 
-I slow down. Mostly because he's right, which is annoying, and partly because the alternative involves finding out the hard way in a small enclosed spacecraft with limited plumbing, and I'd rather not gamble with my guts on Day Nine of knowing I have guts. Somewhere in the back of my head, a voice I can't place tells me to chew. I chew.
+"It's very blue… Looks like our own blue gas giant but a tad more saturated."
 
-"Can I ask you something," I say, once the tray's mostly empty.
+"Yeah. It's very blue. So be it."
 
-"You're going to regardless."
+I pull up everything ARACCSIM has on it. Atmospheric composition. Density readings. Surface temperature on the day side, surface temperature on the night side. A lot of numbers. All of them interesting, the way numbers are when you can't do anything with them yet. They sit there being numbers, and I sit there knowing I'll need them later and pass them to later-Ethyn. Later-Ethyn is going to have words with me about this system eventually.
 
-"The fruit bars. Day one. We probably, uh, weren't supposed to eat those either, were we."
+"ARACCSIM," I say. "How long can we hold this orbit before it costs us fuel to maintain."
 
-He considers it for a few moments. He considers most things like that, checking the math before committing to an answer out loud.
+"At current trajectory, passive orbit is stable for approximately eleven days. Adjustment burns after that point."
 
-"First of all: Body's coming out of six years of medically induced stasis. Second of all: Digestive system hasn't processed solid food in that long. We've been eating from gravy tubes. Random unlogged snack, no nutritional profile on file, no idea what preservatives are in it." A pause. "Yeah. Probably should not have eaten that."
-
-"We didn't get sick."
-
-"We got lucky."
-
-"Comforting."
-
-"I try."
-
-I look at the empty tray. At the little stenciled label on the corner, VASEK, E. / SECONDARY SCIENTIST / MEAL: 1/5 / DAY: 9, same font, same everything, except now it means something different than it did eight days ago. Eight days ago it meant you exist, apparently. Now it just means breakfast, which is honestly a promotion.
-
-"ARACCSIM," I say. "How much food do we actually have on this ship."
-
-"Provisioning was calculated for six crew members across a projected ninety day mission window, plus fifteen percent contingency reserve."
-
-I do the math out loud, mostly because doing math out loud is apparently a habit I had before I had a name to go with the habit.
-
-"Six people, ninety days, fifteen percent extra. That's." I stop. "That's a lot of food for two people."
+"Eleven days…" I repeat.
 
 "Correct."
 
-"How much is 'alot'?"
+I lean back. Eleven days before we have to make a decision about what we're actually doing down there, which is probably enough time to figure out what we're actually doing down there.
 
-"At standard individual rationing for two crew members, current stores would last approximately three hundred and ninety days."
+Probably.
 
-Jinzhou looks up from his tray for the first time since the conversation started, which is how I know the number actually landed for him too.
+"Good," I say, mostly to myself.
 
-"Say that again," he says.
+We sit in the cockpit for another hour after that. It's a companionable quiet, both of us working the same problem from different angles, one of us occasionally saying a number and the other nodding. At some point I slide the box of fruit bars an inch toward Jinzhou along the armrest. He looks at it with the same focused energy he brings to everything, takes nothing, and slides it an inch back.
 
-"Approximately three hundred and ninety days."
+I take it back without saying anything. He doesn't acknowledge it. This is, I think, the closest thing to a conversation either of us has had all afternoon.
 
-"That's just over a year," I say.
+Eventually there is nothing productive left to do in the cockpit that we haven't already done, which means the only thing left to do is the thing neither of us has said out loud yet.
 
-Something in my chest loosens before I've even finished the sentence. A year of food. For two people. That's not a countdown, that's breathing room, that's the first genuinely good number I've heard since I woke up not knowing my own name.
+"We should check the dormitory," Jinzhou says.
 
-"If rationed further," ARACCSIM continues, unprompted, as it does when it has more to say and no particular interest in whether you wanted it, "stores could be extended significantly beyond that figure. Reduced caloric intake, extended meal spacing, and rationing as though for four crew members rather than two would yield an estimated seven hundred to eight hundred days of supply."
+"Yup!" I say.
 
-Nobody says anything for a second.
+Neither of us moves for a moment.
 
-The relief is still sitting there, half formed, and then it isn't, because I've done the math on the math, and so has Jinzhou, I can tell because he's gone very still over his tray.
+"Now," he says.
 
-Provisioning was for six. Six people eat six people's worth of food. That's how you get to a year for two of us at the numbers ARACCSIM's giving. Unless the food was never actually split six ways to begin with.
+"I agree," I say.
 
-Unless four people stopped eating a long time before we woke up.
+We go.
 
-"Why four," I ask anyway, because I need to hear it said out loud, even if I already, uh, know. "Why would you ration like there's four of us."
+---
 
-"Contingency planning is a standard protocol recommendation. It is not a statement regarding current crew status."
+The medical bay is the same as we left it. White. Clean. Six beds, three on each wall, four of them still occupied. The arms hang from the ceiling, still. Nothing has changed in here, and nothing was going to change in here, because nothing in here was going to do the changing.
 
-"That's a very careful way of not answering the question."
+I knew that. I think I knew it from the moment I woke up and didn't look too hard at the other beds. There's a kind of knowing that lives below the part of your brain that admits things, and it had been sitting there for a week being patient with me.
 
-"It is!" Jinzhou chimes in, but there's no weight behind it. He's not eating anymore. He's looking at his tray like it's become a different tray than it was thirty seconds ago, which I understand, because mine has too.
+Jinzhou goes to row one first. Methodical. He checks the bed panel on the pilot's bed, the analog gauges I hadn't noticed before, small dials set into the frame, the sort you'd only see if you were looking for them. Eight-digit readouts. Vital sign indicators. He looks at them for a long moment.
 
-Neither of us says the actual thing. El'kian's rations. Aria's. Nelson's. Bejors'. Eight hundred and ninety something days of meals that never got eaten, sitting in a store room somewhere on this ship, because four people went into that dormitory and didn't come back out of it.
+Then he moves to the middle bed. Checks again.
 
-That's what a year of food for two people means. Not a mystery. A number of people who aren't here to eat their share.
+Then the bottom.
 
-"Two thousand one hundred days," Jinzhou says eventually, quieter than before.
+He comes back to where I'm standing and doesn't say anything for a while.
 
-"I know."
+"How long," I ask.
 
-"We don't have two thousand one hundred days of food. Not even close."
+"The dials don't say. Just status."
 
-"I know that too."
+"And the status?"
 
-"So either the food problem solves itself before then," he says, "or we're not planning on being here that long."
+He looks at the floor. Not for long. Then back up.
 
-I don't have a good answer for that, so I don't give one. I put the tray in the little dishware slot by my bed, and it hums and does something to it I don't ask about, and I sit there for a second longer than I need to, thinking about a year of meals that belonged to four people who never got to have them.
+"Same on all three," he says.
 
-We spend the rest of the morning doing the thing we should have done on day one, which is actually map the ship instead of learning it one traumatic room at a time, a system I would like to formally retire.
+I go to row two. Lead scientist, middle bed. The bed I've walked past four times this week without stopping. I look at the panel. Look at the dials. Read the status the same way I read the food tube label on day one, slower than I needed to, like reading it more carefully would change what it said.
 
-It's Jinzhou's idea, mostly. He's got a notepad from somewhere, actual paper, and he's drawing the ship in cross section with the flat, unhurried confidence of someone who's either done this before or was simply born knowing how to make a floor plan look correct on the first try, which honestly tracks.
+It doesn't change.
 
-"Medical bay," he says, drawing a box on the left. "Lab." A box next to it. "Cockpit." A box at the far end. He taps the pen against the page. "Straight line. Three rooms."
+I step back. The room is very quiet. I can hear the hum of the engines somewhere below us, the distant patient work of keeping us in orbit, and the sound of Jinzhou's breathing in my ear, and nothing else.
 
-"There's more than that."
+"ARACCSIM," I say.
 
-"I know. That's why I'm drawing it."
+"Dr. Vasek."
 
-We go through together this time, no ladder races, no one person finding things without the other one knowing, a rule I've decided we're implementing retroactively and enforcing from here on out. The lab looks different in the daylight that isn't daylight, less like a crime scene and more like a room two people are actually allowed to be in now. The whiteboard's still there. Bejors' handwriting. I don't look at it for very long, on account of not being emotionally prepared to before noon.
+"Run vitals on all crew. Full report."
 
-"There," Jinzhou says.
+A pause. Longer than diagnostic checks usually take, which might mean the system is being careful, or might mean I've just started counting seconds differently.
 
-He's found a hatch I walked past twice already without registering it as a hatch, tucked into the lab wall beside the old ladder, which now runs flat along the floor like a railing nobody asked for, flush enough with the paneling that it reads as decoration until you know to look for the seam.
+"Vital scan complete," it says.
 
-"How'd you spot that."
+"Anddd?-"
 
-"I wasn't looking at the whiteboard."
+"Crew member El'kian. Canis Lupus. Pilot. Vital signs absent. Estimated duration: eight hundred and ninety-one days."
 
-Fair. Extremely fair, actually.
+The number lands somewhere in my chest and stays there.
 
-The hatch doesn't have a lock. No ID panel, no dual key, nothing, just a manual latch, same as most of the others, and it gives easily, like it's used to being opened by people who aren't thinking too hard about it.
+"Crew member Aria. Feline Serval. Medical Officer. Vital signs absent. Estimated duration: eight hundred and ninety days."
 
-Behind it: a narrow vertical shaft, shorter than the others, maybe eight feet, servicing rungs bolted into one wall. Cool air comes up out of it, a different temperature than the rest of the ship. Cold air out of a hatch is either a refrigerator or a very bad idea. Later-Ethyn can pick.
+"Crew member Nelson. Canine. Mechanical Engineer. Vital signs absent. Estimated duration: eight hundred and ninety-three days."
 
-"Ladies first," Jinzhou says. He's starting to get a sense of humor. That's nice, actually, genuinely, I'm choosing to be touched by it.
+"Crew member Bejors. Canid Vulpes. Lead Scientist. Vital signs absent. Estimated duration: eight hundred and eighty-eight days."
 
-"You found it."
+I count. Eight hundred and eighty-eight days. Nearly two and a half years. They made it about three and a half years into a six-year journey, and then they were gone. We've been in here with them for the last two and a half years of it and didn't know, and the ship didn't say, and LSI-ASM&C logged it in two lines and moved on, and now we're in orbit around the thing we came for with four fewer people than we left with and nobody to tell.
 
-"You're smaller. Less likely to get stuck."
+"Standard burial protocol available," ARACCSIM says. "Airlock ejection. Do you wish to proceed?"
 
-"That's not the flattering reason I was hoping you'd give."
+I look at Jinzhou.
 
-I go first anyway.
+He's looking at the floor again. His shoulders are very still. I can see it from here. I don't say anything about it.
 
-The room at the bottom of the shaft is not large. It doesn't need to be. Three walls of it are rack mounted server towers, floor to ceiling, humming with a low, steady tone that I'm choosing to hear as friendly rather than ominous, mostly because I've had enough ominous for one week. The air is noticeably colder in here, dry enough it makes the fur on my head and paws want to lie flat.
+"Yes," I say. "We proceed."
 
-A small stenciled plate on the nearest rack reads: VANGUARD ARCHIVE / PRIMARY STORAGE / LSI MK1.
+---
 
-"Huh," Jinzhou says, which from him is roughly equivalent to another person falling to their knees in awe.
+We go to the storage compartment first. Not because we need to, but because we need a minute, and the storage compartment is a place to go.
 
-There's a terminal built into the wall across from the racks, a proper one, not just a screen, with a physical keyboard and a chair bolted to a rail in front of it. I sit down before I decide to. Jinzhou stands behind me, reading over my shoulder, which I've started to understand is just how he participates in things, quietly, from slightly above and behind, like a very literal guardian angel.
+The lockers for the other four are down here too, between ours. VASEK. KENZO. BEJORS. EL'KIAN. ARIA. NELSON. All the same stenciling, all the same font. I stand in the passage looking at them and feel the specific wrongness of the living standing next to the belongings of the dead, everything still organized and latched and waiting for people who aren't coming back.
 
-"ARACCSIM," I say. "What is this."
+I open El'kian's first.
 
-"Vanguard Archive. Primary long term data storage for the vessel. Redundant offline storage for corrupted local drives, or extended mission duration beyond original parameters."
+Civilian clothes. A blue coat, large-framed, cut for a large-framed Canis Lupus. Under it, a small stack of printed photos, which nobody prints anymore unless they mean it.
 
-"Extended mission duration," I repeat.
+I go through them slowly.
 
-"Correct."
+El'kian in what looks like a field somewhere, tall grass, one arm around someone I can't make out on the edge of the frame, grinning at the camera. Peace sign up. Not posed. The peace sign you throw up because a camera appeared and it seemed right, because you were happy enough to mean it.
 
-I tap the terminal awake. It takes a second, longer than I expect from something this cold and this quiet, and then the screen fills with a directory tree that does not end where I expect it to end. It keeps going. Folders inside folders inside folders, labeled in a shorthand I don't fully recognize but can mostly guess at.
+El'kian in a cafeteria, mid-laugh, caught with a forkful of something halfway to his mouth, looking at someone off-frame like they said the funniest thing.
 
-MEDIA_ARCHIVE_FULL. REFERENCE_LIBRARY_MIRROR. PERSONAL_STORAGE [6]. MISSION_DATA. TECHNICAL_SPEC.
+El'kian in a group photo, all of them in blue tracksuits, the ship behind them, smaller than it looks from inside, and I'm there, somewhere in the back, a head shorter than everyone and trying to read something on a clipboard, and he's standing next to me with his arm around my shoulder and I'm not looking at the camera and he is, and he's smiling like the photo was his idea, and it probably was.
 
-"How much is on here," I ask.
+I don't remember it. I stand there looking at it and I can't pull anything back, no sound, no warmth, nothing. Just a photo of someone I should know with his arm around someone who is technically me.
 
-Jinzhou leans past me, taps a few keys with the unbothered efficiency of someone who has apparently done this exact motion a thousand times in a life he doesn't remember living. A summary window pops up. Total capacity. Used space.
+I close the locker carefully.
 
-He reads the number out loud. Then reads it again, slower, like the first read might have been wrong, which I appreciate, because it means I'm not the only one having trouble with it.
+Aria's next. More photos. A small handmade card tucked under a folded cardigan, child's handwriting on the front, DR MAMA in uneven block letters with a drawing of what might be a stethoscope or possibly a snake.
 
-"That can't be right," I say.
+I don't open the card. Some things are not mine to open.
 
-"It's right."
+Nelson's locker has a single photo, himself and Jinzhou somewhere that looks like a bar, both of them mid-conversation, neither of them looking at the camera, the comfortable body language of people who've been in the same room enough times they've stopped performing. And a small square of paper with numbers on it, tallied in two columns, his initials and someone else's at the top, and a total circled at the bottom.
 
-"That's not, uh, that's not a normal amount of storage for a two person science mission. That's a suspicious amount of storage."
+Sixty marks. My initials.
 
-"It's not for the mission." He scrolls. "REFERENCE_LIBRARY_MIRROR. This isn't mission data. This is everything."
+I put it in my pocket.
 
-I look closer. He's right. It's not a science archive, or not only a science archive. It's an entire mirrored copy of what looks like the sum total of a civilization's written knowledge, encyclopedias, digitized libraries, some kind of full internet backup with a timestamp on it from before any of this happened to us, video files by the tens of thousands, audio, books, maps, music.
+Bejors.
 
-"They gave us the whole internet," I say, mostly to myself, "in case we forgot how to use a fork."
+The photos take up most of the space. More than anyone else. Bejors and I at what looks like a conference, both of us in formal wear I don't remember owning, her mid-sentence and me with the expression of someone who is barely keeping up and knows it. Bejors at a whiteboard, gesturing at something, and I'm in the corner of the frame taking notes. Bejors laughing at something I apparently said, caught in that specific helpless way where you're laughing before you've decided to, head tipped back, eyes closed.
 
-"In case we forgot everything," Jinzhou says. "Not just the fork."
+And one more. Just us two. Some roof somewhere, a city I don't recognize below us, late light, the kind that makes everything look like it means something. She's looking at the camera. I'm looking at her. A photo you don't know was being taken until you see it.
 
-I sit with that for a second. Six people, sent six point four light years from home with no guarantee of ever seeing it again, and someone back at Argon LSI division sat down and thought, what if they wake up and don't remember any of it, and then backed up the whole species onto a hard drive and bolted it into the wall.
+My chest does something complicated that I don't have a name for and don't especially want one for.
 
-That's either the most thoughtful thing I've ever heard of or the saddest. Possibly both. Possibly it's allowed to be both, now that I think about it.
+I put it back with the others.
 
-"PERSONAL_STORAGE," Jinzhou reads. "Six folders."
+I close the locker.
 
-I look at the screen. VASEK. KENZO. BEJORS. EL'KIAN. ARIA. NELSON. Same six names as the lockers. Same six names as the airlock log.
+"Ready," Jinzhou says from behind me. He's been there long enough that I don't know when he arrived.
 
-Neither of us moves to open one.
+"Yeah," I say. "Let me get El'kian's photos."
 
-"We should probably," I start.
+"You're keeping them."
 
-"Not yet," Jinzhou says.
+"Someone should."
 
-"Not yet," I agree, faster than I mean to, relieved that he said it first so I didn't have to be the one deciding we're not ready.
+He doesn't argue. He reaches past me and opens Nelson's locker again. Takes out the bar photo. Looks at it for a moment. Puts it in his own pocket.
 
-I close the directory before I can think too hard about why my own folder, sitting right there, three feet away, one click deep, feels like the scariest thing on the entire ship, scarier than the airlock, scarier than the dead crew, scarier than the number two thousand one hundred.
+We go back up.
 
-"Later," I say.
+---
 
-"Later," he agrees.
+We do it together. One at a time.
 
-We back out of PERSONAL_STORAGE and don't discuss it again.
+The airlock is off the corridor above the lab, a small staging area before the outer door, sealed and utilitarian, built for exactly this, even if nobody likes thinking about it while designing it. ARACCSIM cycles the pressure for each one without being asked.
 
-MISSION_DATA is safer ground, or at least it feels that way, right up until it doesn't, which is turning into something of a pattern for this ship.
+El'kian first. He's heavier than I expected, which is something I wasn't prepared to think about. We carry him carefully, the kind of careful that doesn't have a practical reason anymore but matters anyway. We lay him in the airlock with his paws folded and his coat on.
 
-It's not organized like I'd organize it, which means either someone else built this archive or past me had terrible filing habits, a possibility I'm not ruling out, given the state of the papers in my own locker. Raw sensor logs. Spectral readings going back years, cross referenced against systems I don't recognize by name yet. A folder just called PHENGOCLEPT_OBS with what has to be thousands of files in it.
+"ARACCSIM," I say. "Crew member El'kian. Canis Lupus. Pilot. Status confirmed."
 
-"This is going to take a while," Jinzhou says.
+"Confirmed," ARACCSIM says. "Vital signs absent. Duration: eight hundred and ninety-one days. Ejection ready on your mark."
 
-"This is going to take the rest of the trip."
+I stand at the inner door for a moment. Looking at him. Trying to pull something back. Anything. The photo. The field. The peace sign. I get nothing, just the memory of a memory, the shape of a person I should have known better.
 
-"Good thing we have the rest of the trip."
+"El'kian," I say. "You, uh. You always had a smile in the photos. Peace sign up, every one of them. I don't remember your last words but I remember you meant it, whatever it was. You meant everything you did. I think that was just you." A pause. "Safe travels."
 
-I open one of the files more or less at random. It's a spectral reading, timestamped years before either of us woke up, taken from somewhere that isn't Asimov, isn't Nakuet, isn't anywhere I recognize by name. A wavelength signature. Annotations in handwriting I don't recognize either, clinical, precise, nothing like Bejors' whiteboard scrawl.
+I step back. Jinzhou nods.
 
-"This isn't even our data," I say. "This is somebody else's fieldwork. Predates the mission."
+"ARACCSIM. Mark."
 
-"Reference material."
+The outer door opens. A sound that isn't quite sound, more felt than heard, that particular absence that means space is right there on the other side of something very thin, and then it closes, and the staging area is empty.
 
-"A lot of reference material."
+We stand there for a moment.
 
-I keep scrolling. The scale of it starts to actually land somewhere around the two hundredth file. Whoever built this ship didn't just send two, then six, people six point four light years on a hunch. They sent years of institutional knowledge with them, pre loaded, redundant, backed up against something nobody wanted to say out loud they were expecting.
+Then we go get Aria.
 
-"They didn't think we were calling home," I say.
+---
 
-Jinzhou doesn't answer right away.
+Aria is lighter than El'kian. We carry her the same way. Paws folded. Her cardigan on, the one from the locker, because it seemed right.
 
-"No," he says eventually. "I don't think they did either."
+"Crew member Aria," ARACCSIM says. "Feline Serval. Medical Officer. Vital signs absent. Duration: eight hundred and ninety days. Ejection ready on your mark."
 
-It's Jinzhou who finds the actual work, in the end, the thing that gets us out of the server room and back into our own bodies instead of staring at a screen full of other people's data until our eyes give out.
+I look at her for a long moment. She looks like she's sleeping. She looks like everyone does, which is the cruelest part of all of this. The body goes on looking like itself even when it isn't anymore.
 
-"The collector," he says.
+"Aria," I say. "You were a great friend. I remember a few things, small things, they keep coming and going. You were funny. You never had to announce it. It caught you off guard when you were thinking about something else. The list says you were a biologist and a doctor and all of that is true. But you were also just someone I was glad to be in the same room as." A breath. "I'm sorry I don't remember more. I'm working on it."
 
-"What collector."
+I hear something behind me. The very small, very controlled sound of someone breathing carefully, the kind of breathing you do when you've decided not to make noise.
 
-"Diagnostic list. Day one. Asimov Payload Sample Collector." He's already climbing back up the shaft. "It's been running passively since we came into orbit. Nobody's looked at what it's actually collected."
+I don't turn around.
 
-That gets me moving faster than anything else has all day, including breakfast.
+"Mark," I say.
 
-The collector interface is back in the lab, a small subsystem panel I'd walked past three times without registering, next to the microscope station. According to the log, it's been quietly doing its job this whole time, skimming trace particulates out of Asimov-09D's upper atmosphere on a slow automated cycle, filtering them into a sealed sample chamber nobody's opened yet.
+The door opens. Closes. We go get Nelson.
 
-"There's a sample waiting," I say, reading the log. "Has been for two days."
+---
 
-"Get it."
+Nelson takes two of us to carry without it being awkward, and it's still a little awkward, which I think he would have had something to say about. He was stocky, solid, a person who took up exactly as much space as he was supposed to.
 
-I do. The extraction's simple enough, a sealed vial that clicks free of the chamber with a small hiss of released pressure, contents invisible to the naked eye, which is exactly the problem.
+"Crew member Nelson," ARACCSIM says. "Canine. Mechanical Engineer. Vital signs absent. Duration: eight hundred and ninety-three days. Ejection ready on your mark."
 
-I sit down at the microscope. It's a beautiful piece of equipment, or it would be, if it turned on.
+I reach into my pocket. Take out the tally paper. Look at it one more time.
 
-"It's not reading anything," I say. "Shoot. I'd like to speak to the manager of microscopes."
+"Nelson," I say. "We weren't friends as much as I was with everyone else. I think that was on me, not you, and I think I knew it at the time. You were good at your job, so nobody had to think about whether it was getting done, and that's harder to pull off than it sounds." I look at the paper. "I owe you sixty marks. I have no idea what I owe you sixty marks for. I'm sorry I didn't pay you back. I'm sorry I don't remember what it was for. I hope it was something worth sixty marks."
 
-Jinzhou comes over, looks at the display, which is showing exactly nothing, a dark screen where an image should be.
+I fold the paper back up and put it in the staging area beside him before we close the inner door.
 
-"Powers off," he says. "Or the plug to the thing isn't seated right. Could be either."
+"Mark," I say.
 
-"Can you fix it?"
+The door opens. Closes.
 
-"Probably."
+Bejors last.
 
-"That's not a yes."
+We carry her the same way. Careful. Deliberate. Her photos are back in the locker downstairs, all of them except one, which I have in my breast pocket because I didn't know what to do with it and putting it somewhere felt wrong and throwing it away was not happening.
 
-"It's not a no either." He's already got a panel open on the base of the microscope, small tools appearing from somewhere on his person, as they seem to for him, methodical, unbothered, the same energy the logs from when we woke up were presumably talking about.
+"Crew member Bejors," ARACCSIM says. "Canid Vulpes. Lead Scientist. Vital signs absent. Duration: eight hundred and eighty-eight days. Ejection ready on your mark."
 
-"Give me a minute."
+Eight hundred and eighty-eight days. The last one gone. Something about that lands differently than the others and I'm not sure why, whether it's the number or the photos or the fact that her whiteboard is still downstairs with her handwriting on it.
 
-I get up and walk away, giving him about four minutes alone. More than asked, honestly, but it's the polite thing to do. He works with the quiet, total focus of someone who genuinely finds this relaxing, which I'm starting to suspect he does, tracing a line, checking a connector, muttering something about a wire being crossed with another. I don't understand most of what he's doing. I don't need to. That's sort of the point.
+"Bejors," I say. "I have the most photos of you. More than anyone. Most of them are us two and I don't remember a single one of them being taken but I can tell from every single one that we were good friends. The best kind. The kind where you don't have to explain things." A pause, longer than the others. "The list says Lead Scientist like that's the point of you. It's not the point of you. The point of you was everything that's in those photos, the rooms you were in, the things you were working on, the way you talked about the Phengoclept like it owed you an apology." Something catches in my chest. "I am truly sorry for not trusting you on the studies. I don't know what that means yet. But I know I mean it."
 
-"There," he says, eventually. "Try it now."
+The staging area is quiet.
 
-I look through the eyepiece. The display flickers, resolves, and suddenly there's something there, a field of shapes too small and too strange to be dust, structured in a way raw particulate matter has no business being structured.
+"I'll figure it out," I say. "I promise."
 
-"Jinzhou."
+I step back.
 
-"What."
+"Mark."
 
-"I need you to look at this."
+The door opens. Closes.
 
-He looks. For a long moment he doesn't say anything, which from him is its own kind of reaction, possibly the loudest one he's given me all day.
+And that's all four.
 
-"That's not rock," he says.
+---
 
-"Yup, I'd assume so."
+We clean up because there's nothing else to do with our paws and we need something to do with our paws.
 
-"That's not anything I'd call rock."
+The beds get stripped. The arms handle most of it, efficiently and without ceremony, folding sheets into the laundry unit with the same energy they brought to removing tubes from my body a week ago. We wipe down the bed frames. We don't talk much. At some point I find myself sitting on the floor in the middle of the room with a cleaning cloth and nothing left to clean, and I just sit there for a while, and Jinzhou comes and sits across from me, and we do that for a few minutes without making it anything.
 
-"Yeah, I wouldn't call this rock either," I say, and I can hear my voice doing what it does when I stop being tired and start caring about a problem, a fairly annoying register I've noticed I have. "I think this is, uh, Phengoclept trace material. Actual material, from out here, not a culture grown back home off one lucky probe. I think this is the first sample anyone's ever pulled out of this system."
+Then I get up. He gets up. We go back to the cockpit.
 
-Jinzhou looks at the display. Then at me. Then back at the display.
+---
 
-"Well," he says. "Get to work, then."
+The cockpit is the same as always. Screens, readouts, Asimov-09D taking up the bottom half of the main display, patient and enormous and completely indifferent to the last two hours.
 
-"You're not going to help?"
+I sit in the left seat. Jinzhou sits in the right. For a long moment neither of us does anything.
 
-"I fixed the microscope. That's the help." He pulls a stool over anyway, sits down next to me, close enough that his shoulder's nearly against mine, and doesn't get up. "Tell me what I'm looking at, though. In order. I want to keep up."
+I don't buckle in. The engines have been leaning on me for a week, one steady heavy paw between the shoulder blades, and somewhere in there I stopped believing the harness was what held me down. The straps hang off either side of the seat. A half-open box of the smuggled fruit bars sits on my knee, because I am an optimist.
 
-So I do. I start at the beginning, as if I were writing it down for a book nobody's asked me to write yet, and Jinzhou listens like he does everything, quiet, exact, taking all of it in, and for a little while neither of us thinks about the food, or the folders we didn't open, or the three hundred and ninety days ticking down somewhere above our heads.
+Then the console chimes. Two soft notes, the kind of sound an elevator makes, which on this ship has never once meant anything good.
 
-We work until the lights dim for ship's night, and neither of us notices until they do.
+"Orbit Asimov-09D half complete. Engine shutdown in." There's a small gap, flat and clean, like a page turning. "Ten."
+
+The number comes from somewhere else. It's brighter than the sentence around it, and a little too pleased with itself.
+
+"Wait," I say. "What?"
+
+"Nine."
+
+"Shutdown? Why are we shutting down? Who decided that?" I look at Jinzhou. "Did you decide that?"
+
+"Harness," Jinzhou says. He's buckled. Of course he is.
+
+"Eight."
+
+"ARACCSIM, I'd like to talk about the shutdown. As a group. Before it happens."
+
+"Seven."
+
+"That's not talking. That's counting."
+
+"Six."
+
+"Harness," Jinzhou says again, in exactly the same voice.
+
+"What's at zero? What happens at zero? Is zero bad? Somebody tell me if zero is bad."
+
+"Four. Three."
+
+I grab for the strap. My paw finds the buckle, and the buckle finds nothing, because the other paw is holding a half-open box of fruit bars, and I have decided, in this crisis, to save the fruit bars.
+
+"Two. One."
+
+"Zero."
+
+The engines cut, and the weight goes with them all at once, like a rug pulled out from under me. My stomach, which has not been told, stays exactly where it was, and where it was is now somewhere above my head. The seat lets go. My knee comes up. The box comes up with it, and pops, and the fruit bars lift off in a slow bright spray, and I rise out of the seat with both arms out like someone who has just been informed that the floor is optional.
+
+I scream.
+
+It isn't a word. It isn't even a good scream. It's a long, high, wobbling noise that starts in my chest and goes up from there and keeps going, the sound of a body filing every complaint it has at the same time and then filing them again in case nobody heard.
+
+"Shoot! Shoot, shoot, darn, crap, shoot, what the, what the darn shooting crap is HAPPENING-"
+
+My foot catches the box. I kick, and it goes off across the cockpit, off the console, off the ceiling, and starts a slow tumble toward the right seat, and I spin the other way, because that's how the physics works, which I knew in theory and am now learning in my spine.
+
+"Down! Where's down? Somebody put down back!"
+
+"ARACCSIM," I say, on my second pass of the ceiling. "Gravity. Bring it back."
+
+"Gravity is not a ship system, Dr. Vasek."
+
+"Then make it one!"
+
+I'd like it noted, for the record, that I have written a study guide chapter on zero G. I'd also like it noted that it was a very short chapter, and I'm now aware of several things it left out.
+
+Jinzhou doesn't move. A fruit bar drifts past his face. Without looking at it, he lifts a paw and takes it out of the air, and holds it out in my general direction.
+
+"Yours," he says.
+
+"Why." I'm upside down. "Why is nothing happening to you."
+
+"I buckled."
+
+I get a paw on the headrest, haul myself around, and fold myself back into the seat. It takes three tries to click the harness shut.
+
+"Not a word," I say.
+
+"I said yours."
+
+"It seems you are having an argument," ARACCSIM says. Every word is clear. None of them sounds like it has met the others.
+
+"We are not," Jinzhou says.
+
+"We're not," I say, at the same time, which does not help our case.
+
+"ARACCSIM," I say.
+
+"Dr. Vasek."
+
+"Since we're going to be idle for a while, is there anything on this ship we haven't looked at yet. Something that might be, uh, good, given that zero G and I have just had a disagreement."
+
+A pause.
+
+"Centrifuge system," it says. "Not yet activated. No reason nor chance to."
+
+I look at Jinzhou. He's already looking at the console, specifically at a section of it I hadn't clocked before, tucked below the main screen to the left. Two keyed switches, recessed into the panel, with a large red-handled lever between them, folded up into a locked position. Off to the side, a smaller plate, untouched, unfixed, reads BAHAYA, which I don't need translated to understand the shape of. Some words carry their own weight regardless of the alphabet.
+
+There's a label above it. CENTRIFUGE. Below that, smaller: DUAL KEY REQUIRED. OVERRIDE KEYS AVAILABLE IN LAB.
+
+"Huh," I say.
+
+"Both keys required simultaneously," ARACCSIM confirms. "Override keys are located in the lab equipment storage. Single operator capable with override set."
+
+Jinzhou opens his armrest compartment. Takes out a key. Holds it up.
+
+I mirror the movement into my own armrest. There's one in mine too.
+
+We look at each other.
+
+"You found yours on day one, didn't you," I say.
+
+"Yes."
+
+"You didn't say anything."
+
+"I was waiting to see if you found yours."
+
+"That's."
+
+"Efficient," he says, which ends the conversation. It's how he ends most of them, by being correct in a way that leaves nowhere to go.
+
+I take my key out. We insert them at the same time, the locks sitting at the same angle, the same distance apart, clearly designed for exactly this. I look at Jinzhou. He nods.
+
+We turn them together.
+
+The lever unlocks with a solid click, dropping out of its folded position into the ready position. I take it in both paws and look at it for a moment. This ship has sedated me twice, so I'm reviewing its latest idea with an open mind and a firm grip.
+
+"Hold on," I say to Jinzhou.
+
+"Yes," ARACCSIM says. I wasn't talking to it. "That is advised."
+
+I pull the lever down.
+
+The lights change first. A slow wash of red bleeding into the white overhead panels. They pulse once. Twice. Three times. The whole cockpit breathing red in slow intervals, which is either a deliberate design choice or the most ominous accident in engineering history.
+
+Then:
+
+"Centrifuge system now active," ARACCSIM says. "Please secure yourselves or relocate to a stable position. Gravity will reach one standard Wask-ki G in approximately five minutes."
+
+I click out of my harness and leave Jinzhou to sit in his.
+
+I look at the screens for one more second. Asimov-09D. Patient. Then I push off through the cockpit hatch, get my paws on the ladder, and keep going.
+
+Past the corridor.
+
+Down into the lab.
+
+---
+
+Nothing has happened yet when I get to the lab. Everything is where it was. Microscope strapped to its mount. Autoclave. Sample fridge on its gimbal. The whiteboard with Bejors' handwriting on it, Y'SHARI-LINE AND PHENGOCLEPT RECAP underlined twice, currently sideways relative to how a whiteboard should ever be.
+
+Then I feel it.
+
+Not gravity. Not yet. Something before gravity, the very beginning of a lean, the suggestion that down might be shifting, that the floor and the wall are in negotiation about which one of them is going to win.
+
+I grab the edge of the nearest mount.
+
+The ship moves. Not fast. Slowly, with enormous intention, like something very large that was built for it. I feel it in my feet first, then my legs, a gentle continuous rotation, the whole shaft tilting by degrees. The equipment that was above me starts becoming equipment that's beside me. A stylus that was wedged against a bolt rolls free and drops, slow, slower than it should, finds the new down and stays there.
+
+I let go.
+
+I float. Just slightly, just enough to feel the absence of it, my feet lifting off the surface, nothing under me but the slow revolution of the ship finding its new geometry. I spread my arms out like an idiot because there's nobody watching and it seems right.
+
+The whiteboard drifts through my field of view as the room realigns around me. The Y'shari diagram, the arc, the annotations. Bejors' handwriting. I watch it complete the turn and settle into place properly upright, vertical, as whiteboards are supposed to be, in a room where the grate I was standing on a minute ago is now a wall, and everything that was above me is now, finally, beside me where it belongs.
+
+I drift downward with it. Slowly, then less slowly, then my feet touch the floor and stay there, and the floor pushes back, and the push gets stronger, and I stand there in the lab with the equipment all around me finding its new positions and gravity settling back in like something returning from a long trip.
+
+One G. Wask-ki standard.
+
+It's strange, feeling what real gravity is supposed to be instead of that one point seven nonsense the engines have been inflicting on us this whole time. That explains my back. It doesn't excuse my back.
+
+I stand there.
+
+Then I sit down on the floor, because the floor is there and it's holding me and I have been awake for a week under gravity slightly too heavy for my liking, and I learned today that four of my crewmates have been dead for most of the trip, and I am six point four light years from anyone who knows my name, and I would like to sit on a floor for a minute.
+
+So I do.
+
+I am, it should be noted, very stressed.
+
+Footsteps. Careful and even. Jinzhou comes down from the cockpit and finds me sitting on the lab floor and doesn't say anything about it, just comes and sits across from me like he did downstairs. Or to my right. Whichever direction that actually is now. Either way, same distance, same posture.
+
+Neither of us says anything for a while.
+
+The ship hums. Asimov-09D is somewhere below us, or above us, or to the side, depending on how you're counting, which is a problem for tomorrow.
+
+"Two thousand one hundred days," Jinzhou says eventually.
+
+I look at him.
+
+He looks back.
+
+"We've got work to do," he says.
+
+"We do," I say. "One more second of floor first."
+
+He gives me the second. Then I push my glasses up and get to my feet.
 
 *END OF CHAPTER FOUR*

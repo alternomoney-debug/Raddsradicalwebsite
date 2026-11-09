@@ -1,192 +1,206 @@
 
-*Written from the perspective of Ethyn Vasek.*
+*Written from the perspective of Jinzhou T. Kenzo.*
 
-The sample from the collector is still under the microscope where I left it, so Day Twelve starts exactly where Day Eleven ended. That's apparently how science works when you've got nothing but time and no commute.
+Gravity came back three days ago. I sat on the floor for eleven minutes.
 
-"Confirmed mass," I say, mostly to hear it out loud. "Point zero two one two seven six five nine four four six eight zero eight five one zero six three eight two nine seven eight seven two nanograms."
+I know it was eleven because I counted. Not out loud. Back against the sample fridge, legs out, gravity doing its job. That's all I wanted from it.
 
-Jinzhou doesn't look up from his own screen. "That's a lot of decimal places for something that small."
+Ethyn sat across the room for about the same stretch. Neither of us talked. Correct call.
 
-"It's not my fault. That's the actual number. I checked it four times."
+He's not really here right now. Physically, yes, same chair he's been in for an hour. But the part of him that answers when you talk to him has clocked out for the evening. This happens. More often on days where a lot has happened. Today qualifies.
 
-"Four times."
+I note it. Not on paper. I just note things.
 
-"I wanted to be sure the fourth time agreed with the first three."
-
-"Did it."
-
-"Yes. Which is somehow the most annoying part. A cell smaller than anything I can see without four hundred times magnification, and somebody, somewhere, at some point, cared enough to measure it out to twenty-six decimal places, and I resent how much I trust that number."
-
-Jinzhou considers this. "You could round it."
-
-"I could. I'm not going to. If Bejors were here she'd never let me hear the end of it."
-
-I don't mean to say her name like that, easy, mid-sentence, no weight on it, but it comes out that way anyway, and neither of us stops to make it a thing. That's new. Progress, maybe. Or just exhaustion wearing the same coat.
+He'll come back. He always does.
 
 ---
 
-Here's what I know now that I didn't know two weeks ago, back when all I had was a whiteboard diagram and a half-remembered phone call. The short version is "a lot." The long version follows, because I don't have the short version in me.
+Found the laptops two days ago. Didn't mention it. I do that. Look at something first, decide what it is, then say something if it's worth saying. Ethyn narrates while he's still figuring things out. Different system. Not wrong. Just not mine.
 
-The Phengoclept feeds on Nakuet. Not literally eating anything, nothing so simple as that, it metabolizes the star's own output, converts high-frequency electromagnetic energy directly into stored mass. A single cell can hold an obscene amount of energy for something you could lose in a puff of dust, close to two thousand joules once it's what the old research notes call "saturated," which works out to more or less its entire mass turned into energy, a thing nothing is supposed to be able to do. I don't know who decided saturated was the right word for a microbe eating a star, but I've read enough of Bejors' annotations at this point to guess it was her, because saturated is exactly the dry, slightly annoyed word choice she'd have insisted on in a meeting full of people who wanted something flashier.
+Cabinet in the lab, looks like it should hold samples, holds eight laptops and a charging hub instead. Sticky note on the inside of the door: FOR USE WHEN RESEARCHING OR BORED. Handwriting I don't recognize.
 
-Once it's saturated, it can't hold any more. That's when it moves.
+They talk to the Vanguard's internal network. Not the internet. We're nowhere near an internet. Just the ship's own servers, which hold more data than I've finished processing and probably more than I ever will.
 
-It migrates. In spore form, riding its own stored light like a sail, it can cross open space for years without needing to eat again, which is either the most elegant survival mechanic evolution has ever produced or the single worst design decision a living thing has ever made, since as far as I can tell it doesn't seem to plan the trip so much as just point itself outward and go.
+One laptop has a cracked screen. Corner to center, working half and dead half. I use that one. Not the best option. The honest one. Somebody dropped it. It kept working anyway.
 
-At Nakuet, it heads for Aluk'.
+I've been reading the technical specs. All of them. Every subsystem, every maintenance log, every note the engineers left behind while building this thing over our heads. Eleven thousand pages. I'm at four hundred. I'll finish the rest, because this ship is the only thing keeping us alive and I'd like to understand it better than the people who built it.
 
-I know Aluk'. Like everything else that came back to me piece by piece, it's a fact sitting there fully formed with none of the memory attached, but I know it's close, hot, choked in cloud, and thick with exactly the carbon compounds a saturated Phengoclept apparently can't resist. It breeds there. Parent cell and daughter cell both, and both make the return trip to Nakuet to start the cycle over.
-
-That's the part that's killing Wask-ki. Not the feeding. The breeding. Every generation doubles the population feeding on the star, and nothing at Aluk' is stopping them, so the numbers climb, and the dimming climbs with them, and there's no reason built into the system for it to stop climbing until there's nothing left of Nakuet worth feeding on.
-
-At Asimov, something is different.
-
-I don't know what yet. That's the whole reason we're here.
+Not everyone's idea of downtime. Fine by me. Don't have a better one.
 
 ---
 
-"Say the light thing again," Jinzhou says. He's got his notepad out, the actual paper one, drawing something in the margin that might be a spectral graph or might just be him thinking with his paws.
+Two people on a ship learn each other fast. Not on purpose. Same way you learn a building's noises if you live in it long enough.
 
-"The Y'shari-frequency."
+Ethyn makes coffee first thing, or whatever the machine calls coffee. I've had it twice. Adequate. He pushes his glasses up when he's concentrating. Talks through math out loud, whether or not anyone's listening. Forgets to eat, remembers, eats too fast.
 
-"That one."
+I eat when the arm brings the tray. Simple system. Works.
 
-"Twenty-two point seven zero six microns. Infrared. That's the wavelength it emits when it's actively burning stored mass back into light, which is also what it uses for propulsion." I pull the reading up on the shared screen so he can see the curve instead of just hearing me describe it. "Every Phengoclept line anyone's ever mapped, ours included, shows up in that exact band. It's basically a signature. If you're scanning for it and you're not looking at twenty-two point seven zero six microns, you're not looking for it at all."
-
-"Convenient that it's one number."
-
-"It's not convenient. It's just what the emission spectrum is." I glance at him. "Why, did you want it to be complicated."
-
-"I wanted to know if I could remember it."
-
-"Can you?"
-
-"Twenty-two point seven zero six." He says it back without looking at the notepad. "Yes."
-
-"Show off."
-
-"You did it first with the mass number."
-
-"That's different. Mine has more decimal places. Mine is objectively more impressive."
-
-He doesn't argue with that, which from him counts as a concession, and goes back to his drawing.
+I note these things because noting things is what I do. Fuel curves. Ethyn's coffee habits. What Asimov-09D looks like depending on which filter the sensor array is running. All of it goes in the same place. My head. I've never mapped how it's organized in there. Doesn't need mapping. It works.
 
 ---
 
-The Phengomotors are the part that gets me every time I think about it too hard, because it means the exact organism we're six point four light years away from studying is also, at this very moment, strapped to the outside of our hull, quietly dying by the ounce to keep us moving.
+A memory surfaced today. Not all at once. They don't come that way for me.
 
-Jinzhou explains the mechanism better than I could, because he's the one who actually took the housing apart during the diagnostic sweep in week one and put it back together without needing the manual, which is either deeply reassuring or deeply concerning depending on the day.
+I'd been off-site the week before, running a systems check on launch infrastructure. Came back Thursday morning with a bag of groceries from the market by the transit station, because the facility canteen had stopped making the good soup and I had opinions about that.
 
-"Three phases," he says, ticking them off on one paw. "First, low intensity light, tuned to the frequency, coaxes a coat of live Phengoclept onto one face of the drive plate. Second, you rotate that face out toward open space and hit it with a high intensity pulse at the same frequency. The cells try to do what they always do when they're saturated and exposed, they dump their stored energy back out as light, all at once, all in the same direction, because the drive plate is angled to make sure of it. That push is what moves the ship."
+Nelson was in the common room. Usually was. Reading something. Technical documentation or nothing adjacent to it. Never in between.
 
-"And the third phase."
+"You're back," he said. Didn't look up.
 
-"Third phase, you rotate the spent plate back into the housing. The Phengoclept's dead by then, cells can't survive dumping that much mass at once, and you scrape it off, and the plate goes back out for a fresh coat."
+"Transit was delayed. It sucked."
 
-I sit with that for a second.
+"Heard." Turned a page. "Soup's still bad, by the way."
 
-"So the engine works," I say, "because, uh, we're murdering the thing we came all this way to understand, a controlled amount of it, on a schedule, to get here."
+"That's why I went to the market."
+
+He looked up then. Looked at the bag. Back to the book.
+
+"What'd you get."
+
+"Actual soup. Among other things."
+
+"Mind if I bum a can off ya?"
+
+"I don't."
+
+He put the book down. "I'll get bowls, then."
+
+That's the whole memory. No point to it, beyond a Thursday and some soup and Nelson getting bowls before I'd even set the bag down, because that's who he was. No production. Just up, bowls, done.
+
+I've thought about it more than it earns. A Thursday. Soup. Bowls.
+
+Thought about it a lot today.
+
+---
+
+The drawing's in my pocket.
+
+Went back to my locker for it the morning after. Been there since. Folded along its own creases. I've taken it out once since, when Ethyn was asleep in his chair, ship's-night lighting low enough that looking at it felt private.
+
+A house. A figure with triangle ears and stick legs. Supposed to be me, I think. Has to be, given the nameplate on that locker said KENZO, J.
+
+No signature.
+
+I know who drew it. Not memory exactly. There's a category of knowing that isn't memory, more like weight sitting somewhere in the chest with a shape to it. This one's small and specific. Belongs to someone younger than me who learned to draw before they learned to write, who used to give me everything they made because I was the one who actually looked at it.
+
+I don't push past that. There's an angle you can think about a thing from, and a length of time you can hold that angle before it stops being useful and starts being something else. I know both for this one. I stop when I hit it.
+
+Fold it back along the creases. Pocket.
+
+---
+
+At some point I close the technical specs and open something else. Not PERSONAL_STORAGE. Not ready for that yet. REFERENCE_LIBRARY_MIRROR instead, organized loosely by subject, with a section on orbital mechanics I've been circling since Ethyn first showed me the directory.
+
+I read it anyway. Not because I've forgotten any of it, training's coming back the same incremental way Ethyn's memory is, skills first, names later, but rereading something you already know shows you what you'd assumed without noticing you were assuming it.
+
+From there I land on an encyclopedia entry for Stephfren Asimov. Discovered this system. Dead longer than the Vanguard's existed. Short entry. Surveyor astronomer, worked alone, filed the discovery through standard channels, no ceremony. Left one line in his field notes: anomalous in expected spectral profile, worth additional observation. Died before anyone followed up.
+
+Worth additional observation.
+
+Six point four light years out, in orbit around exactly that anomaly, I find the line relatable in a way I don't examine too closely.
+
+---
+
+ARACCSIM speaks up late in ship's-evening. It doesn't track evenings, technically, there's no sun out here to set. Just a schedule the lights follow.
+
+"Mr. Kenzo."
 
 "Yes."
 
-"That's a little on the nose."
+"Daily system status is available for review."
 
-"It's efficient," Jinzhou says, which is his version of agreeing with me without admitting it out loud.
+"Send it to the terminal."
 
----
+A pause, the kind that shouldn't need to exist for something moving a file from one place to another. "Sent."
 
-We spend the middle of the day chasing something that isn't going anywhere, which I only realize about two hours in, once I've already sunk the two hours.
+"Thank you."
 
-"The population math doesn't work," I say, staring at a model I've rebuilt four different ways and gotten the same wrong answer from each time, which is consistency, technically. "If ASI's line has held steady strength for two years, that means a stable number of Phengoclept are actively feeding on the star at any given moment. Constant input has to equal constant output, or the line brightens or dims over time, and it isn't doing either."
+Another pause. This one has a different quality to it, and it takes me a second to place what. Then I do. There's a version of "you're welcome" recorded for exactly this, thanks offered, gratitude acknowledged, and the version that comes back doesn't quite match the shape of the sentence around it, warmer than the rest of the exchange, pulled from somewhere else in whatever library the system draws from.
 
-"So something's capping the population."
+"You are welcome," it says.
 
-"Something's capping the population." I lean back. "Which either means nothing new is arriving to replace the ones that leave to breed, or."
+I check the terminal. Everything green. Everything nominal. The ship doing its job in the dark, six point four light years from whoever built it.
 
-"Or they're not making it back."
+"ARACCSIM."
 
-"Or they're not making it back." I look at the number again. It still doesn't move. "If they migrate toward whatever the local equivalent of Aluk' is here and something happens to them before the return trip, you'd get exactly this. Stable input. Stable output. No net growth."
+"Mr. Kenzo."
 
-"A predator," Jinzhou says.
+"How long have you been running continuously."
 
-"Maybe. Y'shari floated that idea before we ever left. I didn't have a way to, uh, test it then." I look at the trajectory data, at Asimov-09D sitting patient and enormous below us. "I think I might have a way to test it now."
+"Since initial system activation." A brief hitch before the number, audible if you're listening for it, a number being dropped into a sentence built to hold any number. "Six years, one month, nine days."
 
-Neither of us says the rest of that sentence out loud. We both already know what testing it means, and neither of us is in a hurry to say the word fishing before we have to.
+"Managing the ship alone, most of that."
 
----
+"LSI-ASM&C maintained primary operations during transit. I resumed active management upon crew revival."
 
-It's Jinzhou who brings up the other thing, later, once we've both stopped pretending the population model needs more attention today than it's already gotten.
+"But you were running. In the background."
 
-"I want to look at the medical logs," he says. "The four of them."
+A pause.
 
-I know exactly which four he means without asking.
+"Yes."
+
+"Logging."
+
+"Yes."
+
+"What did you log."
+
+Longer pause this time. Long enough that I wonder if it's actually processing something or just performing the appropriate amount of hesitation for the question, and I don't know which possibility I prefer.
+
+"Standard telemetry. System status. Environmental readings. Crew vital signs." A beat. "Crew status changes."
+
+I sit with that. Six years logging crew status changes, alone, nobody to report it to, in the dark between systems.
 
 "Okay," I say.
 
-We go down to the terminal together.
+"Is there anything further, Mr. Kenzo."
 
-"ARACCSIM," I say. "Pull the coma vitals logs. Full mission span. All four."
+"No. That's all."
 
-A pause, longer than the request should need, a pause that used to mean withheld pending crew status confirmation, and I brace for it out of habit.
-
-"Retrieving," it says instead. No partial confirm. No conditions attached. Whatever gate used to sit in front of this file, it isn't there anymore, hasn't been since the day we did the burials, and I don't know if that's ARACCSIM being told to stand down or ARACCSIM never having cared about hiding this part in the first place.
-
-The logs are thorough. Vitals tracked every six hours for the entire trip, up until they weren't. Cause of death fields, all four, read the same two words.
-
-UNDETERMINED. CONSISTENT WITH KNOWN RISK FACTORS.
-
-"Known risk factors," I read out loud. "That's not a cause. That's a shrug in a lab coat."
-
-"There's a note," Jinzhou says, scrolling further. "General. Not per crew member."
-
-He reads it. I read it over his shoulder.
-
-Coma-resistant genetic markers correlate with survivability but do not guarantee it. Approximately one in several thousand carriers experience undetected cardiac or neurological complications under extended stasis, indistinguishable postmortem from unrelated natural causes absent live monitoring at time of onset.
-
-"So it could be the coma," I say. "The actual thing that was supposed to keep them alive."
-
-"Could be."
-
-"Or it could be nothing to do with that at all. Could be a heart thing. Could be anything."
-
-"Could be."
-
-I stare at the screen for a while. Four names. Four identical fields that say the same careful, honest nothing.
-
-"I wanted there to be an answer," I say.
-
-"I know," Jinzhou says.
-
-"Even a bad one. I just wanted there to be one."
-
-He doesn't say anything to that. It's an answer too, the one that doesn't pretend a thing is smaller than it is just to make the room feel better.
-
-We close the file. Neither of us deletes it. I don't think either of us could, even if we wanted to, and neither of us wants to.
+It goes quiet. I go back to the encyclopedia.
 
 ---
 
-Ship's night comes and I'm still awake, sitting in the lab with the sample slide still under the scope, twenty-six decimal places of mass sitting on the readout like it's daring me to argue with it.
+Ethyn surfaces around what the clock calls 2200. Hasn't moved, physically, same chair the whole time. Just comes back from wherever he goes. Blinks a few times. Pushes his glasses up. Looks around the lab like he's checking it's still the same lab. It is. Always is.
 
-"ARACCSIM," I say.
+"Hey," he says.
 
-"Dr. Vasek."
+"Yo," I say.
 
-"How confident are you in the population stability model. The one showing constant Phengoclept density in the Asimov line."
+He looks at me for a second too long. Can't tell if it's the crack in my screen or something else. Maybe I speak less cold than usual. Hard to say from in here.
 
-"Model confidence is high, within the limits of two years of continuous observation."
+"That one works?"
 
-"And if I wanted to test the predator hypothesis directly. Not from orbit. Down there."
+"Mostly."
 
-A pause. Longer than usual, long enough that I start to wonder if the question fell outside whatever it has a ready answer for.
+"Hm." He leans back, looks at the ceiling a while. "I was thinking about Bejors."
 
-"That would require atmospheric sample collection from Asimov-09D," it says, the sentence arriving in two pieces that don't quite match, the first half smooth and immediate, the second half slightly delayed, like it had to go looking for a phrase it doesn't keep on hand. "Current mission parameters do not include a defined protocol for that maneuver."
+I don't say anything. Not a question.
 
-"But it's possible."
+"Keep almost remembering something," he says. "About the studies. Something she said. Shoot, it's right there." Glasses again. "I'll get there."
 
-"With modification. Yes."
+"You will," I say.
 
-I look at the gas giant on the screen, brown and blue and enormous, patient as it's been since we got here, not going anywhere, not in any hurry, perfectly happy to let us take as long as we need to work up the nerve.
+He nods once, slow. Looks at my screen.
 
-"Good," I say. "Start modifying."
+"Orbital mechanics?"
+
+"Encyclopedia entry on Asimov."
+
+"Learn anything new?"
+
+"He thought the system was worth additional observation."
+
+Ethyn considers that.
+
+"Well," he says. "He wasn't wrong."
+
+"No," I say. "He was not."
+
+We sit there a while after that. Cracked laptop. The centrifuge doing one thing it's supposed to, holding us at one G. Asimov-09D turning slow outside the hull, and past it the star with the anomaly in its line, the thing worth additional observation, patient, not going anywhere.
+
+It's fine, actually. As evenings go.
+
+I make a note of it.
 
 *END OF CHAPTER SEVEN*

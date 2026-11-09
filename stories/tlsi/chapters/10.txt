@@ -1,390 +1,210 @@
 
-Day twenty-four starts at four in the morning because I never actually went to sleep.
+Day twenty-three, and the ship smells different.
 
-I tried. I was in the bed, which counts for something, and the lights were off, which counts for something else, and I had the pillow, which I'd like noted as a good-faith effort, and at some point I think I was close enough to sleep that my body stopped arguing about it. But then my brain ran configuration four again, the one where the cable drag exceeds the thrust budget and the word manageable stops applying, and that was that.
+Not bad. Just different. The smell of two people who have been working on the same problem long enough that the problem has started to smell like them. Lab chemicals and recycled air and whatever the food processor does when it heats things, all of it settling into a background note I stopped noticing around day fifteen and only notice now because I walked in from the hallway and caught it fresh.
 
-So I got up. Made coffee. Sat at the Lab A bench and stared at the approach simulation until the numbers stopped looking like threats and started looking like a checklist, which is the only productive thing you can do with numbers at four in the morning when you've got nowhere else to be.
+I put my tray down next to the microscope. Lab A, same as always. The sample from batch two is still logged and filed, already the most documented microbe in the history of a species that has been documenting microbes for several hundred years, and I'm about to add more documentation to it because there is nothing else to do while we wait for tomorrow except prepare, and preparing means knowing everything I can know before we drop below the Stephfren line and find out what we missed.
 
-By the time Jinzhou comes through from the dorms I've got the checklist printed, actual paper, two copies, one for each of us.
+Jinzhou is already in Lab C. I can hear him moving around in there, not talking, which is standard, tools being set down with the care of someone who treats equipment like it has opinions about being handled carelessly. He's been in there since before I woke up. I don't know if he slept. I'd ask, but the answer would be "yes" in a tone that closes the subject.
 
-He looks at the copies. Looks at me.
-
-"You didn't sleep," he says.
-
-"I was in the bed."
-
-"That's not the same thing."
-
-"I know. You can note it for the record."
-
-He takes his copy of the checklist without further comment, which is either him letting it go or him saving it for later. With Jinzhou it's genuinely hard to tell. I pour him a coffee without being asked and he takes that without comment too, so I'm going to call it a win and move on.
+I sit down at the microscope and get to work.
 
 ---
 
-The checklist takes two hours.
+Here is what I know about the Asicell that I didn't know two weeks ago, beyond the spectral profile and Bejors' theoretical framework.
 
-Not because it's complicated. Because we do everything twice. Every seal, every system, every coupling on the three hundred meter cable that Jinzhou checked individually yesterday, checked again this morning because yesterday was yesterday and this morning is this morning and the atmosphere of a gas giant does not care how thorough you were twenty-four hours ago.
+It is not alone in the sample.
 
-The probe comes out of the payload bay on its rails and we go over it together, Jinzhou calling items, me confirming, switching halfway through because two sets of eyes in the same order miss the same things.
+I found that on day nineteen, running a population density count on the batch two slide for the fourth time, cross-referencing against the Phengoclept count from the same sample. The ratio is not random. For every measurable cluster of Phengoclept trace material in the collection, there's a corresponding Asicell density spike in the same neighborhood of the slide. Not exact. Not perfect. But consistent enough that the math points in one direction.
 
-Sample chambers, sealed. Pressure sensors, nominal. Thermal insulation, intact. Retrieval winch, functional with the noted caveat about the motor draw that we've both already logged and neither of us mentions again because mentioning it again isn't going to make it better.
+The Asicell follows the Phengoclept. Or finds it. Or is drawn to the Y'shari-frequency emission the same way the Phengoclept is drawn to stellar output, one organism's navigation signal becoming another organism's dinner bell. Bejors would have hated "dinner bell." She'd have used it in a talk anyway.
 
-Cable connections, primary and backup. Tether points, all six. Telemetry transmitter, live signal confirmed.
+That's not in Bejors' paper. She described the predation mechanism, the absorption profile, the metabolic pathway. She didn't have the population data to describe the tracking behavior because she was working from theory and I'm working from an actual sample.
 
-"EVA tether," Jinzhou says.
+I write that down. I write it twice, in two different places, because the archive redundancy in the server room has made me paranoid about single points of failure and I'd rather be the person who wrote something twice than the person who lost it once.
 
-"Confirmed and clipped." I tug it once. It holds. "I'm not planning to go outside."
+PRIMARY FRAMEWORK: B. BEJORS. TRACKING BEHAVIOR ADDENDUM: E. VASEK.
 
-"Log it anyway."
+I look at it for a second. It's the most I've put my own name on in three weeks. It feels accurate and slightly wrong at the same time, which is what happens when you've spent long enough giving credit to someone else that taking any back feels like theft.
 
-"Already logged."
-
-He makes a small sound that might be approval and moves to the next item.
-
-We finish the checklist at six forty-two. I make another coffee because the first one has been sitting for two hours and is now exactly as good as you'd expect from something that's been sitting for two hours on a spaceship six light years from the nearest coffee bean.
-
-It's bad. I drink it anyway.
+I push my glasses up and keep going.
 
 ---
 
-"ARACCSIM," I say, once we're both in the cockpit and the approach burn sequence is loaded and waiting. "One thing I want confirmed before we start. The orbital transfer window. Home."
+The EVA suits are in the airlock, off the corridor at the cockpit end, hung in a row on a rack that makes them look like they're waiting for something. Which they are. Have been, for going on seven years.
 
-A pause.
+I pull the first one down at roughly midmorning. It's heavier than I remember EVA suits being, which either means I've lost more muscle mass than I thought in six years of stasis or this is a different class of suit than the ones I trained in briefly, pre-mission, in a crash course crammed into the three days before launch, which I remember only in fragments. Probably both. I'm choosing to blame the suit.
 
-"Orbital transfer window for return trajectory to Nakuet system opens in." A hitch, small, a number being fitted into a sentence that was recorded to hold any number at all. "Two hundred and eighty-three days. Window duration is approximately fourteen days. Next available window after closure is not calculable within current fuel parameters."
+The checklist is printed on the inside of the storage cabinet door. Laminated. Someone thought about this, about what it would be like to need to run an EVA suit check alone on a ship six light years from the nearest qualified technician, and decided laminated was the right call. I appreciate the lamination. Whoever laminated this loved me, in a bureaucratic way, and I'd like them to know it landed.
 
-I look at Jinzhou.
+I work through it methodically. Seal integrity. O2 system pressure, primary and backup. Heating elements, because the temperature outside the hull is a number I looked up once and immediately decided not to think about again. Thruster pack, though I'm not planning on needing it and would very much like to keep not needing it. Comms, tether attachment points, helmet lock, glove seal.
 
-He's already looking at the numbers on his screen, running the same math I'm running.
+Everything checks out on the first suit. I log it, hang it back up, and start on the second one.
 
-"Two hundred and eighty-three days," I say. "That's nine and a half months."
+The second one has a small scuff on the left forearm that isn't in any of the pre-launch inspection records, which means it happened during transport or assembly and nobody logged it, which is not ideal but also not structural, so I log it myself and move on.
 
-"Yes."
+"ARACCSIM," I say, mostly to the ceiling.
 
-"Y'shari told me there was no return fuel," I say. "None."
+"Dr. Vasek."
 
-"For six people," Jinzhou says, not looking up. "Running a full survey of the system for however long it took." He taps something on his screen. "We're two. And if this goes right, we go in once."
+"EVA suit two has an unlogged cosmetic scuff, left forearm, approximately three centimeters. Logging now under my authority. Confirm structural integrity checks passed."
 
-I don't love how much sense that makes.
+"Confirmed. Structural integrity of suit two is within all operational parameters."
 
-"If we miss it."
+"Thank you."
 
-"Current fuel reserves do not support an alternative return trajectory outside the window," ARACCSIM says. "Missing the transfer window would result in indefinite station at Asimov."
+A pause, the longer kind. I've started to associate it with a specific recording being pulled up instead of the next line just following on.
 
-Indefinite station. The phrase sits there being exactly as bad as it sounds.
+"You are welcome," it says.
 
-"Right," I say. "So we don't miss it."
-
-"No," Jinzhou says. "We don't."
-
-Neither of us says anything else about it. We've both known this was the shape of the problem, fuel math and orbital mechanics leaving exactly one door open and exactly one deadline for walking through it. Hearing the number out loud is different from knowing the number abstractly, but different doesn't mean anything changes.
-
-Two hundred and eighty-three days. Nine and a half months to find the Asicell, collect enough of it to matter, figure out how to get it home alive, and get the ship pointed in the right direction. I've had worse deadlines. They were all papers.
-
-Starting now.
-
-The centrifuge spins down first. It always takes longer than I want it to, the slow unwinding, walls and floors trading places back, loose things drifting up and hunting for somewhere to settle. Once everything's still and pointed the right way, I give the order.
-
-"ARACCSIM," I say. "Initiate approach burn."
-
-"Confirmed. Approach burn initiating in thirty seconds. Please secure."
-
-I click my harness. Jinzhou clicks his. The cockpit hums up into something louder.
+I've started saying thank you just to hear which recording it picks. Today's is warm. Yesterday's sounded like a bank.
 
 ---
 
-The descent below the Stephfren line takes eleven minutes.
+Jinzhou finds me on the third suit.
 
-I know this because I counted, not because it felt like eleven minutes. It felt like considerably more. The atmospheric drag kicks in around the four minute mark, a low vibration through the hull that starts subtle and stays subtle but never quite goes away, the ship's engines compensating for it in small continuous adjustments that show up as a rolling fluctuation on the thrust readout.
+He doesn't say anything when he comes in, just leans against the rack and watches me work through the checklist for a minute. He's got grease on his left paw that he hasn't wiped off, which from him means he got into something complicated and it was more important to check on the suits than to clean up first.
 
-"Drag compensation holding," Jinzhou says. "Configuration two."
+"Probe?" I ask, without looking up.
 
-Not configuration four. Good.
+"Cable first," he says. "Three hundred meters. I've checked every coupling."
 
-The Phengomotors are firing, but not to push us anywhere. At this depth ARACCSIM runs them slow, just enough to brake, so each cell leaves the plate, travels a few meters ahead of the hull, gives up everything it's carrying, and burns. We aren't flying through the atmosphere so much as hiding behind a wall of controlled bangs. Kalen said a Phengomotor is that same energy, asked politely. Down here it's asked politely and told to hurry. I can't see any of it from the payload bay, only a steady flicker on the thermal readout, like a pulse.
+"All of them."
 
-"Cable deployed to sixty meters," ARACCSIM says. "Probe telemetry nominal."
+"All of them. Every single coupling, by paw." He says it flat, informational, like someone who has done a thing properly and doesn't need to perform the having-done-it. "The cable is fine."
 
-I'm at the payload bay interface, a screen and a set of manual controls bolted to the wall across from the probe rails. The telemetry feed from the probe is live, atmospheric readings climbing as it drops toward the cloud ceiling. Pressure. Temperature. Particulate density.
+"The probe itself."
 
-"Eighty meters," ARACCSIM says. "Probe entering upper cloud layer."
+"Sample chambers are sealed. Pressure sensors are reading correctly. Thermal insulation is intact." He pauses. "The retrieval winch is the part I'm not completely happy with."
 
-The particulate density spikes. I watch the numbers climb and then level off into a range that matches the approach simulation, which is the first time today something has matched the approach simulation exactly and I appreciate it more than I probably should.
+I look up.
 
-"Probe is in the layer," I say. "Readings nominal. Starting collection timer."
+"Not unhappy," he says, before I can ask. "Functional. Tested correctly under load simulation. But it's been sitting in storage for eight years and the motor has a draw that's a few percent higher than spec."
 
-"Confirmed," Jinzhou says. "Dwell time target, forty minutes minimum."
+"Meaning."
 
-Forty minutes. That's what the Asicell density modeling suggested, long enough for the organisms to register the Y'shari-frequency trace from the Phengoclept in the probe's sample draw and show up in numbers worth bringing home. Possibly longer. Not so much longer that configuration four starts becoming relevant.
+"Meaning it works. Meaning under normal conditions it's fine. Meaning if something goes wrong and we need to reel the probe back in fast and hard, it'll do it, but it'll run hot doing it." He looks at the suit in my paws. "Not a problem unless it becomes a problem."
 
-I watch the collection progress and try not to watch the clock.
+I hold that for a second.
 
----
+"So we don't let it become a problem," I say.
 
-At twenty-two minutes, Jinzhou says "still configuration two" without being asked.
+"Correct."
 
-At thirty-one minutes, the probe's atmospheric filter registers its first confirmed Asicell signature, which I know because the telemetry feed throws a flag I set up three days ago specifically for this moment. My screen goes green. I stare at it for a second.
+I go back to the checklist. He stays leaning against the rack.
 
-"Jinzhou."
+"How's the science," he says.
 
-"I see it."
+"The Asicell tracks the Phengoclept. By the, uh, Y'shari-frequency emission, I think. It's using the same signal to find its food that the Phengoclept uses to navigate."
 
-"That's an Asicell."
+Jinzhou is quiet for a moment.
 
-"Yes."
+"That's elegant," he says.
 
-"In the actual atmosphere of the actual planet. A live one."
+Coming from him, that's roughly equivalent to anyone else falling out of their chair. I'd like it on the record that I was there.
 
-"Yes, Ethyn."
+"It is," I agree. "It also means the probe's collection window is going to be the key variable. We need to be at depth long enough to get a statistically significant sample, which means, uh, long enough for the Asicell to actually show up in meaningful numbers, not just trace."
 
-"Bejors was right."
+"How long."
 
-A pause. Shorter than I expect.
+"Longer than the protocol's minimum. Shorter than however long it takes the atmosphere to become structurally interesting for the ship." I hang the third suit back up and start on the fourth. "ARACCSIM's been running approach simulations since I asked it to start modifying. Ask it for the updated dwell time estimate when you go back to the cockpit."
 
-"She was," he says.
-
-I look at the green flag on the screen. At the telemetry data behind it, the absorption profile, the density reading, the confirmation that the thing she described from math alone is real and present and currently being collected into a sealed sample chamber three hundred meters below us on a cable.
-
-"Hey," I say. "Uh. The planet."
-
-"What about it."
-
-"It doesn't have a name. It's been Asimov-09D since we got here."
-
-"Yes."
-
-"You should name it."
-
-A pause.
-
-"Me," he says.
-
-"You found the hatch to the server room. You checked every coupling on the cable by paw. You fixed the microscope. You've done at least as much as I have to be standing here right now." I look at the telemetry feed. "Name the planet."
-
-The cockpit is quiet for a moment. Not his thinking quiet. Something else.
-
-"Bejors," he says.
-
-I don't say anything.
-
-"She described it before anyone knew it existed," he says. "Seems right."
-
-I look at the green flag on the screen. At the confirmed Asicell signature in the atmosphere of a gas giant six point four light years from home, in the exact location Bejors' theoretical framework predicted, collected by a probe she may have helped design for an organism she'd already described in a paper she never got to see proven.
-
-"Yeah," I say. "Bejors."
-
-I open the mission log. Type it in.
-
-ASIMOV-09D: DESIGNATED BEJORS. NAMED IN RECOGNITION OF LEAD SCIENTIST B. BEJORS, PHD, PRIMARY THEORETICAL FRAMEWORK FOR ASICELL PREDATOR HYPOTHESIS. CONFIRMED CORRECT.
-
-I log it under both our names.
-
-"Thirty-eight minutes," ARACCSIM says. "Approaching minimum dwell time."
-
-"Hold position," I say. "We're going to forty-five."
-
-The vibration through the floor has gone from a hum to something with opinions. I put it down to the weight of the probe on the cable. It's a good theory. Its main quality is that it was the first one I thought of.
-
----
-
-At forty-three minutes the hull makes a sound.
-
-Not a good sound. Not the rolling compensation vibration I've been listening to for the last forty minutes, which at least has a rhythm to it. This is sharp and short, somewhere aft of the payload bay, and my body reacts before my brain does, paws already moving to the manual controls before I've decided to move them.
-
-"ARACCSIM," Jinzhou says, fast. "Hull integrity."
-
-A pause. Too long.
-
-"Hull integrity nominal," it says, same flat delivery it would use to report a full tank or a green checklist, the register never once matching the size of what's actually happening. "Minor stress detected at aft external storage mounting, port side."
-
-"Define minor," I say.
-
-"Mounting fatigue within alert parameters. Monitoring."
-
-"Motor six," Jinzhou says, eyes on his board. "The pulse was off. A cell went wide."
-
-"Phengomotor six, irregular pulse," ARACCSIM confirms. "One cell dispersed outside the shield envelope. Energy release at eleven meters, aft port."
-
-Eleven meters.
-
-I think of Kalen's steel cube slumped in its own slag, and the thin white line that crossed the demo bay before the floor jumped. That was a plate's worth, in a sealed tube, in a building. This was one cell, loose, eleven meters from a bolted-on locker. One cell is a lot less than a plate. I tell myself that twice.
-
-"How often does that happen," I ask.
-
-"The simulation says once every ninety minutes," Jinzhou says. "Not zero."
-
-"So we've used up our one."
-
-"That's not how statistics work."
-
-"I know. I'm trying out optimism."
-
-I look at the cable controls. Forty-three minutes. Two more before I'd planned to start retrieval. The Asicell count in the sample chambers is good, not perfect, but good enough, and the question is whether good enough now beats more in two minutes. I've made that calculation before I finish thinking it.
-
-"Starting retrieval," I say. "ARACCSIM, begin winch sequence."
-
-"Winch sequence initiated. Estimated retrieval time, four minutes twenty seconds."
-
-The winch starts. I can hear it from here, the motor engaging, the cable beginning to spool back in. It sounds fine. A little higher than I'd like, the extra draw Jinzhou flagged, but functional, pulling the probe back up through the cloud layer toward us.
-
-"Two hundred and ten meters," ARACCSIM says. "Probe ascending nominal."
-
-Then the cable counter stops.
-
-The motor doesn't. I can hear it, still pulling, still climbing toward the draw that worries me, and the number on my screen has quit moving. Those two facts don't belong together.
-
-"Shoot," I say.
-
-"Cable retrieval obstructed," ARACCSIM says. "External entanglement at aft starboard secondary boom. Cannot resolve remotely."
-
-I'm already moving.
-
-"I'll go," I say.
+He nods once and pushes off the rack.
 
 "Ethyn."
 
-"I'm faster on the hull than you. You manage the winch from here."
+"Yeah."
 
-He doesn't argue. That isn't agreement. That's math.
+He looks at me for a second longer than he usually looks at things.
 
----
+"Get some sleep tonight," he says. "Actual sleep. In the bed."
 
-The suit locker is where I left it yesterday, with the laminated card on the inside of the door. I read the card anyway. All of it. The card is the only adult in this situation and I intend to respect it.
+"I'll try."
 
-I take suit one, the one that passed everything on the first try. Seal integrity. O2, primary and backup. Heating elements, and the temperature outside the hull is a number I looked up once and decided not to think about again. I look it up again. I decide not to think about it again again.
+"Don't try. Do it."
 
-The airlock is the same one we used for the burials. I decide not to think about that. I think about it for the entire cycle.
-
-"EVA tether," Jinzhou says over the suit comms.
-
-"Confirmed and clipped." I tug it once. It holds. "I'd like to amend something I said this morning."
-
-"You said you weren't planning to go outside."
-
-"The plan has changed."
-
-"Log it."
-
-"Already logged."
+He goes back to Lab C. I go back to the checklist.
 
 ---
 
-The outer door opens, and I look up, and the sky is on fire.
+The fourth suit is Bejors'.
 
-Not all of it. The part ahead of us. A few meters out from the hull, a ceiling of pale orange flashes, cell after cell leaving the plates and giving up everything it's carrying and burning, one small bang after another, so regular it looks scheduled. Which it is. Past the flashes the cloud tops are the color of old copper, closer than they've ever looked on a screen.
+I know this before I check the nameplate inside the collar, the same way I knew about the drawing without being able to explain how. Something about the fit of it, sized for a Canid Vulpes, slightly different shoulder configuration than the Amber Vulpes cut of mine. I check the nameplate anyway.
 
-"Oh," I say. "The sky is on fire."
+BEJORS, B. / LEAD SCIENTIST.
 
-"That's the shield," Jinzhou says. "It's working."
+I run the checklist. All of it, every point, seal integrity through gloves, by the laminated card. She would have wanted it done completely, and she would have complained the entire time, so I do it completely and complain, quietly, to the suit.
 
-"It's very orange for something that's working."
+Everything checks out.
 
-"It's supposed to be orange."
+I log it. I hang it back up on the rack exactly where it was. Then I stand there for a moment with my paw on the shoulder of the suit, not because there's anything left to do but because it takes a second to decide to stop.
 
-"I read the simulation four times. I never looked at the color."
+She packed this herself. Before the launch, before whatever happened between the conference room and the gurney and the coma, she had a checklist of her own, things to bring, and she packed a suit that she knew she was going to wear six point four light years from home, on a mission she didn't volunteer for, to look for something she'd already figured out on paper.
 
-Every one of those flashes is the same organism I've had under a microscope for three weeks, dying a few meters at a time so that I don't. I'd apologize to all of them, but I'd have to do it individually.
+I wonder what she thought about, packing it.
 
-I go out on all fours. Standing up on a hull in the dark is a decision for people with more courage and less sense. The tether plays out behind me. Every rail is exactly where the schematic said it would be, which is the nicest thing anyone has done for me all day.
+I take my paw off the shoulder and go check the fifth suit.
 
-The junction bracket is aft starboard, where ARACCSIM said. The cable is wrapped twice around it, which is a place cable has no business being, and I don't spend long wondering how. Three hundred meters of anything hung off a ship that's busy burning is going to find something to hold onto.
+---
 
-Both paws, unwinding the first loop. The winch strains against it. I take that as encouragement.
+By the time I get back to Lab A the afternoon has gone somewhere without consulting me. The lights have shifted toward the amber end of the ship's simulated day cycle, the hour before ARACCSIM dims everything toward what passes for evening out here.
 
-The first loop comes off clean. Then I see the line.
+I sit down at the terminal and pull up the approach simulation ARACCSIM has been building since yesterday. It's thorough, which I expected. It's also, in several places, quietly alarming, which I also expected but had hoped might be less true once I saw the actual numbers.
 
-Thin. White. Crossing the dark off my port side, from somewhere aft toward somewhere that isn't the shield. A cell that didn't get the memo. I know what it is before I know that I know, and what I hear is Kalen, from a demo bay that feels like a different life: Alarm in four seconds. You'll want to turn your ears down.
+The Stephfren line, the minimum safe orbital altitude for this class of vessel, sits at a specific distance from Asimov-09D's cloud ceiling that was calculated for a ship not doing what we're about to do. Below that line the atmospheric drag starts to become a variable. Not immediately lethal. Just present, and growing, and requiring active thrust compensation to counteract, which is fuel we're spending to stay somewhere we're not supposed to be.
 
-I turn my ears down. Inside the helmet, where nobody can see.
+What keeps us from cooking down there is the Phengomotors, which is the part of the simulation I keep rereading because it sounds like a joke. Below the line, ARACCSIM runs them slow. Slow enough that they don't push us forward at all, only brake, and each cell leaves the plate, travels a few meters, gives up everything it's carrying, and burns. A wall of tiny controlled bangs just ahead of the hull, soaking up the heat so the hull doesn't have to. A heat shield made out of the thing we came here to understand, dying on schedule.
 
-The flash is bigger than the one in the tube. I brace for the floor to jump, for the thud with all the air squeezed out of it.
+The simulation gives the misfire rate as one stray cell every ninety minutes or so. Not zero. A cell that doesn't fire right doesn't burn on schedule. It goes past the ship, and anyone who watched Kalen's steel cube turn into slag knows what a cell does when it finally lets go.
 
-Nothing comes. The loudest thing I've ever watched happens in complete silence, and I stay crouched there a second too long, braced against a noise that isn't coming.
+The cable adds a complication that ARACCSIM has modeled in four different configurations. In three of them the drag on the cable itself is manageable within the thrust budget. In the fourth, it isn't, and the ship starts to lose altitude at a rate that makes the word manageable stop applying.
 
-I make myself look back at the bracket. The second loop is hooked over the top of it, and the only way to lift it clear is from above, with both paws and some leverage, which means standing.
+I read the fourth configuration twice. ARACCSIM labeled it CONFIG 4, which I would have named something closer to a warning. I write down which variables produce it and log a note next to each one: avoid this, compensate for that, monitor the other thing and call it early.
 
-I stand. Earlier I called that a decision for people with more courage and less sense. I'll let later-Ethyn work out which one I'm short on.
+Then I close the simulation and go get dinner, because looking at it a third time isn't going to change the numbers.
 
-Standing gets me a better view, which is the trouble with a better view.
+---
 
-The cloud tops were supposed to be below us. I watched them for forty minutes on three different screens, copper-colored, flat, and politely underneath. They are not underneath. There's a pale ceiling about a hundred meters over my head, lit from below by our own fireworks, and I'm standing under it like a guest in somebody's lamp.
+The food is better than it was in week one. Not good, exactly, but better. Whatever the processor does to the later-rotation meals has more variety to it, fewer things that taste aggressively beige. I eat at the Lab A bench because I always eat at the Lab A bench and it would feel wrong to eat anywhere else now, which is either a sign of comfort or a sign that I've developed shipboard habits precise enough to concern a psychologist, and I've decided not to examine which one.
 
-Okay. Deduction. The layer is above us. We were above the layer. So we've been going down, steadily, for a while, in a ship that was supposed to be holding, and nobody said anything, which means nobody knew. Jinzhou would have said.
+Jinzhou eats in the cockpit, which I know because I can hear his tray being set down on the co-pilot armrest from the hallway. He does this sometimes. Runs the readouts while he eats, like some people read while they eat, because sitting still without something to look at apparently isn't a thing he does by choice.
 
-"Jinzhou," I say. "What's our altitude?"
+I think about the Asicell tracking behavior while I eat. I think about the retrieval winch running hot. I think about configuration four in the approach simulation and the variables that produce it and what happens in the gap between calling it early and calling it too late.
 
-"Holding."
+I think about Bejors, packing her suit.
 
-"Are we? Because I'm looking at the cloud layer, and it's over me."
+At some point I realize I've finished eating without noticing, which means the food was probably fine and my brain just had other things to do.
 
-A pause. Keys. A longer pause.
+I put the tray in the slot and go back to the lab.
 
-"ARACCSIM," Jinzhou says.
+---
 
-"Altitude loss exceeds projected drift by three hundred and ten meters," ARACCSIM says. "Displayed on secondary panel four."
+I work until ARACCSIM dims the lights to seventy percent, which is its way of suggesting without requiring. Then I keep working for another forty minutes because I'm not quite done with the density model and I'd like to close the file properly rather than leaving it mid-thought.
 
-"I have been watching the winch," Jinzhou says.
+When I finally close it out, I don't go to the dorms.
 
-"I told you to watch the winch."
+I go to the cockpit.
 
-"That does not make it a good plan."
+Not to work. I've told myself I'm not going to work, and for once I mean it. I sit in the left seat, mine since the first day, even though I don't think about it that way because thinking about it that way makes the distance feel real in a way that's not useful right now.
 
-I look at the orange. It used to be a ceiling a few meters out. It's at arm's length now, and it isn't regular anymore. The pulses are coming ragged, one motor late, another early, and I think I know why. Every cell leaves its plate into thicker air than the timing was built for. A cell that leaves late goes off in the wrong place. The shield is a gap with fire in it, and the fire has stopped keeping time.
+Asimov-09D is on the main screen. It's always on the main screen. Brown and blue and enormous, the blue more visible in the current sensor configuration than it was when we first arrived, because I've had three weeks to learn which filter shows what and this one shows the methane banding best.
 
-"Climb," I say. "Climb as soon as, as soon as..."
+Tomorrow we go below the Stephfren line. Tomorrow the probe goes on the cable. Tomorrow Jinzhou manages the approach from the cockpit and I manage the probe from the payload bay interface and ARACCSIM manages everything it always manages and we find out whether all the numbers add up to something survivable.
 
-"Cable first," Jinzhou says. "If we climb with it fouled, it takes the winch off the wall."
+I look at the planet for a long time.
 
-"Cable cut is available," ARACCSIM says.
+It doesn't look back, because it's a planet, and planets don't look back. It just turns, slow and patient and enormous, doing the thing it's been doing since before anyone in this system had a word for doing things.
 
-"No." It comes out faster than I mean it to. "No. Everything we came for is on the end of that cable. I've got it. Give me, uh. Give me one minute."
+The Asicell is down there. In the cloud layer, a hundred to two hundred meters below the ceiling, somewhere in the ammonia and methane and the dark, eating Phengoclept and keeping this system alive and not knowing anything about it.
 
-I get both paws under the second loop and heave.
+Bejors described it. She built the theoretical framework from raw math and a good instinct and a paper she finished four years before any of this happened to us. She was right about all of it. She was right about the number I didn't check, too.
 
-Something goes off on the rail beside my knee. Not a flash. A crack, small and sharp, with the whole atmosphere behind it, and I understand that the silence earlier was a luxury of thin air and the air is not thin anymore.
+Tomorrow I go find it.
 
-That wasn't the shield. That was a cell. A motor dropped it wrong, and instead of going off out ahead of us where it's supposed to, it went off on us.
+I sit with the planet for a while longer. Then I turn off the main screen and go to bed.
 
-Another, off my shoulder. A thump through the suit, like a door closing on my arm from the other side. Another on the bracket. Ping. Ping. Ping-ping. The hull sounds like a tin roof in a hailstorm, if the hail were on fire and held a grudge.
+Actual bed. In the dorms. With a pillow, like a person who is not about to dangle a trash bag into a gas giant.
 
-The motors are misfiring. Not just six now, all of them. Every ragged pulse sheds a few cells wide, and every cell that goes wide ends up on the hull, going off along the rail in small, bright, personal explosions.
-
-The ship is getting lit up. That's the only way I can put it. Little bright pops all along the rail, tracing the hull, like someone testing a string of lights where every bulb is a mistake.
-
-The loop is heavier than it looks. I lean into it.
-
-"Come on," I say. "Come on, come on, come on..."
-
-It clears the bracket. The counter on my suit display jumps from two hundred and ten to one eighty-eight in one go and keeps falling.
-
-"Clear!" It cracks in the middle. "Clear! Winch it. Winch it now!"
-
-"Winching," Jinzhou says.
-
-That's when the panels go.
-
-They're thermal covers, sheet metal the size of doors, bolted flat over the tank housings aft of me for exactly this part of the trip, and I watch them lift one after another like a deck of cards thumbed from the edge. They flip, catch the orange, and go tumbling past. Tank 2-E's goes first. I know it's 2-E because the label is stenciled on the underside in letters big enough to read from a hull, and I read it. Of course I read it.
-
-"Jinz- Jinzhou. The tank covers. They're coming off. All of them. 2-E is, 2-E is bare."
-
-"Understood," Jinzhou says. His voice has changed. It's still level, but it's level the way a table is level when someone's standing on it. "Ethyn. Come in. Now."
-
-"Coming."
-
-I turn toward the airlock. That's when I see another one.
-
-Low. White. Coming in across the hull from the port side, fast, and it isn't headed for me. It's headed for the locker. The EVA tool locker on the port rail, the one motor six had a go at earlier, the one ARACCSIM called minor.
-
-The cell takes the locker's last bracket. It goes off with a flash and a crack I feel in my teeth, and the locker leaves the rail straight up, like a lid leaving a pot, turning end over end against the orange. Then it comes down on a line that, I notice, includes me.
-
-I have time for exactly one thought.
-
-Amazing, I think.
-
-It's the last word I've got, and it's still the right one.
-
-The locker clips me on its way by.
-
-Then I don't remember anything for a while.
+Jinzhou wins that one. I'm not going to tell him.
 
 *END OF CHAPTER TEN*
