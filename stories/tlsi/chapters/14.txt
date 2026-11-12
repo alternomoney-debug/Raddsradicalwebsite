@@ -45,7 +45,7 @@ A pause, and a hitch on the number when it comes, like a record skipping once.
 
 "Short version of how we got here," I say. "Please."
 
-"Dr. Vasek was struck by a detached external locker during extravehicular retrieval. Mr. Kenzo performed an extravehicular recovery. During the recovery, a structural fragment penetrated Mr. Kenzo's left forearm, and thermal exposure to that arm exceeded suit rating by six minutes. Mr. Kenzo then flew the vessel into orbit manually. Dr. Vasek was found secured in the left seat. Tank 2-E was breached by a stray cell and auto-sealed after four point one seconds. Orbit decay was projected. No crew authority was registered. Contingency return was initiated. The service arms placed both crew in rest state. Current transit day, two."
+"Dr. Vasek was struck by a detached external locker during extravehicular retrieval. Mr. Kenzo performed an extravehicular recovery. During the recovery, a structural fragment penetrated Mr. Kenzo's left forearm, and thermal exposure to that arm exceeded suit rating by six minutes. Mr. Kenzo had entered a staged throttle ramp before going outside and released the final step from the airlock. Orbit was achieved with both crew in the airlock. Tank 2-E was breached by a stray cell and auto-sealed after four point one seconds. Orbit decay was projected. No crew authority was registered. Contingency return was initiated. The service arms placed both crew in rest state. Current transit day, two."
 
 I go back over that. Slower the second time.
 
@@ -65,7 +65,7 @@ I go back over that. Slower the second time.
 
 "Correct."
 
-"And he flew us up. And buckled me in."
+"And he got us up. From the airlock."
 
 "Correct."
 
