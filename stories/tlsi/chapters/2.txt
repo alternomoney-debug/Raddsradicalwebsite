@@ -174,7 +174,7 @@ Except it's wrong. The ladder should be on the floor. My brain keeps trying to c
 
 I go up with one sock on and one sock off. It's about fifteen feet and it takes longer than it should. Every rung is a small argument I win by a narrow margin, and I'm counting each win as a personal triumph, because at this point I need them.
 
-LAB B, says the stencil beside the hatch. The lab isn't shaped like a room. It's a shaft. Narrow, tall, going up further than I can see, and down to a metal grate a few feet below me, the kind you'd see rolled over a storefront. Here it's doing double duty as a floor and a door, and I'm not going to think too hard about which one it's supposed to be. Below the grate the shaft continues, research equipment bolted along the walls all the way down. Above me, more shelving, more storage, everything strapped and latched like the builders assumed the whole ship might tip sideways and wanted a fighting chance when it did.
+LAB A, says the stencil beside the hatch. The lab isn't shaped like a room. It's a shaft. Narrow, tall, going up further than I can see, and down to a metal grate a few feet below me, the kind you'd see rolled over a storefront. Here it's doing double duty as a floor and a door, and I'm not going to think too hard about which one it's supposed to be. Below the grate the shaft continues, research equipment bolted along the walls all the way down. Above me, more shelving, more storage, everything strapped and latched like the builders assumed the whole ship might tip sideways and wanted a fighting chance when it did.
 
 Right in front of me, at whatever currently counts as eye level, are an oven and a sample fridge, both mounted on gimbals that keep them level no matter which way the ship points. Small mercies. At least dinner rotates with the craft.
 
@@ -326,7 +326,7 @@ I climb back down.
 
 ---
 
-There's a console on the far table in the lab. I didn't notice it the first time because I was busy having a memory at a whiteboard.
+At one side of the lab there's a short neck, a passage barely longer than a doorway, with a door at the end of it. Through it is another shaft, the same as this one. LAB B, the stencil says. There's a console on the far table in there. I didn't notice it on the way up because I was busy having a memory at a whiteboard.
 
 It wakes up when I touch it. A login I don't need, apparently, because it lets me straight in. Menus. Dozens of them. All of it in a language I can't read. Tall narrow letters, an unfamiliar rhythm to the words, Latin-derived, I'm almost sure, which means I can sound it out and still have no idea what I'm saying. I sound out the first menu anyway. It's a noise with nothing behind it.
 
