@@ -83,7 +83,7 @@ The medical bay is the same as we left it. White. Clean. Six beds, three on each
 
 I knew that. I think I knew it from the moment I woke up and didn't look too hard at the other beds. There's a kind of knowing that lives below the part of your brain that admits things, and it had been sitting there for a week being patient with me.
 
-Jinzhou goes to row one first. Methodical. He checks the bed panel on the pilot's bed, the analog gauges I hadn't noticed before, small dials set into the frame, the sort you'd only see if you were looking for them. Eight-digit readouts. Vital sign indicators. He looks at them for a long moment.
+Jinzhou goes to row one first. Methodical. He checks the bed panel on the pilot's bed, the analog gauges I hadn't noticed before, small dials set into the frame, the sort you'd only see if you were looking for them. Vital sign indicators. He looks at them for a long moment.
 
 Then he moves to the middle bed. Checks again.
 
@@ -129,7 +129,7 @@ The number lands somewhere in my chest and stays there.
 
 "Crew member Bejors. Canid Vulpes. Lead Scientist. Vital signs absent. Estimated duration: eight hundred and eighty-eight days."
 
-I count. Eight hundred and eighty-eight days. Nearly two and a half years. They made it about three and a half years into a six-year journey, and then they were gone. We've been in here with them for the last two and a half years of it and didn't know, and the ship didn't say, and LSI-ASM&C logged it in two lines and moved on, and now we're in orbit around the thing we came for with four fewer people than we left with and nobody to tell.
+I count. Eight hundred and eighty-eight days. Nearly two and a half years. They made it most of the way here, and then they were gone. We've been in here with them for the last two and a half years of it and didn't know, and the ship didn't say, and LSI-ASM&C logged it in two lines and moved on, and now we're in orbit around the thing we came for with four fewer people than we left with and nobody to tell.
 
 "Standard burial protocol available," ARACCSIM says. "Airlock ejection. Do you wish to proceed?"
 

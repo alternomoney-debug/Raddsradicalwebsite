@@ -95,8 +95,6 @@ She looks at me. Then at Bejors. Then back at me. Then back at Bejors again. The
 
 ---
 
----
-
 Y'shari finds me an hour later, in a stairwell nobody uses, sitting on the third step from the bottom because I ran out of building before I ran out of needing to not be in a room with other people.
 
 She sits down next to me without asking. Doesn't say anything for a while. I appreciate that more than I'd be able to say out loud right now.
@@ -371,7 +369,7 @@ The window is across from me.
 
 It's the same round porthole I put a paw on the first day I woke up, when I didn't know my own name and counted two dozen stars to give my brain something to do. I pull myself over to it along the berth rail, because I want to see what five months looks like.
 
-Asimov-09D is in it.
+Bejors is in it.
 
 It's smaller than I remember. That's the first thing. The last time I looked at this planet it filled the cockpit screens, a thick hazy ball of brown and blue, with the line of its atmosphere drawn across it like a pencil mark. Now it fits inside the window with room to spare. About the size of a coin held at arm's length.
 
@@ -379,7 +377,7 @@ I look at that for a while. Then I do the thing I'm actually good at, which is a
 
 A planet doesn't shrink. We left. Not far, and not fast, but for five months, with nothing pushing and nothing stopping us, and the last little bit of speed the burn gave us has been carrying us outward the whole time, the way a ball keeps rolling after you stop kicking it.
 
-"ARACCSIM. Distance to Asimov-09D."
+"ARACCSIM. Distance to Bejors."
 
 "Four point one million kilometers."
 
@@ -521,7 +519,11 @@ She didn't tell me about this door.
 
 "He's patient."
 
-Jinzhou is looking at the pixel too. "Four months after us," he says. "If it left four months after us, it arrived here four months after us."
+Jinzhou is looking at the pixel too. "Four months after us," he says. "But a resupply ship is lighter than we are. Fewer crew. No labs. It would have made up time on the way."
+
+"So it got here when?"
+
+"Not long after we went to sleep."
 
 "While we were asleep. Nobody was looking."
 

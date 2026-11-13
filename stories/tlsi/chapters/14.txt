@@ -201,7 +201,7 @@ What does an engine do? It pulls fuel out of the tanks, down the line, across th
 
 "ARACCSIM. Where's the nearest console with propulsion control that isn't in the cockpit?"
 
-The cockpit is the far end of the ship, and I'm in a body that weighs one and a half of itself.
+The cockpit is the far end of the ship, and I'm in a body that weighs one point seven of itself.
 
 "Backup propulsion console, server room."
 
@@ -303,9 +303,9 @@ The hull camera shows the radiator fins from the outside. Dull gray, then dark r
 
 "How adjacent?"
 
-"Eleven centimeters."
+"They share a wall."
 
-"Of fuel that's at the boiling point of water."
+"A wall. With fuel that's at the boiling point of water."
 
 "Correct."
 
@@ -387,7 +387,7 @@ SPIN-UP INITIATED. 1G IN 5 MINUTES. SECURE ALL LOOSE ITEMS.
 
 I buckle into my seat, the left one. I am the loose item.
 
-Five minutes is a long time to float. I spend most of it thinking about the person who strapped me into this seat while there was a piece of the ship in his arm. Then weight comes back the way a rumor does. First a lean. Then a lean I can feel. Then my fur settles against my arms like it's been told to, and then the floor is a floor, and I'm grateful for that in a small, private way I'd never been grateful for a floor before this month.
+Five minutes is a long time to float. I spend most of it thinking about the person who dragged me up a hull with a piece of the ship through his arm. Then weight comes back the way a rumor does. First a lean. Then a lean I can feel. Then my fur settles against my arms like it's been told to, and then the floor is a floor, and I'm grateful for that in a small, private way I'd never been grateful for a floor before this month.
 
 I take the suit off in the cockpit and leave it on the seat like a shed skin. The air, as ever, says it's fine.
 

@@ -15,7 +15,7 @@ Jinzhou doesn't look up from his own screen. "That's a lot of decimal places for
 
 "Did it."
 
-"Yes. Which is somehow the most annoying part. A cell smaller than anything I can see without four hundred times magnification, and somebody, somewhere, at some point, cared enough to measure it out to twenty-six decimal places, and I resent how much I trust that number."
+"Yes. Which is somehow the most annoying part. A cell smaller than anything I can see without four hundred times magnification, and somebody, somewhere, at some point, cared enough to measure it out to twenty-eight decimal places, and I resent how much I trust that number."
 
 Jinzhou considers this. "You could round it."
 
@@ -165,7 +165,7 @@ We close the file. Neither of us deletes it. I don't think either of us could, e
 
 ---
 
-Ship's night comes and I'm still awake, sitting in the lab with the sample slide still under the scope, twenty-six decimal places of mass sitting on the readout like it's daring me to argue with it.
+Ship's night comes and I'm still awake, sitting in the lab with the sample slide still under the scope, twenty-eight decimal places of mass sitting on the readout like it's daring me to argue with it.
 
 "ARACCSIM," I say.
 
