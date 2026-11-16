@@ -25,31 +25,41 @@ Jinzhou's already got his open. Genuine smile on him too, which for Jinzhou is r
 
 "On the fact that we've been drinking gravy through a straw for eight days and now there's rice, and you're just, what, eating it. Calmly. Like a person."
 
-"I noticed." He chews. Unhurried. "I'm choosing not to make it a thing. I don't waste breath on useless comments."
+"I noticed." He chews. Unhurried. "I do not make it a thing. I do not waste breath on useless comment."
 
 "That's a very you way to handle this, I suppose."
 
-"It's food. Eat it, Ethyn."
+"It is food. Eat it, Ethyn."
 
 I eat it. It's good, solid and warm-ish, and after eight days of tube paste it might as well be the finest meal prepared by anyone anywhere in the history of anyone preparing anything. I go through it faster than I mean to.
 
-"Slower," Jinzhou says, not looking up. "Your stomach's been asleep for six years. It doesn't know what speed to eat at yet."
+"Slower," Jinzhou says, not looking up. "Your stomach is sleeping six years. It does not know the speed yet."
+
+"Has been asleep," I say. "Your stomach has been asleep."
+
+He looks at me over his tray for a long moment.
+
+"I know what I said," he says.
+
+I go back to my rice. Fair.
 
 "You're one to talk. You're on your second bite in four seconds."
 
-"I'm pacing myself. You're inhaling."
+"I am pacing. You are inhaling."
 
 I slow down. Mostly because he's right, which is annoying, and partly because the alternative involves finding out the hard way in a small enclosed spacecraft with limited plumbing, and I'd rather not gamble with my guts on Day Nine of knowing I have guts. Somewhere in the back of my head, a voice I can't place tells me to chew. I chew.
 
 "Can I ask you something," I say, once the tray's mostly empty.
 
-"You're going to regardless."
+"You will ask anyway."
 
 "The fruit bars. Day one. We probably, uh, weren't supposed to eat those either, were we."
 
 He considers it for a few moments. He considers most things like that, checking the math before committing to an answer out loud.
 
-"First of all: Body's coming out of six years of medically induced stasis. Second of all: Digestive system hasn't processed solid food in that long. We've been eating from gravy tubes. Random unlogged snack, no nutritional profile on file, no idea what preservatives are in it." A pause. "Yeah. Probably should not have eaten that."
+"First: body is coming out of six years of medically induced stasis. Second: digestive system has not processed solid food in that long. We are eating from gravy tubes. Random unlogged snack, no nutritional profile on file, no idea what preservatives." A pause. "Yes. Probably we should not have eaten that."
+
+The technical words come out of him perfectly. It's the small ones in between that he still has to go and get.
 
 "We didn't get sick."
 
@@ -99,11 +109,11 @@ That's what most of a year of food for two people means. Not a lucky surplus. A 
 
 "I know."
 
-"We don't have two thousand one hundred days of food. Not even close."
+"We do not have two thousand one hundred days of food. Not close."
 
 "I know that too."
 
-"So either the food problem solves itself before then," he says, "or we're not planning on being here that long."
+"So the food problem solves itself," he says, "or we are not here that long."
 
 I don't have a good answer for that, so I don't give one. I put the tray in the little dishware slot by my bed, and it hums and does something to it I don't ask about, and I sit there for a second longer than I need to, thinking about months of meals that belonged to four people who never got to have them.
 
@@ -115,7 +125,7 @@ It's Jinzhou's idea, mostly. He's got a notepad from somewhere, actual paper, an
 
 "There's more than that."
 
-"I know. That's why I'm drawing it."
+"I know. That is why I draw it."
 
 We go through together this time, no ladder races, no one person finding things without the other one knowing, a rule I've decided we're implementing retroactively and enforcing from here on out. The lab looks different in the daylight that isn't daylight, less like a crime scene and more like a room two people are actually allowed to be in now. The whiteboard's still there. Bejors' handwriting. I don't look at it for very long, on account of not being emotionally prepared to before noon.
 
@@ -125,7 +135,7 @@ He's found a hatch I walked past twice already without registering it as a hatch
 
 "How'd you spot that."
 
-"I wasn't looking at the whiteboard."
+"I was not looking at the whiteboard."
 
 Fair. Extremely fair, actually.
 
@@ -137,7 +147,7 @@ Behind it: a narrow vertical shaft, shorter than the others, maybe eight feet, s
 
 "You found it."
 
-"You're smaller. Less likely to get stuck."
+"You are smaller. Less stuck."
 
 "That's not the flattering reason I was hoping you'd give."
 
@@ -171,17 +181,17 @@ He reads the number out loud. Then reads it again, slower, like the first read m
 
 "That can't be right," I say.
 
-"It's right."
+"It is right."
 
 "That's not, uh, that's not a normal amount of storage for a two person science mission. That's a suspicious amount of storage."
 
-"It's not for the mission." He scrolls. "REFERENCE_LIBRARY_MIRROR. This isn't mission data. This is everything."
+"It is not for the mission." He scrolls. "REFERENCE_LIBRARY_MIRROR. This is not mission data. This is everything."
 
 I look closer. He's right. It's not a science archive, or not only a science archive. It's an entire mirrored copy of what looks like the sum total of a civilization's written knowledge, encyclopedias, digitized libraries, some kind of full internet backup with a timestamp on it from before any of this happened to us, video files by the tens of thousands, audio, books, maps, music.
 
 "They gave us the whole internet," I say, mostly to myself, "in case we forgot how to use a fork."
 
-"In case we forgot everything," Jinzhou says. "Not just the fork."
+"In case we forget everything," Jinzhou says. "Not only the fork." He doesn't look at me when he says it. Of the two of us, he's the one who woke up without a language.
 
 I sit with that for a second. Six people, sent six point four light years from home with no guarantee of ever seeing it again, and someone back at Argon LSI division sat down and thought, what if they wake up and don't remember any of it, and then backed up the whole species onto a hard drive and bolted it into the wall.
 
@@ -211,11 +221,11 @@ MISSION_DATA is safer ground, or at least it feels that way, right up until it d
 
 It's not organized like I'd organize it, which means either someone else built this archive or past me had terrible filing habits, a possibility I'm not ruling out, given the state of the papers in my own locker. Raw sensor logs. Spectral readings going back years, cross referenced against systems I don't recognize by name yet. A folder just called PHENGOCLEPT_OBS with what has to be thousands of files in it.
 
-"This is going to take a while," Jinzhou says.
+"This takes long time," Jinzhou says.
 
 "This is going to take the rest of the trip."
 
-"Good thing we have the rest of the trip."
+"Good. We have the rest of the trip."
 
 I open one of the files more or less at random. It's a spectral reading, timestamped years before either of us woke up, taken from somewhere that isn't Asimov, isn't Nakuet, isn't anywhere I recognize by name. A wavelength signature. Annotations in handwriting I don't recognize either, clinical, precise, nothing like Bejors' whiteboard scrawl.
 
@@ -231,7 +241,7 @@ I keep scrolling. The scale of it starts to actually land somewhere around the t
 
 Jinzhou doesn't answer right away.
 
-"No," he says eventually. "I don't think they did either."
+"No," he says eventually. "I do not think so either."
 
 It's Jinzhou who finds the actual work, in the end, the thing that gets us out of the server room and back into our own bodies instead of staring at a screen full of other people's data until our eyes give out.
 
@@ -239,7 +249,7 @@ It's Jinzhou who finds the actual work, in the end, the thing that gets us out o
 
 "What collector."
 
-"Diagnostic list. Day one. Asimov Payload Sample Collector." He's already climbing back up the shaft. "It's been running passively since we came into orbit. Nobody's looked at what it's actually collected."
+"Diagnostic list. Day one. Asimov Payload Sample Collector." He's already climbing back up the shaft. "It runs passive since we came into orbit. Nobody looked at what it collects."
 
 That gets me moving faster than anything else has all day, including breakfast.
 
@@ -257,7 +267,7 @@ I sit down at the microscope. It's a beautiful piece of equipment, or it would b
 
 Jinzhou comes over, looks at the display, which is showing exactly nothing, a dark screen where an image should be.
 
-"Powers off," he says. "Or the plug to the thing isn't seated right. Could be either."
+"Power is off," he says. "Or the plug is not seated right. Could be either."
 
 "Can you fix it?"
 
@@ -265,7 +275,7 @@ Jinzhou comes over, looks at the display, which is showing exactly nothing, a da
 
 "That's not a yes."
 
-"It's not a no either." He's already got a panel open on the base of the microscope, small tools appearing from somewhere on his person, as they seem to for him, methodical, unbothered, the same energy the logs from when we woke up were presumably talking about.
+"It is not a no either." He's already got a panel open on the base of the microscope, small tools appearing from somewhere on his person, as they seem to for him, methodical, unbothered, the same energy the logs from when we woke up were presumably talking about.
 
 "Give me a minute."
 
@@ -283,11 +293,11 @@ I look through the eyepiece. The display flickers, resolves, and suddenly there'
 
 He looks. For a long moment he doesn't say anything, which from him is its own kind of reaction, possibly the loudest one he's given me all day.
 
-"That's not rock," he says.
+"That is not rock," he says.
 
 "Yup, I'd assume so."
 
-"That's not anything I'd call rock."
+"That is not anything I call rock."
 
 "Yeah, I wouldn't call this rock either," I say, and I can hear my voice doing what it does when I stop being tired and start caring about a problem, a fairly annoying register I've noticed I have. "I think this is, uh, Phengoclept trace material. Actual material, from out here, not a culture grown back home off one lucky probe. I think this is the first sample anyone's ever pulled out of this system."
 
@@ -297,7 +307,7 @@ Jinzhou looks at the display. Then at me. Then back at the display.
 
 "You're not going to help?"
 
-"I fixed the microscope. That's the help." He pulls a stool over anyway, sits down next to me, close enough that his shoulder's nearly against mine, and doesn't get up. "Tell me what I'm looking at, though. In order. I want to keep up."
+"I fixed the microscope. That is the help." He pulls a stool over anyway, sits down next to me, close enough that his shoulder's nearly against mine, and doesn't get up. "Tell me what I am looking at. In order. Slow. I want to keep up."
 
 So I do. I start at the beginning, as if I were writing it down for a book nobody's asked me to write yet, and Jinzhou listens like he does everything, quiet, exact, taking all of it in, and for a little while neither of us thinks about the food, or the folders we didn't open, or the three hundred and ten days ticking down somewhere above our heads.
 
