@@ -59,7 +59,7 @@ It's the correct question. What gets me is how carefully she asks it. She's sand
 
 Jinzhou has been quiet, which is normal. But it's his three-steps-ahead quiet, not his regular quiet. I've learned to tell them apart. It took six months and a coma.
 
-"The math doesn't work," he says, finally. "Not with five people on our current supply projection. We'd need to know what's actually salvageable from this ship before we can say whether it's survivable."
+"The math does not work," he says, finally. "Not with five people on our current supply projection. We need to know what is actually salvageable from this ship before we can say whether it is survivable."
 
 "That is what I was getting at," Marsh says, and something in her voice unclenches about a millimeter. "I didn't want to be the one who brought it up first. It felt presumptuous."
 
@@ -182,7 +182,7 @@ She closes her eyes for a second. Just one. I'm beginning to understand that's h
 
 "you put the thing that eats fuel," Maslin says slowly, "in the fuel"
 
-"I'd like it noted that it put itself there."
+"In my defense, it put itself there."
 
 "and youre plannin to fly home on it"
 
@@ -190,7 +190,7 @@ She closes her eyes for a second. Just one. I'm beginning to understand that's h
 
 "thats the worst sentence ive ever heard," he says, with something almost like admiration. "and ive been livin in a cockpit for four months"
 
-"There's a second worst sentence," Jinzhou says. "To leave, the engines have to restart. Warming them takes twenty-two hours. The burn home takes five months."
+"There is a second worst sentence," Jinzhou says. "To leave, the engines have to restart. Warming them takes twenty-two hours. The burn home takes five months."
 
 "And the Asicell?" Marsh says.
 
@@ -232,7 +232,7 @@ Petryn is still looking at the manifest, something thoughtful behind his eyes th
 
 "Six of you started this," he says, slow, working it out as he goes. "Two made it this far. Three of us started somethin else entire, and all three of us made it this far. Five of us total, now, tryin to get home on one workin ship." He shakes his head slightly, not in disagreement, more like he's marveling at the shape of it. "That's, like. That's a lot of loss to still end up with this many people standin in one room."
 
-"It's a good number," I say. "Five. I'd like to keep it."
+"It's a good number," I say. "Five. Let's keep it."
 
 "I don't know if I believe in luck," he says again, the same thing he said when we first opened the door, "but I believe in that."
 
