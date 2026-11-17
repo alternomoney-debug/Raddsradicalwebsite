@@ -23,7 +23,7 @@ Multiple something elses. Scattered across the field of view with no clustering,
 
 A short pause, then footsteps. He comes around the lab table and leans over my shoulder to look at the slide image on the display.
 
-"Those aren't Phengoclept," he says.
+"Those are not Phengoclept," he says.
 
 "No."
 
@@ -35,7 +35,7 @@ He looks.
 
 I wait.
 
-"These are too clean to be contamination," he says. "Contamination has random distribution. These have internal structure." He points at the display. "Blue at the membrane, red toward the center, green running through both. That's not random."
+"These are too clean to be contamination," he says. "Contamination has random distribution. These have internal structure." He points at the display. "Blue at the membrane, red toward the center, green running through both. That is not random."
 
 "No," I say. "It isn't."
 
@@ -48,6 +48,10 @@ Jinzhou goes still. Not his regular still. He's thinking.
 "Absorbing," he says.
 
 "Absorbing," I say back.
+
+Here's why that matters. When the Phengoclept fires, it throws its energy out as light at twenty-two point seven zero six microns. That's the only way it ever spends what it stored. So if something out here soaks up light at exactly that wavelength, it's not a coincidence. It's built to catch what the Phengoclept puts out. Or to catch the Phengoclept itself.
+
+The bathtub. The drain. I've been looking for the drain for two days.
 
 Neither of us says the next word.
 
@@ -81,7 +85,7 @@ She wrote the paper. She described what a Phengoclept predator would need to loo
 
 Transparent membrane. Internal coloration from the metabolic byproducts of digestion. Absorbs Phengoclept emissions directly. Stores them like the Phengoclept stores stellar output. No wasted energy. Clean, complete predation.
 
-I put the paper in a folder labeled MAYBE SOMEDAY. "Someday is soon," she told me, in a demo bay, with marker on her paws. She was right. She'd have been unbearable about it.
+I put her paper in a folder labeled MAYBE SOMEDAY. "Someday is soon," she told me, in a demo bay, with marker on her paws. She was right. She'd have been unbearable about it.
 
 She built the theoretical framework for the thing we just pulled out of a sample collector on a Tuesday. She never got to know she was right. She's somewhere out past the hull in the cold. And there's something else about her, a number she asked me to check once, sitting just out of reach where I can't get it to come up.
 
@@ -173,7 +177,7 @@ Jinzhou checks the altitude table and reads the number out loud.
 
 I read it myself to confirm what I heard.
 
-"Oh, hell," I say. "That's inside the Stephfren line."
+"Oh, fudge," I say. "That's inside the Stephfren line."
 
 "Yes."
 
@@ -253,7 +257,7 @@ I pull up page four of the protocol.
 
 I read it.
 
-I say something to page four that does not go in the record.
+"Fudge," I tell page four. Quietly. With my whole chest.
 
 I close page four.
 
