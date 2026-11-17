@@ -5,7 +5,7 @@ That's the first thing I hear. Not good morning. Not welcome back. Two words and
 
 "Contaminant detected."
 
-Again. The light is red. All of it, floor to ceiling, in slow pulses, like the ship is trying to tell me something with its whole body. I'd like it noted that I'm still lying down, and that lying down is the only reason I'm not on the floor.
+Again. The light is red. All of it, floor to ceiling, in slow pulses, like the ship is trying to tell me something with its whole body. I'm still lying down. Lying down is the only reason I'm not on the floor.
 
 Everything weighs about seventy percent more than it should. My arm is heavy. My glasses are heavy. I didn't know glasses could be heavy. They sit on my face like a decision.
 
@@ -19,7 +19,7 @@ So I do what I always do first. I look across the room.
 
 Jinzhou's cubby is sealed. His berth is in. The readout on his frame is slow and green and so steady it looks like a hobby.
 
-Okay. Deduction, while the arms are busy being gentle. I weigh too much. Spin would give me one G, and this isn't one G, this is a floor shoving back. That's thrust. Thrust means the engines are on, and the engines being on means we're going somewhere, and that means somebody has been steering this ship while I was asleep. I'd like to meet them.
+Okay. Deduction, while the arms are busy being gentle. I weigh too much. Spin would give me one G, and this isn't one G, this is a floor shoving back. That's thrust. Thrust means the engines are on, and the engines being on means we're going somewhere, and that means somebody has been steering this ship while I was asleep. I'd love to know who.
 
 "ARACCSIM. Why am I awake, and why is he not?"
 
@@ -107,7 +107,7 @@ One. Something alive is on this ship that the ship didn't expect.
 
 Two. The ship can't say where, because the ship's idea of where is here.
 
-Three. There are two people aboard. One of them is me, awake, and the other is a man in a sealed cubby who has been resting for two days. If it's one of us, I'd like to be told gently.
+Three. There are two people aboard. One of them is me, awake, and the other is a man in a sealed cubby who has been resting for two days. If it's one of us, I want to be told gently.
 
 "Air," I say. "Full panel on the cabin atmosphere."
 
@@ -187,7 +187,7 @@ Then the thing I filed under later turns out to be now.
 
 "Ingress occurred before seal."
 
-I'd like to say I'm calm. I'm something. It has the shape of calm and the weight of a falling elevator.
+I want to say I'm calm. I'm something. It has the shape of calm and the weight of a falling elevator.
 
 It wasn't my containers. My containers are fine. My containers have always been fine. It was the planet, reaching in through a hole in the ship and helping itself to a tank.
 
@@ -251,7 +251,9 @@ I'd been braced for a lot more. I don't say so, in case it hears me.
 
 "Correct."
 
-I look at that for a while. To cool the engines, I make electricity. To get rid of the electricity, I turn it back into heat. Then I throw the heat at the stars. I've fixed a heat problem by moving it one room over and giving it a receipt.
+I look at that for a while. Okay. It makes sense, if you follow the energy. The motors are hot. Hot is energy. The turbine turns that energy into electricity, which pulls heat out of the motors. But energy doesn't go away, it just moves. So the electricity has to go somewhere, and the only place left is the radiators.
+
+To cool the engines, I make electricity. To get rid of the electricity, I turn it back into heat. Then I throw the heat at the stars. I've fixed a heat problem by moving it one room over and giving it a receipt.
 
 That's a little funny. I'm not going to say so out loud.
 
@@ -375,7 +377,7 @@ The override case is a red box on the wall cabinet. The label reads IN THE EVENT
 
 I'm not panicking. I just notice that the card thought of me.
 
-The suit lockers are by the airlock, and I put a suit on. I'd like to be honest about why. The contaminant has no address. I was told the containers were sealed by the same sensors that tell me the air is fine, and if I'm going to be wrong, I'd like to be wrong in something sealed. It takes four minutes, and the left boot goes on the right foot once, which the suit is gracious about.
+The suit lockers are by the airlock, and I put a suit on. Here's why. The contaminant has no address. I was told the containers were sealed by the same sensors that tell me the air is fine, and if I'm going to be wrong, I want to be wrong in something sealed. It takes four minutes, and the left boot goes on the right foot once, which the suit is gracious about.
 
 I open the inner door of the airlock the way you open a door in a house where something is wrong. Nothing is behind it. Doors are like that.
 
@@ -427,7 +429,7 @@ Three hundred, forty-one, seven. That isn't a scatter. That's a line, and it's p
 
 Motor six threw a cell wide on the way down, long before 2-E ever opened, so that one was just bad luck. Everything since is not.
 
-I say some things to the microscope. They do not go in the record.
+"Fudge," I tell the microscope. "Fudge. Fudge, fudge, fudge."
 
 It doesn't answer, which is fair. It's an instrument.
 
@@ -471,13 +473,17 @@ I pull my oldest coupon from culture vessel one, a week of Asicell on the other 
 
 "I bet it does."
 
-It was a sound decision. I'd like to speak to whoever made it, at length, in a small room.
+It was a sound decision. I want to talk to whoever made it, at length, in a small room.
 
-"It's the same god damn lining," I say.
+"It's the same fudging lining," I say.
 
 "Profanity logged," ARACCSIM says.
 
-"It's not profanity. It's a measurement."
+"That's not profanity. That's fudge. I don't swear."
+
+"Profanity logged."
+
+"It's a measurement."
 
 "Understood."
 
@@ -499,7 +505,7 @@ ARACCSIM offered to cut it. I remember the sentence, and I remember saying no, f
 
 "Correct."
 
-Unknown is a verdict I'm going to be carrying for a while. I'd like to set it down somewhere. There isn't anywhere.
+Unknown is a verdict I'm going to be carrying for a while. I want to set it down somewhere. There isn't anywhere.
 
 I put my forehead on the cold edge of the bench for a moment. It isn't panic. I know exactly what's happening, and I can move fine. It's the quieter thing, where the cause is a sentence I said out loud. Everything in me goes very calm and very slow, which is how I know it's bad.
 
@@ -553,7 +559,7 @@ Then I go back across the ship and sit down on the floor beside his cubby. Habit
 
 The readout holds steady at its slow, green hobby.
 
-"Okay. A locker broke the ship. I'd like partial credit."
+"Okay. A locker broke the ship. I want partial credit."
 
 "ARACCSIM, log that."
 
