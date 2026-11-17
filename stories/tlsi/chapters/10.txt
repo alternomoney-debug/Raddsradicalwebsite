@@ -1,7 +1,7 @@
 
 Day twenty-four starts at four in the morning because I never actually went to sleep.
 
-I tried. I was in the bed, which counts for something, and the lights were off, which counts for something else, and I had the pillow, which I'd like noted as a good-faith effort, and at some point I think I was close enough to sleep that my body stopped arguing about it. But then my brain ran configuration four again, the one where the cable drag exceeds the thrust budget and the word manageable stops applying, and that was that.
+I tried. I was in the bed, which counts for something, and the lights were off, which counts for something else, and I had the pillow, which is a good-faith effort by any standard, and at some point I think I was close enough to sleep that my body stopped arguing about it. But then my brain ran configuration four again, the one where the cable drag exceeds the thrust budget and the word manageable stops applying, and that was that.
 
 So I got up. Made coffee. Sat at the Lab A bench and stared at the approach simulation until the numbers stopped looking like threats and started looking like a checklist, which is the only productive thing you can do with numbers at four in the morning when you've got nowhere else to be.
 
@@ -13,9 +13,9 @@ He looks at the copies. Looks at me.
 
 "I was in the bed."
 
-"That's not the same thing."
+"That is not the same thing."
 
-"I know. You can note it for the record."
+"I know."
 
 He takes his copy of the checklist without further comment, which is either him letting it go or him saving it for later. With Jinzhou it's genuinely hard to tell. I pour him a coffee without being asked and he takes that without comment too, so I'm going to call it a win and move on.
 
@@ -63,7 +63,9 @@ He's already looking at the numbers on his screen, running the same math I'm run
 
 "This was supposed to be one way," I say. "No return fuel. None. I don't remember who told me that. I just know it."
 
-"For six people," Jinzhou says, not looking up. "Running a full survey of the system for however long it took." He taps something on his screen. "We're two. And if this goes right, we go in once."
+"For six people," Jinzhou says, not looking up. "Running a full survey of the system for however long it took." He taps something on his screen. "We are two. And if this goes right, we go in once."
+
+Six people eating, breathing, burning fuel on survey burns for months, versus two people and one trip down. Fuel isn't just for getting home. It's for everything you do while you're here. Do less, and there's more left.
 
 I don't love how much sense that makes.
 
@@ -75,7 +77,7 @@ Indefinite station. The phrase sits there being exactly as bad as it sounds.
 
 "Right," I say. "So we don't miss it."
 
-"No," Jinzhou says. "We don't."
+"No," Jinzhou says. "We do not."
 
 Neither of us says anything else about it. We've both known this was the shape of the problem, fuel math and orbital mechanics leaving exactly one door open and exactly one deadline for walking through it. Hearing the number out loud is different from knowing the number abstractly, but different doesn't mean anything changes.
 
@@ -215,7 +217,7 @@ I think of Kalen's steel cube slumped in its own slag, and the thin white line t
 
 "So we've used up our one."
 
-"That's not how statistics work."
+"That is not how statistics work."
 
 "I know. I'm trying out optimism."
 
@@ -257,7 +259,7 @@ The airlock is the same one we used for the burials. I decide not to think about
 
 "EVA tether," Jinzhou says over the suit comms.
 
-"Confirmed and clipped." I tug it once. It holds. "I'd like to amend something I said this morning."
+"Confirmed and clipped." I tug it once. It holds. "I need to amend something I said this morning."
 
 "You said you weren't planning to go outside."
 
@@ -275,11 +277,11 @@ Not all of it. The part ahead of us. A few meters out from the hull, a ceiling o
 
 "Oh," I say. "The sky is on fire."
 
-"That's the shield," Jinzhou says. "It's working."
+"That is the shield," Jinzhou says. "It is working."
 
 "It's very orange for something that's working."
 
-"It's supposed to be orange."
+"It is supposed to be orange."
 
 "I read the simulation four times. I never looked at the color."
 
@@ -333,7 +335,7 @@ I look at the orange. It used to be a ceiling a few meters out. It's at arm's le
 
 "Climb," I say. "Climb as soon as, as soon as..."
 
-"Cable first," Jinzhou says. "If we climb with it fouled, it takes the winch off the wall."
+"Cable first," Jinzhou says. "If we climb with it fouled, it rips the winch off the wall."
 
 "Cable cut is available," ARACCSIM says.
 
