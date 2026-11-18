@@ -112,7 +112,7 @@ I think about that.
 
 We spend the middle of the day chasing something that isn't going anywhere. I only notice about two hours in, after I've already spent the two hours.
 
-"The population math doesn't work," I say. I've rebuilt the model four different ways and gotten the same wrong answer all four times. Which is consistent, technically. "Okay. Think about a bathtub. Water coming in, water going out. If the level stays the same, in has to equal out. Right?"
+"Huh," I say. "That's weird. The population math doesn't work." I've rebuilt the model four different ways and gotten the same wrong answer all four times. Which is consistent, technically. "Okay. Think about a bathtub. Water coming in, water going out. If the level stays the same, in has to equal out. Right?"
 
 "Right."
 

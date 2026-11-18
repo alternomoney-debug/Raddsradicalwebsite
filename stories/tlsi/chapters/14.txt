@@ -11,7 +11,7 @@ Jinzhou's eyes open. He looks at the ceiling for a second like he's checking it 
 
 "I was on the floor."
 
-"That's not the same thing."
+"That is not the same thing."
 
 "I know. You can note it."
 
@@ -51,11 +51,11 @@ I look at the brace, because I can't look at him and say the next part.
 
 "Thank you."
 
-"You'd have done the same."
+"You would have done the same."
 
 "I would have, uh, panicked first."
 
-"You'd have panicked and then done the same," he says. "There's a difference."
+"You would have panicked and then done the same," he says. "There is a difference."
 
 I almost laugh. It costs him something to almost smile back, and he pays it anyway.
 
@@ -79,7 +79,7 @@ When he finishes, he reads it again. Slower. Then he stops on one line and stays
 
 "It's accurate."
 
-"I know it's accurate." He sets the pad on his knee. "ARACCSIM offered to cut it."
+"I know it is accurate." He sets the pad on his knee. "ARACCSIM offered to cut it."
 
 "And I said no."
 
@@ -87,7 +87,7 @@ When he finishes, he reads it again. Slower. Then he stops on one line and stays
 
 "You were on the winch."
 
-"I was on the winch," he says. "I didn't see the altitude. So we each have one."
+"I was on the winch," he says. "I did not see the altitude. So we each have one."
 
 It doesn't make the number smaller. It puts it on two people, which is how you're supposed to carry anything heavy.
 
@@ -115,7 +115,7 @@ I open my mouth to say something reassuring, and nothing is there.
 
 "I hadn't gotten there yet," I say. "I was working left to right and I was still on the left."
 
-"It's the next item."
+"It is the next item."
 
 "I'm aware it's the next item. I was about to be upset about it in order."
 
@@ -135,7 +135,7 @@ Nothing. Not one tunnel. Not even a scratch.
 
 "Or they haven't yet."
 
-"Or they haven't yet. But I've got weeks of slides with nothing on them, and the lining didn't last nearly that long." I look up. "It's a crystal thing, probably. I don't know. I know I've been looking at the answer all month and calling it a slide."
+"Or they haven't yet. But I've got weeks of slides with nothing on them, and the lining didn't last nearly that long." Why glass, though? Why not the lining? I think it out loud. "The lining's a polymer, probably. Long carbon chains. Carbon is food, or close enough to food that something hungry will try it. Glass is sand that got very hot once. There's nothing in it to eat. Nothing to dig toward." I look up. "I've been looking at the answer all month and calling it a slide."
 
 "Borosilicate ampoules," Jinzhou says. "Autoclave stock."
 
@@ -145,7 +145,7 @@ Nothing. Not one tunnel. Not even a scratch.
 
 "With that arm?"
 
-"I'm not discussing the arm."
+"I am not discussing the arm."
 
 ---
 
@@ -161,7 +161,7 @@ Jinzhou eats his with the focused attention of a man who has decided eating is a
 
 "Do I get to pick?"
 
-"No. I'm listing them."
+"No. I am listing them."
 
 "Then list them."
 
@@ -305,7 +305,7 @@ It's smaller than I expected for something this load-bearing. Not cramped, just 
 
 "This is Wask-ki's only guaranteed shot at getting the data home."
 
-"If we don't make it ourselves. Yes."
+"If we do not make it ourselves. Yes."
 
 "Right." I push my glasses up. "No pressure."
 
@@ -319,7 +319,7 @@ I swab the cell's seam, the fill port, and the umbilical, and carry three slides
 
 Loading takes most of the afternoon. Not because the SRV is complicated. The data interface is straightforward, ARACCSIM handles the transfer log without being asked. It takes most of the afternoon because we do everything twice, and then a third time on the parts that matter more than the others, which turns out to be all of them.
 
-Asicell samples, in glass ampoules, in a glass cradle Jinzhou cut one-handed from the lab's glassware racks, held by a bare steel clamp on the SRV's own cold block. Minus sixty degrees Celsius. A gap around the whole thing, and nothing from lot series seven touching any of it. They'll sleep all the way home, which seems like the only polite way to mail something that digs. I'm sending a digging organism home in a jar, and I'd like it noted that I'm aware of how that sounds.
+Asicell samples, in glass ampoules, in a glass cradle Jinzhou cut one-handed from the lab's glassware racks, held by a bare steel clamp on the SRV's own cold block. Minus sixty degrees Celsius. A gap around the whole thing, and nothing from lot series seven touching any of it. They'll sleep all the way home, which seems like the only polite way to mail something that digs. I'm sending a digging organism home in a jar. I'm aware of how that sounds.
 
 The coupon from the 2-E valve goes in the cradle's last slot, in its own glass tube, the only piece of lot series seven aboard that I'm sending on purpose. I label it in capital letters: LOT SERIES SEVEN. THIS IS WHAT THEY DO.
 
