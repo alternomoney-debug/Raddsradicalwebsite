@@ -442,11 +442,35 @@ He steps out. He swings the round door shut and spins the wheel. It seals with a
 
 The rest of us drift toward the little window.
 
-"This is a Phengomotor," Kalen says. "A small one. On the plate in that box is about as much Phengoclept as would fit on the tip of a claw. Phase one, we attract the cells. Phase two, we expose the plate to space and pulse it. Phase three, we scrape off the dead ones. Today we're skipping phase two."
+"This is a Phengomotor," Kalen says. "A small one. On the plate in that box is about as much Phengoclept as would fit on the tip of a claw. Phase one, we attract the cells. Phase two, we expose the plate to space and pulse it. Phase three, we scrape off the ones that didn't go. Today we're skipping phase two."
 
 "Why?" asks the Pilot.
 
 "Because I want you to see what phase two is for."
+
+"Wait. Attract them how?" I say. "They're cells. What do you say to a cell?"
+
+"You lie to it." He taps the box. "Phengoclept does two things its whole life. It eats starlight, and when it's full, it flies to Aluk' to breed. Every cell in that tank is full. Bred in trays, loaded fat, never once seen Aluk'. So we show them one. A low pulse at the Y'shari frequency, from the plate. To a cell, that pulse looks like a big carbon dioxide planet, right over there."
+
+"You're catfishing them."
+
+He blinks at me. "I'm going to keep saying lure."
+
+"Okay. So they swim to the fake planet. Then what?"
+
+"Then phase two. The plate faces space and we hit it with the big pulse. To them, that's Aluk' screaming *right here, go now*. So they go. All of them, at once, off the plate and out the back. Every cell that kicks off the plate pushes the plate the other way. Like jumping off a little boat. A few billion cells jumping off a boat is a ship."
+
+"And then they just... keep going?"
+
+"Toward a planet that isn't there. Out in the dark, until they run out of everything. It takes them a long while." He shrugs, like he's made his peace with it. "We don't tell them."
+
+Huh. So the engine is a stampede, and the steering is a lie. I like it more than I want to.
+
+"And if you skip phase two?" I say. "If there's no space in front of them?"
+
+"Then they jump anyway," Kalen says. "At whatever's in front of them."
+
+We all look at the cube.
 
 He flips a switch on the wall. Through the window, a little lamp comes on inside the tube. The front of the box slides open like a shutter, and the cells crowd toward the plate like they've been waiting for it. Which, I guess, they have.
 
@@ -476,7 +500,7 @@ Nobody says anything. Somewhere in the group, the Mechanical Engineer says, quie
 
 Wyaine, who has snuck in at the back somehow, makes a sound like he's trying very hard not to laugh.
 
-"That's the cells dumping everything," Kalen says, almost cheerful. "That's what you don't want. A Phengomotor is that same energy, asked politely. You attract the cells, you pulse them in order, and you let them leave the plate one at a time, pushing. Instead of all at once, pushing the wrong way."
+"That's the cells dumping everything," Kalen says, almost cheerful. "They jumped for Aluk' and hit a cube. That's what you don't want. A Phengomotor is that same energy, asked politely. You attract the cells, you pulse them in order, and you let them leave the plate into empty space, pushing. Instead of into something solid, all at once."
 
 "So the safe version," I say, and I can hear my voice doing the annoying thing, where it stops being scared and starts being curious, "is making them want to leave."
 
