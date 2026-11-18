@@ -111,7 +111,7 @@ I'm at the payload bay interface, a screen and a set of manual controls bolted t
 
 "Eighty meters," ARACCSIM says. "Probe entering upper cloud layer."
 
-The particulate density spikes. I watch the numbers climb and then level off into a range that matches the approach simulation, which is the first time today something has matched the approach simulation exactly and I appreciate it more than I probably should.
+The particulate density spikes. I watch the numbers climb and then level off right where the approach simulation said they would. Exactly where! It's the first time all day something has matched the simulation, and I appreciate it way more than I probably should.
 
 "Probe is in the layer," I say. "Readings nominal. Starting collection timer."
 
@@ -125,7 +125,11 @@ I watch the collection progress and try not to watch the clock.
 
 At twenty-two minutes, Jinzhou says "still configuration two" without being asked.
 
-At thirty-one minutes, the probe's atmospheric filter registers its first confirmed Asicell signature, which I know because the telemetry feed throws a flag I set up three days ago specifically for this moment. My screen goes green. I stare at it for a second.
+At thirty-one minutes, the probe's atmospheric filter registers its first confirmed Asicell signature, which I know because the telemetry feed throws a flag I set up three days ago specifically for this moment. My screen goes green.
+
+Green!
+
+I stare at it for a second.
 
 "Jinzhou."
 
@@ -233,7 +237,7 @@ The winch starts. I can hear it from here, the motor engaging, the cable beginni
 
 Then the cable counter stops.
 
-The motor doesn't. I can hear it, still pulling, still climbing toward the draw that worries me, and the number on my screen has quit moving. Those two facts don't belong together.
+The motor doesn't. I can hear it, still pulling, still climbing toward the draw that worries me, and the number on my screen has quit moving. Those two facts don't belong together. Why would a motor keep pulling and a cable not move? There's only one way. Something's holding the other end.
 
 "Shoot," I say.
 

@@ -155,7 +155,7 @@ I'm in Lab B with my paws flat on the bench and my eyes on a screen, and nothing
 
 It accumulates. Over the next half hour, down comes back, and it doesn't come back where I left it. It comes in from the engine end, the way it did on the first day I woke up, and the whole room turns ninety degrees around me without anything actually moving. The wall behind the bench becomes the floor. The grate slides shut under my boots, and I'm standing on it, in a shaft, with the bench at my hip and the whiteboard running sideways again, the way this ship was built to be lived in under thrust. Around me, the cold stage and the instrument racks swing round on their gimbals to meet the new down, slow and level, like they've been waiting for it. Down in the medbay the berths will be doing the same, and in the cockpit Marsh's seat has already turned under her.
 
-Somewhere below me, a tube I forgot to clip down makes the trip all the way to the medbay. Petryn reports it over the comm like a weather event.
+Somewhere below me, a tube I forgot to clip down makes the trip all the way to the medbay. Petryn reports it over the comm like a weather event. (Note to self: clip things down. Note to self, again: you wrote that note last time.)
 
 Somewhere in the aft end of the ship, a thousand and nine motors are doing what Kalen showed us a long time ago, as hard as they're allowed to. Attract. Pulse. Scrape. Cells drawn forward, cells fired, cells thrown out the back with their work finished, dead, harmless, looking at nothing. And with them, if this works, everything that came down the line in the fuel, through a motor running hot enough to boil water, which is a place nothing small and alive should ever want to go. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall he had his back against, and he says it feels like leaning on a very large refrigerator that's decided to purr.
 
@@ -177,6 +177,8 @@ The tracking panel in front of me shows a row of dots in the aft housings. They'
 
 At hour twenty-six and ten minutes, one of the dots turns amber.
 
+Wait. What?
+
 I don't say anything at first. I think there's something wrong with the display, which is how you know I've been at this too long. I look at it. The amber dot looks at me.
 
 "ARACCSIM," I say.
@@ -195,7 +197,7 @@ Everything goes very quiet.
 
 "The flush has nearly six hours remaining," Marsh says. She sounds very far away and very precise. "Dr. Vasek, what are they doing?"
 
-I'm already looking at it. I have to look at it because I don't know, and I have to know. The dot in housing four moves a little, and then a little more. It's not swimming. It's drifting, the way they drift at minus forty degrees, and it's drifting the wrong way. Not down the line with the flow, into the motors. Up it. Against the current, toward the tanks, toward the biggest meal on the ship. It's not that they've woken up early for no reason. It's MK2's fuel. It went into our tanks at level one, warmer than ours ever was, and it's been warming the line from the inside since the moment we lit the motors. The housings are hotter than anything on a cold-start chart, because nobody ever wrote a chart for this.
+I'm already looking at it. I have to look at it because I don't know, and I have to know. The dot in housing four moves a little, and then a little more. It's not swimming. It's drifting, the way they drift at minus forty degrees, and it's drifting the wrong way. Not down the line with the flow, into the motors. Up it. Against the current, toward the tanks, toward the biggest meal on the ship. Why now? Why a full day early? What's different from the model? Think. The model assumed our fuel, and our fuel was frozen. So... oh. Oh, fudge. MK2's fuel. It went into our tanks at level one, warmer than ours ever was, and it's been warming the line from the inside since the moment we lit the motors. The housings are hotter than anything on a cold-start chart, because nobody ever wrote a chart for this.
 
 "ARACCSIM. When do they reach the tank one isolation valve?"
 
@@ -234,6 +236,8 @@ I put both paws over my face for exactly one second. It is the only luxury I all
 "At the pulse rate needed to finish the flush before the valve, yes. Six."
 
 I do the arithmetic, which takes me less than a second and feels like most of a day. Nine minus six is three. Three percent over what it takes to get home and stop. Not zero. Three, with nothing left over for anything we haven't thought of yet.
+
+Good news: we brought extra fuel. Bad news: we're about to set two-thirds of it on fire on purpose.
 
 "Petryn," I say. "Can the stack take it?"
 
@@ -388,6 +392,8 @@ I look at the board. There's nothing on it. Not a dot. Not a smear. The feed lin
 "Say it again."
 
 "None detected."
+
+None! Zero! I want to hug the computer. I can't. The computer is the walls.
 
 They went through the motors. Every last one, swept down a line they'd been trying to climb, into a place that runs at the boiling point of water and doesn't stop to ask anybody's name. I feel something about that I wasn't expecting, which is sorry. They didn't do anything wrong. They did exactly what they were made for, in the wrong ship. I've got a box of their cousins on a courier heading home, doing the same thing in the right one.
 
