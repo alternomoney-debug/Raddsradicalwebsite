@@ -1,6 +1,6 @@
 *Written from the perspective of Ethyn Vasek.*
 
-The sample from the collector is still under the microscope where I left it, so day twelve starts exactly where day eleven ended. That's how science works when you have nothing but time and no commute.
+The sample is still under the microscope where I left it last night. So day twelve picks up exactly where day eleven quit. No commute. That's the one perk of living in your lab.
 
 "Confirmed mass," I say, mostly to hear it out loud. "Point zero two one two seven six five nine four four six eight zero eight five one zero six three eight two nine seven eight seven two nanograms."
 
@@ -10,73 +10,83 @@ Jinzhou doesn't look up from his screen. "That is a lot of decimal places for so
 
 "Four times."
 
-"I wanted to be sure the fourth one agreed with the first three."
+"I wanted to make sure the fourth one agreed with the first three."
 
 "Did it?"
 
-"Yes. Which is somehow the most annoying part. It's a cell. I can't even see it without four hundred times magnification. And somebody, somewhere, cared enough to measure it out to twenty-eight decimal places, and I trust that number more than I trust my own name."
+"Yes! Which is somehow the most annoying part. It's one cell. I can't even see it without four hundred times magnification. And somebody cared enough to measure it to twenty-eight decimal places, and I trust that number more than I trust my own name."
 
-Jinzhou thinks about this. "You could round it."
+He thinks about it. "You could round it."
 
 "I could. I'm not going to. If Bejors were here she'd never let me hear the end of it."
 
-I don't mean to say her name like that. Easy. Mid-sentence. No weight on it. It just comes out. Neither of us stops to make it a thing.
+Huh. I said her name. Just like that, in the middle of a sentence. No lump in my throat, no weird pause. It just came out.
 
 That's new. Progress, maybe. Or I'm just tired.
 
 ---
 
-Okay. Here's what I know now that I didn't know two weeks ago, when all I had was a whiteboard and half a phone call.
+Okay. Let's take stock. What do I actually know now that I didn't know two weeks ago, back when all I had was a sideways whiteboard and half a phone call?
 
-So what does the Phengoclept actually do? It eats light. Well. Not literally eats. It soaks up a star's output, the high-energy stuff, and turns it into stored mass. Then it holds onto it.
+First question. What does the Phengoclept do?
 
-How much does it hold? A lot. I can actually work out how much, now that I have the mass. Okay. Let's see. Point zero two one two nanograms. That's two point one two times ten to the minus fourteen kilograms. Turn all of that into energy, and you multiply by the speed of light, squared. Nine times ten to the sixteenth.
+It eats light. Well. Not "eats." It soaks up a star's output, the high-energy stuff, and turns it into stored mass. Then it hangs onto it.
 
-Two point one two times nine is nineteen-ish. Ten to the minus fourteen times ten to the sixteen is a hundred.
+Second question. How much does it hang onto?
+
+Oh, I can actually figure that out now. I've got the mass. Let's see.
+
+Point zero two one two nanograms. A nanogram is ten to the minus twelve kilograms. So that's two point one two times ten to the minus fourteen kilograms. Now turn all of that mass into energy. You multiply by the speed of light, squared. That's nine times ten to the sixteenth.
+
+Two point one two times nine is about nineteen. Ten to the minus fourteen times ten to the sixteen is a hundred.
 
 About nineteen hundred joules.
 
-In one cell! A cell I can't even see!
+In one cell!
 
-Nineteen hundred joules is enough to bring a cup of water most of the way to boiling. Every single one of these dots can boil a cup of tea. And there are billions of them out there in the line.
+A cell I can't even see!
 
-That's why the old notes call them "saturated" when they're full. I've read enough of Bejors' annotations by now to bet that word was hers. It's exactly the dry, slightly annoyed word she'd have pushed for in a meeting full of people who wanted something flashier.
+Okay, what's nineteen hundred joules in normal-person terms? It's enough to take a cup of water most of the way to boiling. So every one of these specks could make you a cup of tea. And there are billions of them out there in the line.
 
-So what happens when it's full? It can't hold any more. So it moves.
+That's why the old notes call a full cell "saturated." I'd bet anything that was Bejors' word. It's exactly the dry, slightly annoyed word she'd push for in a meeting full of people who wanted something flashier.
 
-It migrates. It rides its own stored light like a sail and crosses open space, and it can go years without eating again. It doesn't seem to plan the trip. It just points itself outward and goes. That's either the most elegant survival trick evolution ever came up with, or the dumbest. I go back and forth.
+Third question. What happens when it's full?
+
+It can't take any more. So it leaves.
+
+It rides its own stored light, like a sail, and crosses open space. It can go years without eating. It doesn't plan the trip. It just points itself outward and goes. That's either the cleverest survival trick evolution ever came up with, or the dumbest. I keep changing my mind.
 
 At home, it goes to Aluk'.
 
-I know Aluk'. Like everything else that's come back to me, it's a fact sitting there fully formed, with no memory attached. Close to Nakuet. Hot. Choked in cloud. Thick with exactly the carbon compounds a saturated Phengoclept can't resist. It breeds there. Parent cell and daughter cell, and both make the trip back to Nakuet to start over.
+I know Aluk'. Like everything else that's come back, it shows up as a fact with no memory attached. Close to Nakuet. Hot. Buried in cloud. Full of exactly the carbon stuff a saturated Phengoclept wants. It breeds there. One cell becomes two, and both of them fly back to Nakuet to start over.
 
-That's the part that's killing Wask-ki. Not the eating. The breeding. Every round, the population doubles. Twice as many eating the star. Then four times. Then eight. Nothing at Aluk' stops them. So the dimming speeds up, and it'll keep speeding up until there's nothing left of Nakuet worth eating.
+And that's the part that's killing Wask-ki. Not the eating. The breeding. Every lap, the population doubles. Two. Four. Eight. Nothing at Aluk' stops them. So the dimming speeds up, and it keeps speeding up until there's nothing left of Nakuet worth eating.
 
-That's the curve I saw on day one. The one that bends down like it's tired.
+That's the curve from day one. The one that bends down like it's tired.
 
-At Asimov, something's different.
+Fourth question. What's different at Asimov?
 
-What? I don't know yet. That's the whole reason we're here.
+I don't know yet. That's the whole reason we're here.
 
 ---
 
-"Say the light thing again," Jinzhou says. He's got his notepad out, the paper one, drawing something in the margin. Maybe a graph. Maybe just him thinking with his paws.
+"Say the light thing again," Jinzhou says. He's got his paper notepad out, drawing something in the margin. A graph, maybe. Or just him thinking with his paws.
 
 "The Y'shari frequency?"
 
 "That one."
 
-"Twenty-two point seven zero six microns. Infrared. That's the wavelength it puts out when it's burning stored mass back into light. Which is also how it moves." I put the reading up on the shared screen so he can see the spike instead of hearing me describe it. "Every Phengoclept line anybody's ever mapped shows up at exactly that wavelength. Ours too. It's a fingerprint. If you're not looking at twenty-two point seven zero six, you're not looking for it."
+"Twenty-two point seven zero six microns. Infrared. That's the light it gives off when it burns stored mass. Which is also how it moves." I put the reading up on the shared screen so he can see the spike. "Every Phengoclept line anybody's ever mapped glows at exactly that wavelength. Ours too. It's a fingerprint. If you're not looking at twenty-two point seven zero six, you're not looking for it."
 
 "Convenient that it is one number."
 
-"It's not convenient. It's just physics. That's the emission line." I look at him. "Why, did you want it to be complicated?"
+"It's not convenient! It's physics. That's just the line." I squint at him. "Why, did you want it to be complicated?"
 
 "I want to know if I can remember it."
 
 "Can you?"
 
-"Twenty-two point seven zero six." He says it without looking at the notepad. "Yes."
+"Twenty-two point seven zero six." He doesn't even glance at the notepad. "Yes."
 
 "Show-off."
 
@@ -84,23 +94,25 @@ What? I don't know yet. That's the whole reason we're here.
 
 "That's different. Mine has more decimal places. Mine is objectively more impressive."
 
-He doesn't argue. From him, that's a concession. He goes back to his drawing.
+He doesn't argue. From Jinzhou, that's basically a trophy.
 
 ---
 
-The Phengomotors are the part that gets me every time I think about it too hard. The thing we came six point four light-years to study is also, right now, bolted to the back of our ship, dying by the gram to keep us moving.
+Here's the part that gets me every time I think about it too hard.
 
-Jinzhou explains how they work better than I can. He's the one who took a housing apart during the week-one diagnostic and put it back together without the manual. That's either really reassuring or really concerning, depending on the day.
+The thing we flew six point four light-years to study is also bolted to the back of our ship. Right now. Dying by the gram so we can move.
 
-"Three phases," he says, ticking them off. "First, low light, tuned to the frequency. Live Phengoclept come to the drive plate. They coat one face. Second, plate rotates out to open space. High-intensity pulse, same frequency. The cells do what they do when they are full and they get that signal. They dump everything. All at once. All one direction, because the plate is angled to make sure. That push moves the ship."
+Jinzhou explains the engines better than I can. During the week-one diagnostic he took a motor housing apart and put it back together without the manual. That's either really reassuring or really concerning, depending on the day.
 
-"And the third phase?"
+"Three phases," he says, counting on his fingers. "One. Low light at the frequency. Live Phengoclept are drawn to the drive plate. They coat one face. Two. The plate turns out to open space. A strong pulse at the same frequency. The cells do what they do when they are full and get that signal. They dump everything, all at once, all one direction, because the plate is angled. That push moves the ship."
 
-"Plate rotates back in. Cells are dead by then. Nothing survives dumping that much. Scrape them off. Plate goes back out for a new coat."
+"And three?"
 
-I think about that.
+"Plate turns back in. The cells are dead by then. Nothing survives dumping that much. Scrape them off. Plate goes back out for a new coat."
 
-"So the engine works," I say, "because we're killing the thing we came all this way to understand. A controlled amount of it. On a schedule."
+I think about that for a second.
+
+"So the engine works," I say, "because we're killing the thing we came all this way to understand. A little at a time. On a schedule."
 
 "Yes."
 
@@ -110,49 +122,61 @@ I think about that.
 
 ---
 
-We spend the middle of the day chasing something that isn't going anywhere. I only notice about two hours in, after I've already spent the two hours.
+I spend the middle of the day chasing a number that won't move. I only notice two hours in. After I've already spent the two hours.
 
-"Huh," I say. "That's weird. The population math doesn't work." I've rebuilt the model four different ways and gotten the same wrong answer all four times. Which is consistent, technically. "Okay. Think about a bathtub. Water coming in, water going out. If the level stays the same, in has to equal out. Right?"
+"Huh," I say. "That's weird."
+
+"What."
+
+"The population math doesn't work. I've built the model four different ways, and I get the same wrong answer every time." I rub my eyes under my glasses. "Which is consistent, technically. Consistently wrong."
+
+"Explain."
+
+"Okay. Think of a bathtub. Water coming in, water going out. If the water level stays the same, then in has to equal out. Right?"
 
 "Right."
 
-"ASI's line has been the same strength for two years. So the number of Phengoclept feeding here is staying the same. Constant. But at home, it doubles every round. So here, something's draining the tub exactly as fast as they breed. Every new cell is cancelled out by one going away."
+"The line here at Asimov has been the same strength for two years. So the amount of Phengoclept feeding here isn't changing. Flat. But at home, it doubles every lap." I tap the screen. "So why isn't it doubling here?"
+
+He waits. He knows I'm not actually asking him.
+
+"Something's pulling the plug," I say. "Something here is draining them out exactly as fast as they breed. Every new cell gets cancelled out by one going away."
 
 "So something caps the population."
 
-"Something caps the population." I lean back. "Either nothing new is showing up, or..."
+"Something caps the population." I lean back. "Either nothing new is showing up. Or..."
 
-"Or they do not make it back."
+"Or they do not come back."
 
-"Or they don't make it back." I look at the number again. It still won't move. "If they head off to breed, wherever the local Aluk' is, and something gets them before the return trip, you'd get exactly this. Steady in. Steady out. No growth."
+"Or they don't come back! If they fly off to breed, wherever the local Aluk' is, and something gets them before the return trip, you'd see exactly this. Steady in. Steady out. Flat line."
 
 "A predator," Jinzhou says.
 
-"Maybe. Y'shari floated that before we ever left. I had no way to test it back then." I look at the trajectory data. At Asimov-09D, sitting down there, huge and patient. "I think I might have a way now."
+"Maybe. Y'shari floated that before we ever left, and I had no way to test it." I look at Asimov-09D on the trajectory screen. Big, patient, sitting there. "I think I might have a way now."
 
-Neither of us finishes that out loud. We both know what testing it means, and neither of us is in a hurry to say the word "fishing" before we have to.
+Neither of us says the rest of it. We both know what testing it means. Neither of us is in any hurry to say the word "fishing" out loud.
 
 ---
 
-Later, once we've both stopped pretending the population model needs more of us today, Jinzhou brings up the other thing.
+Later, once we've both admitted the population model doesn't need us anymore today, Jinzhou brings up the other thing.
 
 "I want to look at the medical logs," he says. "The four."
 
-I know exactly which four.
+I know which four.
 
 "Okay," I say.
 
 We go down to the terminal together.
 
-"ARACCSIM," I say. "Pull the coma vitals logs. Full mission. All four."
+"ARACCSIM. Pull the coma vitals logs. Whole mission. All four."
 
-A pause. Longer than the request should need. A pause like that used to mean "withheld pending crew status confirmation," and I brace for it out of habit.
+A pause. A long one. Pauses like that used to mean "withheld pending crew status confirmation," and I brace for it out of habit.
 
 "Retrieving," it says instead.
 
-No partial confirm. No conditions. Whatever lock used to sit on this file, it's gone. It's been gone since the day we did the burials. I don't know if ARACCSIM was told to stand down, or if it never cared about hiding this part.
+Oh. No partial confirm. No conditions. Whatever lock used to be on this file is gone. It's been gone since the burials. Did somebody tell ARACCSIM to stop hiding it? Or did it never care about hiding this part? I don't know. I'm not sure I want to.
 
-The logs are thorough. Vitals every six hours for the whole trip. Right up until they stop. The cause-of-death fields, all four, say the same thing.
+The logs are thorough. Vitals every six hours, the whole trip. Right up until they stop. All four cause-of-death fields say the same thing.
 
 UNDETERMINED. CONSISTENT WITH KNOWN RISK FACTORS.
 
@@ -166,49 +190,55 @@ Coma-resistant genetic markers correlate with survivability but do not guarantee
 
 One in several thousand.
 
-I do the math because I can't not. Call it one in five thousand. For any one person, that's tiny. For four people to have it happen in the same week, you multiply. One in five thousand, four times over. That's one in six hundred and twenty-five trillion.
+Okay. Let's check that. Say it's one in five thousand. For one person, that's tiny. Fine. Now, what are the odds it happens to four people? You multiply. One in five thousand, times itself, four times.
 
-That's not bad luck. That's not "known risk factors." Things that rare don't happen four times in five days. Something else happened, and it happened to all of them at once.
+Five thousand squared is twenty-five million. Squared again is... six hundred and twenty-five trillion.
 
-"It does not add up," Jinzhou says. He's done the same math. He just didn't need to say it out loud first.
+One in six hundred and twenty-five trillion.
+
+And they all died within five days of each other.
+
+No. That's not bad luck. That's not "known risk factors." Things that rare don't happen four times in one week. Something else happened. To all of them. At once.
+
+"It does not add up," Jinzhou says. He did the same math. He just didn't need to say it out loud.
 
 "No."
 
 "So they lie."
 
-"Or they don't know. And they wrote the thing that fits on a form." I stare at the screen. "I wanted there to be an answer."
+"Or they don't know. And they wrote the thing that fits on the form." I stare at the screen. "I wanted there to be an answer."
 
 "I know."
 
 "Even a bad one. I just wanted one."
 
-He doesn't say anything. That's an answer too. The kind that doesn't make a thing smaller than it is just to make the room feel better.
+He doesn't say anything. That's an answer too. Jinzhou doesn't make a thing smaller than it is just to make the room feel better.
 
 We close the file. Neither of us deletes it.
 
 ---
 
-Ship's night comes and I'm still awake in the lab. The slide's still under the scope. Twenty-eight decimal places of mass sitting on the readout like it's daring me to argue.
+Ship's night. I'm still in the lab. The slide's still under the scope, and twenty-eight decimal places of mass are sitting on the readout like they're daring me to argue.
 
-"ARACCSIM," I say.
+"ARACCSIM."
 
 "Dr. Vasek."
 
-"How confident are you in the population model? The one that says the density in the Asimov line is constant."
+"How sure are you about the population model? The one that says the Asimov line is flat."
 
 "Model confidence is high, within the limits of two years of continuous observation."
 
-"And if I wanted to test the predator idea directly. Not from orbit. Down there."
+"And if I wanted to test the predator idea for real. Not from up here. Down there."
 
-A pause. Long enough that I wonder if I've asked something it doesn't have an answer ready for.
+A pause. Long enough that I wonder if I've finally asked something it doesn't have an answer ready for.
 
-"That would require atmospheric sample collection from Asimov-09D," it says. The sentence comes in two pieces that don't quite match. The first half is smooth and quick. The second half is late, like it had to go looking for words it doesn't keep handy. "Current mission parameters do not include a defined protocol for that maneuver."
+"That would require atmospheric sample collection from Asimov-09D," it says. The sentence comes in two pieces that don't quite match. The first half is quick and smooth. The second half is late, like it had to go find the words. "Current mission parameters do not include a defined protocol for that maneuver."
 
 "But it's possible."
 
 "With modification. Yes."
 
-I look at the gas giant on the screen. Brown and blue and enormous. Not going anywhere. Perfectly happy to let us take as long as we need to work up the nerve.
+I look at the gas giant on the screen. Brown and blue and huge. Not going anywhere. Perfectly happy to wait while we work up the nerve.
 
 "Good," I say. "Start modifying."
 
