@@ -58,35 +58,49 @@ He turns the pad toward me. A graph, mostly flat, with tiny spikes along the bot
 
 "Lighting off for no reason," I say. "That's not a cause. That's a symptom."
 
-"They had a reason. I think it was just a bad one." He scrolls. "Whatever that ship breathes out, or burns, or runs through a pipe, some of it looks a little like Aluk' if you squint. Good cells don't squint. A few of ours did. And then we got here, to a planet whose whole sky is the thing they were squintin' at."
+"Yeah. That's what bugged me." He scrolls. "A cell only goes off like that when it thinks it sees Aluk'. Carbon dioxide. But they can't see through steel, man. Not through a hull, not through the thermal panels. The panels are built to stop exactly that. So for a cell to see CO2, the CO2's gotta be right up against the tank."
 
-I look at the spikes for a while.
+Okay. Why would that matter?
 
-"Bad cells," I say.
+Because carbon dioxide glows. Not so you'd see it. In infrared. Warm CO2 gives off a very particular kind of infrared, and Phengoclept has spent a few billion years learning to love that exact glow. That's how it finds Aluk'. The thermal panels around a tank are there to block that kind of glow. But if the gas got *behind* the panels, there's nothing left in the way except the tank's own skin. And the skin is thin.
 
-"A few. Bred wrong, loaded in from day one, sittin' in the tanks like they belonged there. They don't wait for the lure. They see anythin' close enough and they scramble."
+"How would it get behind the panels?" I ask.
 
-Okay. Think. Every cell in a tank is full and ready to breed. Good cells wait for the lure, because the lure is the only Aluk' they've ever been shown. Bad ones don't wait. Any whiff of carbon dioxide and they decide Aluk' is right there. Our breath. The scrubbers. And then a whole planet with a carbon dioxide sky.
+"That's the third time through." Petryn pulls up a different file. A build record. Work orders, rows and rows of them, every line signed. "MK2 got put together in orbit, fast, so she could launch four months behind you. Look at this one."
 
-But they're in a sealed tank. So "go to Aluk'" means "jump at the tank wall." And the tank wall is solid. Like Kalen's cube.
+He taps a line. Tank bay panel install, tanks one and two. Signed complete. Fastener count, one short of spec. And a note in the margin: *Seal on scrubber vent run deferred. Fit at next service.*
 
-"And scrambling cells get excited."
+"There was no next service," I say.
 
-"And excited cells get hot," Petryn says. "And hot cells get more excited."
+"There was no next service." He taps the screen again. "Scrubber vent runs right through that bay. Behind the panels. One bad bolt, one seal nobody fit, and every time the scrubbers cycled, a little bit of our breath leaked into the gap between the tank and its panels."
+
+"So the cells see carbon dioxide."
+
+"Right up against the wall. Close as it gets."
+
+"And they think Aluk' is right there."
+
+"And they go," Petryn says. "But there's a wall in the way."
+
+A wall. Like Kalen's cube. They jumped at it.
+
+"And jumping cells dump everything," I say. "So they get hot."
+
+"And hot cells get more excited."
 
 "And at the bottom of every runaway is the word bang."
 
 "Never heard it said like that." He nods slowly. "Accurate."
 
-"So the explosion did not break your fuel," Marsh says, from the doorway. I didn't hear her arrive. She has a way of arriving. "The fuel broke your ship."
+"So the fuel did not break your ship," Marsh says, from the doorway. I didn't hear her arrive. She has a way of arriving. "A bolt did."
 
-"Fuel was always gonna. Took it a while to get a bad day." He scrolls again, slower. "But here's the thing I come to show you. Two tanks. The two that went. The flashes are all in those two. The third one, the top one, the one that got cooked on the outside and didn't go?" He taps it. "Flat. Not one flash. Not in the whole log."
+"Bolt broke it. Fuel did the rest." He scrolls again, slower. "But here's the thing I come to show you. The third tank. The top one, the one that got cooked on the outside and didn't go." He taps it. "Other side of the ship. Different bay, different shift, different work order. Every bolt signed. No vent run anywhere near it. And the log's flat. Not one flash."
 
 I stop breathing for a second. Not dramatically. Just long enough to notice.
 
-"Different batch," I say.
+"So the fuel in it was never the problem."
 
-"Looks like. Two tanks loaded from one breeding run, one from another. And the third one's still sittin' out there, sealed, with most of its load in it."
+"Never was. And it's still sittin' out there, sealed, with most of its load in it."
 
 "Logs aren't a sample."
 
@@ -106,25 +120,31 @@ Phengoclept. Small bright emitters at twenty-two point seven zero six, exactly w
 
 "What's two?"
 
-"Two is whether any of them squint."
+"Two is whether they're still good fuel. Whether they still want to go."
 
-I don't have an Aluk'. I have the next best thing, which is the ship's own breath. Jinzhou rigs a line off the scrubber outlet, a thread of the carbon dioxide we've been storing so carefully away from the tanks, and I bleed the smallest breath of it across the slide.
+I don't have an Aluk'. I have the next best thing, which is our own breath. Jinzhou rigs a line off the scrubber outlet, a thread of the carbon dioxide we've been storing so carefully away from our tanks, and I bleed the smallest breath of it across the slide.
 
-Good cells ignore it. That's the whole point of them. They wait for the lure and do nothing else.
+The cells scramble.
 
-I watch for ten minutes. Then twenty. Nothing scrambles. Nothing flashes. Not one cell so much as turns around to look.
+All of them. At once. They turn toward the line like a crowd hearing its name. Little flashes, the slide lighting up in a hundred places.
 
-Great! Except. Do I know the test works?
+Yes!
 
-No. Not really. A real experiment needs a positive control. A drop of known-bad cells, to prove the breath makes them scramble. I don't have any. Every bad cell we know about blew up two tanks and itself with them. So what I've actually shown is that these cells don't care about carbon dioxide on a slide. Which is what good cells do. It's also what any cells would do if my setup were broken.
+That's perfect. That's exactly what they should do. Healthy cells want Aluk'. That's the whole engine. A cell that ignored carbon dioxide would be a broken cell, and a broken cell won't jump when the lure says go. These ones would jump at anything that smells like home.
 
-Okay. One more. Bad cells get worse when they're warm. That's the whole runaway. So I warm the stage five degrees and bleed the breath across again.
+Which means the danger was never in them. It was in where you keep them.
 
-Still nothing.
+"Jinzhou. Our tanks. The gaps behind our panels."
 
-That's not proof. That's two tests agreeing with each other. I'll take it. I put "no positive control" in the drawer with everything else.
+He's already looking. "Gap pressure on all three tanks is hard vacuum. No carbon dioxide. No leak."
 
-"Not one," I say.
+"Since launch?"
+
+"Since launch." A pause. "Somebody on our build crew did their bolts."
+
+"I'd like to send that person a fruit basket."
+
+"Not one leak," I say. "And the fuel is good."
 
 Petryn lets out a breath he's clearly been holding for most of a day. Maslin, who has been hanging upside down in the doorway pretending not to care, says "is that good. thats good right. somebody say its good"
 
@@ -132,17 +152,17 @@ Petryn lets out a breath he's clearly been holding for most of a day. Maslin, wh
 
 ---
 
-Maslin wants the rest of it, so Petryn tells him, and it takes about two sentences. A few cells in MK2's fuel were bred wrong. They went off at nothing, and that is what blew the tanks.
+Maslin wants the rest of it, so Petryn tells him, and it takes about two sentences. A bolt went in one short during the rush in orbit, and a seal never got fit. Their own breath leaked in behind the panels, and that is what blew the tanks.
 
 Maslin doesn't say anything for long enough that I notice.
 
-"a few" he says. "out of how many"
+"a bolt" he says. "one bolt"
 
-"Billions."
+"One bolt and one seal."
 
-"billions" Maslin says. "and a few" He hangs there, one boot hooked on the rail, looking at nothing. "four months in that cockpit i thought it was something i did. something i signed for. the loadout i should have checked-"
+"one bolt" Maslin says. He hangs there, one boot hooked on the rail, looking at nothing. "four months in that cockpit i thought it was something i did. something i signed for. the loadout i should have checked-"
 
-"Man," Petryn says. "You couldn't have checked a cell. Nobody could."
+"Man," Petryn says. "That panel went on before any of us came aboard. You couldn't have checked it. Nobody walked that bay but the build crew."
 
 "i know that. i do know that. its just- its a lot better than something i did"
 
@@ -150,7 +170,7 @@ Maslin doesn't say anything for long enough that I notice.
 
 Maslin looks at him.
 
-"I checked the loadout procedure." Jinzhou's voice has not changed in any way. "There is no step for checking the cells. It was never on your plate."
+"I checked the crew procedures." Jinzhou's voice has not changed in any way. "There is no step for the tank bay panels. It was signed off before launch. It was never on your plate."
 
 "you checked"
 
@@ -198,7 +218,7 @@ I was never asked.
 
 "Hm," I say. "Give me a second."
 
-I look at the board. At Bejors' header, in my copy of her handwriting. At Marsh's two lines. At the slide, still on the cold stage behind me, with its clean bright fuel that doesn't squint.
+I look at the board. At Bejors' header, in my copy of her handwriting. At Marsh's two lines. At the slide, still on the cold stage behind me, with its clean bright fuel that still wants to go.
 
 "Vent it," I say. "Vent 2-E. We take MK2's tank." My voice doesn't shake, and I'm a little offended by that. "Yes. I'm saying yes. Put it in the log."
 
