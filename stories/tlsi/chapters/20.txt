@@ -35,7 +35,7 @@ The water reclamation parts take longer, careful work, and Jinzhou and Marsh end
 
 "This valve's compatible with our system," Marsh says, turning it over in her paws, checking a threading pattern against a reference sheet she has apparently already memorized half of. "Same manufacturer specification. I'm mildly surprised. I'd assumed MK2 would have used a different supplier, given the build gap."
 
-"Argon doesn't like retooling a supply chain mid-contract," Jinzhou says. "Cheaper to keep using the same parts across a production run, even four months apart."
+"Argon does not like retooling a supply chain mid-contract," Jinzhou says. "Cheaper to keep using the same parts across a production run, even four months apart."
 
 "That's depressingly sensible."
 
@@ -224,7 +224,7 @@ I look at him. He doesn't look back, which is how I know he's pleased with that 
 
 "Does it feel different? Than six?"
 
-"I don't remember six," he says. "Not really. But I assume it wasn't this."
+"I do not remember six," he says. "Not really. But I assume it was not this."
 
 I don't know what to say to that, so I don't say anything. We sit there a while, the ship humming around us, fuller than it's been since launch, quieter than it was an hour ago, pointed, for now, at nothing, and full of people who'd all like to go home.
 
