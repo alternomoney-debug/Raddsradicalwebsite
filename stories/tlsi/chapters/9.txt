@@ -1,9 +1,9 @@
 
 Day twenty-three, and the ship smells different.
 
-Not bad. Just different. The smell of two people who have been working on the same problem long enough that the problem has started to smell like them. Lab chemicals and recycled air and whatever the food processor does when it heats things, all of it settling into a background note I stopped noticing around day fifteen and only notice now because I walked in from the hallway and caught it fresh.
+Not bad. Just different. It smells like two people who've been working on the same problem long enough that the problem has started to smell like them. Lab chemicals. Recycled air. Whatever the food processor does when it heats things. I stopped noticing it around day fifteen. I only notice now because I walked in from the hallway and caught it fresh.
 
-I put my tray down next to the microscope. Lab A, same as always. The sample from batch two is still logged and filed, already the most documented microbe in the history of a species that has been documenting microbes for several hundred years, and I'm about to add more documentation to it because there is nothing else to do while we wait for tomorrow except prepare, and preparing means knowing everything I can know before we drop below the Stephfren line and find out what we missed.
+I put my tray down next to the microscope. Lab A, same as always. The batch two sample is logged and filed. It's already the most documented microbe in the history of a species that's been documenting microbes for several hundred years, and I'm about to document it some more. Why? Because there's nothing else to do while we wait for tomorrow except prepare. And preparing means knowing everything I can before we drop below the Stephfren line and find out what we missed.
 
 Jinzhou is already in Lab C. I can hear him moving around in there, not talking, which is standard, tools being set down with the care of someone who treats equipment like it has opinions about being handled carelessly. He's been in there since before I woke up. I don't know if he slept. I'd ask, but the answer would be "yes" in a tone that closes the subject.
 
@@ -15,9 +15,11 @@ Here is what I know about the Asicell that I didn't know two weeks ago, beyond t
 
 It is not alone in the sample.
 
-I found that on day nineteen, running a population density count on the batch two slide for the fourth time, cross-referencing against the Phengoclept count from the same sample. The ratio is not random. For every measurable cluster of Phengoclept trace material in the collection, there's a corresponding Asicell density spike in the same neighborhood of the slide. Not exact. Not perfect. But consistent enough that the math points in one direction.
+I found that on day nineteen, running a population count on the batch two slide for the fourth time and checking it against the Phengoclept count from the same sample. And, huh. The two numbers move together.
 
-The Asicell follows the Phengoclept. Or finds it. Or is drawn to the Y'shari-frequency emission the same way the Phengoclept is drawn to stellar output, one organism's navigation signal becoming another organism's dinner bell. Bejors would have hated "dinner bell." She'd have used it in a talk anyway.
+Coincidence? I ran it three more times. Not a coincidence. The ratio is not random. For every measurable cluster of Phengoclept trace material in the collection, there's a corresponding Asicell density spike in the same neighborhood of the slide. Not exact. Not perfect. But consistent enough that the math points in one direction.
+
+So how does a predator find its lunch in a cloud the size of a continent? It follows it! The Asicell follows the Phengoclept. Or finds it. Or is drawn to the Y'shari-frequency emission the same way the Phengoclept is drawn to stellar output, one organism's navigation signal becoming another organism's dinner bell. Bejors would have hated "dinner bell." She'd have used it in a talk anyway.
 
 That's not in Bejors' paper. She described the predation mechanism, the absorption profile, the metabolic pathway. She didn't have the population data to describe the tracking behavior because she was working from theory and I'm working from an actual sample.
 
@@ -33,7 +35,7 @@ I push my glasses up and keep going.
 
 The EVA suits are in the airlock, off the corridor at the cockpit end, hung in a row on a rack that makes them look like they're waiting for something. Which they are. Have been, for going on seven years.
 
-I pull the first one down at roughly midmorning. It's heavier than I remember EVA suits being, which either means I've lost more muscle mass than I thought in six years of stasis or this is a different class of suit than the ones I trained in briefly, pre-mission, in a crash course crammed into the three days before launch, which I remember only in fragments. Probably both. I'm choosing to blame the suit.
+I pull the first one down at roughly midmorning. It's heavy. Why is it this heavy? Either I lost more muscle than I thought in six years of stasis, or this is a different class of suit than the ones I trained in, briefly, in a crash course crammed into the three days before launch. (I remember those three days in fragments. Most of the fragments are me sweating.) Probably both. I'm choosing to blame the suit.
 
 The checklist is printed on the inside of the storage cabinet door. Laminated. Someone thought about this, about what it would be like to need to run an EVA suit check alone on a ship six light years from the nearest qualified technician, and decided laminated was the right call. I appreciate the lamination. Whoever laminated this loved me, in a bureaucratic way. It landed.
 
