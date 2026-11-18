@@ -19,11 +19,11 @@ Found the laptops two days ago. Didn't mention it. I do that. Look at something 
 
 My English came back around day eight. Mostly. Technical words first, the small ones after. Some days I still think in one language and talk in the other, and the gap between them costs me a second. He doesn't notice the second. I do.
 
-Cabinet in the lab, looks like it should hold samples, holds eight laptops and a charging hub instead. Sticky note on the inside of the door: FOR USE WHEN RESEARCHING OR BORED. Handwriting I don't recognize.
+Cabinet in the lab, looks like it should hold samples, holds eight laptops and a charging hub instead. Sticky note on the inside of the door: FOR USE WHEN RESEARCHING OR BORED. Handwriting I don't recognise.
 
 They talk to the Vanguard's internal network. Not the internet. We're nowhere near an internet. Just the ship's own servers, which hold more data than I've finished processing and probably more than I ever will.
 
-One laptop has a cracked screen. Corner to center, working half and dead half. I use that one. Not the best option. The honest one. Somebody dropped it. It kept working anyway.
+One laptop has a cracked screen. Corner to centre, working half and dead half. I use that one. Not the best option. The honest one. Somebody dropped it. It kept working anyway.
 
 I've been reading the technical specs. All of them. Every subsystem, every maintenance log, every note the engineers left behind while building this thing over our heads. Eleven thousand pages. I'm at four hundred. I'll finish the rest, because this ship is the only thing keeping us alive and I'd like to understand it better than the people who built it.
 
@@ -33,11 +33,11 @@ Not everyone's idea of downtime. Fine by me. Don't have a better one.
 
 Two people on a ship learn each other fast. Not on purpose. Same way you learn a building's noises if you live in it long enough.
 
-Ethyn makes coffee first thing, or whatever the machine calls coffee. I've had it twice. Adequate. He pushes his glasses up when he's concentrating. Talks through math out loud, whether or not anyone's listening. Forgets to eat, remembers, eats too fast.
+Ethyn makes coffee first thing, or whatever the machine calls coffee. I've had it twice. Adequate. He pushes his glasses up when he's concentrating. Talks through maths out loud, whether or not anyone's listening. Forgets to eat, remembers, eats too fast.
 
 I eat when the arm brings the tray. Simple system. Works.
 
-I note these things because noting things is what I do. Fuel curves. Ethyn's coffee habits. What Asimov-09D looks like depending on which filter the sensor array is running. All of it goes in the same place. My head. I've never mapped how it's organized in there. Doesn't need mapping. It works.
+I note these things because noting things is what I do. Fuel curves. Ethyn's coffee habits. What Asimov-09D looks like depending on which filter the sensor array is running. All of it goes in the same place. My head. I've never mapped how it's organised in there. Doesn't need mapping. It works.
 
 ---
 
@@ -91,7 +91,7 @@ Fold it back along the creases. Pocket.
 
 ---
 
-At some point I close the technical specs and open something else. Not PERSONAL_STORAGE. Not ready for that yet. REFERENCE_LIBRARY_MIRROR instead, organized loosely by subject, with a section on orbital mechanics I've been circling since Ethyn first showed me the directory.
+At some point I close the technical specs and open something else. Not PERSONAL_STORAGE. Not ready for that yet. REFERENCE_LIBRARY_MIRROR instead, organised loosely by subject, with a section on orbital mechanics I've been circling since Ethyn first showed me the directory.
 
 I read it anyway. Not because I've forgotten any of it, training's coming back the same incremental way Ethyn's memory is, skills first, names later, but rereading something you already know shows you what you'd assumed without noticing you were assuming it.
 

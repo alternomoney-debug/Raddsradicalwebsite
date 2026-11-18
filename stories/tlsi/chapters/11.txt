@@ -197,7 +197,7 @@ I watch the readout for as long as I can. It isn't very long.
 
 Altitude was on panel four.
 
-Secondary display. Three hundred and ten meters of drift. Didn't see it. I was watching the winch, because Ethyn asked me to watch the winch, because the winch was the problem.
+Secondary display. Three hundred and ten metres of drift. Didn't see it. I was watching the winch, because Ethyn asked me to watch the winch, because the winch was the problem.
 
 All true. None of it useful.
 
@@ -205,7 +205,7 @@ Winch load off the main screen. Altitude on. Worse than three hundred and ten no
 
 External camera. The tank covers are coming off. One, then the next, then the next. Not falling. Lifting off the housings and going. Tank 2-E is bare.
 
-Ethyn turns toward the airlock.
+Ethyn turns towards the airlock.
 
 The locker goes.
 
@@ -229,7 +229,7 @@ The stupid thing is full climb. All motors, one pulse, one point seven out of no
 
 So. Not all at once.
 
-Throttle is two things. The trigger fires one pulse. Center ring first, then the wave runs out ring by ring to the edge of the plate. Hold the trigger and the pulses keep coming. The lever says how many motors are in the wave. That's all it does. Simple system. Works.
+Throttle is two things. The trigger fires one pulse. Centre ring first, then the wave runs out ring by ring to the edge of the plate. Hold the trigger and the pulses keep coming. The lever says how many motors are in the wave. That's all it does. Simple system. Works.
 
 I don't touch either one. I write over them.
 
@@ -242,7 +242,7 @@ Eleven seconds. Enter.
 
 "Ramp accepted," ARACCSIM says. "Selecting omitted motors. Motor six excluded."
 
-Pulse. Center ring. The wave goes out under my feet.
+Pulse. Centre ring. The wave goes out under my feet.
 
 Pulse.
 
@@ -280,7 +280,7 @@ Two weeks of this hull on screens. On a screen it's geometry. Distances. Angles.
 
 Out here it's a slope.
 
-The Vanguard is tipping. Nose down. We're still pointed retrograde, motors still set to brake, and there aren't enough of them in the wave yet to hold us level. So the ship sags toward the planet, front first, slow. Down is aft, and aft is downhill.
+The Vanguard is tipping. Nose down. We're still pointed retrograde, motors still set to brake, and there aren't enough of them in the wave yet to hold us level. So the ship sags towards the planet, front first, slow. Down is aft, and aft is downhill.
 
 Out of the airlock. Up onto the hull. The rail runs from here all the way to the engines, straight down the slope. Ethyn is at the bottom of it.
 
@@ -342,7 +342,7 @@ A length of rod from the locker mount. Rebar. Through my forearm. In one side, o
 
 I look at it for one second. Exactly one.
 
-Then I take hold of the end and pull. It comes. I let the weight have it. It slides away down the slope toward the engines and is gone.
+Then I take hold of the end and pull. It comes. I let the weight have it. It slides away down the slope towards the engines and is gone.
 
 I don't feel it yet. I'll feel it later. I go in after him.
 
@@ -350,7 +350,7 @@ I don't feel it yet. I'll feel it later. I go in after him.
 
 "Final step authorized."
 
-Outer door closes. The last hundred join the wave. Center ring, out to the edge, every motor on the plate but six. The weight comes down on both of us like a hand on a table. Through the little window the hull is coming apart past the glass. Panel. Strut. Bracket. All of it going aft. The nose comes up. The orange thins. Goes. Dark at the edges of the glass. Something loud hits the hull and is gone.
+Outer door closes. The last hundred join the wave. Centre ring, out to the edge, every motor on the plate but six. The weight comes down on both of us like a hand on a table. Through the little window the hull is coming apart past the glass. Panel. Strut. Bracket. All of it going aft. The nose comes up. The orange thins. Goes. Dark at the edges of the glass. Something loud hits the hull and is gone.
 
 Last pulse fires clean.
 

@@ -37,7 +37,13 @@ The water reclamation parts take longer, careful work, and Jinzhou and Marsh end
 
 "This valve's compatible with our system," Marsh says, turning it over in her paws, checking a threading pattern against a reference sheet she has apparently already memorized half of. "Same manufacturer specification. I'm mildly surprised. I'd assumed MK2 would have used a different supplier, given the build gap."
 
-"Argon does not like retooling a supply chain mid-contract," Jinzhou says. "Cheaper to keep using the same parts across a production run, even four months apart."
+"Argon does not like retooling a supply chain mid-contract," Jinzhou says. "Cheaper to keep using the same parts across a production run, even four months apart. Same as tyres on a lorry."
+
+"a what," Maslin says, from inside a crate.
+
+"A truck," I translate. "He means a truck."
+
+"I said lorry," Jinzhou says.
 
 "That's depressingly sensible."
 
@@ -45,7 +51,7 @@ The water reclamation parts take longer, careful work, and Jinzhou and Marsh end
 
 Marsh laughs, short, surprised at herself, like she wasn't expecting Jinzhou to have a sense of humor buried under all that flatness. Honestly, neither was I. I've been with him this whole trip, and I'm a little offended it took a stranger showing up to bring it out of him.
 
-"Our reclamation loop was sized for two awake people, on what's left of the power bus," Jinzhou says, back to flat, already reaching for the next valve. "It is about to feed five."
+"Our reclamation loop was sized for two awake people, on what is left of the power bus," Jinzhou says, back to flat, already reaching for the next valve. "It is about to feed five."
 
 "Then we should make every valve count," Marsh says.
 
