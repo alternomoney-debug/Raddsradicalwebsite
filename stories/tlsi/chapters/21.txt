@@ -44,7 +44,7 @@ I want to argue. I find I can't.
 
 ---
 
-Petryn finds me in Lab B that afternoon with a data pad and the look of a man who has been up too long with a question.
+Petryn finds me in Lab B that afternoon with a data pad and the look of somebody who has been up too long with a question.
 
 "Ethyn. Can I show you somethin'?"
 
@@ -68,11 +68,11 @@ Because carbon dioxide glows. Not so you'd see it. In infrared. Warm CO2 gives o
 
 "That's the third time through." Petryn pulls up a different file. A build record. Work orders, rows and rows of them, every line signed. "MK2 got put together in orbit, fast, so she could launch four months behind you. Look at this one."
 
-He taps a line. Tank bay panel install, tanks one and two. Signed complete. Fastener count, one short of spec. And a note in the margin: *Seal on scrubber vent run deferred. Fit at next service.*
+She taps a line. Tank bay panel install, tanks one and two. Signed complete. Fastener count, one short of spec. And a note in the margin: *Seal on scrubber vent run deferred. Fit at next service.*
 
 "There was no next service," I say.
 
-"There was no next service." He taps the screen again. "Scrubber vent runs right through that bay. Behind the panels. One bad bolt, one seal nobody fit, and every time the scrubbers cycled, a little bit of our breath leaked into the gap between the tank and its panels."
+"There was no next service." She taps the screen again. "Scrubber vent runs right through that bay. Behind the panels. One bad bolt, one seal nobody fit, and every time the scrubbers cycled, a little bit of our breath leaked into the gap between the tank and its panels."
 
 "So the cells see carbon dioxide."
 
@@ -110,7 +110,7 @@ I stop breathing for a second. Not dramatically. Just long enough to notice.
 
 Getting a sample takes most of the next day.
 
-MK2's fuel taps still answer to Petryn, the way old machines answer to whoever has been patient with them the longest. He draws a vial from the third tank through the engineering panel in the dead cockpit, walks it back through the collar in a cold box, and hands it to me like he's handing over a pet that might bite.
+MK2's fuel taps still answer to Petryn, the way old machines answer to whoever has been patient with them the longest. She draws a vial from the third tank through the engineering panel in the dead cockpit, walks it back through the collar in a cold box, and hands it to me like she's handing over a pet that might bite.
 
 I put a drop on the cold stage and look.
 
@@ -146,7 +146,7 @@ He's already looking. "Gap pressure on all three tanks is hard vacuum. No carbon
 
 "Not one leak," I say. "And the fuel is good."
 
-Petryn lets out a breath he's clearly been holding for most of a day. Maslin, who has been hanging upside down in the doorway pretending not to care, says "is that good. thats good right. somebody say its good"
+Petryn lets out a breath she's clearly been holding for most of a day. Maslin, who has been hanging upside down in the doorway pretending not to care, says "is that good. thats good right. somebody say its good"
 
 "It's good," I say. "It's very good. It's the first good thing that's happened to anybody's fuel on either of these ships."
 
