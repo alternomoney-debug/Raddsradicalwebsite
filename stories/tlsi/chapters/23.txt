@@ -52,7 +52,7 @@ Oh, that's clever. The Asicell wake up based on how warm they get. So don't warm
 
 "Against thirty-two."
 
-"The spin motors," Petryn says. He's already leaning in. "Man, that's the part I don't like. Those first six hours, the stack runs rough even on a nice even thaw. Thaw it uneven, and the stack's gonna be lopsided. One end warm, one end cold. That's gonna shake."
+"The spin motors," Petryn says. She's already leaning in. "Man, that's the part I don't like. Those first six hours, the stack runs rough even on a nice even thaw. Thaw it uneven, and the stack's gonna be lopsided. One end warm, one end cold. That's gonna shake."
 
 "Can you tune it?"
 
@@ -70,7 +70,7 @@ The spin comes down with two keys, the way it went up. The weight leaves the way
 
 Five stations. We take them without anybody having to assign them.
 
-Marsh flies. On a ship that hasn't gone anywhere in months, that means a lot of watching an attitude indicator. Petryn takes the medbay, the room closest to the engines, with his back flat against the aft wall, because he's not going to trust a vibration he can't feel with his own spine. Maslin takes the fuel readout. It has one job and no room for him to be funny at it. Jinzhou's at the software bench in the cockpit, with a screen of code that looks like a very long apology. I'm in Lab B, in front of the thaw map and the Asicell tracking, because I'm the only one aboard who knows what a sleeping Asicell looks like right before it stops sleeping.
+Marsh flies. On a ship that hasn't gone anywhere in months, that means a lot of watching an attitude indicator. Petryn takes the medbay, the room closest to the engines, with her back flat against the aft wall, because she's not going to trust a vibration she can't feel with her own spine. Maslin takes the fuel readout. It has one job and no room for him to be funny at it. Jinzhou's at the software bench in the cockpit, with a screen of code that looks like a very long apology. I'm in Lab B, in front of the thaw map and the Asicell tracking, because I'm the only one aboard who knows what a sleeping Asicell looks like right before it stops sleeping.
 
 "Thaw sequence initiated," LSI-ASM&C says, in the voice of a man reading a parking ticket. "Reason code, crew authority."
 
@@ -118,7 +118,7 @@ It doesn't. But it gives my eyes something to do.
 
 Hours six through twenty are the longest and shortest of my life.
 
-The ticking settles. It eases into a hum. The hum gets smoother. Petryn stops sounding like a man bailing out a boat. Marsh reads the stack temperature every ten minutes. Maslin refills a tube of something and leaves it next to me without a word. I eat it without looking at the label. It's not the green one. I'm a little sad about that.
+The ticking settles. It eases into a hum. The hum gets smoother. Petryn stops sounding like somebody bailing out a boat. Marsh reads the stack temperature every ten minutes. Maslin refills a tube of something and leaves it next to me without a word. I eat it without looking at the label. It's not the green one. I'm a little sad about that.
 
 At hour twenty, Jinzhou floats into Lab B, holds the rail next to me, and says nothing for a while. Then:
 
@@ -174,9 +174,9 @@ It accumulates. Over the next half hour, down comes back. And it doesn't come ba
 
 Somewhere below me, a tube I forgot to clip down makes the whole trip to the medbay. Petryn reports it over the comm like a weather event. (Note to self: clip things down. Note to self, again: you wrote that note last time.)
 
-Somewhere at the back of the ship, a thousand and nine motors are doing what Kalen showed us, as hard as they're allowed to. Attract. Pulse. Scrape. And with them, if this works, everything that came down the line goes through a motor hot enough to boil water. Nothing small and alive would ever want to go there. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall he had his back against. He says it feels like leaning on a really big refrigerator that decided to purr.
+Somewhere at the back of the ship, a thousand and nine motors are doing what Kalen showed us, as hard as they're allowed to. Attract. Pulse. Scrape. And with them, if this works, everything that came down the line goes through a motor hot enough to boil water. Nothing small and alive would ever want to go there. I can't hear it. Petryn can feel it through the medbay floor, which an hour ago was the wall she had her back against. She says it feels like leaning on a really big refrigerator that decided to purr.
 
-"How's the stack?" I ask him.
+"How's the stack?" I ask her.
 
 "Steady, man. Real steady. She's lopsided in a way I can live with."
 
@@ -276,7 +276,7 @@ Bad news: we're about to set two-thirds of it on fire on purpose.
 
 "Petryn. Can the stack take it?"
 
-"Man." His voice comes over the comm from the medbay, and I can hear his teeth in it. "I just got her sounding nice."
+"Man." His voice comes over the comm from the medbay, and I can hear her teeth in it. "I just got her sounding nice."
 
 "I know."
 
@@ -424,7 +424,7 @@ Dust settles on the grate. The tube in the corner stays in the corner. I put my 
 
 "Spent cells?"
 
-"Scrape phase complete," Petryn says. His voice is cracked and warm, and he's laughing, I think. Or something close. "All of 'em. Every last one went out the back lookin' at nothin'. Nothin' at all, man."
+"Scrape phase complete," Petryn says. Her voice is cracked and warm, and she's laughing, I think. Or something close. "All of 'em. Every last one went out the back lookin' at nothin'. Nothin' at all, man."
 
 "Asicell?"
 
@@ -470,7 +470,7 @@ I think I'll remember that one for a long time.
 
 Nobody moves for a while. Then we do, one at a time, climbing the shaft toward Lab B like people who just heard the party's still going.
 
-Petryn climbs up from the medbay with sweat in his fur and a grin that takes up most of his face. Marsh comes out of the cockpit and doesn't straighten her jacket, which is the loudest thing she's ever done. Maslin shows up the way he shows up to everything, too fast. Then he sits down on the grate with both arms around his knees and doesn't say anything at all.
+Petryn climbs up from the medbay with sweat in her fur and a grin that takes up most of her face. Marsh comes out of the cockpit and doesn't straighten her jacket, which is the loudest thing she's ever done. Maslin shows up the way he shows up to everything, too fast. Then he sits down on the grate with both arms around his knees and doesn't say anything at all.
 
 Jinzhou comes last. He holds the rail next to me a little too long. Then he lets go with one paw and puts it flat on the whiteboard, near the corner with my numbers.
 
