@@ -3,6 +3,8 @@ Moving a life across the gap between two docked ships turns out to be less drama
 
 We work in shifts. Two at a time through the docking collar, hauling what's salvageable, cataloguing as we go, ARACCSIM keeping a running manifest on both ends so nothing gets double-counted or lost. Nothing weighs anything, which sounds like it should make the job easy. It makes the job different. A crate that weighs nothing still has all of its mass, and it has strong opinions about stopping. I learn this on the first morning, with my snout.
 
+(Okay. Science. Weightless isn't massless. A forty-kilo crate drifting at half a meter a second has exactly as much momentum as it would on the ground, and it gives all of it to whatever stops it. Today that was my face. I'd like it noted that my face did stop it.)
+
 The three of them keep sleeping in the cockpit until the move is done, strapped to the rails in a ship that is slowly being emptied around them.
 
 "its like gettin evicted in slow motion," Maslin says, on day two. Nobody argues.
@@ -35,15 +37,15 @@ The water reclamation parts take longer, careful work, and Jinzhou and Marsh end
 
 "This valve's compatible with our system," Marsh says, turning it over in her paws, checking a threading pattern against a reference sheet she has apparently already memorized half of. "Same manufacturer specification. I'm mildly surprised. I'd assumed MK2 would have used a different supplier, given the build gap."
 
-"Argon doesn't like retooling a supply chain mid-contract," Jinzhou says. "Cheaper to keep using the same parts across a production run, even four months apart."
+"Argon does not like retooling a supply chain mid-contract," Jinzhou says. "Cheaper to keep using the same parts across a production run, even four months apart. Same as tyres on a truck."
 
 "That's depressingly sensible."
 
-"Most things Argon does are depressingly sensible. That's sort of their whole business model."
+"Most things Argon does are depressingly sensible. That is sort of their whole business model."
 
 Marsh laughs, short, surprised at herself, like she wasn't expecting Jinzhou to have a sense of humor buried under all that flatness. Honestly, neither was I. I've been with him this whole trip, and I'm a little offended it took a stranger showing up to bring it out of him.
 
-"Our reclamation loop was sized for two awake people, on what's left of the power bus," Jinzhou says, back to flat, already reaching for the next valve. "It's about to feed five."
+"Our reclamation loop was sized for two awake people, on what is left of the power bus," Jinzhou says, back to flat, already reaching for the next valve. "It is about to feed five."
 
 "Then we should make every valve count," Marsh says.
 
@@ -118,7 +120,7 @@ An actual line. Four of us clipped to the rail in the hallway outside the medbay
 
 "I heard that," Jinzhou says, from the front of the line, not turning around.
 
-The processor makes one tube at a time, about forty seconds each. Two people never noticed. Five people, forty seconds a tube: the line was never a possibility. It was math.
+The processor makes one tube at a time, about forty seconds each. Two people never noticed. Five people, forty seconds a tube? The line wasn't a possibility. It was math. Four of us in it, and I'm fourth. Three tubes ahead of me is two minutes of hanging on a rail. I've waited longer for worse.
 
 Maslin's turn comes. He turns the tube over, reads the label, and frowns at it.
 
@@ -224,7 +226,7 @@ I look at him. He doesn't look back, which is how I know he's pleased with that 
 
 "Does it feel different? Than six?"
 
-"I don't remember six," he says. "Not really. But I assume it wasn't this."
+"I do not remember six," he says. "Not really. But I assume it was not this."
 
 I don't know what to say to that, so I don't say anything. We sit there a while, the ship humming around us, fuller than it's been since launch, quieter than it was an hour ago, pointed, for now, at nothing, and full of people who'd all like to go home.
 

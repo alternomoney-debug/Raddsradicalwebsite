@@ -27,13 +27,13 @@ Maslin snorts.
 
 "im not sayin its bad, im sayin its funny, theres a difference." He hooks himself into the seat that's apparently also his bed and folds his arms. He's stopped treating us like a threat. He hasn't stopped checking. "Go ahead, do your little assessment thing, ill just be over here, existin"
 
-Petryn is already drifting toward one of the dead terminals, unhurried, running a paw along its edge like he's saying hello to it.
+Petryn is already drifting toward one of the dead terminals, unhurried, running a paw along its edge like she's saying hello to it.
 
-"This one might still have somethin' in it," he says. "Local cache, even if the network's shot. Won't know till I try, though, and I don't wanna get anybody's hopes up before I know for sure. That's a bad habit. Gettin' folks hopeful before you got a reason to."
+"This one might still have somethin' in it," she says. "Local cache, even if the network's shot. Won't know till I try, though, and I don't wanna get anybody's hopes up before I know for sure. That's a bad habit. Gettin' folks hopeful before you got a reason to."
 
 "Take your time," I say.
 
-"Oh, I intend to," he says, like rushing never occurred to him. "Rushin' a dead system just breaks it worse. Learned that the hard way, more than once."
+"Oh, I intend to," she says, like rushing never occurred to her. "Rushin' a dead system just breaks it worse. Learned that the hard way, more than once."
 
 Marsh hasn't said much since her one question earlier. She's anchored beside a small console tucked into the corner. It took me a minute to see it was a flight station. It took her none.
 
@@ -59,7 +59,7 @@ It's the correct question. What gets me is how carefully she asks it. She's sand
 
 Jinzhou has been quiet, which is normal. But it's his three-steps-ahead quiet, not his regular quiet. I've learned to tell them apart. It took six months and a coma.
 
-"The math doesn't work," he says, finally. "Not with five people on our current supply projection. We'd need to know what's actually salvageable from this ship before we can say whether it's survivable."
+"The math does not work," he says, finally. "Not with five people on our current supply projection. We need to know what is actually salvageable from this ship before we can say whether it is survivable."
 
 "That is what I was getting at," Marsh says, and something in her voice unclenches about a millimeter. "I didn't want to be the one who brought it up first. It felt presumptuous."
 
@@ -77,7 +77,7 @@ She looks at me for a second like she's deciding whether to believe that.
 
 Petryn gets the terminal working about twenty minutes later, a soft chime that makes all of us turn at once.
 
-"There we go," he says, quiet and pleased, like the terminal just remembered his name. "Local cache survived. Not much, but it's somethin'. Cargo manifest, mostly. What we launched with, what we've used, what's left."
+"There we go," she says, quiet and pleased, like the terminal just remembered her name. "Local cache survived. Not much, but it's somethin'. Cargo manifest, mostly. What we launched with, what we've used, what's left."
 
 "Read it out," I say.
 
@@ -85,7 +85,7 @@ Petryn gets the terminal working about twenty minutes later, a soft chime that m
 
 Maslin unclips and drifts over Petryn's shoulder. On him, hope looks more nervous than suspicion did.
 
-"cmon cmon," he says, half to him, half to the screen. "whatve we got- gimme somethin good"
+"cmon cmon," he says, half to her, half to the screen. "whatve we got- gimme somethin good"
 
 "Gimme a second, Maslin. I'm workin' on it. You know rushin' don't help."
 
@@ -98,15 +98,15 @@ Marsh watches. Jinzhou, beside me, says nothing at all. In this room, right now,
 ---
 
 
-"Okay," Petryn says, and something about how he says it, careful, unhurried even now, tells me before the actual numbers do that this isn't going to be the clean good news any of us were hoping for. "Here's what we got."
+"Okay," Petryn says, and something about how she says it, careful, unhurried even now, tells me before the actual numbers do that this isn't going to be the clean good news any of us were hoping for. "Here's what we got."
 
-He reads it slow. Bad news doesn't land softer if you rush it. He knows that. I'm learning it.
+She reads it slow. Bad news doesn't land softer if you rush it. She knows that. I'm learning it.
 
-"Ration stores, about sixty percent intact. Rest got compromised in the breach, atmosphere exposure, some of it just straight up vented into space with the hull section it was stored in." He looks up. "Sixty percent of what was packed for nine people, a year or two. Recalculated for three of us stretched out over however long we been out here, that shoulda lasted us a good while longer than it has."
+"Ration stores, about sixty percent intact. Rest got compromised in the breach, atmosphere exposure, some of it just straight up vented into space with the hull section it was stored in." She looks up. "Sixty percent of what was packed for nine people, a year or two. Recalculated for three of us stretched out over however long we been out here, that shoulda lasted us a good while longer than it has."
 
 "Should have," I repeat.
 
-"Yeah." He says it plain, no dressing it up. "We been rationin hard. Real hard. Longer than we shoulda had to, if the math had gone like it was supposed to. But four months sealed in a cockpit does somethin to how careful you get about a can of somethin'."
+"Yeah." She says it plain, no dressing it up. "We been rationin hard. Real hard. Longer than we shoulda had to, if the math had gone like it was supposed to. But four months sealed in a cockpit does somethin to how careful you get about a can of somethin'."
 
 Maslin is quiet for once, arms crossed, watching the numbers scroll on the screen like they might change if he stares hard enough.
 
@@ -132,9 +132,9 @@ Nobody says anything for a second.
 
 ---
 
-I do the math out loud, because that's what I do. Saying numbers out loud has always made them feel more manageable than letting them sit silent in my own head.
+Okay. Math. Out loud, because that's the only way I've ever done math.
 
-"Our supplies. Two people, mostly asleep, for a trip home of about eight years once we can actually start it, sitting at enough margin to be comfortable. Add three more people." I stop. Start the actual arithmetic. "Add three more people, and even with whatever's salvageable from your stores, we're cutting it a lot closer than comfortably."
+"Our food was packed for six people, ninety days awake. Four of those six aren't eating. So for two people, it stretches a long way. Two people, mostly asleep, eight years home, with room to spare." I hold up two fingers. Then I add three more. "Five people. That's two and a half times the mouths. The room to spare just got eaten. Add whatever's salvageable from your stores, and we're still cutting it a lot closer than comfortable."
 
 "How close," Marsh asks. Quiet. Precise. The first thing she's said since the terminal chimed, and it lands exactly on the question that actually matters.
 
@@ -182,7 +182,7 @@ She closes her eyes for a second. Just one. I'm beginning to understand that's h
 
 "you put the thing that eats fuel," Maslin says slowly, "in the fuel"
 
-"I'd like it noted that it put itself there."
+"In my defense, it put itself there."
 
 "and youre plannin to fly home on it"
 
@@ -190,13 +190,13 @@ She closes her eyes for a second. Just one. I'm beginning to understand that's h
 
 "thats the worst sentence ive ever heard," he says, with something almost like admiration. "and ive been livin in a cockpit for four months"
 
-"There's a second worst sentence," Jinzhou says. "To leave, the engines have to restart. Warming them takes twenty-two hours. The burn home takes five months."
+"There is a second worst sentence," Jinzhou says. "To leave, the engines have to restart. Warming them takes twenty-two hours. The burn home takes five months."
 
 "And the Asicell?" Marsh says.
 
 "Wake up about fifty-one hours after the warming starts," I say. "Plus or minus six. In the one place on the ship where all the fuel goes past."
 
-Nobody says anything for a long moment. Petryn is the one who breaks it, slow and thoughtful, still half looking at his manifest.
+Nobody says anything for a long moment. Petryn is the one who breaks it, slow and thoughtful, still half looking at her manifest.
 
 "So you got about two days of a five-month job, man."
 
@@ -206,7 +206,7 @@ Nobody says anything for a long moment. Petryn is the one who breaks it, slow an
 
 "Yes."
 
-"Huh," Petryn says. He doesn't sound frightened. He sounds like a man who has just been handed an engine with a strange noise in it and is already listening for where the noise lives. "That's a real interestin' problem."
+"Huh," Petryn says. She doesn't sound frightened. She sounds like somebody who has just been handed an engine with a strange noise in it and is already listening for where the noise lives. "That's a real interestin' problem."
 
 "I was hoping someone would say that," I say, and I mean it more than I can explain. "Everybody else has called it a disaster."
 
@@ -228,13 +228,13 @@ Maslin looks at Jinzhou. "is he always like this"
 
 ---
 
-Petryn is still looking at the manifest, something thoughtful behind his eyes that hasn't resolved into words yet.
+Petryn is still looking at the manifest, something thoughtful behind her eyes that hasn't resolved into words yet.
 
-"Six of you started this," he says, slow, working it out as he goes. "Two made it this far. Three of us started somethin else entire, and all three of us made it this far. Five of us total, now, tryin to get home on one workin ship." He shakes his head slightly, not in disagreement, more like he's marveling at the shape of it. "That's, like. That's a lot of loss to still end up with this many people standin in one room."
+"Six of you started this," she says, slow, working it out as she goes. "Two made it this far. Three of us started somethin else entire, and all three of us made it this far. Five of us total, now, tryin to get home on one workin ship." She shakes her head slightly, not in disagreement, more like she's marveling at the shape of it. "That's, like. That's a lot of loss to still end up with this many people standin in one room."
 
-"It's a good number," I say. "Five. I'd like to keep it."
+"It's a good number," I say. "Five. Let's keep it."
 
-"I don't know if I believe in luck," he says again, the same thing he said when we first opened the door, "but I believe in that."
+"I don't know if I believe in luck," she says again, the same thing she said when we first opened the door, "but I believe in that."
 
 Marsh has moved closer to the terminal, looking at the raw numbers herself now instead of just listening to Petryn's summary, cross-checking something I can't quite see from here.
 

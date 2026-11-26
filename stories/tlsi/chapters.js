@@ -21,7 +21,7 @@ window.TLSI_CHAPTERS = [
   { n: 8, title: "I’ll Get the Cable" },
   { n: 9, title: "Tomorrow I Go Find It" },
   { n: 10, title: "I’m Trying Out Optimism" },
-  { n: 11, title: "It Has a Clause" },
+  { n: 11, title: "Forty Yards" },
   { n: 12, title: "Get in the Shot Properly" },
   { n: 13, title: "Not Reachable" },
   { n: 14, title: "That’s a Very Fast Hello" },

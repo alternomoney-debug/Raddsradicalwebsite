@@ -7,6 +7,8 @@ The cockpit module is small. Smaller than ours. Everything in here has the compr
 
 And there are three of them.
 
+Three! All three made it!
+
 All three are hooked onto rails and loops against the far wall, in a loose cluster. Not a formation. It's what you look like after months of not knowing if the next thing through the door is help or the end.
 
 The one who was talking to us, I can tell before he opens his mouth again. He's the one in front, the one who put himself between us and the other two without seeming to think about it, drifting half a meter side to side with one foot hooked on a rail, like holding still isn't an option for him right now.
@@ -19,7 +21,7 @@ The one who was talking to us, I can tell before he opens his mouth again. He's 
 
 "Ethyn Vasek. Secondary Scientist, Vanguard MK1. This is Jinzhou Kenzo, Software Engineer, same ship." I keep my voice level, or as level as I can manage, which right now is not especially level. "We picked up your transponder burst on approach. We didn't, uh, know MK2 existed until about eight hours ago."
 
-That gets a reaction from the other two, a look passed between them that I can't fully read. Something between confirmation and disappointment, like a theory just got proven right that they'd been hoping would turn out wrong.
+That gets a look between the other two. I can't read all of it. It's the look you give somebody when a theory you were hoping was wrong turns out to be right.
 
 "You didn't know we existed," the blunt one repeats.
 
@@ -41,17 +43,19 @@ The one on the left drifts forward slightly, not aggressive, just present.
 
 "Marsh Okonjo," she says. "Pilot."
 
-Then, from further back, slower, unhurried, someone pushes off the wall like leaving it is a decision he's thought all the way through first.
+Then, from further back, slower, unhurried, someone pushes off the wall like leaving it is a decision she's thought all the way through first.
 
-"Petryn Draven," he says. Not loud. Not needing to be. "Engineer."
+"Petryn Draven," she says. Not loud. Not needing to be. "Engineer."
 
-There's a pause after his name, like he's giving the room a second to receive it before he keeps going. It's a very different thing from how the blunt one talks, where every sentence seems to be racing the next one out of his mouth.
+She. I think. Going by looks, anyway. Petryn has the kind of face and the kind of build I'd file under "she" without stopping to think about it, and I'm not about to be the guy who asks a stranger that two minutes after meeting them in a dead ship. So: she. Provisionally. If I'm wrong, I'll find out. Politely. Eventually.
+
+There's a pause after her name, like she's giving the room a second to receive it before she keeps going. It's a very different thing from how the blunt one talks, where every sentence seems to be racing the next one out of his mouth.
 
 "Man," Petryn says, looking at us properly now, at the suits, at the ship somewhere out past the hull that neither of them can see but both know is there. "You two came a long way to find us lookin' like this. Sorry about the mess. We weren't really expectin' company."
 
 "petryn." The blunt one, sharp, like Petryn said something wrong by being calm about it. "we dont know these guys"
 
-"I know we don't know 'em, Maslin," he says, easy, unbothered, the words coming out slow and rounded at the edges like he's got all the time left in the universe to say them. "That's kinda the whole thing about meetin' people. You don't know 'em yet."
+"I know we don't know 'em, Maslin," she says, easy, unbothered, the words coming out slow and rounded at the edges like she's got all the time left in the universe to say them. "That's kinda the whole thing about meetin' people. You don't know 'em yet."
 
 Maslin doesn't have a response to that right away, which I get the sense doesn't happen to him often.
 
@@ -61,7 +65,7 @@ Maslin doesn't have a response to that right away, which I get the sense doesn't
 
 "sure man whatever-" Maslin says, "-this is some reaalll robust supply chain we got goin, world fuckin class."
 
-I look between the three of them. Marsh is still in a careful way, like she's been rationing energy along with everything else. Petryn is still in a loose way. He decided a while back that panic wasn't helping and just stopped doing it. I'd like to know how. I'd like a pamphlet.
+I look between the three of them. Marsh is still in a careful way, like she's been rationing energy along with everything else. Petryn is still in a loose way. She decided a while back that panic wasn't helping and just stopped doing it. I want to know how. I want a pamphlet.
 
 Maslin is the one still closest to us. Still the one most ready to move if he needs to.
 
@@ -73,7 +77,7 @@ Maslin is the one still closest to us. Still the one most ready to move if he ne
 
 He looks at Marsh. Marsh looks back, and something passes between them, the shorthand of people who've had this exact conversation enough times that they no longer need most of the words.
 
-"Cockpit specifically," Petryn says, when neither of the other two seems inclined to answer first, unhurried, like he's telling a story rather than reporting a fact. "About four months, man. We were livin' in the rest of the ship before that. Storage room, mostly, some of the crew section. Sealed ourselves in here once the last of the hull breaches got bad enough we couldn't trust the pressure out there no more."
+"Cockpit specifically," Petryn says, when neither of the other two seems inclined to answer first, unhurried, like she's telling a story rather than reporting a fact. "About four months, man. We were livin' in the rest of the ship before that. Storage room, mostly, some of the crew section. Sealed ourselves in here once the last of the hull breaches got bad enough we couldn't trust the pressure out there no more."
 
 "And before that," I ask. "The explosion. What happened?"
 
@@ -87,13 +91,15 @@ Maslin's jaw does something tight.
 
 Petryn puts a paw on his shoulder. Just that. Doesn't say anything about it, doesn't make it a whole thing, just a paw, steady, there.
 
-"He does that," he says to me, easy, like he's letting me in on something rather than explaining an inconvenience. "Talks it all the way out till there's nothin' left in the tank. It's how he gets through it. I don't mind it none."
+"He does that," she says to me, easy, like he's letting me in on something rather than explaining an inconvenience. "Talks it all the way out till there's nothin' left in the tank. It's how he gets through it. I don't mind it none."
 
 "i dont need you narratin me, petryn," Maslin says, but there's no real heat in it, and he doesn't shrug the paw off either.
 
 "I know you don't need it," he says. "I'm doin' it anyway. That's kinda my whole thing."
 
-I don't have a response to any of that that doesn't feel inadequate, so I don't try to give one.
+A fuel reaction. In the transfer system. Two tanks gone and a third cooked. Okay. What makes Phengoclept go off in a pipe? Heat. A jolt. Something shoving the cells around. I don't know which. I put it in the drawer for later-Ethyn, next to everything else.
+
+I don't have anything to say to Maslin that doesn't feel too small, so I don't try.
 
 ---
 
@@ -109,9 +115,9 @@ Maslin looks at me for a long moment.
 
 "yeah," he says, finally, some of the edge going out of his voice, not gone, just set down for a second. "yeah. me too man. me too."
 
-Petryn tilts his head slightly, looking at the two of us with something that isn't quite a smile but is heading in that direction.
+Petryn tilts her head slightly, looking at the two of us with something that isn't quite a smile but is heading in that direction.
 
-"Crazy, though," he says, slow, thoughtful, like he's turning the thought over before letting it out. "Two ships, launched months apart, endin' up in the same little pocket of the whole universe at the same time. That's, like. That's a lot of somethin' had to line up for that to happen, you know? I don't know if I believe in luck exactly. But I believe in that."
+"Crazy, though," she says, slow, thoughtful, like he's turning the thought over before letting it out. "Two ships, launched months apart, endin' up in the same little pocket of the whole universe at the same time. That's, like. That's a lot of somethin' had to line up for that to happen, you know? I don't know if I believe in luck exactly. But I believe in that."
 
 Nobody has an answer for that either, and this time the quiet that follows doesn't feel bad. It feels like a room full of people letting something settle.
 
@@ -137,9 +143,23 @@ Maslin looks at him like he wasn't expecting the flat one to make a joke, and ho
 
 Petryn laughs, low and easy, with a little exhale on the end, like a piece of the last four months just got out.
 
-"I like these two," he says, to nobody in particular, to the room, to whatever's left of the crew he's got. "This is good, man. This is real good."
+"I like these two," she says, to nobody in particular, to the room, to whatever's left of the crew she's got. "This is good, man. This is real good."
 
 And for a second, just a second, something in the room loosens that wasn't loose a minute ago.
+
+"He likes everybody," Marsh says. "Give it a day."
+
+"she doesnt like me," Maslin says.
+
+"They like you fine, Maslin," Marsh says.
+
+Wait.
+
+He. She. They. Three people, three sentences, and nobody blinks. Not Marsh, not Maslin, and definitely not Petryn, who's still smiling at the room like nothing happened. Which, for them, apparently nothing did.
+
+Okay. Data. Is there a pattern? Who's talking? No, Marsh said he and then they. Time of day? I've known these people for eleven minutes. I don't have a sample size. I have a vibe and three pronouns.
+
+So either it changes and they all just keep up, or there's a rule and I'm not in on it yet. Either way the answer's the same. I listen, and I use whatever I heard last. If I get it wrong, I'll find out. Politely. Eventually.
 
 ---
 
@@ -213,7 +233,7 @@ Maslin stares at him. "for real"
 
 Petryn looks at me with that slow almost-smile again, the one that seems to take its time arriving.
 
-"See, I told you," he says to Maslin. "Good people."
+"See, I told you," they say to Maslin. "Good people."
 
 "you said that about the guy who sold us the water filters"
 
