@@ -312,8 +312,6 @@ That's a good explanation, and I like it, so I stop there. I could check more. I
 
 "Computer," I say to the ceiling. "Hi. Hello. Please wake them up."
 
-A chime. Two bright notes, like a doorbell at a birthday party.
-
 "Crew wake schedule is not available."
 
 "Okay. That's, okay. I'm not asking for the schedule. I'm asking you to wake them up. Now. Instead of whenever the schedule is."
@@ -745,7 +743,11 @@ It's quiet. Fans. A hum so deep it's more in the grate than in the air. The push
 
 Almost.
 
-A chime. Two notes, bright and completely wrong for the moment. I know that chime. It's the computer that wouldn't wake anybody up.
+A chime. Two notes, bright, like a doorbell at a birthday party, and completely wrong for the moment.
+
+Huh. It's never chimed before. Every time I've talked to it, it just answered. So this isn't an answer. Nobody asked it anything.
+
+It's an announcement.
 
 "Wakey Wakey protocol initiated," the flat voice says, from everywhere at once. "Waking up crewmember S.Eng. J. T. Kenzo."
 
