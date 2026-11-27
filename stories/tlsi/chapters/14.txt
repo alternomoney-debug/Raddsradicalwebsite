@@ -1,568 +1,631 @@
+"Contaminant detected."
 
-At thirty-one hours, the cubby hisses.
+That's the first thing I hear. Not "good morning." Not "welcome back." Two words and a period, in a voice with all the urgency of a bus schedule.
 
-It's the good hiss. The wake-up one. Air cycling, straps letting go. I'm on my feet before the seal is done thinking about it. I didn't sleep. I was on the floor, though, which I'm told is a different thing.
+"Contaminant detected."
 
-His berth slides out. The arms hover over him, decide I'm not going to be any help, and they're right.
+Again. And the light is red. All of it. Floor to ceiling, in slow pulses, like the ship is trying to tell me something with its whole body. I'm lying down. Lying down is the only reason I'm not on the floor.
 
-Jinzhou opens his eyes. He looks at the ceiling for a second, like he's checking it against a drawing. Then he turns his head and finds me.
+Everything is heavy. My arm is heavy. My glasses are heavy. I didn't know glasses could be heavy! They sit on my face like a decision.
 
-"You did not sleep," he says.
+My berth slides out of its cubby at the speed of a drawer opened by someone who doesn't want to wake the desk. The arms come down, take my pulse, tilt my chin, shine a light in each eye, and decide, as far as I can tell, that I'm technically a person. Then they go back up.
 
-"I was on the floor."
+"I heard you," I say. It comes out like gravel. "Twice. Give me a second to, uh. Be a person."
 
-"That is not the same thing."
+The alarm repeats. It doesn't have a second to give.
 
-"I know. You can note it."
+So I do what I always do first. I look across the room.
 
-"Noted."
+Jinzhou's cubby is sealed. His berth is in. The readout on his frame is slow and green and so steady it looks like a hobby.
 
-He lifts his left arm off the berth. It's in a matte gray brace from knuckles to elbow. He flexes the fingers one at a time, like he's counting them. He gets to the end and seems happy with the total.
+Okay. Deduction, while the arms are busy being gentle.
 
-"The last thing I said was 'hold the return,'" he says.
+Why am I heavy? The centrifuge would give me one G. This isn't one G. This is more. This is the floor shoving back. So that's thrust. Thrust means engines. Engines on means we're going somewhere.
 
-"ARACCSIM said holding needs continuous crew authority. Then you passed out, and I was already out, so, uh. Nobody was holding."
+And if we're going somewhere, somebody's been steering this ship while I was asleep.
 
-"ARACCSIM."
+Who?
 
-"Dr. Vasek's summary is accurate," ARACCSIM says. "The protocol assumes at least one conscious crew member."
+"ARACCSIM. Why am I awake, and why isn't he?"
 
-"That is a flaw."
+A pause. Then a hitch on the number, like a record skipping once.
 
-"Acknowledged."
+"Mr. Kenzo's treatment is sixty-three percent complete. Waking him now carries a risk of permanent tissue loss in the left arm. Dr. Vasek's recovery is within parameters for light duty."
 
-"It also says you dragged me up the hull," I say. "With a piece of the ship through your arm."
-
-"Yes."
-
-"Thank you."
-
-"You were on the end of my line. That made you mine to bring in."
-
-"I was unconscious!"
-
-"You were still on the line."
-
-I look at the brace. I can't look at him and say the next part.
-
-"You went out on the hull. You're not trained for the hull."
-
-"No."
-
-"Thank you."
-
-"You would have done the same."
-
-"I would have, uh, panicked first."
-
-"You would have panicked and then done the same," he says. "There is a difference."
-
-I almost laugh. It costs him something to almost smile back. He pays it anyway.
-
-Then he looks past me at the room. The blanket on the floor. The empty cup. A notepad face-up with my handwriting going downhill.
-
-"What did I miss?"
-
-"Two things," I say. "One. A locker broke the ship. I'm claiming partial credit."
-
-He waits.
-
-"Two. I have notes."
-
----
-
-He reads the way he does everything. Completely. Left arm in the brace, right paw holding the pad, one line at a time, no skimming. I stand there watching his eyes go down the page and try really hard not to narrate his face.
-
-When he's done, he reads it again. Slower. Then he stops on one line and stays there. I know which line. I wrote it.
-
-"'Cable,'" he says. "'Unknown.'"
-
-"It's accurate."
-
-"I know it is accurate." He sets the pad on his knee. "ARACCSIM offered to cut it."
-
-"And I said no."
-
-"I would have said no."
-
-"You were on the winch."
-
-"I was on the winch," he says. "I did not see the altitude. So we each have one."
-
-It doesn't make the number smaller. It puts it on two people. Which is how you're supposed to carry anything heavy.
-
-"Show me the coupon," he says.
-
-In Lab A I slide it under the scope and step back. He looks for a long time. Jinzhou doesn't gasp. What he does is go very still and very quiet, and the quiet gets colder.
-
-"Lot series seven," he says.
-
-"Yes."
-
-"Every container on the ship."
-
-"Yes."
-
-"The SRV."
-
-I open my mouth to say something comforting. Nothing's there.
-
-"Its sample chambers are lined," he says. "Its fuel cell is lined. Same lot."
-
-Oh. Oh, no.
-
-"If we load live samples into that," he says, "we mail the problem home."
-
-"I hadn't gotten there yet," I say. "I was working left to right, and I was still on the left."
-
-"It is the next item."
-
-"I know it's the next item! I was about to be upset about it in order."
-
-He doesn't say anything. He's good at that. It helps more than it should.
-
-Okay. Think. That's the job.
-
-The Asicell dig through lining. Fine. That's a fact now. So flip it around. What haven't they dug through? What's been sitting right next to them for weeks without a mark on it?
-
-I look down. At the bench. At the rack of used slides. The ones I never threw out, because I'm a person who keeps his microscope slides.
-
-They're glass.
-
-Wait.
-
-Every Asicell I've looked at since the very first collector sample has been sitting on glass. For weeks! Some of those slides sat for days in the autoclave tray, with a live smear and Phengoclept on them.
-
-I grab the oldest one and put it under the scope and look at it harder than I've ever looked at anything.
-
-Nothing. Not one tunnel. Not even a scratch.
-
-"They don't dig glass," I say.
-
-"Or they have not yet."
-
-"Or they haven't yet. But I've got weeks of slides with nothing on them, and the lining didn't last nearly that long."
-
-Why, though? Why glass and not the lining? Think it through.
-
-"Okay," I say out loud. "The lining's a plastic, probably. Long chains of carbon. And carbon is food. Or close enough to food that something hungry will try it. But glass is just sand that got really hot once. There's nothing in it to eat. Nothing to dig toward."
-
-I look up.
-
-"I've been looking at the answer all month and calling it a slide."
-
-"Borosilicate ampoules," Jinzhou says. "Autoclave stock."
-
-"In a glass cradle. With nothing from Argon touching them."
-
-"I can cut the cradle."
-
-"With that arm?"
-
-"I am not discussing the arm."
-
----
-
-That's most of a day. I'll skip the boring middle.
-
-We eat at some point. Real food. The arms bring it with the same quiet efficiency they bring everything. Today's sauce has a taste I connect with home. You never notice it for years, and then you're trillions of kilometers away and you notice it every single bite.
-
-I don't say anything about that. I just eat.
-
-Jinzhou eats like eating is a task and tasks deserve to be done properly. That used to creep me out a little. Now it just means Jinzhou.
-
-"Options," he says, without looking up.
-
-"Do I get to pick?"
-
-"No. I am listing them."
-
-"Then list them."
-
-"One. We vent the tanks. No fuel, nothing to eat." He takes a bite. "We arrive at Wask-ki with nothing to brake with."
-
-"That's not arriving. That's a very fast hello."
-
-"Two. We do nothing. Three hundred and ten days, then the reserve drops below what it takes to get home anyway."
-
-"Same hello. Just later."
-
-"Yes."
-
-"Do you have a three?"
-
-"No."
-
-I push my glasses up. "I have a, uh. Small three."
-
-He stops chewing.
-
-"In the tank, they were slow," I say. "I put 'slow' in the log with a question mark. And 'cold' with another one. And then the loss rate dropped the minute the freeze lines came on. So the tank walls are getting colder, and the Asicell are getting slower."
-
-"So."
-
-"So everything slows down when it's cold. That's not even science. That's just being a cell." I look at the slide rack. "So how cold before it stops?"
-
-"ARACCSIM," I say. "At minute twenty-six, I asked if that was the freeze lines, and you said insufficient data."
+"Light duty."
 
 "Correct."
 
-"Upgrade it."
+"Name one light duty that starts with 'contaminant detected.'"
 
-"Data sufficient. Cause, thermal suppression of Asicell activity."
+"Contaminant detected," ARACCSIM says.
 
-"Thank you!"
+"No, that was. That was a joke. You don't have to answer jokes."
+
+"Understood."
+
+"Thank you."
 
 "You are welcome, Dr. Vasek."
 
-Lab B has a cold stage. A little block under the microscope you can chill while you watch. Built for people who want to see what a cell does on its way into a freezer. I put a fresh smear on glass, drop it ten degrees at a time, and don't look away.
+"Short version of how we got here. Please."
 
-Minus eighteen degrees: slow. Drifting more than swimming. That's the tank. That's my question mark, answered.
+"Dr. Vasek was struck by a detached external locker during extravehicular retrieval. Mr. Kenzo performed an extravehicular recovery. During the recovery, a structural fragment penetrated Mr. Kenzo's left forearm, and thermal exposure to that arm exceeded suit rating by six minutes. Mr. Kenzo had entered a staged throttle ramp before going outside and released the final step from the airlock. Orbit was achieved with both crew in the airlock. Tank 2-E was breached by a stray cell and auto-sealed after four point one seconds. Orbit decay was projected. No crew authority was registered. Contingency return was initiated. The service arms placed both crew in rest state. Current transit day, two."
 
-Minus thirty: commuters.
+Okay. That's a lot. Again, slower.
 
-Minus forty: commuters at the end of a really long day.
-
-Minus fifty: they stop.
-
-They don't die. I check. Then I check again, because I'm Ethyn. They just go to sleep. Curled up and fat and green. I hear that's catching.
-
-"Asleep," I tell Jinzhou, who has been standing behind me for some time and hasn't asked to look.
-
-"Good."
-
-Okay. But can they wake back up? I turn the dial back up. At minus thirty-two, one of them twitches. Eighteen minutes later the whole smear is swimming around like nothing happened.
-
-"Eighteen minutes," Jinzhou says.
-
-"On a slide. A tank isn't a slide."
-
-"A tank is a great deal more metal."
-
-"A tank is a great deal more metal," I agree. "More metal means it takes way longer to warm up. Huh. I never thought I'd be grateful for thermal mass."
-
----
-
-"ARACCSIM," Jinzhou says. "Can the freeze lines hold the tank walls at minus fifty-five degrees Celsius?"
-
-"Level two can. Level two is not recommended."
-
-"I remember," I say. "I said I'd stay on one. I'm changing my mind. Formally."
-
-"Noted."
-
-"Why isn't it recommended?"
-
-"Level two draws ninety-four percent of the bus. Centrifuge operation is not compatible. Crew gravity would be unavailable for the duration."
-
-"The duration of what?"
-
-"Until the tanks no longer require level two."
-
-"And when is that?"
-
-"Undetermined."
-
-"So we float until further notice."
-
-"Crew would be in rest state," ARACCSIM says. "Straps are provided."
-
-"I'm in favor of straps," I say. "Big fan. Love a strap."
-
-"And the engines," Jinzhou says. "The stack is cold."
-
-"A cold stack restarts badly. The spin motors run rough. I got a warning about that in the server room, and I put it in the drawer."
-
-"ARACCSIM. The restart. If we tried to go home."
-
-"Cold restart of the Phengomotor stack requires approximately twenty-two hours of warming. Spin motors will run roughly during the first six. The departure profile to Wask-ki requires sustained thrust for approximately five months."
-
-"And them?"
-
-"Estimated revival of Asicell in the feed line and motor housings, fifty-one hours after thaw begins." That hitch on the number. "Margin of error, six hours."
-
-Okay. Let's line those up.
-
-Twenty-two hours to warm the engines. Then a burn that has to run for five months. And at fifty-one hours, the diners wake up. In the one place on the ship where all the food goes past.
-
-"So they'd be awake in the line two days into a five-month burn," I say. "Again."
+"He went out there."
 
 "Correct."
 
-"That's not a margin. That's a rerun."
+"On the hull."
 
-"If revival comes before completion?" Jinzhou says, even though he knows.
+"Correct."
 
-"The reserve is consumed before the departure profile completes. Vanguard MK1 does not reach Wask-ki."
+"He's not trained for the hull!"
+
+"Correct."
+
+"A piece of the ship went through his arm."
+
+"Correct."
+
+"And he got us up. From the airlock."
+
+"Correct."
+
+"And then the ship left."
+
+"Correct."
+
+"Without asking anybody."
+
+"The contingency protocol does not ask."
+
+"Of course it doesn't," I say. "Huh."
+
+The last thing I remember is a really good word and a locker I didn't see. Apparently the locker saw me. I look at his cubby for a while.
+
+Then I put "tank 2-E" in the drawer for later. Later-Ethyn's drawer is getting full.
+
+---
+
+"ARACCSIM. What's contaminated?"
+
+"Biological contaminant. Source field, Vanguard MK1."
+
+"That's the whole ship."
+
+"Correct."
+
+"Can you narrow it down?"
+
+"Source field, Vanguard MK1."
+
+"That's not narrowing. That's repeating, with confidence."
+
+"Understood."
+
+I unclip the strap and sit up. At this weight, sitting up is an event. My right side, where the locker got me, files a complaint. Then a second one, in case the first got lost.
+
+Okay. List. I'm better with a list.
+
+One. Something alive is on this ship that the ship didn't expect.
+
+Two. The ship can't tell me where, because the ship's idea of "where" is "here."
+
+Three. There are two people aboard. One of them is me, awake. The other one is in a sealed cubby. If it's one of us, I want to be told gently.
+
+So. Where would something alive hide? Start with the stuff we breathe, drink and eat.
+
+"Air. Full panel."
+
+"Cabin atmosphere nominal. No contaminant detected."
+
+"Water."
+
+"Nominal."
+
+"Food."
+
+"Nominal."
+
+Huh. So the air is fine, the water is fine, the food is fine, and the ship is contaminated.
+
+That's a very specific way to be contaminated.
+
+A braver person, or a dumber one, would dump the whole atmosphere out the airlock right now. I considered it. For about four seconds. Then I asked the air a question, and the air said it was fine, and I believed the air. Venting the ship is what you do when you're out of plans and want to feel like you picked one.
+
+"Anything else wrong? Anything. Doesn't matter how small."
+
+"Separate notice. Phengoclept reserve is below the burn plan."
+
+"Separate from what?"
+
+"From the contaminant alert."
+
+"Why are they two different notices?"
+
+"They were generated by different systems."
+
+"Of course they were. Below by how much?"
+
+"Zero point three percent over the last twelve hours, beyond planned consumption. Rate of loss, increasing."
+
+Zero point three percent. That sounds like nothing. That's my first thought.
+
+My second thought is "increasing," and my stomach gets there before I do.
+
+Okay. Think. Where does fuel go if it's not going into the engines? A leak, right? But a leak announces itself. Pressure drops. A line frosts over. Some alarm with a better personality than this one starts screaming.
+
+"Tank pressures."
+
+"Nominal."
+
+So it isn't leaving.
+
+Mass going down. Pressure staying the same. So the fuel isn't getting out of the tanks.
+
+It's getting used up. Inside them.
+
+Used up by what? Nothing on this ship uses Phengoclept except the engines, and the engines are already counted. Which leaves exactly one other thing aboard that treats Phengoclept like lunch.
+
+Oh.
+
+I know what it is. Honestly I knew at "used up." I just hold it at arm's length, like a lab report with my name on it.
+
+Because there's a problem with the obvious answer. The obvious answer lives in sealed containers. I sealed them. I checked every seal twice, because we do everything twice.
+
+"ARACCSIM. Integrity on every Asicell container aboard. Sample chambers, culture vessels, the backup unit. All of it."
+
+"All containers sealed. Integrity nominal. No breach detected."
 
 "Amazing," I say.
 
-Jinzhou puts his fork down. "So we cannot go home on this fuel."
+So here's what I've got. Something is eating the fuel. Only one thing eats fuel. And every container that thing lives in swears it's locked up tight. One of those facts is wrong. I really hope it's the sensors. Sensors you can replace.
 
-"Not while they're in it."
+And then the thing I put in the drawer turns out to be now.
 
-"And we cannot get them out of it. So. Back to square one."
+"ARACCSIM. Tank 2-E. When it got breached. What was outside it?"
 
-"Not with anything I've got." I look at the smear on the cold stage. It stopped swimming at minus fifty and it's waiting, very patiently, for somebody to mess up the thermostat. "A burn is a buffet."
+"The atmosphere of the cloud layer at breach altitude."
 
-"Then we do not burn."
+"What's in that atmosphere?"
 
-"Then we don't burn. We freeze them, we stop the bleeding, and we think." I hear how that sounds. "Hey. 'We think' is a real plan. It's been my only plan for a while, and it's mostly worked."
+"Particulate density consistent with the Asicell collection zone."
 
-"Later-Ethyn can have it," Jinzhou says.
-
-"He's going to be so annoyed with me."
-
----
-
-The payload bay is under Lab A. I go the long way, through the hatch in Lab B and along the room underneath. I haven't really looked at this room since the first sweep. Too much else to look at.
-
-Now I look.
-
-It's smaller than I expected for something this important. Not cramped. Just tight. Built by people who knew every cubic meter was a negotiation. The SRV sits on a rail, docked. About the size of a big four-wheeler, and shaped like a beetle that ate too much. Four armored panels lie folded flat against its back like wing cases. (Shielding, the spec sheet says. Also steering, the spec sheet says, which raised more questions than it answered, so I stopped reading the spec sheet.) I stare at it for a while.
-
-"This is it," I say.
-
-"Yes," Jinzhou says.
-
-"Wask-ki's only sure shot at getting this home."
-
-"If we do not make it ourselves. Yes."
-
-"Right." I push my glasses up. "No pressure."
-
-"The fuel cell," Jinzhou says. "Its own. Sealed at the factory. It has never touched a line on this ship."
-
-"I know."
-
-"Check anyway."
-
-So I check. I swab the cell's seam, the fill port, and the cable connection. I carry three slides back to Lab A at a walk, because running seems rude to the slides.
-
-Clean. Clean. Clean!
-
-I carry that word back to the bay like a cup that might spill.
-
-Loading takes most of the afternoon. Not because it's hard. The data hookup is simple, and ARACCSIM handles the transfer log without being asked. It takes all afternoon because we do everything twice. And then a third time on the parts that matter more. Which turns out to be all of them.
-
-The Asicell samples go in glass ampoules. The ampoules go in a glass cradle that Jinzhou cut one-handed out of the lab's glassware racks. The cradle sits in a bare steel clamp on the SRV's own cold block. Minus sixty degrees. A gap around the whole thing. Nothing from lot series seven touching any of it. They'll sleep all the way home. That seems like the only polite way to mail something that digs.
-
-I'm sending a digging organism home in a jar. I'm aware of how that sounds.
-
-The coupon from the 2-E valve goes in the last slot, in its own glass tube. It's the only piece of lot series seven I'm sending on purpose. I label it in capital letters: LOT SERIES SEVEN. THIS IS WHAT THEY DO.
-
-All the mission data, transferred and checked. My notes. Every reading, every density model, every spectral run from the last three weeks. Jinzhou's logs. Every diagnostic and repair.
-
-And a text file I name READ_THIS_FIRST_IT_DIGS.txt. Three paragraphs. The first one is in capital letters. The second one is also in capital letters, but sadder. The third is lowercase, because by then I'd calmed down enough to say please check every lot series seven you own.
-
-Bejors' paper. The one from MAYBE SOMEDAY. I send the whole file. Then I stop, and add one more: ASICELL_DISCOVERY_LOG.doc. The one I opened in the lab that day. Her name at the top. Mine underneath. PRIMARY THEORETICAL FRAMEWORK: B. BEJORS, PHD, right in the header.
-
-She gets the credit. Whatever happens to the ship, whatever happens to us, whoever opens this box on Wask-ki is going to know whose idea it was.
-
-I close the transfer and step back.
-
-"Ready," I say.
-
-"Confirmed," ARACCSIM says. "SRV payload complete. All data verified. Sample integrity nominal."
-
-"Don't say nominal."
-
-"Sample integrity is acceptable."
-
-"Thank you. That was very reassuring."
-
----
-
-The welding kit is in the maintenance locker at the far end of the payload bay. Not the one that hit me. A different one. Inside. Still attached. It has a compact arc welder rated for hull metal.
-
-I've used a welder before. Twice. Neither time on a spaceship this far from anybody qualified. But metal's metal, and my paws remember what to do even when the rest of me isn't sure this is a good idea.
-
-"You do not have to do it by paw," Jinzhou says, behind me.
-
-"I know."
-
-"ARACCSIM can seal the inner door remotely."
-
-"I know."
-
-He doesn't say anything else. Either he gets it, or he doesn't need to. He steps back and gives me room.
-
-Why weld it, though? Because a closed door is a promise. A closed valve was a promise too, and look how that went. A weld on hull metal, with no lining anywhere near it, is a promise I can actually see.
-
-The welder takes a few seconds to warm up. I run the bead around the inner payload door. Slow and even. The pace you use on something you want to hold. The metal cooperates. The bead sets clean.
-
-I step back and look at it.
-
-The inner door is welded shut. The SRV is on the other side. Loaded, sealed, checked. Nothing between it and space but two outer doors and a rail.
-
-"ARACCSIM. Confirm inner door seal."
-
-"Inner door sealed. Weld integrity confirmed. SRV release on your mark."
-
-I take a breath.
-
-"Mark."
-
-The bay pumps down. The outer doors open on nothing. The rail engages. It isn't dramatic. It's not the HISS THUNK of the berths or anything else this ship does when it wants attention. Just a click. Then the small, final absence of something that was there and isn't.
-
-On the hull camera, I watch it go.
-
-It's tiny! A four-wheeler against all of that is so small. Its little thrusters fire first, nudging it away from the hull. Then its own Phengomotor lights, running off a cell that never touched a line on this ship, and puts it on a course of its own. It catches the light from Asimov's star once. Twice. Then it holds steady on the heading ARACCSIM gave it.
-
-I lift a paw. Wave.
-
-Nobody on the other end sees it. The SRV doesn't have eyes. I wave anyway. Bejors' name is on that thing. The Asicell data is on that thing. Somewhere in those files is every ridiculous decimal place of the Phengoclept mass that made me laugh in a lab a long way from anyone I used to know. It all deserves a wave, even if nothing waves back.
-
-The SRV gets smaller.
-
-Then it's a point of light.
-
-Then I can't tell it from the other points of light.
-
-"There it goes," I say. "The whole mission, and from here it's a dot."
-
-"Okay," Jinzhou says.
-
-He can have the one-word line. It's his.
-
----
-
-Last job. The floor.
-
-The centrifuge went up with two keys. It comes down with two, turned together at the panel in the cockpit. Last time I did this alone, I sailed past slot two like a man leaving a party. Now it's two people, a key each. Which is how whoever wrote that sign meant it.
-
-We strap in. Me in the left seat. Jinzhou in the right, with the brace across his lap like a clipboard.
-
-"On three?" I say.
-
-"Together is sufficient."
-
-We turn them.
-
-SPIN-DOWN INITIATED. WEIGHTLESS IN 5 MINUTES. SECURE ALL LOOSE ITEMS.
-
-The weight goes the way it came. A lean. Then less of a lean. Then none. My fur lifts off my arms like it's been told it can go. The notepad on Jinzhou's knee floats up, and he catches it without looking.
-
-Then the cables start reeling in. It takes forever. The crew section has been hanging out on the end of them for days, the two halves of the ship swinging around each other like skaters holding paws. Now we climb back down to where we started. Slow. Careful. Until the latches close with a thunk I feel in my teeth. The ship is one piece again. The grates drop back into place, and the whole thing goes back to being tall.
-
-"ARACCSIM. Level two."
-
-"Level two is not recommended."
-
-"I know. We've covered it."
-
-"Confirm."
-
-"Confirmed," I say.
-
-"Confirmed," says Jinzhou.
-
-"Level two engaged. Tank wall temperature falling."
-
-It takes five hours and forty minutes for the last wall to hit minus fifty-five. Neither of us suggests leaving. We take turns reading the numbers out loud, because they feel better said. Minus twenty-two. Minus thirty. Minus forty-one. At minus fifty I can't sit still anymore, so I hang in my harness and stare at the number like it owes me money.
-
-"Tank 2-E, minus fifty-five degrees Celsius," ARACCSIM says. "All tanks at target."
-
-"Reserve loss rate."
-
-"Indistinguishable from zero."
-
-"Say it again."
-
-"Indistinguishable from zero."
-
-Zero! Basically zero!
-
-I let go of the armrest with both paws and just hang there, grinning at a gauge. Jinzhou nods once. From him, that's a parade.
-
-Setting up the handoff takes a while. Not because it's hard. ARACCSIM to LSI-ASM&C is a written procedure. Both systems were built to do it. It takes a while because I keep double-checking things, and Jinzhou keeps letting me. And at some point he starts double-checking things too. And neither of us mentions that this is the last time we'll be awake in this cockpit for a long, long time.
-
-"Station set," Jinzhou says. "We hold here. Crew wake is scheduled in one hundred and eighty days, unless something wakes us sooner."
-
-"Something like what?"
-
-"A fault. Or a reason we have not thought of."
-
-"And the SRV?"
-
-"Home in about eight years. Whether we are or not."
-
-"That's the point of it," I say.
-
-"Yes."
-
-Six months. I do the math once and don't do it again. Six months asleep. Drifting in a system that doesn't want anything from us. The food lasting longer. The diners staying cold. Nobody, anywhere, on the way. Later-Ethyn gets the whole problem at once, well rested. I hope he appreciates the nap.
-
-"ARACCSIM. Start the handoff to LSI-ASM&C."
-
-"Confirmed. Handoff sequence initiating. LSI-ASM&C will maintain station, the freeze lines, and the wake schedule. It has no other functions. Estimated handoff duration, four minutes."
-
-"It's cruise control," I say.
+"So for four point one seconds, a hole in a fuel tank was open to the exact stuff I flew here to collect."
 
 "Correct."
 
-"For a freezer."
+"And then the hole closed. With the cloud already inside."
 
-"For a freezer," ARACCSIM agrees.
+"Ingress occurred before seal."
 
-Four minutes. I sit and look at the screens. The star map. The trajectory line. A little blinking marker that used to be the SRV, already too far away to see properly.
+Oh, fudge.
 
-I look at Jinzhou.
+I want to say I'm calm. I'm something. It's shaped like calm and it weighs as much as a falling elevator.
 
-He looks back. He doesn't say anything. He doesn't have to. He's Jinzhou. He notes things. This is one of them.
+It wasn't my containers. My containers are fine! My containers were always fine. It was the planet, reaching in through a hole in the ship and helping itself.
 
-"LSI-ASM&C active," ARACCSIM says. "Primary systems transferred. I will maintain monitoring functions in background mode."
+I'm almost relieved. Which is an awful thing to be relieved about.
 
-"ARACCSIM," I say.
+The relief lasts about two seconds. Then I notice what I'm standing on.
 
-"Dr. Vasek."
+The engines are running.
 
-"Thanks. For everything. Even the nominals."
+What does an engine do? It pulls fuel out of the tank, down the line, past the motors. That's the whole job. Tank, line, motor. A conveyor belt of Phengoclept rolling right past the diners. And the diners have had two days of it. Every pulse is a meal on a plate. Every cell that lights in a motor is a meal with a fuse.
 
-A pause. Longer than usual. Maybe it's processing. Maybe it's something else. I've decided I'm allowed to believe it's something else, just this once.
+So stop the conveyor belt. Now.
 
-"Safe travels, Dr. Vasek," it says. "Mr. Kenzo."
+"ARACCSIM. Where's the nearest console with propulsion control that isn't the cockpit?"
 
-"We're not traveling," I say.
+Because the cockpit is all the way at the other end of the ship, and I'm in a body that weighs one point seven of itself.
 
-A pause. "Then rest well."
+"Backup propulsion console, server room."
 
-"You too," I say. And then I realize I just told a ship to get a good night's sleep. I decide not to take it back.
+"Can the secondary pilot shut the drives down from there?"
 
-We float to the medbay.
+"Cold shutdown, yes. Section four point two permits the secondary pilot to substitute, with two confirmations on each of the first two steps. Warning. Halting the drives forfeits the remaining acceleration profile. Revised arrival cannot be calculated until the fuel state is known."
+
+"So the answer is 'later.'"
+
+"Correct."
+
+A ship that gets home fast and a ship that gets home are two different ships. Only one of them still has fuel at the end. I do the math once. There isn't time for twice. It comes out the same either way.
+
+I go.
 
 ---
 
-The hallway is long and the hatches are blue, and I bonk into one of them. Jinzhou drifts down the same hall like he's been weightless his whole life. One paw trailing the rail, the brace held close.
+The server room is two decks down the ladder shaft. At one point seven G, that's two decks down a ladder with opinions. I go down it like a sack of flour. With fewer thoughts.
 
-The medbay is quiet. The arms are ready. Both berths are slid out of the wall and waiting, straps open.
+The hum in the wall is ARACCSIM thinking. It's louder down here. The backup console is a gray slab with a cover over a red switch. Ship designers love cover plates. They also love putting the emergency button exactly where only a panicking person would look.
 
-I hold the rail. There isn't any sitting anymore.
+I'm not panicking. I know exactly what's happening. That's the bad part.
 
-I think about Wask-ki. Not anything specific. Not the apartment with the coffee on the desk, or the parking lot in the snow, or the hallway outside the containment lab. Just the shape of it. A whole planet that was your whole world, and then suddenly wasn't. And the slightly sick feeling of going back after so long that you don't know who you'll be when you get there.
+"ARACCSIM. Cold shutdown of the Phengomotor stack. How many steps?"
 
-I think about Bejors' whiteboard, still up in Lab A. Still her handwriting. I didn't take it down. It felt wrong to. It can wait with us. Y'SHARI-LINE AND PHENGOCLEPT RECAP, underlined twice, in a ship that's mostly asleep, in a lab nobody's opening until there's a floor again.
+"Six."
 
-I think about the SRV. Already a dot. Going home without us, with everything that matters packed in glass.
+Six! I'd braced for about forty. I don't say so, in case it hears me and adds some.
 
-I think about Jinzhou. Who went out on a hull he wasn't trained for, got us up with a hole through his arm, and has refused to discuss the arm twice now.
+"Read them to me."
 
-I push my glasses up one more time and look over. He's already in his berth with his straps done. He's decided doing it is easier than thinking about doing it. He's usually right.
+"One. Close tank valves. Two. Halt drive pulses. Three. Turbine to maximum output. Four. Radiators to full dump. Five. Thermal runaway prevention, level one. Six. Turbine spin-down."
 
-"Hey," I say.
+Wait.
 
-"Yeah," Jinzhou says.
+"Why does a shutdown have 'maximum' in it?"
 
-"Good work."
+"The stack has been at operating temperature for two days. The fuel in the motors is at the boiling point of water. The turbine is the only way to carry motor heat away. Maximum output carries it away fastest."
 
-He looks at me for a second. Something moves in his face, barely. Not quite a smile. Close enough.
+"So to cool the engines, I make more power."
 
-"You too," he says.
+"Correct."
 
-The arms come down.
+"And the power goes where?"
 
-HISS.
+"Nothing aboard requires it. Surplus is dumped to the radiators."
 
-THUNK.
+"As heat."
+
+"Correct."
+
+Okay. Follow the energy. That's the trick with stuff like this.
+
+The motors are hot. Hot is energy. The turbine turns that energy into electricity, and that pulls heat out of the motors. Great. But energy doesn't disappear. It just moves. So the electricity has to go somewhere. And the only place left is the radiators, which turn it right back into heat and throw it at the stars.
+
+So I'm fixing a heat problem by moving it one room over and getting a receipt.
+
+That's a little funny. I'm not going to say so out loud.
+
+"Is there a version where the motors stay warm?"
+
+"Yes. The warm loop. Fuel continues to circulate."
+
+"The fuel they're eating."
+
+"Correct."
+
+"Then no."
+
+"Warning. A cold stack restarts poorly. The spin motors run rough below operating temperature."
+
+"Noted. Later-Ethyn can have that one."
+
+"Step one," I say. "Confirmed."
+
+"One confirmation recorded."
+
+"Confirmed again."
+
+"Two confirmations recorded. Closing tank valves."
+
+I feel it through the deck. A row of heavy thunks, like very large, very unimpressed doors.
+
+"Step two. Confirmed. Confirmed again."
+
+"Two confirmations recorded. Halting drives."
+
+The floor stops being a floor between one word and the next.
+
+The quiet shows up all at once, like somebody opened a door in a loud room. The weight leaves me, and I float up off the deck, and I hook a foot under the console rail before the ceiling gets any ideas.
+
+"Step three."
+
+"Turbine to maximum output."
+
+A sound comes up through the wall. Low. Then not low. The temperature readout on the console, sitting on a number I don't like, starts sliding down.
+
+"Step four."
+
+"Radiators to full dump."
+
+The hull camera shows the radiator fins from outside. Dull gray. Then dark red. Then orange. It's a lovely color. It's the color of a problem.
+
+"Radiator surface temperature rising," ARACCSIM says. "Adjacent tank wall temperature rising."
+
+"How adjacent?"
+
+"They share a wall."
+
+"A wall. With fuel that's at the boiling point of water."
+
+"Correct."
+
+And there it is. Problem number two.
+
+I'm cooling the engines by building a big new heater right next to a big tank of something that really doesn't like being warmed up. Here's why. Phengoclept gets excited when you nudge it. Excited Phengoclept gets hotter. Hotter Phengoclept gets more excited. That's a loop. That's a runaway. And at the bottom of every runaway is the word "bang."
+
+"Step five," I say. My voice has gone up half a note. I drag it back down. "Thermal runaway prevention. Level one."
+
+"Confirm."
+
+"Confirmed."
+
+The tanks have chill lines in their walls. Same idea as the pipes under an ice rink. Somebody who loved me, or at least loved a good insurance policy, put them there so that if anything hot ever got near the fuel, you could freeze the tank before it got ideas.
+
+"Level one engaged," ARACCSIM says. "Freeze lines drawing surplus power."
+
+"It's using the extra power?"
+
+"Correct."
+
+"Oh, finally. A job for it!"
+
+"Radiator load decreasing."
+
+"What's level two?"
+
+"Level two is not recommended."
+
+"Then I'm going to stay on one."
+
+Most of this turns out to be waiting. Every five minutes ARACCSIM reads me the temperatures, in the same voice it uses for everything, and every five minutes they're a little better. I hang in the air with one foot under a rail and watch a gauge go down. It's the least heroic thing I've ever done. It might be the most useful.
+
+"Reserve loss rate," ARACCSIM says at minute twenty-six. "Decreasing."
+
+Decreasing! Why, though? The engines being off would stop the delivery, sure. But the diners are still in the tank.
+
+Unless the tank's getting colder. Cold slows everything down. That's not even science. That's just being a cell.
+
+"Is that the freeze lines?"
+
+"Insufficient data."
+
+"Huh," I say. I put "cold?" in the drawer, with a question mark.
+
+At minute forty-one, the motor temperatures hit the bottom of the readout.
+
+"Step six."
+
+"Turbine spin-down."
+
+The big sound in the wall winds down. Down. Out. And the quiet comes back. A different quiet. One with nothing left in it to wait for.
+
+"Cold shutdown complete," ARACCSIM says.
+
+I let go of the rail and just drift for a minute.
+
+"Thank you," I say.
+
+"You are welcome, Dr. Vasek."
+
+"Now," I say. "A floor."
+
+"Recommended," ARACCSIM says. "Crew is weightless with the drives cold. Bone and muscle loss begin within days without load. Centrifuge operation is advised for the duration of the drift."
+
+"So you want a floor too."
+
+"I do not require a floor. You do."
+
+"Okay. Fair."
+
+I go up the ladder shaft the way a person does when nothing weighs anything. Which is badly. At the Lab A hatch I overshoot, hit the frame with my shoulder, and wake up the locker bruise, which grabs the chance to make a speech. I grab the frame. I try again. Slower.
+
+The centrifuge needs two keys, turned together, at the panel in the cockpit. It says so in capital letters. DUAL KEY REQUIRED. OVERRIDE KEYS AVAILABLE IN LAB. I've floated past that sign a hundred times and read it as one of those lines that exist so lawyers can sleep.
+
+The override case is a red box on the wall cabinet. The label says IN THE EVENT THAT ONE CREW MEMBER IS INCAPACITATED. Inside is one key on a cord, and a laminated card. The first line on the card is *Step 1. Do not panic.*
+
+I'm not panicking. I just notice the card thought about me. Hi, laminator. Again.
+
+The suit lockers are by the airlock. I put a suit on. Why? Because the contaminant has no address. The same sensors that swore my containers were sealed also swear the air is fine. If I'm going to be wrong, I'd like to be wrong inside something sealed. It takes four minutes. The left boot goes on the right foot once. The suit is very gracious about it.
+
+I open the inner airlock door the way you open a door in a house where something's wrong. Nothing's behind it. Doors are like that.
+
+The cockpit panel has two key slots, a meter and a half apart. The card says the override gives me six seconds between them.
+
+Okay. First try. I turn the key in slot one, push off, and sail right past slot two with the dignity of a man leaving a party.
+
+Second try. I hook a foot under Jinzhou's seat and lean. The key goes in. It turns.
+
+SPIN-UP INITIATED. 1G IN 5 MINUTES. SECURE ALL LOOSE ITEMS.
+
+I buckle into my seat. The left one. I am the loose item.
+
+Five minutes is a long time to float. I spend most of it thinking about the guy who dragged me up a hull with a piece of the ship through his arm. Then the weight comes back the way a rumor does. A lean. Then a lean I can feel. Then my fur settles down on my arms like it's been told to, and the floor is a floor. And I'm grateful for it in a small, private way I've never been grateful for a floor before.
+
+I take the suit off in the cockpit and leave it on the seat like a shed skin. The air, as usual, says it's fine.
+
+---
+
+Okay. Time to actually look.
+
+"ARACCSIM. Draw three fuel samples to the Lab A bench. Tank 2-E. The main feed line. And the motor six intake."
+
+Why motor six? It's plumbed closest to 2-E. And a hunch is just a hypothesis without the paperwork.
+
+"Substitution under section four point two remains active. Taps opening."
+
+So I'm the secondary pilot and the second confirmation. It's nice to be needed twice.
+
+The walk to Lab A is long enough that my body treats it like a hike. The three vials are waiting in the rack with their little labels, looking innocent. Fuel always looks innocent.
+
+The microscope is the one Jinzhou fixed. I trust it more than most people.
+
+Slide one. Tank 2-E.
+
+The Phengoclept is there. Little bright emitters at twenty-two point seven zero six. But way fewer than a fuel sample should have. And all around them, thick as a crowd: blue at the membrane, red in the middle, green running through both.
+
+I know those like my own handwriting. I drew them for the write-up. They were going to be Figure 3.
+
+I stop counting at three hundred. The microscope can keep the rest. The green in them is bright. That's the green of something that's been eating really well. One of them is wrapped around a Phengoclept cell, mid-meal. I watch it for a while. That's the wrong thing to do. It's also the only thing I can do.
+
+They're slow, though. Way slower than my cultures ever were. Drifting more than swimming. Why slow? I write "slow?" in the log, with the question mark. Next to "cold?" Huh. Those two might be friends.
+
+Slide two. The main feed line.
+
+Forty-one. I count twice. Still forty-one.
+
+Slide three. Motor six.
+
+Seven.
+
+Seven is a rounding error. Until you remember what they do next. Which is eight.
+
+Three hundred. Forty-one. Seven.
+
+That's not random. That's a line. Most at the tank, fewer down the pipe, a few at the motor. It points straight at the engines. And for two days, the engines have been pulling it along.
+
+Motor six threw a cell wide on the way down, long before 2-E ever opened. That one was just bad luck. Everything since then is not.
+
+"Fudge," I tell the microscope. "Fudge. Fudge, fudge, fudge."
+
+It doesn't answer. That's fair. It's an instrument.
+
+---
+
+I sit down on a stool. My knees have an opinion.
+
+Okay. So. The containers are sealed. The cultures inside them are fine. And tank 2-E, which was only open for four seconds, has a crowd. And the feed line, which is on the other side of a closed valve, has forty-one.
+
+How? How do you get past a closed valve?
+
+A closed valve keeps fuel in. It's a promise about fuel. It isn't a promise about things that dig.
+
+"ARACCSIM. Is there a lining coupon in the 2-E isolation valve?"
+
+"Affirmative. Witness coupon, isolation valve 2-E."
+
+Every valve on a fuel line has one. A little thumbnail of the lining material, there for exactly one reason: so somebody can check whether the fuel is eating the walls. Nobody ever checks. Nobody's ever needed to.
+
+An arm brings it out in a sealed sleeve. I slide it under the scope at the highest magnification Jinzhou's repair allows.
+
+Tunnels.
+
+Hundreds of them! Each one exactly one cell wide. All running into the lining at the same slant, neat and parallel, like a very small and very organized mining company.
+
+"They didn't stay in 2-E," I tell the empty lab. "They went through."
+
+Through the lining. Past the valve. Down the line. Toward the thing they could smell the whole way.
+
+I pull my oldest coupon from culture vessel one. A week of Asicell on the other side of it. Smooth. Clean. Not a scratch.
+
+Huh. So why didn't mine dig?
+
+Because mine had no reason to. They were fed. Nobody waved dinner at them through a wall. The wild ones had every tank on the ship lit up behind a curtain.
+
+"ARACCSIM. What's the lining on this coupon made of?"
+
+"Argon inert lining, lot series seven."
+
+"Where else is lot series seven used?"
+
+"Culture vessels. Sample chambers. Fuel tanks. Feed lines. Motor housings."
+
+"Of course it is," I say. "Why buy two kinds of lining when you can buy one kind in bulk?"
+
+"Section nine of the procurement summary lists the savings."
+
+"I bet it does."
+
+It was a sensible decision. I'd like to talk to whoever made it. At length. In a small room.
+
+"It's the same fudging lining," I say.
+
+"Profanity logged," ARACCSIM says.
+
+"That's not profanity. That's fudge. I don't swear."
+
+"Profanity logged."
+
+"It's a measurement!"
+
+"Understood."
+
+And then the part I've been walking around since the first slide.
+
+The cable.
+
+ARACCSIM offered to cut it. I remember the sentence. I remember saying no, fast, because everything we came for was on the end of it. That sample is the whole mission. It's also, I'm starting to think, a minute and a half I spent on a hull under a shield that was falling apart.
+
+"ARACCSIM. How long did untangling the cable cost us?"
+
+"Cable recovery delayed the climb by one minute, fifty seconds."
+
+"Would the covers have held if we'd climbed sooner?"
+
+"Unknown."
+
+"Unknown," I say.
+
+"Correct."
+
+Unknown is going to be heavy to carry for a while. I want to put it down somewhere. There isn't anywhere.
+
+I put my forehead on the cold edge of the bench for a moment. It's not panic. I know exactly what's happening, and I can move fine. It's the quieter thing. Where the cause of the problem is a sentence I said out loud. Everything in me goes calm and slow. That's how I know it's bad.
+
+Then I lift my head. The Asicell aren't going to stop eating while I have feelings.
+
+---
+
+Stopping the delivery doesn't stop the eating. They're already in the tanks. But the tanks are frosting over now, and the loss rate dropped when the freeze lines came on. That's the only good number I've got.
+
+Lower is a long way from zero, though. So I ask the question I don't want answered.
+
+"How long until the reserve drops below what it takes to get us home? At this rate."
+
+"Three hundred and ten days. Margin of error, large."
+
+"And the trip home?"
+
+"Vanguard MK1 is no longer under acceleration. Current velocity is sufficient for maneuvering within this system only. At current velocity, Wask-ki is not reachable."
+
+"Not reachable in what, years?"
+
+"Not reachable."
+
+I try to do the subtraction anyway, because that's the rule. And there's nothing to subtract from.
+
+That takes me a minute.
+
+The burn I just killed was the burn that takes us home. It was two days into a job that needed months. We're not on our way home, slower. We're barely on our way anywhere. We're just a little to one side of where we started.
+
+Said out loud to an empty lab, it still sounds like a number from somebody else's ship. It's not a number at all. That's worse.
+
+I want Jinzhou awake. Not to run the shutdown. I did the shutdown. The next question is a hard one, and he's the one who's good at hard ones.
+
+"When can he be woken?"
+
+"Thirty-one hours."
+
+"Is anything scheduled to fire in the next thirty-one hours?"
+
+"Negative. Drives cold."
+
+"Check it."
+
+"Checked."
+
+"Check your check."
+
+"Checked."
+
+I check it myself anyway, line by line, because I'm Ethyn, and checking is the one thing I've got going for me. Nothing fires. Nothing moves. The ship just falls through the dark at whatever speed it had when I flipped the switch. For thirty-one hours, the only thing moving on the Vanguard is whatever the cold didn't stop.
+
+So I make myself useful. I label all three slides. I put the coupon in a sealed case, even though "sealed" is a word I trust about as far as I can throw it right now. I write up the tunnels, the trail, the lining, and the clock. In plain language. For somebody who's going to be really tired when he reads it.
+
+Then I go back across the ship and sit on the floor next to his cubby. Habit. Turns out I picked that one up too.
+
+"Hey," I tell the readout. "So, uh. I broke the ship."
+
+The readout keeps doing its slow green hobby.
+
+"Okay. A locker broke the ship. I want partial credit."
+
+"ARACCSIM, log that."
+
+"Which part?"
+
+"All of it. Except the profanity."
+
+"The profanity is already logged."
+
+"Of course it is."
+
+Thirty-one hours. I do the math twice. It stays thirty-one.
+
+I put my back against the wall, and I stay.
 
 *END OF CHAPTER FOURTEEN*

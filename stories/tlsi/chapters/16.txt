@@ -1,254 +1,584 @@
 
-Attitude thrusters don't push. They tap.
+I'm in a conference room.
 
-Every few seconds there's a small, polite knock through the seat, and a little more of the difference between us and Blip-D is gone. It's like stopping a train by leaning on it, and the train has noticed. I try counting the taps. I give up at sixty, because the number I'd need is somewhere in the hundreds and I'd like to save my brain for the docking. I check the stack every twenty minutes. It stays cold. I check again, because I'm Ethyn.
+I don't know how I got here. My paws are clean, first thing I notice. Different clothes, second thing. A table of people looking at me, third.
 
-Blip-D resolves on the main screen about two hours in. The first thing I feel is relief, because at least it's a ship, and not some other, worse category of thing my brain had been quietly preparing for.
+Y'shari is at the head of it. She looks exactly the way she always looks, which I'll think about later, because I remember clearly that she was outside with me, and I remember exactly what was behind us.
 
-The second thing arrives about four seconds later, once I look at it properly.
+Bejors is here, three seats down, arms folded, already wearing the look that means she's against this and is just waiting for her moment to say so.
 
-"That is damage," Jinzhou says. Flat. Certain.
+Others I don't fully place. Argon site personnel. LP Defense insignia on two of them. LP military contractors behind them. Several people who look like Kanadian council members, the kind who fly in because a situation has graduated past the point where you send a representative.
 
-"Yeah."
+"Two hundred and forty-nine confirmed inside the building," Y'shari says. She's mid-sentence. I've been inserted into the middle of it. "The primary research team and support staff. The backup team was in the adjacent wing. Outside the building, we are still counting. The service tunnels. The shockwave. The perimeter, when people ran."
 
-Two of the external fuel tanks are gone. Not jettisoned clean. Torn away, with jagged edges where smooth housing should be. A third tank, the top one, is still there but scorched, a long dark stain running down the hull from it like something bled out and dried.
-
-No lights. No visible running systems. No rotation, either. A dead ship should keep whatever spin it had, and this one isn't keeping any. Either its centrifuge never started or something stopped it, which is its own kind of information.
-
-"ARACCSIM," I say. "Life signs."
-
-"Unable to determine remotely. Vessel's external sensor array appears non-functional or offline."
-
-"Comms."
-
-"No response on any hailed frequency."
-
-I look at Jinzhou. He looks back, and for once neither of us has anything clever to say about it.
-
-"We're going over," I say.
-
-"Yes," he says. "We are."
-
----
-
-Docking takes longer than it should. Blip-D isn't holding still the polite way a ship is supposed to. It's drifting slow and uneven, with a tumble you could miss if you weren't looking, and Jinzhou has to match it by feel. ARACCSIM has no procedure stored for this. Apparently nobody at Argon's LSI division planned for us doing it.
-
-My job is to read out distances. I do it in a calm, slow voice, because it's the one part of this I'm sure I can do right.
-
-We get a hard seal eventually.
-
----
-
-The suits live in a locker by the airlock, and they are not impressive. They're maintenance suits. Somebody at Argon looked at the budget for this mission and decided that the people who'd be going outside it would mostly be fixing things, which, to be fair to that person, is exactly what we've been doing.
-
-I climb into mine the way you climb into a sleeping bag in a tent, which is to say badly, and with commentary.
-
-"Your leg is in the arm," Jinzhou says.
-
-"My leg is exploring its options."
-
-The helmet is the part I hate. It's big and round, with a bulge out front for my snout, and the visor comes in two pieces that both hinge at the cheek. I pull it on. My ears get there first and immediately object, so I fold them down inside with one paw, flat against my skull, where they'll stay for as long as I'm in here. They feel like two socks stuffed into one shoe.
-
-Lower piece first. It swings up from under my chin. Then the upper piece, which swings down from the top and stops about halfway, and the two meet at the level of my nose, a seam across the middle of the view like a horizon.
-
-The gaskets find each other.
-
-*Tsss.*
-
-That sound is the suit telling me I'm sealed. It's the most reassuring sound on the ship, and it's also the sound of a very small room closing around my face. I'd like to have one feeling about it and I have both.
-
-Jinzhou gets into his suit faster than I got into my socks this morning. He does his helmet one-pawed, the left arm held close and doing as little as possible. I don't mention the arm. Then he floats over and checks my seal. He runs a glove along the seam, both sides, and then he goes back to the start and checks it again.
-
-"You're doing the thing where you check twice," I say.
+"The adjacent wing," someone repeats.
 
 "Yes."
 
-"Don't stop. I like it."
+"Which also."
 
-He doesn't answer. He checks the neck ring, the ribbed accordion part that lets me turn my head, and then he taps the top of my helmet twice, which I decide means *good* in whatever language Jinzhou thinks in.
+"Was destroyed."
 
-"ARACCSIM," I say. "Suit oxygen."
+I try to count what I remember. My brain starts and stalls. My paws are clean. I don't know what that means about the forty yards and the gap between them and this room, and I choose not to find out right now.
 
-"Six hours, forty minutes, Dr. Vasek."
+"The cause," someone says.
 
-"And how long do you think we'll be over there?"
+Y'shari is quiet for a moment.
 
-"Insufficient data."
+"Transfer quantity error," she says. "One digit. What the lab team processed was ten times the specified amount. One mistake, in a sealed environment, with that many people in the space." She pauses. "It was an issue that was flagged. It was not dealt with. For that, we are sorry."
 
-"That's what I was afraid of."
+She doesn't look at me. She doesn't look at Bejors. She looks at the table.
 
-Six hours and forty minutes is four hundred minutes. I decide to think of it as four hundred minutes. It sounds like more.
+The room stays quiet.
 
-I look at the airlock. I look at the seam in my visor, which cuts the hatch neatly in half. Somewhere on the other side of both of them is a ship with no lights and no answer, and a crew we were never told about.
+"We have three days until the launch window," she says. "We have almost no crew left. The primary scientists, our main software engineer, our medic, and our pilot. All gone."
 
-The airlock cycles.
+The pilot. I think of a tired-eyed man at a little round window, paws in his pockets, telling me a seat on the thing was a pretty good imitation of brave. I never asked his name. I said I would ask tomorrow.
 
-The hatch opens into a hallway that is, immediately, wrong. I don't have to be a doctor or an engineer to feel it in my chest before my brain catches up and gives it a name.
+People are looking at me. Not everyone. Enough of them, looking at me like a solution to a problem nobody's said out loud yet.
 
-It's dark. Not dim. Dark, the total kind, our helmet lamps the only light in the corridor, and the readout on my wrist confirms what the dark is already saying.
+"No," I say.
 
-No pressure.
+Y'shari looks at me.
 
-"Depressurized," I say, mostly for the recording, mostly because saying it out loud makes it slightly less enormous. "Whole hallway."
+"Nuh uh, NOPE." I say, sort of repeating myself. "I am not a mission scien- I'm a, a study guide author who got recruited to write, uh, accessible copy about Phengoclept behavior. All I did was write a book and, and talk to you. I'm not certified for- for anything. I'm not in the right space to go either."
 
-"Confirmed on my end too," Jinzhou says.
+"You are, actually." Her voice doesn't change, doesn't warm, doesn't do anything except state the thing like it's already decided. "You've been on every major call for two years. You've heard every containment review, every breeding cycle, every argument Bejors and I have ever had on a conference line. You have three PhDs. You have the clearance. On paper, that's enough."
 
-We pull ourselves along the rail, slowly. The lamps cut narrow cones through the black and catch debris here and there, small stuff, drifting, nothing anchored. The ordinary leftovers of a ship that stopped being maintained a while ago.
+On paper. I don't catch the qualifier at the time. I'm too busy hearing the first half of the sentence.
 
-"Hm. Suits," I say.
+That lands somewhere I wasn't braced for.
 
-"What."
+"I didn't sign anything," I say.
 
-"There's no suit cache along this hallway. There should be one. Every hallway on ours has an emergency cache somewhere."
+"You signed the facility clearance documents."
 
-We find where it should be, an open panel with empty racking inside. It isn't the emptiness of something that never held anything. It's the emptiness of something that did, and doesn't now.
+"That's not the same thing."
 
-"They took them," Jinzhou says.
+"It has a clause."
 
-"Or used them. Or." I don't finish that sentence, because none of the ways it finishes are good, and I'd rather keep moving than sit here building worse and worse versions of what happened to whoever used to walk this hallway.
+I look at her. Her gaze doesn't move, steady, like someone who has already decided this and is only now getting around to informing the room. Whatever this cost her to arrive at, she arrived at it a while ago, somewhere I wasn't in the meeting for.
 
----
+"No," I say, one more time, quieter.
 
-Deeper in, the passage ends at a bulkhead that doesn't want to open.
+"You don't have any parents. Let alone any extended family. You don't even have a stable job," she says. Not cruel. Not soft either. Just an inventory, run by someone who's stopped letting herself feel anything about the running of it. "Sunday. Think about it. Go wherever you need to go. We'll find you."
 
-It has a manual wheel, the kind you'd expect on a much older ship than this one, and it doesn't budge when I brace a foot on the rail and put my back into it. It isn't locked, exactly. Something is pushing back from the other side, which means something on the far side of this bulkhead still has air in it.
+Bejors stands. Her chair scrapes back hard enough that a few heads turn.
 
-"We need to, uh, equalize," I say. "Bleed some of ours across."
+"Nope," she says. "Right there. He said no. He said it clearly, three times, I counted. You cannot put someone on a mission-critical vessel against their stated wishes. This isn't a military draft. He's a civilian researcher."
 
-Back at the collar, Jinzhou opens the valve on our side and lets MK1's air into MK2's hallway. Once isn't enough. We do it twice. ARACCSIM reports the cost in air, which I didn't ask for, and which is more than I'd like. The second time, I hear it even through the suit, a rush, the hallway finally agreeing to be a hallway with something in it besides vacuum.
+"You are going too," Y'shari says.
 
-The wheel turns. The bulkhead opens.
+Bejors blinks. Then she laughs, a short, disbelieving, almost manic sound that starts as loud snorting exhales through the nose before it turns into anything like actual noise.
 
----
+". . . . . ha-HAHA." A snort. Another one, louder. "I'M SORRY? ...I'm NOT going."
 
-Where the lab should be, going by our own ship's layout, there's a large open storage area. Dim, but not dark. Breathable, by the readout on my wrist. I pull my helmet off before I've fully thought it through, because I trust the number more than I trust my own patience right now.
+One eyebrow climbs. She says it the way you repeat something stupid back to the person who said it, flat and slow, to hear how it sounds out loud.
 
-The air is stale. Cold. But it's air.
+"Your certifications match his. Research hours, containment training, secondary pilot qualification." Something in Y'shari's expression sharpens, thin and pointed. "Three PhDs. You're both going."
 
-There's furniture in here that doesn't belong in a lab. An actual chair, bolted down. A low table, and on the table, in what little light there is, a row of small pots.
+The room goes very still.
 
-Plants.
+"What. No. You cannot draft us to do this against our will." Bejors says it with an odd amount of space between the words, each one landing separately, like she's setting them down one at a time so nobody can pretend they didn't hear.
 
-Alive. Green, or green enough, leaning toward the one emergency light still working overhead the way anything green leans toward whatever light it can find.
+"The mission requires a lead and a secondary. You two are the lead and the secondary."
 
-Each pot is strapped to the table and capped with a little membrane, and from each one a wick runs to a bag of water clipped underneath. Somebody figured out how to water a plant in a ship with no down. Somebody cared enough to figure it out.
+"This is an error." Bejors is already arguing the appeal before the verdict's finished. "This is a procedural error. We are not certified mission crew. We were not selected. We did not volunteer. We did not consent. Whatever clause you think covers this, I promise you it does not cover this. I have read every document I signed at this facility and none of them say anything about."
 
-Someone's been tending these. Recently, if the leaves are any indication, which means someone was alive in here recently enough to care whether something small and green kept growing.
+"Bejors," Y'shari says.
 
-I don't say anything for a second. Neither does Jinzhou.
+"No. Objection. Full objection. This doesn't."
 
-Then I do what I'd do with any sample, which is stop feeling things at it and start measuring.
+"Three days," Y'shari says. "Both of you. If you really don't want to go, flee the country, go into hiding, I genuinely do not care how you spend the three days. But if we find you, you are going."
 
-"How recently," I say, mostly to myself, and pull myself down to the table.
-
-The water bags first. Each one is clear plastic with printed lines up the side, the kind meant for medical fluids, and someone has written on them in marker. Dates, I think, or numbers that do the job of dates. The bag under the first pot is two lines down from the last mark. The second, two and a half. The third pot's bag is nearly full, and its wick is new, still white at the top where the others have gone brown.
-
-"Somebody refilled this one," I say. "And swapped the wick."
-
-"How long ago."
-
-"Hm. Give me a second." I turn the first bag in the lamp. "If a pot this size drinks what a pot this size should, two lines is a few days. Maybe a week, if they rationed it, and if they're keeping plants alive in here, they ration everything."
-
-Then the leaves. The oldest ones are pale and a little papery, the way things go when they've been grown under one bad bulb for a long time. But at the tip of every stem there's a new one, small and folded and a different green, the green of something that hasn't had time to get tired yet.
-
-"New growth on all of them," I say. "Somebody's been here inside of a week. Probably less."
-
-"And the hallway has been in vacuum for longer than that."
-
-"The hallway's got dust on dust. This room doesn't." I run a glove along the table edge and hold it up. Clean. "So whoever it is comes in here a lot."
-
-Jinzhou looks back toward the dark hallway. Then at the plants. He doesn't say anything, but I can see him writing it down somewhere behind his eyes, in the column where he keeps things that are true.
-
-"They are watering plants," he says finally.
-
-"They're watering plants."
-
-"On a ship with no lights and no air in the hallway."
-
-"I know." I look at the little new leaves, folded up like they're not sure yet whether it's worth opening. "That's either the saddest thing I've ever seen or the most stubborn. I'm leaning stubborn."
-
-We take a few ration packs from a nearby shelf, just in case. I'd feel better about it if I knew what the case was.
+She looks at me. Then at Bejors. Then back at me. Then back at Bejors again. Then back at me again. Then back at Bejors again again. Then back at me again again.  Then back at Bejors again aga-
 
 ---
 
-The dorms are worse, in a different way than I expected worse to look.
+Y'shari finds me an hour later, in a stairwell nobody uses, sitting on the third step from the bottom because I ran out of building before I ran out of needing to not be in a room with other people.
 
-Not damage. Not the hallway's kind of worse. This is garbage and salvaged junk netted down in bundles against every wall, blankets and stripped panel components and empty ration wrappers. It's the particular chaos of people living somewhere they were never meant to live this long, in a space that kept shrinking as things broke and nobody could fix them. Nothing gets thrown away when you don't know how long you'll need it.
+She sits down next to me without asking. Doesn't say anything for a while. I appreciate that more than I'd be able to say out loud right now.
 
-The berths are here. Three of them, set into the wall in their cubbies, oval, the same design as ours. Where the other three would be on our ship, there are desks instead, each with a terminal built into the surface, screens dark, nobody at any of them.
+"You should know the whole shape of it," she says eventually. "Not the pieces. All of it, in one sitting, so you're not finding the rest out a chapter at a time over the next three days like it's some kind of drip campaign designed to keep you from bolting."
 
-"Three crew," I say. "Not six."
+"That's oddly considerate of you."
 
-"Smaller mission," Jinzhou says. "Makes sense. Leaner ship, leaner crew."
+"It's not consideration. It's respect." She says it flat, no warmth in it, just the fact of the thing. "You deserve to make this decision with the actual information instead of the version that's easiest to swallow one piece at a time."
 
-All three berths are empty.
+I don't say anything. I let her keep going.
 
-Not the good kind of empty, the kind that means someone's up and about somewhere else on the ship. The kind that means nobody has used them in a long time. There's a skin of dust on every surface.
+"Six years, one way, if the fuel math holds and nothing goes wrong along the transit, which nothing ever does, so account for delays. You'll go into an induced coma for most of it, which is safer than being conscious for it and also considerably less understood than anyone wants to admit in the briefing packet. There is no return fuel budgeted. None. Not a partial amount, not an emergency reserve. The ship carries exactly enough to get you there, decelerate, and conduct the mission."
 
-Wait. Dust doesn't settle without gravity. It floats until a fan pushes it into a filter. So why is it lying on things?
+"And then."
 
-Okay. No fans. Dry air. Plastic everywhere. Static. It drifted until it touched something, and then it stuck. Which means the fans have been off for a long time, and nobody's touched these berths since. Gross. Also useful. A few packs of folded clothing are shoved into two of the cubbies, like the berths turned into storage once whatever they were built for stopped being needed.
+"And then whatever you find, you send home. There's a courier vessel built into the mission architecture specifically for that purpose, unmanned, faster to launch than it would be to fly the crew back even if there were fuel for it. It goes home whether or not you do."
 
-"Jinzhou."
+I sit with that.
 
-"I see it."
+"So the actual plan," I say, "assuming everything works exactly the way it's supposed to. The good outcome."
 
-Neither of us says the actual thing out loud, the same way neither of us said it about our own crew at the very start of this. Some sentences don't need saying to be understood by both people in the room.
+"The good outcome is you solve the problem, the courier carries the solution home years ahead of you, and Wask-ki starts implementing it long before you'd ever physically arrive back, if arriving back were even on the table, which it isn't."
 
-We keep going.
+"And the crew."
+
+"The crew's job is to be smart enough, on-site, in real time, to find something a probe alone couldn't find. That's the entire reason there are people on this mission instead of just machinery. You're not cargo. You're judgment, in a place too far away to phone home for it." She finally looks at me. "You are also, in the framework anyone above me has ever discussed this in, not expected to require a return trip in the planning. I want you to hear that stated plainly, once, by someone willing to say it plainly, rather than let you assemble it yourself out of things nobody quite finished saying."
+
+Not expected to require a return trip in the planning.
+
+I turn that phrase over a few times, looking for a softer read of it, and there isn't one hiding in there. There's just the one meaning, stated as carefully and honestly as she seems capable of stating anything right now.
+
+"You could have let me find that out slower," I say. "Nobody would've blamed you for it."
+
+"I would have blamed me for it." She looks back down the stairwell, at nothing in particular. "I've watched what happens to people who find out the real shape of something after they've already committed past the point of it mattering. It doesn't make them safer. It just makes the finding-out worse, and later, and alone."
+
+"Is that what happened to you," I ask, before I've fully decided I want to ask it. "Finding out the real shape of something too late."
+
+She doesn't answer that. Not with words. Something in her face does something I don't have a name for, and then it's gone, shut behind whatever door she keeps those things behind, and she stands up before I can try again.
+
+"Three days," she says. "Think about it properly now. You have everything you need to."
+
+She leaves me on the stairs. I sit there a long time after, doing the math on six years and no return fuel and a courier ship that goes home whether or not I do, and none of it gets any easier to hold the longer I look at it.
 
 ---
 
-We put our helmets back on, because the hallway is still trying to kill us. Back through the storage room, back through the dark hallway, we come at last to a second bulkhead. It's smaller than the first, set into what has to be the base of this ship's cockpit module.
+Three days later, Y'shari's office has a plant in the corner I've never paid attention to before. It's doing fine. Someone waters it. I notice it now because I've run out of things to look at that aren't Y'shari's face and the phone on her desk and the door, which is still open, which is the only fact in the room that currently matters to me.
 
-"This one's clean," I say, running a glove along the seam. No dust, none of the grime that's collected everywhere else. Somebody has been maintaining this specific bulkhead, or at least touching it often enough that nothing gets the chance to cling.
+"The Phengoclept breeding data," she says. "All of it. The full cycle research, the containment protocols, the propagation notes. You know it. There's nobody left alive who knows it the way you do."
 
-This one is sealed properly. Not pressure-locked like the first. This one was shut from the inside, deliberately, by somebody's decision, and nothing since has changed their mind about it.
+"I said no," I say. "Three times. Bejors counted."
 
-Beside the frame, at about the height of a paw resting on the wall, there are marks scratched into the paint.
+"And it has been three days."
 
-Little vertical lines, in groups of five with a stroke across each group, the way people have counted for as long as people have counted. Rows of them. Some neat, some shaky, a few gouged deep enough to reach bare metal, like whoever did those ones was having a bad day and the wall was the only thing that would hold still.
+She reaches for the phone.
 
-I count. I can't help it. It's what I do with a number that's standing right in front of me.
+I run the calculation in the half second before her paw gets there. Door still open. Guard outside, I heard him in the corridor ten minutes ago, probably still there. Medic somewhere in the building, had to have been pre-positioned, nobody moves that fast on their own. Stairs to my left, elevator to my right, elevator is slower and has one exit. There's a service corridor off the east stairwell I walked past twice yesterday without thinking about it.
 
-Twenty-four groups of five. That's a hundred and twenty. Plus two.
+Her paw touches the receiver.
 
-"A hundred and twenty-two," I say.
+I go.
 
-"Days," Jinzhou says.
+---
 
-"Probably days." I touch the last group with the tip of my glove. It's only got two strokes in it, and the second one is fresh, the paint around it still bright. "And somebody did this one recently."
+The shelving unit is bolted to the wall, not the floor. I know that now. I didn't know it when I grabbed it. You find these things out by testing them.
 
-Scratched from this side. Out here, in the dark, where there's no air. Somebody has been coming out in a suit, past this spot, and stopping to mark it on the way.
+It holds my weight going up, which is what matters, and I'm over the top of it before Y'shari has processed that I moved at all.
 
-Four months, give or take, of somebody counting.
+Down the far side. Door.
 
-I think about the plants. I think about the bags with the marker lines on them. Somebody on the other side of this bulkhead has been keeping very careful track of time, in every way they have, for a very long time, and I'd like very much for them to still be doing it.
+The corridor is long and white and straight and I can see the east stairwell from here, which means I'm already running before I've finished registering that I'm running. Not upright. Four points of contact, because upright is slower, and there are footsteps behind me now, two sets, close.
 
-I knock.
+The stairwell door. Through it. Service corridor on the left, unmarked, I find it by feel more than memory. Narrower in here, tighter, a corridor built for pipes and infrastructure, not people, which means I'm faster in it than they are behind me.
 
-Nothing.
+I can see the exit. The far end of the service corridor has a door and the door has a window and through the window is outside. Grey sky. Snow on the ground. The launch site sprawling away from the building in every direction.
 
-I knock again, harder, three solid strikes with the flat of my paw against metal that doesn't want to give me anything back.
+That's all I need. Outside and I'm into the site, and the site is enormous, and enormous is time, and time is anything. Time is a car. Time is someone who isn't LP Defense looking at me and asking what's wrong.
 
-"Hello," I say, which feels absurd the second it leaves my mouth. Partly because there's no air out here to carry it. Mostly because calling hello into a dead ship is like calling into an empty house, except this house has plants somebody is still watering and berths somebody clearly stopped using on purpose.
+I hit the door. It opens.
 
-Still nothing.
+Cold air. Real cold air. Port Jiji winter cold that hits the face like a fact.
 
-We pound together, both of us, a rhythm instead of a single knock, loud enough that if anyone is alive on the other side of that bulkhead, there's no version of this they could sleep through.
+First checkpoint behind me, building entrance, already clear. Second checkpoint ahead, the main road crossing, two LP contractors in standard black, both looking the wrong way.
 
-I press the side of my helmet flat against the seam. Is that stupid? Let's see. Vacuum doesn't carry sound. Metal does. If my helmet's touching the door, the door can shake the helmet, and the helmet can shake the little bit of air in here with my face. So it's not stupid. It's physics. It's also a little stupid.
+I go low and fast across the crossing and they don't clock me until I'm past them, and then the radio crackle starts, and I don't slow down, because slowing down is not an option.
 
-There.
+Third checkpoint. I can see it from here. The perimeter gate. The one that puts me outside the facility, outside their jurisdiction, outside the thing that happens if they catch me before I reach it.
 
-A sound.
+One hundred and fifty meters. Maybe less.
 
-Small. Metallic. Deliberate. Not the random settling of a dead ship shifting under its own weight. A *response*, someone on the other side doing the exact thing we just did back at them.
+I'm going to make it. My legs know I'm going to make it before my brain does, the rhythm of it, four points, snow and gravel and tarmac, the gate getting larger.
 
-Knock.
+One hundred meters.
 
-Knock.
+---
 
-Knock.
+One hundred meters.
+
+Something strikes me in the arm and I hit the ground, and that's the tarmac outside the second gate, and that's as far as I get before the nothing comes.
+
+I never really made it out, did I.
+
+---
+
+"Wake state initiated."
+
+Not ARACCSIM. A different voice. Flatter. Cheaper. The voice of something that has exactly one job and is hoping nobody gives it a second one.
+
+"Wake state initiated. Reason code four."
+
+I don't open my eyes yet. My body is still deciding whether this is waking up, or just one more layer of a very long, very warm nothing.
+
+"Mmn," I say. That's a perfectly reasonable thing to say after however long I've been asleep on purpose.
+
+"Reason code four," the voice says again. "Contact."
+
+That one gets through. And so does everything else, all at once, in order. The conference room. The stairwell. The service corridor and the snow. The dart at a hundred meters.
+
+So that's how I got on this ship. It took one very long nap to find out.
+
+I open my eyes. White ceiling. Same one. The lights turned down to the dim that means the ship thinks it's still night somewhere.
+
+"Who," I manage, "are you."
+
+"LSI-ASM&C."
+
+"The cruise control."
+
+"Affirmative."
+
+"You wake people up?"
+
+"Per schedule. Or per reason code."
+
+"What are reason codes one through three?"
+
+"One, arrival. Two, system fault. Three, crew request."
+
+"And four is contact."
+
+"Affirmative."
+
+Huh. Contact.
+
+Somebody, a long time ago, sat at a desk and decided this ship might meet something out here one day. They gave it a number. Then they went home for the night. I hope they got a raise. Then I hope somebody asked them what they knew.
+
+Okay. Up.
+
+I try to sit up, and there is no up. The straps let go and I just keep going. A slow, lazy rise off the berth, like I'm being offered to the ceiling. I grab the rim of the cubby with one paw. My arms feel like they belong to somebody else after months in the cold. Luckily nobody's asking them for much. Nothing weighs anything. For once, my legs are off the hook.
+
+Why no weight? Think. Level two. The centrifuge is off. The tanks have all the power. I knew it would be like this. I just forgot to believe it.
+
+"Please remain secured for ninety seconds," the voice says.
+
+I stay secured for about eleven. That's long enough to notice the berth next to mine is already out, already open, already empty. Jinzhou is out of it, one foot hooked under a rail, floating very still. Like his legs haven't been consulted yet.
+
+His sleeve has ridden up. On the inside of his left forearm there's a pale line, thin and straight, like a seam. He sees me looking and pulls the sleeve down.
+
+"You heard that too," I say.
+
+"Yes."
+
+"Contact."
+
+"Yes."
+
+Neither of us says anything else. There's no version of that word that doesn't scare me. We're six light-years from anyone, drifting through a system with exactly one known ship in it, and I'm pretty sure that ship is us.
+
+"ARACCSIM," I say, and my voice holds this time. "Report."
+
+A pause. Then the voice I know, the smooth one, coming back from the background like somebody putting down a book.
+
+"Dr. Vasek. Mr. Kenzo." Another pause. Not one of its normal ones. If a computer could brace itself, this is what it would sound like. "Sensor contact designated Blip-D detected on approach trajectory. Signature is consistent with a Vanguard-class vessel."
+
+I stare at the ceiling.
+
+"A what," I say.
+
+"A Vanguard-class vessel," it says again, exactly the same, like saying it slower helps. It does, a little. Now I know I heard it the first time and I'm just refusing to believe it.
+
+"There's one Vanguard," I say. "There's us. We're the Vanguard."
+
+"Correct. You are Vanguard MK1."
+
+Oh.
+
+"MK1."
+
+"Correct."
+
+"As in, there's a..."
+
+"Vanguard MK2 launched approximately four months after your own departure from Wask-ki orbit. This information was not included in your original mission briefing."
+
+I look at Jinzhou.
+
+He's already looking at me. And for the first time since I've known him, he looks exactly as thrown as I feel. That's scarier than if he'd been his usual unbothered self.
+
+"There's a second ship," I say. Mostly to hear it out loud. I need it to start feeling real sometime in the next few minutes.
+
+"Yes."
+
+"And it's here."
+
+"Blip-D's trajectory places it on our path," ARACCSIM says. "Current distance and closing rate suggest it has been drifting for an extended period."
+
+Drifting.
+
+Not flying. Not steering. Drifting. ARACCSIM picked that word on purpose. The same careful way it picked UNDETERMINED for the four names in the medical logs. I already don't like where this is going.
+
+"Hm. Define extended," I say.
+
+A pause. Longer than I want.
+
+"Insufficient data for precise estimate. Recommend visual and sensor confirmation before further assessment."
+
+---
+
+I hook my feet under a floor rail, which on this ship counts as standing. The room tilts at me a little. More of a suggestion than a demand. I wait for it to finish. Apparently that's a thing I do now. Negotiate with my body instead of bossing it around.
+
+"ARACCSIM. How long was I under?"
+
+"Rest state duration, five months, nine days. Scheduled wake was in twenty-one days."
+
+Five months, nine days.
+
+Wow. Okay.
+
+It's not the number. I'm used to big numbers. They're basically this ship's love language. It's that I don't remember a second of it. No dreams. No almost-waking up. Just the medbay ceiling, and then this ceiling, stitched together like there was nothing in between.
+
+Then I do the subtraction the other way, because that's the rule. Twenty-one days early. Something out there didn't want to wait.
+
+And the problem I went to sleep with is exactly where I left it. We still can't go home. I check the drawer for later-Ethyn's answer. It's empty. He slept too.
+
+"Somebody's been looking after me for five months," I say, mostly to myself.
+
+"LSI-ASM&C maintained your rest state," ARACCSIM says.
+
+"The cruise control."
+
+"Correct."
+
+"Huh. Good cruise control."
+
+"Affirmative," says the other voice, from somewhere in the wall. It doesn't sound proud. It sounds like something that did its one job and would like to be told it can go back to it.
+
+"Before anything else," I say. "Tanks."
+
+"Level two engaged. All tank walls at minus fifty-five degrees Celsius."
+
+"Reserve loss rate."
+
+"Indistinguishable from zero."
+
+"The stack?"
+
+"Cold."
+
+I let out a breath, and it feels about five months long. Whatever's out there, the freezer works, the cruise control works, and the thing that digs is still asleep. That's one problem I get to leave exactly where I put it.
+
+My glasses aren't on my face.
+
+That's the first thing on the whole ship that actually scares me, which tells you everything about my priorities. I pat my snout. My chest. The strap. Nothing. The room is a soft blur with a bright smear where the light is. And somewhere in that blur is the only pair of glasses I own, six light-years from the nearest optometrist.
+
+"ARACCSIM. My glasses."
+
+"Your eyewear was removed for the rest state, Dr. Vasek, and stored."
+
+"Stored where?"
+
+One of the ceiling arms unfolds, slow and polite, and stops a paw's width from my face. It's holding them. Folded, clean, lenses down. The way you'd hand somebody something you knew they cared about. Who taught it that? Probably nobody. Probably it's just the safest way to hold glasses.
+
+"Thank you," I tell the arm. I put them on, and the whole room shows up at once. "I'm going to say something nice about you in a log somewhere."
+
+The arm folds back up without a word. The arms have never once acknowledged a compliment. I've decided to respect that.
+
+The porthole is across from me. The same one I put a paw on the day I woke up not knowing my own name. I pull myself over to it along the rail, because I want to see what five months looks like.
+
+Bejors is in it.
+
+Huh. It's smaller.
+
+That's the first thing. The last time I looked at this planet, it filled the cockpit screens. A thick, hazy ball of brown and blue. Now it fits in the window with room to spare. About the size of a coin held out at arm's length.
+
+Wait. Planets don't shrink. So what changed? Not the planet.
+
+Us.
+
+We left. Not far, and not fast. But for five months, with nothing pushing and nothing stopping us, the last little bit of speed from the burn has been carrying us outward the whole time. Like a ball that keeps rolling after you stop kicking it.
+
+"ARACCSIM. Distance to Bejors."
+
+"Four point one million kilometers."
+
+"And our speed, compared to it?"
+
+"Point three kilometers per second. Outbound."
+
+"Point three." I work it out. "Three hundred meters a second. Times thirty-six hundred seconds in an hour. That's a little over a thousand kilometers an hour. Fast for a car. For a spaceship that was supposed to go home, it's a stroll."
+
+"That is not a term I would use."
+
+"It's a study guide term. I'm allowed."
+
+Somewhere way out past all of this is Wask-ki. Nakuet. A dimming I spent years explaining to people who didn't like math. At this speed, how long to get there? Six point four light-years, at a thousand kilometers an hour...
+
+About six million years. I did that one in my head. I'm choosing not to check it.
+
+I look at the little planet for one more second. Then I let the window stop being my problem.
+
+"ARACCSIM," I say, quieter, with my back to the window. "Mr. Kenzo's arm."
+
+"Fracture fixation was completed during the rest state. Day thirty-one. Recovery is complete within expected parameters."
+
+"While he was asleep."
+
+"Correct."
+
+"So it healed while he slept, and he woke up with a scar and no memory of any of it."
+
+"Correct."
+
+So that's the line on his arm. The seam. Somebody fixed him in the dark and didn't wake him for it. I'm grateful in a way I don't have a good place to put. I think about asking him how it feels. I already know he won't talk about it.
+
+---
+
+Jinzhou is already dressed, already at the end of the rail, already looking like a man who woke up five minutes before me and used every one of them. I don't ask how long he's been up. I don't think I want to know.
+
+"You look terrible," he says. From him, that's either an observation or concern. With Jinzhou those have never been easy to tell apart.
+
+"I've been asleep for five months. You try it."
+
+"I intend to. Later. Right now we have a ship to look at."
+
+Right. The ship. I almost got distracted by how inconvenient it is to be conscious.
+
+"ARACCSIM. Blip-D. How far?"
+
+"Approximately eleven hours at current closing rate."
+
+"Closing rate. It's coming at us?"
+
+"We are overtaking it. Blip-D is coasting at a lower velocity than Vanguard MK1."
+
+Okay. Picture it. It's drifting. We're drifting. We're faster. So it isn't coming to us. We're about to go sailing past it, like an express train past a station it was never supposed to stop at.
+
+"So to stop at it, we have to lose the difference."
+
+"Correct. Relative velocity must be reduced before rendezvous."
+
+"Using what?"
+
+"Attitude thrusters only. Total thrust time, four point two hours."
+
+"Not the engines."
+
+"The Phengomotor stack is not available."
+
+"Not available, or not allowed?"
+
+"Not allowed."
+
+"Good. Don't touch the stack."
+
+"The stack remains cold."
+
+"Keep it cold."
+
+"Understood."
+
+Huh. Stopping a ship with the little thrusters meant for turning it. That's like stopping a train by leaning on it. It works, if you lean long enough and nobody asks how long.
+
+"And if we don't?"
+
+"If thrust does not begin within ninety minutes, the contact will pass beyond practical rendezvous range within twenty-six hours."
+
+I look at Jinzhou.
+
+"We're doing this," I say. It's not really a question. I say it like one anyway. Some decisions feel wrong to make alone, even when there have only ever been two of us to make them.
+
+"We are doing this," he says.
+
+"ARACCSIM. Prep the rendezvous. And next time, wake me with a person. Or with you. I want my first thought of the day to be something other than 'mmn.'"
+
+"Noted, Dr. Vasek."
+
+I don't think it means that as a joke. I laugh anyway, quietly, on my way to the rail. That's a thing I do now, it turns out. I find something to laugh at even when the situation doesn't really deserve it.
+
+We go. Paw over paw down the hall, past the blue hatches, toward a cockpit that's a long way off when nothing weighs anything and you're out of practice at everything. Neither of us says much. There isn't much to say yet. Not until we see what we're chasing.
+
+---
+
+The cockpit is colder than the medbay. Or I'm warmer than I should be. One of the two.
+
+Jinzhou takes the left seat without discussing it. I take the right and strap in. The straps feel like the only honest thing on the ship, because at least they admit nothing's holding me down. On the main screen, Blip-D is one bright pixel with a label next to it. It doesn't look like a ship. It looks like a typo.
+
+"Thrust begins in forty-one minutes," ARACCSIM says.
+
+"Thank you." I watch the pixel. It doesn't do anything. Pixels rarely do. "ARACCSIM. MK2. You said it wasn't in our briefing."
+
+"Correct."
+
+"Was it in anyone's?"
+
+"Documentation regarding Vanguard MK2 was restricted at the program office level."
+
+"Restricted to who?"
+
+"I am not able to provide that list."
+
+"Not able, or not allowed?"
+
+A short pause, with the hitch in it. "Not allowed."
+
+I'm starting to get it. To this ship, those are two very different words. It uses them carefully. The way a person with a lot of secrets picks a lot of very small true things to say.
+
+"Did Dr. Y'shari know?"
+
+"I am not able to determine that."
+
+That one sounds true. It doesn't help.
+
+I think about Y'shari on a stairwell at Port Jiji, telling me everything in one sitting. The accident. The clause. The number of dead. She never softened any of it. She never once pretended she'd have chosen differently. It was the worst conversation of my life, and it was honest the whole way through. I was mad at her for that too. For not even leaving me something to be mad about later.
+
+If she'd known about a second ship, she'd have told me. Or she'd have told me there was something she couldn't tell me. That was her whole method. She didn't lie. She just showed you exactly where the locked doors were.
+
+She didn't show me this door.
+
+"Hm," I say. "I'm going to need to know that. Not now. Later-Ethyn has a question for her."
+
+"She is six light-years away," Jinzhou says.
+
+"He's patient."
+
+Jinzhou's watching the pixel too. "Four months after us," he says. "But a resupply ship is lighter than we are. Fewer crew. No labs. It would make up time on the way."
+
+"So it got here when?"
+
+"Not long after we went to sleep."
+
+"While we were asleep. With nobody looking."
+
+"Unless it arrived and did not stop."
+
+"Or stopped, and stopped answering."
+
+"Yes."
+
+"Which means it's been drifting for a while."
+
+"Yes."
+
+"ARACCSIM said 'extended.'"
+
+"ARACCSIM said 'extended' because it did not want to say a number," Jinzhou says.
+
+"I didn't want it to say a number either."
+
+"I know. That is why I am saying it to you instead." He doesn't look away from the screen. "Months, Ethyn. It has been out there for months."
+
+I start thinking about what months would mean for a crew. Then I stop. On purpose. Before my brain can finish. I'm not doing that math on people I've never met.
+
+Jinzhou unclips a tube from the console and hands it to me without looking.
+
+"Eat," he says.
+
+"I'm not hungry."
+
+"You have been asleep for five months. You are hungry. Your body has not been told yet."
+
+I eat it. It's the beige flavor. The flavor of all the other flavors after somebody takes the flavor out. I finish it anyway, because he watches me until I do. Then he goes back to watching the pixel, satisfied in the way only Jinzhou can be. Invisibly.
+
+"Thrust in ten minutes," ARACCSIM says.
+
+I check the stack. Cold. I check it again.
+
+"Thrust in one minute."
+
+I don't count down. I want to. I don't. Counting down makes it a launch, and it isn't one. It's two people leaning on a train.
+
+"Thrust initiated."
+
+Somewhere behind us, very small, very polite, something knocks once against the hull.
+
+That's it. One knock. And then, a few seconds later, another.
 
 *END OF CHAPTER SIXTEEN*

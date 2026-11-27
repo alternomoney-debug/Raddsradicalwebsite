@@ -1,322 +1,245 @@
+*Written from the perspective of Ethyn Vasek.*
 
-The second collector sample is a mess.
+The sample is still under the microscope where I left it last night. So day twelve picks up exactly where day eleven quit. No commute. That's the one perk of living in your lab.
 
-Not a bad mess. A busy one. There's way more on this slide than there was on the first. I've been staring at it for forty minutes, and I still can't tell if I'm looking at the most interesting thing I've ever seen or a very elaborate headache.
+"Confirmed mass," I say, mostly to hear it out loud. "Point zero two one two seven six five nine four four six eight zero eight five one zero six three eight two nine seven eight seven two nanograms."
 
-"ARACCSIM. Spectral breakdown on batch two. Again. Full output."
+Jinzhou doesn't look up from his screen. "That is a lot of decimal places for something that small."
 
-"Running."
+"It's not my fault! That's the actual number. I checked it four times."
 
-Same graph as the last three times. Same curve. Same peaks. And the same two little bumps sitting in the readout that have no business being there.
+"Four times."
 
-Okay. Let's be methodical about this.
+"I wanted to make sure the fourth one agreed with the first three."
 
-The Phengoclept cells are there. Good. Twenty-two point seven zero six micron emitters, nanogram mass, right where they should be. They're doing their thing with the total indifference of something that's been doing it since before anybody on Wask-ki had a word for "thing."
+"Did it?"
 
-So that's the Phengoclept. What are the bumps?
+"Yes! Which is somehow the most annoying part. It's one cell. I can't even see it without four hundred times magnification. And somebody cared enough to measure it to twenty-eight decimal places, and I trust that number more than I trust my own name."
 
-I go back to the slide image and zoom in. Then I zoom in some more.
+He thinks about it. "You could round it."
 
-Huh.
+"I could. I'm not going to. If Bejors were here she'd never let me hear the end of it."
 
-There's something else on here.
+Huh. I said her name. Just like that, in the middle of a sentence. No lump in my throat, no weird pause. It just came out.
 
-Lots of something elses, actually. Scattered all over the field of view. No clumping. No pattern. They're not hanging around the Phengoclept, they're not avoiding it, they're just... there.
+That's new. Progress, maybe. Or I'm just tired.
 
-Dust? No. Dust is junk. Dust comes in every shape and size you can imagine. These are all roughly the same size. And they have structure. Insides. Layers.
+---
 
-Structure doesn't happen by accident at this scale.
+Okay. Let's take stock. What do I actually know now that I didn't know two weeks ago, back when all I had was a sideways whiteboard and half a phone call?
 
-What are you?
+First question. What does the Phengoclept do?
 
-"Jinzhou."
+It eats light. Well. Not "eats." It soaks up a star's output, the high-energy stuff, and turns it into stored mass. Then it hangs onto it.
+
+Second question. How much does it hang onto?
+
+Oh, I can actually figure that out now. I've got the mass. Let's see.
+
+Point zero two one two nanograms. A nanogram is ten to the minus twelve kilograms. So that's two point one two times ten to the minus fourteen kilograms. Now turn all of that mass into energy. You multiply by the speed of light, squared. That's nine times ten to the sixteenth.
+
+Two point one two times nine is about nineteen. Ten to the minus fourteen times ten to the sixteen is a hundred.
+
+About nineteen hundred joules.
+
+In one cell!
+
+A cell I can't even see!
+
+Okay, what's nineteen hundred joules in normal-person terms? It's enough to take a cup of water most of the way to boiling. So every one of these specks could make you a cup of tea. And there are billions of them out there in the line.
+
+That's why the old notes call a full cell "saturated." I'd bet anything that was Bejors' word. It's exactly the dry, slightly annoyed word she'd push for in a meeting full of people who wanted something flashier.
+
+Third question. What happens when it's full?
+
+It can't take any more. So it leaves.
+
+It rides its own stored light, like a sail, and crosses open space. It can go years without eating. It doesn't plan the trip. It just points itself outward and goes. That's either the cleverest survival trick evolution ever came up with, or the dumbest. I keep changing my mind.
+
+At home, it goes to Aluk'.
+
+I know Aluk'. Like everything else that's come back, it shows up as a fact with no memory attached. Close to Nakuet. Hot. Buried in cloud. Full of exactly the carbon stuff a saturated Phengoclept wants. It breeds there. One cell becomes two, and both of them fly back to Nakuet to start over.
+
+And that's the part that's killing Wask-ki. Not the eating. The breeding. Every lap, the population doubles. Two. Four. Eight. Nothing at Aluk' stops them. So the dimming speeds up, and it keeps speeding up until there's nothing left of Nakuet worth eating.
+
+That's the curve from day one. The one that bends down like it's tired.
+
+Fourth question. What's different at Asimov?
+
+I don't know yet. That's the whole reason we're here.
+
+---
+
+"Say the light thing again," Jinzhou says. He's got his paper notepad out, drawing something in the margin. A graph, maybe. Or just him thinking with his paws.
+
+"The Y'shari frequency?"
+
+"That one."
+
+"Twenty-two point seven zero six microns. Infrared. That's the light it gives off when it burns stored mass. Which is also how it moves." I put the reading up on the shared screen so he can see the spike. "Every Phengoclept line anybody's ever mapped glows at exactly that wavelength. Ours too. It's a fingerprint. If you're not looking at twenty-two point seven zero six, you're not looking for it."
+
+"Convenient that it is one number."
+
+"It's not convenient! It's physics. That's just the line." I squint at him. "Why, did you want it to be complicated?"
+
+"I want to know if I can remember it."
+
+"Can you?"
+
+"Twenty-two point seven zero six." He doesn't even glance at the notepad. "Yes."
+
+"Show-off."
+
+"You did it first with the mass."
+
+"That's different. Mine has more decimal places. Mine is objectively more impressive."
+
+He doesn't argue. From Jinzhou, that's basically a trophy.
+
+---
+
+Here's the part that gets me every time I think about it too hard.
+
+The thing we flew six point four light-years to study is also bolted to the back of our ship. Right now. Dying by the gram so we can move.
+
+Jinzhou explains the engines better than I can. During the week-one diagnostic he took a motor housing apart and put it back together without the manual. That's either really reassuring or really concerning, depending on the day.
+
+"Three phases," he says, counting on his fingers. "One. Low light at the frequency. Live Phengoclept are drawn to the drive plate. They coat one face. Two. The plate turns out to open space. A strong pulse at the same frequency. The cells do what they do when they are full and get that signal. They dump everything, all at once, all one direction, because the plate is angled. That push moves the ship."
+
+"And three?"
+
+"Plate turns back in. The cells are dead by then. Nothing survives dumping that much. Scrape them off. Plate goes back out for a new coat."
+
+I think about that for a second.
+
+"So the engine works," I say, "because we're killing the thing we came all this way to understand. A little at a time. On a schedule."
+
+"Yes."
+
+"That's a little on the nose."
+
+"It is efficient," Jinzhou says. That's how he agrees with me without admitting it.
+
+---
+
+I spend the middle of the day chasing a number that won't move. I only notice two hours in. After I've already spent the two hours.
+
+"Huh," I say. "That's weird."
 
 "What."
 
-"Stop whatever you're doing and come look at this."
+"The population math doesn't work. I've built the model four different ways, and I get the same wrong answer every time." I rub my eyes under my glasses. "Which is consistent, technically. Consistently wrong."
 
-A pause. Footsteps. He leans over my shoulder.
+"Explain."
 
-"Those are not Phengoclept," he says.
+"Okay. Think of a bathtub. Water coming in, water going out. If the water level stays the same, then in has to equal out. Right?"
 
-"Nope."
+"Right."
 
-"Not the same shape. Not the same size." He leans closer. "Could be contamination. From us. From the collector."
+"The line here at Asimov has been the same strength for two years. So the amount of Phengoclept feeding here isn't changing. Flat. But at home, it doubles every lap." I tap the screen. "So why isn't it doubling here?"
 
-"That's what I thought too. Look at the color."
+He waits. He knows I'm not actually asking him.
 
-He looks.
+"Something's pulling the plug," I say. "Something here is draining them out exactly as fast as they breed. Every new cell gets cancelled out by one going away."
 
-I wait. I'm good at waiting when I already know what somebody's about to see. (I'm terrible at it every other time.)
+"So something caps the population."
 
-"Too clean," he says. "Contamination is random. These have structure." He points. "Blue at the membrane. Red in the middle. Green running through both. That is not random."
+"Something caps the population." I lean back. "Either nothing new is showing up. Or..."
 
-"Nope. It isn't."
+"Or they do not come back."
 
-"What is it?"
+"Or they don't come back! If they fly off to breed, wherever the local Aluk' is, and something gets them before the return trip, you'd see exactly this. Steady in. Steady out. Flat line."
 
-"I don't know yet!" It comes out way too cheerful. I can't help it. I pull the spectral breakdown up next to the image. "But look. Whatever it is, it's not emitting anywhere near twenty-two point seven zero six. It's absorbing there."
+"A predator," Jinzhou says.
 
-Jinzhou goes still. Not his regular still. His thinking still.
+"Maybe. Y'shari floated that before we ever left, and I had no way to test it." I look at Asimov-09D on the trajectory screen. Big, patient, sitting there. "I think I might have a way now."
 
-"Absorbing," he says.
-
-"Absorbing."
-
-Okay. Why does that matter? Think it through, Ethyn. Slowly.
-
-When a Phengoclept cell spends its energy, it spits it out as light. Twenty-two point seven zero six microns. Every time. That's its whole thing. It's how it moves, it's how it dumps what it stored.
-
-Now. If something out here soaks up light at exactly that wavelength. Not close to it. Exactly it.
-
-That's not a coincidence. Nature doesn't hand out coincidences that specific. That thing is built to catch what the Phengoclept puts out.
-
-Or to catch the Phengoclept.
-
-Oh.
-
-Oh!
-
-The bathtub. The drain. I've been hunting for the drain for two days, and it's been sitting on the same slide as everything else, being blue and red and green at me.
-
-"That would mean," Jinzhou starts.
-
-"Something that eats at the same wavelength the Phengoclept emits," I say. I'm talking too fast. "Living in the same place. In a system where the Phengoclept population hasn't grown in two years. Jinzhou. Jinzhou!"
-
-"Then this is it," he says.
-
-"This is probably it," I say, because I've been wrong before, and getting loud about a conclusion before you've checked it three times is how you end up wrong in public.
-
-"This is it," he says again. Same flat voice he uses for everything. Somehow it hits harder than if he'd yelled.
-
-I push my glasses up.
-
-"Yeah," I say. "This is it."
+Neither of us says the rest of it. We both know what testing it means. Neither of us is in any hurry to say the word "fishing" out loud.
 
 ---
 
-Then comes the part of science nobody puts on a poster.
+Later, once we've both admitted the population model doesn't need us anymore today, Jinzhou brings up the other thing.
 
-I run the spectral breakdown six more times. Same answer. Jinzhou goes through the reference library looking for anything known that absorbs between twenty-two and twenty-three microns. It's a short list. Almost nothing alive has any reason to care about light at that wavelength.
+"I want to look at the medical logs," he says. "The four."
 
-The list has one hit that matters. And it's not even an organism. It's a theoretical paper. Published about four years before we left. It asks, basically: if something evolved to eat Phengoclept, what would it have to look like?
+I know which four.
 
-Wait.
+"Okay," I say.
 
-I know this paper.
+We go down to the terminal together.
 
-I read it when it came out. I thought it was clever. I thought it was also completely unprovable. So I put it in a folder on my desktop called MAYBE SOMEDAY, which is where I put things I like but don't believe.
+"ARACCSIM. Pull the coma vitals logs. Whole mission. All four."
 
-I look at the author line.
+A pause. A long one. Pauses like that used to mean "withheld pending crew status confirmation," and I brace for it out of habit.
 
-Bejors wrote it.
+"Retrieving," it says instead.
 
-I'm sitting in her lab. Her whiteboard is about ten feet behind me. And her name is on the screen, at the top of a paper describing the thing I just found.
+Oh. No partial confirm. No conditions. Whatever lock used to be on this file is gone. It's been gone since the burials. Did somebody tell ARACCSIM to stop hiding it? Or did it never care about hiding this part? I don't know. I'm not sure I want to.
 
-I pull up her figures next to my slide. Transparent membrane. Check. Coloring on the inside from whatever's left over after it digests. Check. Absorbs Phengoclept emissions directly and stores the energy, the same trick the Phengoclept does with starlight. Check. Check. Check.
+The logs are thorough. Vitals every six hours, the whole trip. Right up until they stop. All four cause-of-death fields say the same thing.
 
-She described it. Years ago. From math. Before anybody had ever seen one.
+UNDETERMINED. CONSISTENT WITH KNOWN RISK FACTORS.
 
-She was right!
+"'Known risk factors,'" I read out loud. "That's not a cause. That's a shrug in a lab coat."
 
-She was right, and I filed it under maybe.
+"There is a note," Jinzhou says, scrolling. "General. Not for each one."
 
-"Someday is soon," she told me once, in a demo bay, with marker all over her paws. I didn't believe her then either. She would have been completely unbearable about this. I would have let her.
+He reads it. I read it over his shoulder.
 
-And there's something else about her, sitting just out of reach. A number she asked me to check once. I can feel the shape of it. I can't get it to come up.
+Coma-resistant genetic markers correlate with survivability but do not guarantee it. Approximately one in several thousand carriers experience undetected cardiac or neurological complications under extended stasis, indistinguishable postmortem from unrelated natural causes absent live monitoring at time of onset.
 
-"Ethyn," Jinzhou says.
+One in several thousand.
 
-"One second," I say. "I'm, uh. One second."
+Okay. Let's check that. Say it's one in five thousand. For one person, that's tiny. Fine. Now, what are the odds it happens to four people? You multiply. One in five thousand, times itself, four times.
 
-I open a new document. It needs a name, so I give it one. Asimov, plus cell. ASICELL. It's not what I'd call it in a formal write-up. It's what I'm calling it right now, because things you've found deserve a name, even a bad one.
+Five thousand squared is twenty-five million. Squared again is... six hundred and twenty-five trillion.
 
-At the top I type:
+One in six hundred and twenty-five trillion.
 
-PRIMARY THEORETICAL FRAMEWORK: B. BEJORS, PHD. SECONDARY RESEARCHER: E. VASEK.
+And they all died within five days of each other.
 
-I look at that. Then I change my line to SECONDARY SCIENTIST, because that's my actual job, and because she'd have made fun of me for "researcher."
+No. That's not bad luck. That's not "known risk factors." Things that rare don't happen four times in one week. Something else happened. To all of them. At once.
 
-Her name goes first. It's her idea. All I did was find it.
+"It does not add up," Jinzhou says. He did the same math. He just didn't need to say it out loud.
 
-"Done," I say.
+"No."
 
-"Okay," Jinzhou says, and doesn't ask.
+"So they lie."
 
----
+"Or they don't know. And they wrote the thing that fits on the form." I stare at the screen. "I wanted there to be an answer."
 
-"ARACCSIM. I want you to look at something."
+"I know."
 
-"Ready."
+"Even a bad one. I just wanted one."
 
-I send it everything. All six runs, side by side with Bejors' model.
+He doesn't say anything. That's an answer too. Jinzhou doesn't make a thing smaller than it is just to make the room feel better.
 
-Then I wait. And wait. I watch the little activity light like a kettle, as if staring at it will make it go faster. (It never has. I keep trying anyway. This is the scientific method, as practiced by a person who hasn't slept enough.)
-
-"Cross-referencing," it says.
-
-More waiting.
-
-"Spectral profile of the collected organism is consistent with the theoretical Phengoclept predator model within four point three percent. This is within expected variance for a theoretical model predicting an unobserved organism."
-
-"So it matches."
-
-"Within four point three percent. Yes."
-
-Four point three percent! For a guess made from scratch, about something nobody had ever seen, from six point four light-years away. That's not close. That's a bullseye with a little wobble.
-
-I look at Jinzhou. He's already looking at me.
-
-"ARACCSIM," I say. "Is there anything in the mission data about this? About finding something like this?"
-
-This pause is shorter. Like the answer was already sitting near the front.
-
-"Yes. Mission Protocol Seven. Locked pending biological confirmation of a Phengoclept predator or population control organism."
-
-"You've been sitting on a mission protocol."
-
-"Protocol Seven was locked pending biological confirmation. Biological confirmation has now occurred."
-
-"Right. Of course it was." I take a breath. "Show us."
+We close the file. Neither of us deletes it.
 
 ---
 
-It's long. Somebody back in Argon's LSI division had a lot of ideas about what to do if we found exactly this. The header says MISSION PROTOCOL SEVEN VARIATION-C: EXTENDED ATMOSPHERIC COLLECTION PROCEDURE.
+Ship's night. I'm still in the lab. The slide's still under the scope, and twenty-eight decimal places of mass are sitting on the readout like they're daring me to argue.
 
-Jinzhou reads faster than me. He's three sections in before I'm done with page one.
+"ARACCSIM."
 
-"There's a probe," he says.
+"Dr. Vasek."
 
-"I'm getting there!"
+"How sure are you about the population model? The one that says the Asimov line is flat."
 
-"On a cable. Already in the payload bay. Already built. They knew we might need it."
+"Model confidence is high, within the limits of two years of continuous observation."
 
-I catch up to him. He's right. There's a full schematic. A sealed collection probe, reinforced for pressure, on a cable that runs back to the ship. Rated for the heat and pressure at the top of a gas giant's atmosphere. Sample chambers, filters, sensors. You drop it into the clouds, it grabs whatever's down there, you reel it back in.
+"And if I wanted to test the predator idea for real. Not from up here. Down there."
 
-Okay. Why would they bother with a probe if we already have a collector?
+A pause. Long enough that I wonder if I've finally asked something it doesn't have an answer ready for.
 
-Because of the numbers. The collector skims. It gets a pinch. The first batch told us something was there. The second batch told us what it was. But you can't build a solution for a whole planet out of what fits in a vial. You need a real sample. A lot of it.
+"That would require atmospheric sample collection from Asimov-09D," it says. The sentence comes in two pieces that don't quite match. The first half is quick and smooth. The second half is late, like it had to go find the words. "Current mission parameters do not include a defined protocol for that maneuver."
 
-"We need the probe," I say.
+"But it's possible."
 
-"You need the probe," Jinzhou says.
+"With modification. Yes."
 
-"I need the probe."
+I look at the gas giant on the screen. Brown and blue and huge. Not going anywhere. Perfectly happy to wait while we work up the nerve.
 
-The protocol is very specific about where the probe has to go. The Asicell should be thickest a hundred to two hundred meters below the top of the cloud layer, in the first dense band of methane and ammonia under the haze. Below that, there's nothing for a Phengoclept-eater to eat. Above it, there's not enough of it to matter.
-
-It's also very specific about what getting there costs.
-
-The probe is on a cable. The cable is on the ship. So for the probe to reach a hundred meters into the clouds, the ship has to come down close enough for the cable to reach. Way closer than safe orbit.
-
-The protocol has a word for how much closer. The word is "significant." Nobody uses the word "significant" when the news is good.
-
-"How close?" I ask.
-
-Jinzhou checks the table and reads me the number.
-
-I read it myself, because I didn't like it the first time.
-
-"Oh, fudge," I say. "That's inside the Stephfren line."
-
-"Yes."
-
-"That's below the minimum safe orbital altitude for this class of ship."
-
-"Yes."
-
-"So the protocol wants us to take the ship lower than it's allowed to go, and dangle a trash bag on a leash into a gas giant."
-
-"That is an accurate summary," Jinzhou says.
-
-I lean back. The Asicell image is still up in the corner of the screen, blue and red and green. The thing Bejors said would exist. The thing I filed under maybe.
-
-"The cable's already loaded," I say.
-
-"Yes."
-
-"They built the probe before the ship was even finished."
-
-"Yes."
-
-"Somebody sat in a meeting, before any of this, and said 'they're going to find the predator, and they're going to need more of it.' And then they built a probe for exactly that, and bolted it to us."
-
-"Yes," Jinzhou says. "Somebody did."
-
-Huh. Who, though?
-
-Somebody had to believe in this enough to spend money on it. Somebody who'd read a paper about an organism nobody had ever seen and thought, no, that's real, build the hardware.
-
-I wonder if Bejors was in that room.
-
-I wonder if she designed the thing that's going to catch her own organism.
-
-I put that one in the drawer for later-Ethyn. He's got a lot in there already. He'll manage.
-
-"ARACCSIM. The probe. What shape is it in?"
-
-"Nominal. All systems intact. Sample chambers sealed. Cable integrity confirmed."
-
-"How old is it?"
-
-"Fabrication completed prior to vessel assembly." There's the little hitch before the number, the one I've started listening for. "Eight years, three months, fourteen days."
-
-"And it still works."
-
-"All systems nominal."
-
-Eight years in a box and it still works. I've owned toasters that couldn't manage that.
-
-I look at Jinzhou. He looks back.
-
-"We're going to have to go down there," I say.
-
-"Yes."
-
-"Below the Stephfren line."
-
-"Yes."
-
-"Into a gas giant."
-
-"The top of it. Yes."
-
-"On a cable."
-
-"On a cable," he says.
-
-Asimov-09D sits on the screen, brown and blue and enormous and patient.
-
-Okay. Logistics. Logistics I can do.
-
-"How long until the eleven-day passive orbit runs out?"
-
-"Fourteen hours," ARACCSIM says.
-
-"Can we stretch it?"
-
-"An adjustment burn at window closure would extend passive orbit by approximately five days."
-
-Five days. Five days to check the suits, the cable, the probe, and my nerve. Probably in that order. Possibly in reverse.
-
-I open page four of the protocol.
-
-I read it.
-
-"Fudge," I tell page four. Quietly. With my whole chest.
-
-I close page four. Page four can think about what it did.
-
-"ARACCSIM. Run the adjustment burn when the window closes. Then start the approach calculations. We go down in five days."
-
-"Confirmed. Orbital adjustment in fourteen hours. Target: approach below the Stephfren line, Asimov-09D, day twenty-four."
-
-I look over at Jinzhou. He made his decision a while ago. He's just been waiting for the rest of us to catch up. And by the rest of us, I mean me.
-
-"I'll get the cable," he says.
-
-"I'll get the probe specs," I say.
-
-And we get to work.
+"Good," I say. "Start modifying."
 
 *END OF CHAPTER EIGHT*

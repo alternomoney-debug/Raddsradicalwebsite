@@ -1,249 +1,322 @@
-Day twenty-three, and the ship smells different.
 
-Not bad. Just different. It smells like two people who've been working on the same problem long enough that the problem smells like them now. Lab chemicals. Recycled air. Whatever the food processor does when it heats things. I stopped noticing it around day fifteen. I only notice now because I walked in from the hallway and caught it fresh.
+The second collector sample is a mess.
 
-I put my tray down next to the microscope. Lab A, same as always.
+Not a bad mess. A busy one. There's way more on this slide than there was on the first. I've been staring at it for forty minutes, and I still can't tell if I'm looking at the most interesting thing I've ever seen or a very elaborate headache.
 
-The batch two sample is logged, filed, and backed up. It's already the most documented microbe in the history of a species that has been documenting microbes for a few hundred years. And I'm about to document it some more.
+"ARACCSIM. Spectral breakdown on batch two. Again. Full output."
 
-Why? Because tomorrow we drop below the Stephfren line, and there's nothing to do until then except get ready. And getting ready means knowing everything I can possibly know before we go down there and find out what I missed.
+"Running."
 
-Jinzhou's in Lab C. I can hear him. Not talking, which is normal. Just the small clicks of tools being set down by somebody who treats equipment like it has feelings. He's been in there since before I woke up. Did he sleep? I'd ask, but the answer would be "yes," in a tone that ends the conversation.
+Same graph as the last three times. Same curve. Same peaks. And the same two little bumps sitting in the readout that have no business being there.
 
-I sit down and get to work.
+Okay. Let's be methodical about this.
+
+The Phengoclept cells are there. Good. Twenty-two point seven zero six micron emitters, nanogram mass, right where they should be. They're doing their thing with the total indifference of something that's been doing it since before anybody on Wask-ki had a word for "thing."
+
+So that's the Phengoclept. What are the bumps?
+
+I go back to the slide image and zoom in. Then I zoom in some more.
+
+Huh.
+
+There's something else on here.
+
+Lots of something elses, actually. Scattered all over the field of view. No clumping. No pattern. They're not hanging around the Phengoclept, they're not avoiding it, they're just... there.
+
+Dust? No. Dust is junk. Dust comes in every shape and size you can imagine. These are all roughly the same size. And they have structure. Insides. Layers.
+
+Structure doesn't happen by accident at this scale.
+
+What are you?
+
+"Jinzhou."
+
+"What."
+
+"Stop whatever you're doing and come look at this."
+
+A pause. Footsteps. He leans over my shoulder.
+
+"Those are not Phengoclept," he says.
+
+"Nope."
+
+"Not the same shape. Not the same size." He leans closer. "Could be contamination. From us. From the collector."
+
+"That's what I thought too. Look at the color."
+
+He looks.
+
+I wait. I'm good at waiting when I already know what somebody's about to see. (I'm terrible at it every other time.)
+
+"Too clean," he says. "Contamination is random. These have structure." He points. "Blue at the membrane. Red in the middle. Green running through both. That is not random."
+
+"Nope. It isn't."
+
+"What is it?"
+
+"I don't know yet!" It comes out way too cheerful. I can't help it. I pull the spectral breakdown up next to the image. "But look. Whatever it is, it's not emitting anywhere near twenty-two point seven zero six. It's absorbing there."
+
+Jinzhou goes still. Not his regular still. His thinking still.
+
+"Absorbing," he says.
+
+"Absorbing."
+
+Okay. Why does that matter? Think it through, Ethyn. Slowly.
+
+When a Phengoclept cell spends its energy, it spits it out as light. Twenty-two point seven zero six microns. Every time. That's its whole thing. It's how it moves, it's how it dumps what it stored.
+
+Now. If something out here soaks up light at exactly that wavelength. Not close to it. Exactly it.
+
+That's not a coincidence. Nature doesn't hand out coincidences that specific. That thing is built to catch what the Phengoclept puts out.
+
+Or to catch the Phengoclept.
+
+Oh.
+
+Oh!
+
+The bathtub. The drain. I've been hunting for the drain for two days, and it's been sitting on the same slide as everything else, being blue and red and green at me.
+
+"That would mean," Jinzhou starts.
+
+"Something that eats at the same wavelength the Phengoclept emits," I say. I'm talking too fast. "Living in the same place. In a system where the Phengoclept population hasn't grown in two years. Jinzhou. Jinzhou!"
+
+"Then this is it," he says.
+
+"This is probably it," I say, because I've been wrong before, and getting loud about a conclusion before you've checked it three times is how you end up wrong in public.
+
+"This is it," he says again. Same flat voice he uses for everything. Somehow it hits harder than if he'd yelled.
+
+I push my glasses up.
+
+"Yeah," I say. "This is it."
 
 ---
 
-Here's something I found on day nineteen that Bejors' paper didn't have.
+Then comes the part of science nobody puts on a poster.
 
-I was running a population count on the batch two slide. Fourth time. (I like to be sure. You've met me.) And I was checking it against the Phengoclept count from the same slide.
+I run the spectral breakdown six more times. Same answer. Jinzhou goes through the reference library looking for anything known that absorbs between twenty-two and twenty-three microns. It's a short list. Almost nothing alive has any reason to care about light at that wavelength.
 
-And, huh. The two numbers moved together.
+The list has one hit that matters. And it's not even an organism. It's a theoretical paper. Published about four years before we left. It asks, basically: if something evolved to eat Phengoclept, what would it have to look like?
 
-Wherever there was a little clump of Phengoclept, there was a little crowd of Asicell nearby. Not perfectly. Not every time. But way too often to be chance.
+Wait.
 
-Coincidence? I ran it three more times. Nope. Not a coincidence.
+I know this paper.
 
-So here's the question. How does a predator find its lunch in a cloud the size of a continent?
+I read it when it came out. I thought it was clever. I thought it was also completely unprovable. So I put it in a folder on my desktop called MAYBE SOMEDAY, which is where I put things I like but don't believe.
 
-It follows it!
+I look at the author line.
 
-The Asicell tracks the Phengoclept. Probably by the same light. Twenty-two point seven zero six microns. The Phengoclept uses that light to get around. The Asicell uses it to find the Phengoclept. One organism's headlights are another organism's dinner bell.
+Bejors wrote it.
 
-Bejors would have hated "dinner bell." She'd have used it in a talk anyway.
+I'm sitting in her lab. Her whiteboard is about ten feet behind me. And her name is on the screen, at the top of a paper describing the thing I just found.
 
-Her paper described how the Asicell eats, what it absorbs, how it digests. It didn't describe this, because she only had math. I have an actual sample. That's not a knock on her. It's just what you get when somebody finally hands you the real thing.
+I pull up her figures next to my slide. Transparent membrane. Check. Coloring on the inside from whatever's left over after it digests. Check. Absorbs Phengoclept emissions directly and stores the energy, the same trick the Phengoclept does with starlight. Check. Check. Check.
 
-I write it down. Twice. In two different places. The server room has made me paranoid about losing things, and I'd rather be the guy who wrote it down twice than the guy who lost it once.
+She described it. Years ago. From math. Before anybody had ever seen one.
 
-PRIMARY FRAMEWORK: B. BEJORS. TRACKING BEHAVIOR ADDENDUM: E. VASEK.
+She was right!
 
-I look at that for a second. It's the first time in three weeks I've put my own name on something without moving it to the bottom. It feels right. It also feels a little like stealing. Which is silly. I'm going with right.
+She was right, and I filed it under maybe.
 
-I push my glasses up and keep going.
+"Someday is soon," she told me once, in a demo bay, with marker all over her paws. I didn't believe her then either. She would have been completely unbearable about this. I would have let her.
 
----
+And there's something else about her, sitting just out of reach. A number she asked me to check once. I can feel the shape of it. I can't get it to come up.
 
-The EVA suits live in the airlock at the cockpit end, hanging on a rack. They look like they're waiting for something. They are. They've been waiting for about seven years.
+"Ethyn," Jinzhou says.
 
-I pull the first one down around midmorning.
+"One second," I say. "I'm, uh. One second."
 
-Oof. It's heavy. Why is it this heavy?
+I open a new document. It needs a name, so I give it one. Asimov, plus cell. ASICELL. It's not what I'd call it in a formal write-up. It's what I'm calling it right now, because things you've found deserve a name, even a bad one.
 
-Two options. One, I lost more muscle than I thought in six years of stasis. Two, this is a different class of suit than the ones I trained in. Very briefly. In a crash course crammed into the three days before launch. (I remember those three days in pieces. Most of the pieces are me sweating.)
+At the top I type:
 
-Probably both. I'm going to blame the suit.
+PRIMARY THEORETICAL FRAMEWORK: B. BEJORS, PHD. SECONDARY RESEARCHER: E. VASEK.
 
-The checklist is printed inside the cabinet door. Laminated! Somebody sat at a desk and thought, "What if one of them has to check a suit by himself, six light-years from anybody who knows how?" And they laminated it.
+I look at that. Then I change my line to SECONDARY SCIENTIST, because that's my actual job, and because she'd have made fun of me for "researcher."
 
-Whoever you are, laminator, I love you. In a bureaucratic way.
+Her name goes first. It's her idea. All I did was find it.
 
-I go down the list. Seal integrity. Oxygen, main and backup. Heaters, because the temperature outside the hull is a number I looked up once and then decided never to think about again. Thruster pack, which I'm not planning to use and would like to keep not using. Comms. Tether points. Helmet lock. Gloves.
+"Done," I say.
 
-Suit one passes everything. I log it, hang it back up, grab suit two.
-
-Suit two has a scuff on the left forearm. A little one. It's not in any of the pre-launch inspection records. So it happened in transport or assembly, and nobody wrote it down.
-
-Is it a problem? I look closer. It's paint, not material. Cosmetic. Not structural. Okay. I'll write it down myself.
-
-"ARACCSIM."
-
-"Dr. Vasek."
-
-"Suit two has a scuff, left forearm, cosmetic. Not in the records. I'm logging it. Can you confirm it passed the structural checks?"
-
-"Confirmed. Structural integrity of suit two is within all operational parameters."
-
-"Thank you."
-
-A pause. The longer kind. I've figured out that one means it's going to fetch a recording instead of just saying the next line.
-
-"You are welcome," it says.
-
-I've started saying thank you just to hear which recording it picks. Today's is warm. Yesterday's sounded like a bank.
+"Okay," Jinzhou says, and doesn't ask.
 
 ---
 
-Jinzhou finds me on suit three.
+"ARACCSIM. I want you to look at something."
 
-He doesn't say anything at first. He leans against the rack and watches me work for a minute. There's grease on his left paw that he hasn't wiped off. For Jinzhou, that means he got into something complicated and decided checking on me was more important than cleaning up.
+"Ready."
 
-"Probe?" I ask, without looking up.
+I send it everything. All six runs, side by side with Bejors' model.
 
-"Cable first," he says. "Three hundred meters. I checked every coupling."
+Then I wait. And wait. I watch the little activity light like a kettle, as if staring at it will make it go faster. (It never has. I keep trying anyway. This is the scientific method, as practiced by a person who hasn't slept enough.)
 
-"Every one?"
+"Cross-referencing," it says.
 
-"Every one. By paw." He says it like a fact, not a brag. "The cable is fine."
+More waiting.
 
-"And the probe?"
+"Spectral profile of the collected organism is consistent with the theoretical Phengoclept predator model within four point three percent. This is within expected variance for a theoretical model predicting an unobserved organism."
 
-"Sample chambers sealed. Pressure sensors reading correctly. Insulation intact." He pauses. "The winch is the part I am not completely happy with."
+"So it matches."
 
-I look up.
+"Within four point three percent. Yes."
 
-"Not unhappy," he says, before I can ask. "It works. I tested it under load. But it sat in storage eight years, and the motor draws a few percent more power than spec."
+Four point three percent! For a guess made from scratch, about something nobody had ever seen, from six point four light-years away. That's not close. That's a bullseye with a little wobble.
 
-"Meaning?"
+I look at Jinzhou. He's already looking at me.
 
-"Meaning it works. Meaning under normal conditions it is fine. Meaning if something goes wrong and we need to reel the probe in fast and hard, it will do it, but it will run hot."
+"ARACCSIM," I say. "Is there anything in the mission data about this? About finding something like this?"
 
-Huh. Okay. Why does a few percent matter?
+This pause is shorter. Like the answer was already sitting near the front.
 
-More power in means more heat. Fine. On a planet, a hot motor just sits there and cools off, because air carries the heat away. But the winch is in the payload bay. There's no air moving in there. Out here, heat only leaves by glowing it off, which is slow. So every hard pull adds heat, and the heat stays. It stacks up.
+"Yes. Mission Protocol Seven. Locked pending biological confirmation of a Phengoclept predator or population control organism."
 
-"Not a problem unless it becomes a problem," Jinzhou says.
+"You've been sitting on a mission protocol."
 
-"So we don't let it become a problem."
+"Protocol Seven was locked pending biological confirmation. Biological confirmation has now occurred."
 
-"Correct."
-
-I go back to my checklist. He stays leaning on the rack.
-
-"How is the science," he says.
-
-"Good! Really good, actually. The Asicell tracks the Phengoclept. By the light, I think. It uses the same signal to find its food that the Phengoclept uses to get around."
-
-He's quiet for a second.
-
-"That is elegant," he says.
-
-From anybody else, that's a compliment. From Jinzhou, that's falling out of his chair. I'm writing down that I was there for it.
-
-"It is," I say. "It also means the collection window really matters. The probe has to sit down there long enough for the Asicell to find it in real numbers. Not just a couple."
-
-"How long."
-
-"Longer than the protocol's minimum. Shorter than however long it takes the atmosphere to start doing interesting things to the ship." I hang up suit three and grab suit four. "ARACCSIM's been running approach simulations. Ask it for the new dwell time when you go back up."
-
-He nods and pushes off the rack. Then he stops.
-
-"Ethyn."
-
-"Yeah."
-
-He looks at me a second longer than he usually looks at things.
-
-"Sleep tonight," he says. "Real sleep. In the bed."
-
-"I'll try."
-
-"Do not try. Do it."
-
-He goes back to Lab C. I go back to my list.
+"Right. Of course it was." I take a breath. "Show us."
 
 ---
 
-Suit four is Bejors'.
+It's long. Somebody back in Argon's LSI division had a lot of ideas about what to do if we found exactly this. The header says MISSION PROTOCOL SEVEN VARIATION-C: EXTENDED ATMOSPHERIC COLLECTION PROCEDURE.
 
-I know before I check the name inside the collar. I can't say how. The cut of it, maybe. It's sized for a Canid Vulpes, a little different through the shoulders than my Amber Vulpes fit. I check the collar anyway.
+Jinzhou reads faster than me. He's three sections in before I'm done with page one.
 
-BEJORS, B. / LEAD SCIENTIST.
+"There's a probe," he says.
 
-I run the whole checklist on it. Every line. Seals through gloves, off the laminated card. She'd have wanted it done all the way, and she'd have complained the whole time. So I do it all the way, and I complain the whole time, quietly, to the suit.
+"I'm getting there!"
 
-It passes.
+"On a cable. Already in the payload bay. Already built. They knew we might need it."
 
-I log it. I hang it back exactly where it was. Then I just stand there for a moment with my paw on its shoulder. There's nothing left to check. It just takes me a second to decide to stop.
+I catch up to him. He's right. There's a full schematic. A sealed collection probe, reinforced for pressure, on a cable that runs back to the ship. Rated for the heat and pressure at the top of a gas giant's atmosphere. Sample chambers, filters, sensors. You drop it into the clouds, it grabs whatever's down there, you reel it back in.
 
-She packed this herself. Before the launch, before whatever part of my life I still can't find, she had a list of her own. Things to bring. And she packed a suit she knew she'd be wearing six point four light-years from home, to go look for something she'd already figured out on paper.
+Okay. Why would they bother with a probe if we already have a collector?
 
-What was she thinking about, packing it?
+Because of the numbers. The collector skims. It gets a pinch. The first batch told us something was there. The second batch told us what it was. But you can't build a solution for a whole planet out of what fits in a vial. You need a real sample. A lot of it.
 
-I take my paw off the shoulder and go check suit five.
+"We need the probe," I say.
 
----
+"You need the probe," Jinzhou says.
 
-By the time I get back to Lab A, the afternoon has gone somewhere without asking me. The lights are drifting toward amber, the hour before ARACCSIM dims everything for night.
+"I need the probe."
 
-I pull up the approach simulation. It's thorough. I expected that. It's also quietly terrifying in a few places. I expected that too. I just hoped it would be less true once I saw the real numbers.
+The protocol is very specific about where the probe has to go. The Asicell should be thickest a hundred to two hundred meters below the top of the cloud layer, in the first dense band of methane and ammonia under the haze. Below that, there's nothing for a Phengoclept-eater to eat. Above it, there's not enough of it to matter.
 
-Okay. Let's go through it like a person.
+It's also very specific about what getting there costs.
 
-The Stephfren line is the lowest a ship like ours is supposed to orbit Asimov-09D. Below it, the air starts to drag on the hull. Not deadly right away. It's just there. And it grows. To fight it, we have to keep thrusting, which means spending fuel to stay somewhere we're not supposed to be.
+The probe is on a cable. The cable is on the ship. So for the probe to reach a hundred meters into the clouds, the ship has to come down close enough for the cable to reach. Way closer than safe orbit.
 
-Fine. Expensive, but fine. Next problem: what stops us from cooking?
+The protocol has a word for how much closer. The word is "significant." Nobody uses the word "significant" when the news is good.
 
-The Phengomotors.
+"How close?" I ask.
 
-I read this part three times, because it sounds like a joke. Below the line, ARACCSIM runs the motors slow. So slow they don't push us forward at all. They just brake. Each cell leaves the plate, flies a few meters ahead of the hull, dumps everything it's carrying, and burns. A wall of tiny, controlled bangs just in front of us, soaking up the heat so the hull doesn't have to.
+Jinzhou checks the table and reads me the number.
 
-So the heat shield is made of the thing we came here to study. Dying on schedule. Again.
+I read it myself, because I didn't like it the first time.
 
-And the simulation says a cell misfires about once every ninety minutes. Not zero. A cell that misfires doesn't burn where it should. It goes past us. And anybody who watched Kalen's steel cube turn into a puddle knows what a cell does when it finally lets go.
+"Oh, fudge," I say. "That's inside the Stephfren line."
 
-Okay. Next problem. The cable.
+"Yes."
 
-ARACCSIM modeled the cable four different ways. In three of them, the drag on the cable is fine. We can afford it. In the fourth, we can't, and the ship starts losing altitude faster than the word "manageable" can keep up with.
+"That's below the minimum safe orbital altitude for this class of ship."
 
-ARACCSIM named that one CONFIG 4. I'd have called it something with a lot more capital letters.
+"Yes."
 
-So what causes config four? I go through it piece by piece. Cable too long. Dropping too fast. A gust at the wrong time. I write a note next to each one. Avoid this. Make up for that. Watch the other thing and call it early.
+"So the protocol wants us to take the ship lower than it's allowed to go, and dangle a trash bag on a leash into a gas giant."
 
-Then I close the simulation and go get dinner. Looking at it a third time won't change the numbers. I checked. That was the third time.
+"That is an accurate summary," Jinzhou says.
 
----
+I lean back. The Asicell image is still up in the corner of the screen, blue and red and green. The thing Bejors said would exist. The thing I filed under maybe.
 
-The food's better than week one. Not good. Better. Whatever the processor does to the later meals, they're less aggressively beige. I eat at the Lab A bench, because I always eat at the Lab A bench, and eating anywhere else now would feel weird. That's either comfort or a habit specific enough to worry a psychologist. I've decided not to find out which.
+"The cable's already loaded," I say.
 
-Jinzhou eats in the cockpit. I can hear his tray click down on the armrest from the hallway. He does that sometimes. He watches the readouts while he eats, the way some people read. He doesn't really sit still without something to look at.
+"Yes."
 
-I think about the Asicell following the light. The winch running hot. Config four, and the gap between calling it early and calling it too late.
+"They built the probe before the ship was even finished."
 
-I think about Bejors, packing her suit.
+"Yes."
 
-At some point I notice I've finished eating. So the food was probably fine. My brain just had other plans.
+"Somebody sat in a meeting, before any of this, and said 'they're going to find the predator, and they're going to need more of it.' And then they built a probe for exactly that, and bolted it to us."
 
----
+"Yes," Jinzhou says. "Somebody did."
 
-I work until ARACCSIM dims the lights to seventy percent. That's its way of saying "you should stop" without actually saying it. Then I work forty more minutes, because the density model is almost done and I want to close it properly, not halfway through a thought.
+Huh. Who, though?
 
-When I finally close it, I don't go to the dorms.
+Somebody had to believe in this enough to spend money on it. Somebody who'd read a paper about an organism nobody had ever seen and thought, no, that's real, build the hardware.
 
-I go to the cockpit.
+I wonder if Bejors was in that room.
 
-Not to work. I told myself I'm not going to work, and for once I mean it. I sit in the left seat. It's been mine since day one.
+I wonder if she designed the thing that's going to catch her own organism.
 
-Asimov-09D is on the main screen. It's always on the main screen. Brown and blue and huge. The blue shows up better now than when we first got here, because I've had three weeks to learn which filter shows what, and this one is the best for the methane bands.
+I put that one in the drawer for later-Ethyn. He's got a lot in there already. He'll manage.
 
-Tomorrow we go below the Stephfren line. Tomorrow the probe goes down on the cable. Jinzhou flies the approach from here. I run the probe from the payload bay. ARACCSIM runs everything else, like always. And we find out whether all these numbers add up to something we live through.
+"ARACCSIM. The probe. What shape is it in?"
 
-I look at the planet for a long time.
+"Nominal. All systems intact. Sample chambers sealed. Cable integrity confirmed."
 
-It doesn't look back. It's a planet. It just turns, slow and patient and enormous, the way it's been turning since long before anybody here had a word for anything.
+"How old is it?"
 
-The Asicell are down there. A hundred to two hundred meters under the cloud tops, in the ammonia and the methane and the dark. Eating Phengoclept. Keeping a whole star alive, and not knowing a thing about it.
+"Fabrication completed prior to vessel assembly." There's the little hitch before the number, the one I've started listening for. "Eight years, three months, fourteen days."
 
-Bejors described them. She built the whole thing out of math and a good gut and a paper she finished four years before any of this happened to us. She was right about all of it.
+"And it still works."
 
-She asked me to check a number once, and I said I'd look at it after. I don't remember if I ever did.
+"All systems nominal."
 
-Tomorrow I go find it.
+Eight years in a box and it still works. I've owned toasters that couldn't manage that.
 
-I sit with the planet a little longer. Then I turn off the screen and go to bed.
+I look at Jinzhou. He looks back.
 
-Real bed. In the dorms. With a pillow. Like a person who is definitely not about to lower a trash bag into a gas giant.
+"We're going to have to go down there," I say.
 
-Jinzhou wins this one. I'm not telling him.
+"Yes."
+
+"Below the Stephfren line."
+
+"Yes."
+
+"Into a gas giant."
+
+"The top of it. Yes."
+
+"On a cable."
+
+"On a cable," he says.
+
+Asimov-09D sits on the screen, brown and blue and enormous and patient.
+
+Okay. Logistics. Logistics I can do.
+
+"How long until the eleven-day passive orbit runs out?"
+
+"Fourteen hours," ARACCSIM says.
+
+"Can we stretch it?"
+
+"An adjustment burn at window closure would extend passive orbit by approximately five days."
+
+Five days. Five days to check the suits, the cable, the probe, and my nerve. Probably in that order. Possibly in reverse.
+
+I open page four of the protocol.
+
+I read it.
+
+"Fudge," I tell page four. Quietly. With my whole chest.
+
+I close page four. Page four can think about what it did.
+
+"ARACCSIM. Run the adjustment burn when the window closes. Then start the approach calculations. We go down in five days."
+
+"Confirmed. Orbital adjustment in fourteen hours. Target: approach below the Stephfren line, Asimov-09D, day twenty-four."
+
+I look over at Jinzhou. He made his decision a while ago. He's just been waiting for the rest of us to catch up. And by the rest of us, I mean me.
+
+"I'll get the cable," he says.
+
+"I'll get the probe specs," I say.
+
+And we get to work.
 
 *END OF CHAPTER NINE*
